@@ -1,0 +1,22 @@
+{
+  "command": [
+    "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\raw\\pdfs\\gabaritos\\exerciciosespecificacao-respostas.pdf",
+    "--to",
+    "md",
+    "--output",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\exerciciosespecificacao-respostas",
+    "--image-export-mode",
+    "referenced",
+    "--tables",
+    "--ocr",
+    "--ocr-lang",
+    "por,eng",
+    "--table-mode",
+    "accurate",
+    "-vv",
+    "--enrich-formula"
+  ],
+  "stdout_tail": "",
+  "stderr_tail": "andard_pdf_pipeline: PIPELINE_PROFILING Stage table: run_id=1 pages=[1] start=1774037838.467 end=1774037838.467 duration=0.000s\n2026-03-20 17:17:18,467\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[1] start=1774037838.468 end=1774037838.468 duration=0.000s\n2026-03-20 17:17:19,846\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage layout: run_id=1 pages=[2, 3, 4] start=1774037838.467 end=1774037839.846 duration=1.375s\n2026-03-20 17:17:19,847\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage table: run_id=1 pages=[2, 3, 4] start=1774037839.847 end=1774037839.847 duration=0.000s\n2026-03-20 17:17:19,847\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[2] start=1774037839.847 end=1774037839.847 duration=0.000s\n2026-03-20 17:17:19,847\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[3] start=1774037839.847 end=1774037839.847 duration=0.000s\n2026-03-20 17:17:19,847\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[4] start=1774037839.847 end=1774037839.847 duration=0.000s\n2026-03-20 17:17:19,944\tINFO\tdocling.document_converter: Finished converting document exerciciosespecificacao-respostas.pdf in 5.44 sec.\n2026-03-20 17:17:19,944\tINFO\tdocling.cli.main: writing Markdown output to C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\exerciciosespecificacao-respostas\\exerciciosespecificacao-respostas.md\n2026-03-20 17:17:19,956\tINFO\tdocling.cli.main: Processed 1 docs, of which 0 failed\n2026-03-20 17:17:19,958\tINFO\tdocling.cli.main: All documents were converted in 5.45 seconds.\n2026-03-20 17:17:20,031\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Transformers runtime cleaned up\n2026-03-20 17:17:20,031\tINFO\tdocling.models.inference_engines.vlm.auto_inline_engine: Auto-inline engine cleaned up"
+}

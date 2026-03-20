@@ -1,0 +1,10 @@
+| Exemplo
+• Assinatura para família:
+• OP=(C,F,ArF)
+• C={andre, beto, ana}
+• F={}
+• ArF={}
+• R=(P,ArP)
+• P={pai, mae, irmao}
+• ArP={pai  2, mae  2, irmao  2} |
+| --- |

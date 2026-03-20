@@ -1,0 +1,11 @@
+| Formalização
+• Exemplo: Jones é um ladrão
+• Domínio = conjunto de todas as pessoas
+• OP=(C,F,ArF)
+• C={j}
+• F={}
+• ArF={}
+• R=(P,ArP)
+• P={L}
+• ArP={L  1} |
+| --- |

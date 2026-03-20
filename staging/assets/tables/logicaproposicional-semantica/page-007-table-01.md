@@ -1,0 +1,5 @@
+| Fórmulas e Interpretações
+• Se n é o número de variáveis proposicionais em uma
+fórmula, então temos 2n interpretações ou linhas na
+tabela-verdade correspondente à fórmula |
+| --- |

@@ -1,0 +1,22 @@
+{
+  "command": [
+    "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\raw\\pdfs\\material-de-aula\\conjuntosindutivos.pdf",
+    "--to",
+    "md",
+    "--output",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\conjuntosindutivos",
+    "--image-export-mode",
+    "referenced",
+    "--tables",
+    "--ocr",
+    "--ocr-lang",
+    "por,eng",
+    "--table-mode",
+    "accurate",
+    "-vv",
+    "--enrich-formula"
+  ],
+  "stdout_tail": "",
+  "stderr_tail": "=1774037690.079 end=1774037690.079 duration=0.000s\n2026-03-20 17:14:50,079\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[8] start=1774037690.079 end=1774037690.079 duration=0.000s\n2026-03-20 17:14:50,079\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[9] start=1774037690.079 end=1774037690.079 duration=0.000s\n2026-03-20 17:15:09,531\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 18.85s (3.77s per image)\n2026-03-20 17:15:35,496\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 25.49s (5.10s per image)\n2026-03-20 17:16:01,535\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 25.55s (5.11s per image)\n2026-03-20 17:16:32,720\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 30.49s (6.10s per image)\n2026-03-20 17:16:48,676\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 2 images in 15.64s (7.82s per image)\n2026-03-20 17:16:48,694\tINFO\tdocling.document_converter: Finished converting document conjuntosindutivos.pdf in 131.33 sec.\n2026-03-20 17:16:48,694\tINFO\tdocling.cli.main: writing Markdown output to C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\conjuntosindutivos\\conjuntosindutivos.md\n2026-03-20 17:16:48,699\tDEBUG\tPIL.PngImagePlugin: STREAM b'IHDR' 16 13\n2026-03-20 17:16:48,699\tDEBUG\tPIL.PngImagePlugin: STREAM b'IDAT' 41 65536\n2026-03-20 17:16:48,733\tINFO\tdocling.cli.main: Processed 1 docs, of which 0 failed\n2026-03-20 17:16:48,738\tINFO\tdocling.cli.main: All documents were converted in 131.37 seconds.\n2026-03-20 17:16:48,766\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Transformers runtime cleaned up\n2026-03-20 17:16:48,766\tINFO\tdocling.models.inference_engines.vlm.auto_inline_engine: Auto-inline engine cleaned up"
+}

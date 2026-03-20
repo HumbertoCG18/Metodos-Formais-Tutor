@@ -1,0 +1,4 @@
+| LÓGICA PROPOSICIONAL
+Semântica
+Baseado nos materiais do Prof. Alfio Martini |
+| --- |

@@ -1,0 +1,5 @@
+| Conjuntos
+• Um conjunto é uma coleção de elementos
+• A={0,1}
+• B=={} é o conjunto vazio |
+| --- |

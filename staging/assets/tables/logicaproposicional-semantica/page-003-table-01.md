@@ -1,0 +1,7 @@
+| Semântica
+• O estudo da semântica da lógica proposicional consiste
+em atribuir valores verdade a fórmulas
+• Na lógica clássica há apenas dois valores:
+• Verdadeiro – V
+• Falso – F |
+| --- |

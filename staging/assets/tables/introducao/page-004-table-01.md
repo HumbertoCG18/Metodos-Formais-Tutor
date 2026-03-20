@@ -1,0 +1,16 @@
+| Software e qualidade
+• Ariane 5:
+• Explosão em seu primeiro voo.
+• Causado pelo reuso de algumas partes
+de código de seu predecessor sem
+verificação adequada.
+• Therac-25:
+• Máquina de terapia de radiação.
+• Devido a um erro de software, seis
+pessoas morreram de overdose.
+• Pentium FDIV:
+• Erro de projeto na unidade de divisão de
+ponto-flutuante.
+• Intel foi forçada a oferecer substituição de
+todos os processadores defeituosos. |
+| --- |

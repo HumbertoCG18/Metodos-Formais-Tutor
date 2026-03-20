@@ -1,0 +1,13 @@
+| Verificação
+O quê é?
+• Processo de garantir que o software está sendo
+construído corretamente
+• Foca na conformidade com os requisitos
+especificados
+Exemplos de técnicas:
+• Revisão de Código - Análise estática do código
+• Inspeção de Documentação - Revisão de requisitos e
+especificação
+• Análise Estática - Uso de ferramentas para detectar
+falhas no código sem executá-lo |
+| --- |

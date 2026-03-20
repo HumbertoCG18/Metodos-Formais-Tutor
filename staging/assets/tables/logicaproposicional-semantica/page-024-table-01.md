@@ -1,0 +1,3 @@
+| Equivalências
+• Mostre que 𝑝 → 𝑞 ≡ ¬𝑞 → ¬𝑝 |
+| --- |

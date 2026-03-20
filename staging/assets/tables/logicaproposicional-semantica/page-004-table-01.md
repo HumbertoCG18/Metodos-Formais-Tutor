@@ -1,0 +1,8 @@
+| Interpretações
+• Os símbolos que não possuem significado fixo são
+chamados de variáveis proposicionais
+• Uma interpretação I para um conjunto de variáveis
+proposicionais  é uma função I:→B, onde B={V,F}
+• Exemplo:
+• Se ={p,q}, então temos quatro interpretações possíveis: |
+| --- |

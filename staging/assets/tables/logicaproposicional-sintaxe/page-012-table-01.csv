@@ -1,0 +1,16 @@
+"Sintaxe
+• Toda proposição atômica no conjunto Σ = {𝑝, 𝑞, 𝑟, … } é
+uma fórmula bem-formada, ou seja, {𝑝, 𝑞, 𝑟, … } ⊂ 𝑃
+Σ
+𝑣 ∈ Σ
+(𝐴𝑇𝑀)
+𝑣 ∈ 𝑃
+Σ
+• As constantes ⊥ e ⊤ estão em 𝑃
+Σ
+(𝐶𝑂𝑁𝑆𝑇1)
+⊥∈ 𝑃
+Σ
+(𝐶𝑂𝑁𝑆𝑇2)
+⊤ ∈ 𝑃
+Σ"

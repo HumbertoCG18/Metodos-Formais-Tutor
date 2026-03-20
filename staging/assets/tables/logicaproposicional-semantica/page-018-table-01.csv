@@ -1,0 +1,12 @@
+"Consequência Lógica/Semântica
+• Diz que uma fórmula proposicional B é consequência
+lógica/semântica de um conjunto de fórmulas
+proposicionais {A ,...,A } se e somente se
+1 n
+𝑚𝑜𝑑({𝐴 , … , 𝐴 }) ⊆ 𝑚𝑜𝑑({𝐵})
+1 𝑛
+• Nesse caso escrevemos 𝐴 , … , 𝐴 ⊨ 𝐵
+1 𝑛
+• Ou seja, se para todos os valores nos quais todas as fórmulas de
+{A ,...,A } têm valor V, B também tem valor V
+1 n"

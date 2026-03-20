@@ -1,0 +1,15 @@
+| Classificação de Conjunto de Fórmulas
+• Um conjunto de fórmulas proposicionais {A ,...,A } é
+1 n
+consistente quando existe pelo menos uma interpretação
+I:→B no conjunto de modelos mod({A ,...,A }) para as
+1 n
+fórmulas
+• Um conjunto de fórmulas proposicionais {A ,...,A } é
+1 n
+inconsistente quando não existe uma interpretação I:→B
+no conjunto de modelos mod({A ,...,A }) para as fórmulas,
+1 n
+ou seja, mod({A ,...,A })=
+1 n |
+| --- |

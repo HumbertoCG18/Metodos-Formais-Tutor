@@ -1,0 +1,7 @@
+| Exemplo
+• Avaliação de fórmula na assinatura aritmética:
+• [menor(1,add(1,1))]
+a
+• [x.menor(add(x,1),x)]
+a |
+| --- |

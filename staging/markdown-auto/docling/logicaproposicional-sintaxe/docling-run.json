@@ -1,0 +1,22 @@
+{
+  "command": [
+    "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\raw\\pdfs\\material-de-aula\\logicaproposicional-sintaxe.pdf",
+    "--to",
+    "md",
+    "--output",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\logicaproposicional-sintaxe",
+    "--image-export-mode",
+    "referenced",
+    "--tables",
+    "--ocr",
+    "--ocr-lang",
+    "por,eng",
+    "--table-mode",
+    "accurate",
+    "-vv",
+    "--enrich-formula"
+  ],
+  "stdout_tail": "",
+  "stderr_tail": "=1774037022.944 duration=5.375s\n2026-03-20 17:03:44,493\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage layout: run_id=1 pages=[16, 17, 18] start=1774037022.944 end=1774037024.494 duration=1.547s\n2026-03-20 17:03:44,494\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage table: run_id=1 pages=[16, 17, 18] start=1774037024.495 end=1774037024.495 duration=0.000s\n2026-03-20 17:03:44,494\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[16] start=1774037024.495 end=1774037024.495 duration=0.000s\n2026-03-20 17:03:44,494\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[17] start=1774037024.495 end=1774037024.495 duration=0.000s\n2026-03-20 17:03:44,494\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[18] start=1774037024.495 end=1774037024.495 duration=0.000s\n2026-03-20 17:04:14,851\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 29.32s (5.86s per image)\n2026-03-20 17:05:05,925\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 50.10s (10.02s per image)\n2026-03-20 17:05:05,961\tINFO\tdocling.document_converter: Finished converting document logicaproposicional-sintaxe.pdf in 107.30 sec.\n2026-03-20 17:05:05,962\tINFO\tdocling.cli.main: writing Markdown output to C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\logicaproposicional-sintaxe\\logicaproposicional-sintaxe.md\n2026-03-20 17:05:05,981\tINFO\tdocling.cli.main: Processed 1 docs, of which 0 failed\n2026-03-20 17:05:05,987\tINFO\tdocling.cli.main: All documents were converted in 107.31 seconds.\n2026-03-20 17:05:06,018\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Transformers runtime cleaned up\n2026-03-20 17:05:06,018\tINFO\tdocling.models.inference_engines.vlm.auto_inline_engine: Auto-inline engine cleaned up"
+}

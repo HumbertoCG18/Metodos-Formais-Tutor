@@ -1,0 +1,9 @@
+| Ambiente
+• Seja =(OP, R) uma assinatura para a lógica de
+predicados e X um conjunto de variáveis para a
+
+assinatura
+• Um ambiente é uma função a: X →D que atribui valores
+
+do domínio às variáveis |
+| --- |

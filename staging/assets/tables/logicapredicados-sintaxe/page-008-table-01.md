@@ -1,0 +1,8 @@
+| Termos
+• Termos são objetos sintáticos que servem para
+representar elementos do domínio de uma determinada
+aplicação
+• Um termo ou é uma constante, uma variável, ou então
+um símbolo de função aplicado a argumentos que são
+termos |
+| --- |

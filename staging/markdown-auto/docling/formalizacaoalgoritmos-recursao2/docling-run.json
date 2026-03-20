@@ -1,0 +1,22 @@
+{
+  "command": [
+    "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao2.pdf",
+    "--to",
+    "md",
+    "--output",
+    "C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\formalizacaoalgoritmos-recursao2",
+    "--image-export-mode",
+    "referenced",
+    "--tables",
+    "--ocr",
+    "--ocr-lang",
+    "por,eng",
+    "--table-mode",
+    "accurate",
+    "-vv",
+    "--enrich-formula"
+  ],
+  "stdout_tail": "",
+  "stderr_tail": ".094s\n2026-03-20 17:11:00,781\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage layout: run_id=1 pages=[1] start=1774037460.293 end=1774037460.781 duration=0.484s\n2026-03-20 17:11:01,435\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage table: run_id=1 pages=[1] start=1774037460.781 end=1774037461.435 duration=0.657s\n2026-03-20 17:11:01,436\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[1] start=1774037461.436 end=1774037461.436 duration=0.000s\n2026-03-20 17:11:01,500\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage layout: run_id=1 pages=[2] start=1774037460.781 end=1774037461.501 duration=0.719s\n2026-03-20 17:11:01,501\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage table: run_id=1 pages=[2] start=1774037461.502 end=1774037461.502 duration=0.000s\n2026-03-20 17:11:01,501\tDEBUG\tdocling.pipeline.standard_pdf_pipeline: PIPELINE_PROFILING Stage assemble: run_id=1 pages=[2] start=1774037461.502 end=1774037461.502 duration=0.000s\n2026-03-20 17:11:30,172\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Batch processed 5 images in 28.06s (5.61s per image)\n2026-03-20 17:11:30,187\tINFO\tdocling.document_converter: Finished converting document formalizacaoalgoritmos-recursao2.pdf in 33.08 sec.\n2026-03-20 17:11:30,187\tINFO\tdocling.cli.main: writing Markdown output to C:\\Users\\Humberto\\Desktop\\MetodosFormaisClaude\\metodos_formais\\staging\\markdown-auto\\docling\\formalizacaoalgoritmos-recursao2\\formalizacaoalgoritmos-recursao2.md\n2026-03-20 17:11:30,200\tINFO\tdocling.cli.main: Processed 1 docs, of which 0 failed\n2026-03-20 17:11:30,201\tINFO\tdocling.cli.main: All documents were converted in 33.10 seconds.\n2026-03-20 17:11:30,342\tINFO\tdocling.models.inference_engines.vlm.transformers_engine: Transformers runtime cleaned up\n2026-03-20 17:11:30,342\tINFO\tdocling.models.inference_engines.vlm.auto_inline_engine: Auto-inline engine cleaned up"
+}

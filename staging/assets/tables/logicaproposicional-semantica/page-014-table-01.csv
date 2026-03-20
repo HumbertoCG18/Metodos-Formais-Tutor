@@ -1,0 +1,13 @@
+"Classificação de Conjunto de Fórmulas
+• Seja {A ,...,A } um conjunto de fórmulas
+1 n
+• O conjunto de modelos de {A ,...,A }, escrito
+1 n
+mod({A ,...,A }), é definido como o conjunto de
+1 n
+interpretações I:→B tal que I é modelo para cada
+fórmula do conjunto {A ,...,A }
+1 n
+• Ou seja, os modelos de um conjunto de fórmulas são somente
+aquelas interpretações que satisfazem simultaneamente todas as
+fórmulas do conjunto"

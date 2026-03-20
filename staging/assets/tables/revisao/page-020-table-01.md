@@ -1,0 +1,7 @@
+| Linguagem sobre um alfabeto
+• Uma linguagem sobre um alfabeto  é um conjunto de
+palavras sobre 
+• Denotanto o conjunto de todas as palavras sobre  como
+*, dizemos que uma linguagem sobre  é qualquer
+subconjunto de * |
+| --- |

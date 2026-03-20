@@ -1,0 +1,11 @@
+| Software e qualidade
+• Software é um dos mais variados e complexos produtos
+produzidos de forma regular.
+• Requisitos de qualidade dependentes:
+• Do domínio da aplicação
+• Ambiente de execução
+• Público alvo
+• Etc.
+• Exige técnicas sofisticadas e específica para cada
+produto desenvolvido. |
+| --- |

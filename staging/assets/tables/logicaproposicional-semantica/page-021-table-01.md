@@ -1,0 +1,14 @@
+| Teoremas Importantes
+• Tautologia e Consequência Semântica:
+• Seja A uma fórmula da Lógica Proposicional, então A é uma
+tautologia se e somente se
+• Teorema da Consequência:
+• Sejam A ,...,A e B fórmulas da Lógica Proposicional, então temos
+1 n
+𝐴 ,…, 𝐴 ⊨ 𝐵 𝑠𝑠𝑒 𝐴 ∧ ⋯∧ 𝐴 → 𝐵 é 𝑢𝑚𝑎 𝑡𝑎𝑢𝑡𝑜𝑙𝑜𝑔𝑖𝑎
+1 𝑛 1 𝑛
+𝐴 , …, 𝐴 ⊨ 𝐵 𝑠𝑠𝑒 𝐴 ∧ ⋯∧ 𝐴 ∧ ¬𝐵 é 𝑢𝑚𝑎 𝑐𝑜𝑛𝑡𝑟𝑎𝑑𝑖çã𝑜
+1 𝑛 1 𝑛
+𝐴 , …, 𝐴 ⊨ 𝐵 𝑠𝑠𝑒 {𝐴 ,… , 𝐴 , ¬𝐵} é 𝑖𝑛𝑐𝑜𝑛𝑠𝑖𝑠𝑡𝑒𝑛𝑡𝑒
+1 𝑛 1 𝑛 |
+| --- |

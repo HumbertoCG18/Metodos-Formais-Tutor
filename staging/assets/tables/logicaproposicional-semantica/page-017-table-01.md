@@ -1,0 +1,8 @@
+| Classificação de Conjunto de Fórmulas
+• Verifique usando tabelas-verdade quais dos conjuntos de
+fórmulas abaixo são consistente e quais são
+inconsistentes:
+• 𝑝 → 𝑞, ¬𝑞
+• {𝑝 → 𝑞, ¬𝑞 ∨ 𝑟, 𝑝 ∧ ¬𝑟}
+• {(𝑝 ∨ 𝑞) → 𝑟, ¬((¬𝑝 ∧ ¬𝑞) ∨ 𝑟)} |
+| --- |

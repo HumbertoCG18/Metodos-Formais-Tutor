@@ -1,0 +1,4 @@
+| Fórmulas
+• Fórmulas compostas:
+𝑏𝑜𝑝 ∈ {→, ↔,∧,∨} |
+| --- |
