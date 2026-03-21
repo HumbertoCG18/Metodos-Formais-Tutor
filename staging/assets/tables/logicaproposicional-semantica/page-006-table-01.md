@@ -1,7 +1,0 @@
-| Semântica dos Operadores
-𝒑 𝒒 ¬𝒑 𝒑 ∧ 𝒒 𝒑 ∨ 𝒒 𝒑 → 𝒒 𝒑 ↔ 𝒒
-V V F V V V V
-V F F F V F F
-F V V F V V F
-F F V F F V V |
-| --- |

@@ -1,6 +1,0 @@
-| Técnicas de V&V
-• Agrupamentos de técnicas de validação e verificação:
-Estáticas
-Dinâmicas
-Formais |
-| --- |

@@ -1,8 +1,0 @@
-| Sintaxe
-• Devido ao poder da lógica de predicados, sua linguagem
-é mais complexa do que a lógica proposicional
-• Conceitos:
-• Assinaturas
-• Termos (denotam objetos)
-• Fórmulas (denotam valores lógicos) |
-| --- |

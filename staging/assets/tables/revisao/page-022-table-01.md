@@ -1,2 +1,0 @@
-| Hierarquia de Chomsky |
-| --- |

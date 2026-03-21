@@ -1,7 +1,0 @@
-| Classificação de Conjunto de Fórmulas
-• Verifique usando tabelas-verdade quais os modelos de
-cada conjunto de fórmulas:
-• 𝑚𝑜𝑑({𝑝, 𝑝 → 𝑞, 𝑞})
-• 𝑚𝑜𝑑({𝑝, ¬𝑝})
-• 𝑚𝑜𝑑({𝑝 → 𝑞, 𝑞}) |
-| --- |

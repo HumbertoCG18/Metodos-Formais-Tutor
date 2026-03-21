@@ -1,7 +1,0 @@
-| Sintaxe
-• Ao apresentarmos uma linguagem formal, precisamos
-fornecer os componentes básicos da linguagem,
-chamados de alfabeto, para em seguida fornecer as
-regras de formação da linguagem, também chamada de
-gramática. |
-| --- |

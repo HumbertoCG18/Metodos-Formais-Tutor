@@ -1,3 +1,0 @@
-| Fórmulas
-• Fórmulas atômicas: |
-| --- |

@@ -1,9 +1,0 @@
-| a) Seja A o conjunto das cores da bandeira brasileira, então: |
-| --- |
-| A = {verde, amarelo, azul, branco} |
-| b) Seja B o conjunto das vogais do nosso alfabeto, então: |
-| B = {a, e, i, o, u} |
-| c) Seja C o conjunto dos algarismos do sistema decimal de numeração, então: |
-| C = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} |
-| d) Seja ℕ o conjunto dos números Naturais, então: |
-| ℕ = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...} |

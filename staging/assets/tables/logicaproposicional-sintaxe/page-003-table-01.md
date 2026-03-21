@@ -1,6 +1,0 @@
-| Proposição
-• Costuma-se usar a palavra “proposição” para designar o
-significado de uma sentença ou oração declarativa.
-• Exemplo: “João ama Maria” é o mesmo que “Maria é
-amada por João”. |
-| --- |

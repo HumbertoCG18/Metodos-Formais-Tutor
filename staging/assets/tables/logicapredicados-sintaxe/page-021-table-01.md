@@ -1,3 +1,0 @@
-| Formalização
-• Exemplo: Bob ama Cathy |
-| --- |

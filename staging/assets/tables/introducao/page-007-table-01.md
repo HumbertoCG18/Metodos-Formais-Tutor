@@ -1,3 +1,0 @@
-| Verificação
-• “Estamos construindo o produto corretamente?” |
-| --- |

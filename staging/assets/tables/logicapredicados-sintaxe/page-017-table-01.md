@@ -1,3 +1,0 @@
-| LÓGICA DE PREDICADOS
-Formalização |
-| --- |

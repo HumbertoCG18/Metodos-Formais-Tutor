@@ -1,7 +1,0 @@
-| Representação pelas propriedades dos elementos |
-| --- |
-| A apresentação de um conjunto por meio da listagem de seus elementos traz o inconveniente de |
-| não ser uma notação prática para os casos em que o conjunto apresenta uma infinidade de |
-| elementos. Para estas situações, podemos fazer a apresentação do conjunto por meio de uma |
-| propriedade que sirva a todos os elementos do conjunto e somente a estes elementos. |
-| Exemplo 1: conjunto dos números naturais, pares, maiores que zero e menores que 15. |

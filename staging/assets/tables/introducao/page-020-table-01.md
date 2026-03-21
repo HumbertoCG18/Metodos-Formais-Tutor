@@ -1,4 +1,0 @@
-| VERIFICAÇÃO FORMAL DE
-SISTEMAS
-Introdução |
-| --- |
