@@ -130,16 +130,6 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
-  - id: logicaproposicional-semantica
-    title: "Logicaproposicional Semantica"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_semantica.pdf"
-    raw_target: "raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao3
     title: "Exerciciosformalizacaoalgoritmosrecursao3"
     category: listas
@@ -240,22 +230,32 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
-  - id: logicapredicados-semantica
-    title: "Logicapredicados Semantica"
-    category: material-de-aula
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf"
-    raw_target: "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
-    professor_signal: ""
   - id: revisao
     title: "Revisao"
     category: material-de-aula
     file_type: pdf
     source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/revisao.pdf"
     raw_target: "raw/pdfs/material-de-aula/revisao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicapredicados-sintaxe
+    title: "Logicapredicados Sintaxe"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_sintaxe.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicapredicados-semantica
+    title: "Logicapredicados Semantica"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true

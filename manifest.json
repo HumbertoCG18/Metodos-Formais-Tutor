@@ -328,56 +328,6 @@
       "advanced_metadata_path": "staging/markdown-auto/docling/introducao/docling-run.json"
     },
     {
-      "id": "logicaproposicional-semantica",
-      "title": "Logicaproposicional Semantica",
-      "category": "material-de-aula",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_semantica.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "docling",
-      "raw_target": "raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf",
-      "document_report": {
-        "page_count": 25,
-        "text_chars": 5778,
-        "images_count": 7,
-        "table_candidates": 4,
-        "text_density": 231.12,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "logicaproposicional-semantica",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "docling",
-        "reasons": [
-          "Backend preferido manualmente: docling.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md",
-      "advanced_markdown": "staging/markdown-auto/docling/logicaproposicional-semantica/logicaproposicional-semantica.md",
-      "advanced_backend": "docling",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/logicaproposicional-semantica",
-      "tables_dir": "staging/assets/tables/logicaproposicional-semantica",
-      "table_detection_dir": "staging/assets/table-detections/logicaproposicional-semantica",
-      "manual_review": "manual-review/pdfs/logicaproposicional-semantica.md",
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/docling/logicaproposicional-semantica",
-      "advanced_metadata_path": "staging/markdown-auto/docling/logicaproposicional-semantica/docling-run.json"
-    },
-    {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
       "title": "Exerciciosformalizacaoalgoritmosrecursao3",
       "category": "listas",
@@ -878,56 +828,6 @@
       "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosespecificacao/docling-run.json"
     },
     {
-      "id": "logicapredicados-semantica",
-      "title": "Logicapredicados Semantica",
-      "category": "material-de-aula",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "docling",
-      "raw_target": "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf",
-      "document_report": {
-        "page_count": 18,
-        "text_chars": 4616,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 256.44,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "logicapredicados-semantica",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "docling",
-        "reasons": [
-          "Backend preferido manualmente: docling.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
-      "advanced_markdown": "staging/markdown-auto/docling/logicapredicados-semantica/logicapredicados-semantica.md",
-      "advanced_backend": "docling",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/logicapredicados-semantica",
-      "tables_dir": "staging/assets/tables/logicapredicados-semantica",
-      "table_detection_dir": "staging/assets/table-detections/logicapredicados-semantica",
-      "manual_review": "manual-review/pdfs/logicapredicados-semantica.md",
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/docling/logicapredicados-semantica",
-      "advanced_metadata_path": "staging/markdown-auto/docling/logicapredicados-semantica/docling-run.json"
-    },
-    {
       "id": "revisao",
       "title": "Revisao",
       "category": "material-de-aula",
@@ -976,6 +876,106 @@
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/revisao",
       "advanced_metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json"
+    },
+    {
+      "id": "logicapredicados-sintaxe",
+      "title": "Logicapredicados Sintaxe",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_sintaxe.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf",
+      "document_report": {
+        "page_count": 21,
+        "text_chars": 4880,
+        "images_count": 4,
+        "table_candidates": 0,
+        "text_density": 232.38,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "logicapredicados-sintaxe",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicapredicados-sintaxe.md",
+      "advanced_markdown": "staging/markdown-auto/marker/logicapredicados-sintaxe/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/logicapredicados-sintaxe",
+      "tables_dir": "staging/assets/tables/logicapredicados-sintaxe",
+      "table_detection_dir": "staging/assets/table-detections/logicapredicados-sintaxe",
+      "manual_review": "manual-review/pdfs/logicapredicados-sintaxe.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/logicapredicados-sintaxe",
+      "advanced_metadata_path": "staging/markdown-auto/marker/logicapredicados-sintaxe/marker-run.json"
+    },
+    {
+      "id": "logicapredicados-semantica",
+      "title": "Logicapredicados Semantica",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf",
+      "document_report": {
+        "page_count": 18,
+        "text_chars": 4616,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 256.44,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "logicapredicados-semantica",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "advanced_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/logicapredicados-semantica",
+      "tables_dir": "staging/assets/tables/logicapredicados-semantica",
+      "table_detection_dir": "staging/assets/table-detections/logicapredicados-semantica",
+      "manual_review": "manual-review/pdfs/logicapredicados-semantica.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
+      "advanced_metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json"
     }
   ],
   "logs": [
@@ -2113,7 +2113,166 @@
       "step": "detect_tables_pymupdf",
       "status": "ok",
       "count": 0
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-sintaxe.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-sintaxe",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/logicapredicados-sintaxe/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
+      "asset_dir": "staging/markdown-auto/marker/logicapredicados-sintaxe",
+      "metadata_path": "staging/markdown-auto/marker/logicapredicados-sintaxe/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-sintaxe.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-sintaxe",
+        "--page_range",
+        "0-20",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 21
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-sintaxe.md",
+      "asset_dir": "staging/assets/inline-images/logicaproposicional-sintaxe",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/logicaproposicional-sintaxe/logicaproposicional-sintaxe/logicaproposicional-sintaxe.md",
+      "asset_dir": "staging/markdown-auto/marker/logicaproposicional-sintaxe",
+      "metadata_path": "staging/markdown-auto/marker/logicaproposicional-sintaxe/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-sintaxe.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicaproposicional-sintaxe",
+        "--page_range",
+        "0-17",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
+      "asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
+      "metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-semantica",
+        "--page_range",
+        "0-17",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
     }
   ],
-  "updated_at": "2026-03-23T16:53:33"
+  "updated_at": "2026-03-23T19:52:26"
 }

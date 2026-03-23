@@ -33,7 +33,7 @@ Conceitos Fundamentais
 - Erro de projeto na unidade de divisão de ponto-flutuante.
 - Intel foi forçada a oferecer substituição de todos os processadores defeituosos.
 
-![Image](content/images/images-images-introducao-artifacts-image_000000_f36317e49c0d791b3f72cfba438d1518bbcc53f83d9e3a750f2a42f001231b4e.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000000_f36317e49c0d791b3f72cfba438d1518bbcc53f83d9e3a750f2a42f001231b4e.png)
 
 ## Software e qualidade
 
@@ -51,15 +51,15 @@ Conceitos Fundamentais
 
 ## Software e qualidade
 
-![Image](content/images/images-images-introducao-artifacts-image_000001_f48704bea16df2845a33cecac6829043e4e92812dca05c1424d3bc7d9e291f98.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000001_f48704bea16df2845a33cecac6829043e4e92812dca05c1424d3bc7d9e291f98.png)
 
 ## Verificação
 
 - 'Estamos construindo o produto corretamente?'
 
-![Image](content/images/images-images-introducao-artifacts-image_000002_5eca8bff4d1d4c713d0af2e5660f3e0c4be2c6319cebc9fca0a4a769f9f14fb5.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000002_5eca8bff4d1d4c713d0af2e5660f3e0c4be2c6319cebc9fca0a4a769f9f14fb5.png)
 
-![Image](content/images/images-images-introducao-artifacts-image_000003_72c5bb53b213a7ac369f3a5641ce754744298b1ee7338d288c899e740b74940a.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000003_72c5bb53b213a7ac369f3a5641ce754744298b1ee7338d288c899e740b74940a.png)
 
 ## Verificação
 
@@ -78,9 +78,9 @@ Conceitos Fundamentais
 
 - 'Construímos o produto correto?'
 
-![Image](content/images/images-images-introducao-artifacts-image_000004_3991a28f51c774144127c1002eebe5538e5af6f6bcf76d012c8ce25fb851a273.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000004_3991a28f51c774144127c1002eebe5538e5af6f6bcf76d012c8ce25fb851a273.png)
 
-![Image](content/images/images-images-introducao-artifacts-image_000005_6532f049ef4ed4f891a08e26ff6cfab3799401253866db7a7ce9dad4cba59b08.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000005_6532f049ef4ed4f891a08e26ff6cfab3799401253866db7a7ce9dad4cba59b08.png)
 
 ## Validação
 
@@ -109,7 +109,7 @@ Conceitos Fundamentais
 
 - Agrupamentos de técnicas de validação e verificação:
 
-![Image](content/images/images-images-introducao-artifacts-image_000006_0baddb6963422246c369306ded7a4b78ed94739f477b7473326dd94d988f12ba.png)
+![Image](content/images/images-images-images-introducao-artifacts-image_000006_0baddb6963422246c369306ded7a4b78ed94739f477b7473326dd94d988f12ba.png)
 
 ## Técnicas de V&amp;V
 

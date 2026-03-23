@@ -96,7 +96,7 @@ O conjunto A não está contido em B quando existe pelo menos um elemento de A q
 
 𝐴 ⊄ 𝐵 (lê-se: A não está contido em B )
 
-![Image](content/images/images-images-conjuntosindutivos-artifacts-image_000000_eb057370229278e6e4fe7ad0050bd8b35480df4a3b3bf5308762967bfc9ffacf.png)
+![Image](content/images/images-images-images-conjuntosindutivos-artifacts-image_000000_eb057370229278e6e4fe7ad0050bd8b35480df4a3b3bf5308762967bfc9ffacf.png)
 
 Se o conjunto A está contido no conjunto B ,  dizemos que A é  um subconjunto de B .  Como todo elemento do conjunto A pertence ao conjunto A , dizemos que A é subconjunto de A e, por extensão, todo conjunto é subconjunto dele mesmo.
 

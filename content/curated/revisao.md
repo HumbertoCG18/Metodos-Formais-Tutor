@@ -139,4 +139,4 @@ Revisão
 
 #### Hierarquia de Chomsky
 
-![](content/images/revisao-_page_21_Picture_1.jpeg)
+![](content/images/images-revisao-_page_21_Picture_1.jpeg)
