@@ -1,0 +1,23 @@
+version: 3
+target_platform: claude-projects
+policy:
+  default_processing_mode: auto
+  default_ocr_language: "por,eng"
+  require_manual_review_for:
+    - math_heavy
+    - scanned
+    - exam_pdf
+    - layout_heavy
+  base_layer_priority:
+    - pymupdf4llm
+    - pymupdf
+  advanced_layer_priority:
+    - docling
+    - marker
+  asset_pipeline:
+    extract_images: true
+    extract_tables: true
+  promotion_rule: |
+    Nenhum arquivo de staging é conhecimento final.
+    O conhecimento final deve sair de manual-review/ e depois ser promovido
+    para content/, exercises/ ou exams/, e então sincronizado com o Claude Project.

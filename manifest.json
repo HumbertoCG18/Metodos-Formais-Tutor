@@ -1,0 +1,2119 @@
+{
+  "app": "Academic Tutor Repo Builder V3",
+  "generated_at": "2026-03-23T14:50:26",
+  "course": {
+    "course_name": "Metodos-Formais",
+    "course_slug": "metodos_formais",
+    "semester": "6",
+    "professor": "Julio Machado",
+    "institution": "PUCRS"
+  },
+  "options": {
+    "default_processing_mode": "auto",
+    "default_ocr_language": "por,eng"
+  },
+  "environment": {
+    "python": "3.11.9",
+    "pymupdf": true,
+    "pymupdf4llm": true,
+    "pdfplumber": true,
+    "docling_cli": true,
+    "marker_cli": true
+  },
+  "entries": [
+    {
+      "id": "keynote-fifteen-years-of-formal-methods-at-aws-marc-brooker-amazon-aws-78a1af",
+      "title": "Keynote Fifteen years of formal methods at AWS  Marc Brooker, Amazon AWS",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.youtube.com/watch?v=HxP4wi4DhA0&feature=youtu.be",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "auto",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/keynote-fifteen-years-of-formal-methods-at-aws-marc-brooker-amazon-aws-78a1af.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/keynote-fifteen-years-of-formal-methods-at-aws-marc-brooker-amazon-aws-78a1af.md"
+    },
+    {
+      "id": "the-young-software-engineers-guide-to-using-formal-methods-k-rustan-m-leino-amazon-07062018-at-1016-part-of-epfl-ic-research-day-2018-lausanne-switzerland-e22069",
+      "title": "The Young Software Engineers Guide to Using Formal Methods | K. Rustan M. Leino, Amazon | 07.06.2018 at 10:16 | Part of EPFL IC Research Day 2018 | Lausanne, Switzerland",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://portal.klewel.com/watch/webcast/epfl-ic-research-day-2018/talk/3/",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/the-young-software-engineers-guide-to-using-formal-methods-k-rustan-m-leino-amazon-07062018-at-1016-part-of-epfl-ic-research-day-2018-lausanne-switzerland-e22069.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/the-young-software-engineers-guide-to-using-formal-methods-k-rustan-m-leino-amazon-07062018-at-1016-part-of-epfl-ic-research-day-2018-lausanne-switzerland-e22069.md"
+    },
+    {
+      "id": "cwi-formal-methods-group-df8aa8",
+      "title": "CWI Formal Methods Group",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.youtube.com/watch?v=4YQCJqNLvyg",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/cwi-formal-methods-group-df8aa8.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/cwi-formal-methods-group-df8aa8.md"
+    },
+    {
+      "id": "the-sel4-microkernel-sel4-7d70e6",
+      "title": "The seL4 Microkernel | seL4",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://sel4.systems/",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/the-sel4-microkernel-sel4-7d70e6.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/the-sel4-microkernel-sel4-7d70e6.md"
+    },
+    {
+      "id": "compcert-main-page-d07fbd",
+      "title": "CompCert - Main page",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://compcert.org/",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/compcert-main-page-d07fbd.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/compcert-main-page-d07fbd.md"
+    },
+    {
+      "id": "provable-security-automated-reasoning-amazon-web-services-aws-cdb46a",
+      "title": "Provable Security  - Automated Reasoning - Amazon Web Services (AWS)",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://aws.amazon.com/pt/security/provable-security/",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/provable-security-automated-reasoning-amazon-web-services-aws-cdb46a.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/provable-security-automated-reasoning-amazon-web-services-aws-cdb46a.md"
+    },
+    {
+      "id": "how-to-integrate-formal-proofs-into-software-development-amazon-science-03c68b",
+      "title": "How to integrate formal proofs into software development - Amazon Science",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.amazon.science/blog/how-to-integrate-formal-proofs-into-software-development",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/how-to-integrate-formal-proofs-into-software-development-amazon-science-03c68b.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/how-to-integrate-formal-proofs-into-software-development-amazon-science-03c68b.md"
+    },
+    {
+      "id": "verifying-openjdks-sort-method-for-generic-collections-journal-of-automated-reasoning-springer-nature-link-9ae2c8",
+      "title": "Verifying OpenJDK’s Sort Method for Generic Collections | Journal of Automated Reasoning | Springer Nature Link",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://link.springer.com/article/10.1007/s10817-017-9426-4",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/verifying-openjdks-sort-method-for-generic-collections-journal-of-automated-reasoning-springer-nature-link-9ae2c8.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/verifying-openjdks-sort-method-for-generic-collections-journal-of-automated-reasoning-springer-nature-link-9ae2c8.md"
+    },
+    {
+      "id": "eth2",
+      "title": "GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub",
+      "category": "bibliografia",
+      "file_type": "github-repo",
+      "source_path": "https://github.com/ConsenSys/eth2.0-dafny",
+      "tags": "main",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "auto",
+      "extracted_files": [],
+      "base_markdown": null,
+      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\eth2\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+    },
+    {
+      "id": "cedar-language-playground-847b98",
+      "title": "Cedar Language Playground",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.cedarpolicy.com/en",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/cedar-language-playground-847b98.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/cedar-language-playground-847b98.md"
+    },
+    {
+      "id": "nasa-langley-formal-methods-research-program-54b4c9",
+      "title": "NASA Langley Formal Methods Research Program",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://shemesh.larc.nasa.gov/fm/index.html",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/nasa-langley-formal-methods-research-program-54b4c9.md",
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/pdfs/nasa-langley-formal-methods-research-program-54b4c9.md"
+    },
+    {
+      "id": "aws-encryption-sdk",
+      "title": "GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub",
+      "category": "bibliografia",
+      "file_type": "github-repo",
+      "source_path": "https://github.com/aws/aws-encryption-sdk",
+      "tags": "main",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "auto",
+      "extracted_files": [],
+      "base_markdown": null,
+      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\aws-encryption-sdk\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+    },
+    {
+      "id": "introducao",
+      "title": "Introducao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/introducao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/introducao.pdf",
+      "document_report": {
+        "page_count": 24,
+        "text_chars": 7498,
+        "images_count": 11,
+        "table_candidates": 0,
+        "text_density": 312.42,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "introducao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/introducao.md",
+      "advanced_markdown": "staging/markdown-auto/docling/introducao/introducao.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/introducao",
+      "tables_dir": "staging/assets/tables/introducao",
+      "table_detection_dir": "staging/assets/table-detections/introducao",
+      "manual_review": "manual-review/pdfs/introducao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/introducao",
+      "advanced_metadata_path": "staging/markdown-auto/docling/introducao/docling-run.json"
+    },
+    {
+      "id": "logicaproposicional-semantica",
+      "title": "Logicaproposicional Semantica",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_semantica.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf",
+      "document_report": {
+        "page_count": 25,
+        "text_chars": 5778,
+        "images_count": 7,
+        "table_candidates": 4,
+        "text_density": 231.12,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "logicaproposicional-semantica",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md",
+      "advanced_markdown": "staging/markdown-auto/docling/logicaproposicional-semantica/logicaproposicional-semantica.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/logicaproposicional-semantica",
+      "tables_dir": "staging/assets/tables/logicaproposicional-semantica",
+      "table_detection_dir": "staging/assets/table-detections/logicaproposicional-semantica",
+      "manual_review": "manual-review/pdfs/logicaproposicional-semantica.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/logicaproposicional-semantica",
+      "advanced_metadata_path": "staging/markdown-auto/docling/logicaproposicional-semantica/docling-run.json"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao3",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao3",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao3.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 1252,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1252.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao3",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao3",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao3",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao3",
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3/docling-run.json"
+    },
+    {
+      "id": "formalizacaoalgoritmos-recursao3",
+      "title": "Formalizacaoalgoritmos Recursao3",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao3.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 1506,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 753.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "formalizacaoalgoritmos-recursao3",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao3.md",
+      "advanced_markdown": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/formalizacaoalgoritmos-recursao3",
+      "tables_dir": "staging/assets/tables/formalizacaoalgoritmos-recursao3",
+      "table_detection_dir": "staging/assets/table-detections/formalizacaoalgoritmos-recursao3",
+      "manual_review": "manual-review/pdfs/formalizacaoalgoritmos-recursao3.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3",
+      "advanced_metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3/docling-run.json"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao2",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao2",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao2.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 885,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 885.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao2",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao2",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao2",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao2",
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2/docling-run.json"
+    },
+    {
+      "id": "formalizacaoalgoritmos-recursao2",
+      "title": "Formalizacaoalgoritmos Recursao2",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao2.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao2.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2271,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 1135.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "formalizacaoalgoritmos-recursao2",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao2.md",
+      "advanced_markdown": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/formalizacaoalgoritmos-recursao2",
+      "tables_dir": "staging/assets/tables/formalizacaoalgoritmos-recursao2",
+      "table_detection_dir": "staging/assets/table-detections/formalizacaoalgoritmos-recursao2",
+      "manual_review": "manual-review/pdfs/formalizacaoalgoritmos-recursao2.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2",
+      "advanced_metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2/docling-run.json"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 1625,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 1625.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao",
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao/docling-run.json"
+    },
+    {
+      "id": "formalizacaoalgoritmos-recursao",
+      "title": "Formalizacaoalgoritmos Recursao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf",
+      "document_report": {
+        "page_count": 8,
+        "text_chars": 13177,
+        "images_count": 0,
+        "table_candidates": 4,
+        "text_density": 1647.12,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "formalizacaoalgoritmos-recursao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao.md",
+      "advanced_markdown": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/formalizacaoalgoritmos-recursao",
+      "tables_dir": "staging/assets/tables/formalizacaoalgoritmos-recursao",
+      "table_detection_dir": "staging/assets/table-detections/formalizacaoalgoritmos-recursao",
+      "manual_review": "manual-review/pdfs/formalizacaoalgoritmos-recursao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao",
+      "advanced_metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao/docling-run.json"
+    },
+    {
+      "id": "exerciciosconjuntosindutivos",
+      "title": "Exerciciosconjuntosindutivos",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosConjuntosIndutivos.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/listas/exerciciosconjuntosindutivos.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 1282,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 641.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosconjuntosindutivos",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosconjuntosindutivos.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosconjuntosindutivos",
+      "tables_dir": "staging/assets/tables/exerciciosconjuntosindutivos",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosconjuntosindutivos",
+      "manual_review": "manual-review/pdfs/exerciciosconjuntosindutivos.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosconjuntosindutivos",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosconjuntosindutivos/docling-run.json"
+    },
+    {
+      "id": "conjuntosindutivos",
+      "title": "Conjuntosindutivos",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ConjuntosIndutivos.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/conjuntosindutivos.pdf",
+      "document_report": {
+        "page_count": 9,
+        "text_chars": 11792,
+        "images_count": 6,
+        "table_candidates": 1,
+        "text_density": 1310.22,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "conjuntosindutivos",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/conjuntosindutivos.md",
+      "advanced_markdown": "staging/markdown-auto/docling/conjuntosindutivos/conjuntosindutivos.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/conjuntosindutivos",
+      "tables_dir": "staging/assets/tables/conjuntosindutivos",
+      "table_detection_dir": "staging/assets/table-detections/conjuntosindutivos",
+      "manual_review": "manual-review/pdfs/conjuntosindutivos.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/conjuntosindutivos",
+      "advanced_metadata_path": "staging/markdown-auto/docling/conjuntosindutivos/docling-run.json"
+    },
+    {
+      "id": "exerciciosespecificacao-respostas",
+      "title": "Exerciciosespecificacao Respostas",
+      "category": "gabaritos",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao_respostas.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf",
+      "document_report": {
+        "page_count": 4,
+        "text_chars": 4323,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1080.75,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosespecificacao-respostas",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao-respostas.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosespecificacao-respostas",
+      "tables_dir": "staging/assets/tables/exerciciosespecificacao-respostas",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao-respostas",
+      "manual_review": "manual-review/pdfs/exerciciosespecificacao-respostas.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosespecificacao-respostas",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosespecificacao-respostas/docling-run.json"
+    },
+    {
+      "id": "exerciciosespecificacao",
+      "title": "Exerciciosespecificacao",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/listas/exerciciosespecificacao.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 3202,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1601.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosespecificacao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao.md",
+      "advanced_markdown": "staging/markdown-auto/docling/exerciciosespecificacao/exerciciosespecificacao.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosespecificacao",
+      "tables_dir": "staging/assets/tables/exerciciosespecificacao",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao",
+      "manual_review": "manual-review/pdfs/exerciciosespecificacao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/exerciciosespecificacao",
+      "advanced_metadata_path": "staging/markdown-auto/docling/exerciciosespecificacao/docling-run.json"
+    },
+    {
+      "id": "logicapredicados-semantica",
+      "title": "Logicapredicados Semantica",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf",
+      "document_report": {
+        "page_count": 18,
+        "text_chars": 4616,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 256.44,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "logicapredicados-semantica",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "advanced_markdown": "staging/markdown-auto/docling/logicapredicados-semantica/logicapredicados-semantica.md",
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/logicapredicados-semantica",
+      "tables_dir": "staging/assets/tables/logicapredicados-semantica",
+      "table_detection_dir": "staging/assets/table-detections/logicapredicados-semantica",
+      "manual_review": "manual-review/pdfs/logicapredicados-semantica.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/logicapredicados-semantica",
+      "advanced_metadata_path": "staging/markdown-auto/docling/logicapredicados-semantica/docling-run.json"
+    },
+    {
+      "id": "revisao",
+      "title": "Revisao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/revisao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/revisao.pdf",
+      "document_report": {
+        "page_count": 22,
+        "text_chars": 4197,
+        "images_count": 1,
+        "table_candidates": 0,
+        "text_density": 190.77,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "revisao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "advanced_markdown": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/revisao",
+      "tables_dir": "staging/assets/tables/revisao",
+      "table_detection_dir": "staging/assets/table-detections/revisao",
+      "manual_review": "manual-review/pdfs/revisao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/revisao",
+      "advanced_metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json"
+    }
+  ],
+  "logs": [
+    {
+      "entry": "keynote-fifteen-years-of-formal-methods-at-aws-marc-brooker-amazon-aws-78a1af",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "the-young-software-engineers-guide-to-using-formal-methods-k-rustan-m-leino-amazon-07062018-at-1016-part-of-epfl-ic-research-day-2018-lausanne-switzerland-e22069",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "cwi-formal-methods-group-df8aa8",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "the-sel4-microkernel-sel4-7d70e6",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "compcert-main-page-d07fbd",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "provable-security-automated-reasoning-amazon-web-services-aws-cdb46a",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "how-to-integrate-formal-proofs-into-software-development-amazon-science-03c68b",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "verifying-openjdks-sort-method-for-generic-collections-journal-of-automated-reasoning-springer-nature-link-9ae2c8",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "eth2",
+      "step": "github_clone",
+      "status": "error",
+      "error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\eth2\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+    },
+    {
+      "entry": "cedar-language-playground-847b98",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "nasa-langley-formal-methods-research-program-54b4c9",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "aws-encryption-sdk",
+      "step": "github_clone",
+      "status": "error",
+      "error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\aws-encryption-sdk\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+    },
+    {
+      "entry": "introducao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducao.md",
+      "asset_dir": "staging/assets/inline-images/introducao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/introducao/introducao.md",
+      "asset_dir": "staging/markdown-auto/docling/introducao",
+      "metadata_path": "staging/markdown-auto/docling/introducao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\introducao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\introducao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "introducao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 11
+    },
+    {
+      "entry": "introducao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 26
+    },
+    {
+      "entry": "introducao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "revisao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "asset_dir": "staging/assets/inline-images/revisao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/revisao/revisao.md",
+      "asset_dir": "staging/markdown-auto/docling/revisao",
+      "metadata_path": "staging/markdown-auto/docling/revisao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\revisao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 22
+    },
+    {
+      "entry": "revisao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-sintaxe.md",
+      "asset_dir": "staging/assets/inline-images/logicaproposicional-sintaxe",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/logicaproposicional-sintaxe/logicaproposicional-sintaxe.md",
+      "asset_dir": "staging/markdown-auto/docling/logicaproposicional-sintaxe",
+      "metadata_path": "staging/markdown-auto/docling/logicaproposicional-sintaxe/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-sintaxe.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\logicaproposicional-sintaxe",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicaproposicional-sintaxe",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicaproposicional-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/logicaproposicional-semantica/logicaproposicional-semantica.md",
+      "asset_dir": "staging/markdown-auto/docling/logicaproposicional-semantica",
+      "metadata_path": "staging/markdown-auto/docling/logicaproposicional-semantica/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-semantica.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\logicaproposicional-semantica",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 7
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 29
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-sintaxe.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-sintaxe",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
+      "asset_dir": "staging/markdown-auto/docling/logicapredicados-sintaxe",
+      "metadata_path": "staging/markdown-auto/docling/logicapredicados-sintaxe/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-sintaxe.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\logicapredicados-sintaxe",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 21
+    },
+    {
+      "entry": "logicapredicados-sintaxe",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao3",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao3/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao3.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosformalizacaoalgoritmosrecursao3",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao3",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao3.md",
+      "asset_dir": "staging/assets/inline-images/formalizacaoalgoritmos-recursao3",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao3",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
+      "asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3",
+      "metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao3/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao3.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\formalizacaoalgoritmos-recursao3",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao3",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao3",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao3",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao2",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao2/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao2.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosformalizacaoalgoritmosrecursao2",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao2.md",
+      "asset_dir": "staging/assets/inline-images/formalizacaoalgoritmos-recursao2",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2.md",
+      "asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2",
+      "metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao2/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao2.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\formalizacaoalgoritmos-recursao2",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosformalizacaoalgoritmosrecursao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao.md",
+      "asset_dir": "staging/assets/inline-images/formalizacaoalgoritmos-recursao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao.md",
+      "asset_dir": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao",
+      "metadata_path": "staging/markdown-auto/docling/formalizacaoalgoritmos-recursao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\formalizacaoalgoritmos-recursao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosconjuntosindutivos.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosconjuntosindutivos",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosconjuntosindutivos",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosconjuntosindutivos/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosconjuntosindutivos.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosconjuntosindutivos",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "conjuntosindutivos",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/conjuntosindutivos.md",
+      "asset_dir": "staging/assets/inline-images/conjuntosindutivos",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "conjuntosindutivos",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/conjuntosindutivos/conjuntosindutivos.md",
+      "asset_dir": "staging/markdown-auto/docling/conjuntosindutivos",
+      "metadata_path": "staging/markdown-auto/docling/conjuntosindutivos/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\conjuntosindutivos.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\conjuntosindutivos",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "conjuntosindutivos",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 6
+    },
+    {
+      "entry": "conjuntosindutivos",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 8
+    },
+    {
+      "entry": "conjuntosindutivos",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao-respostas.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosespecificacao-respostas",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosespecificacao-respostas",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosespecificacao-respostas/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\gabaritos\\exerciciosespecificacao-respostas.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosespecificacao-respostas",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosespecificacao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosespecificacao/exerciciosespecificacao.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosespecificacao",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosespecificacao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosespecificacao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosespecificacao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/logicapredicados-semantica/logicapredicados-semantica.md",
+      "asset_dir": "staging/markdown-auto/docling/logicapredicados-semantica",
+      "metadata_path": "staging/markdown-auto/docling/logicapredicados-semantica/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\logicapredicados-semantica",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "revisao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "asset_dir": "staging/assets/inline-images/revisao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/revisao/revisao.md",
+      "asset_dir": "staging/markdown-auto/docling/revisao",
+      "metadata_path": "staging/markdown-auto/docling/revisao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\revisao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 22
+    },
+    {
+      "entry": "revisao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "revisao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "asset_dir": "staging/assets/inline-images/revisao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
+      "asset_dir": "staging/markdown-auto/marker/revisao",
+      "metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\revisao",
+        "--page_range",
+        "0-21",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 22
+    },
+    {
+      "entry": "revisao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    }
+  ],
+  "updated_at": "2026-03-23T16:53:33"
+}
