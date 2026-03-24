@@ -39,7 +39,7 @@ status: pending_review
 | 24 | Exerciciosespecificacao | listas | — | `raw/pdfs/listas/exerciciosespecificacao.pdf` |  |  |
 | 25 | Logicapredicados Sintaxe | material-de-aula | — | `raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf` |  |  |
 | 26 | Logicaproposicional Semantica | material-de-aula | — | `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf` |  |  |
-| 27 | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos | `staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf` |  |  |
+| 27 | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos | — | `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf` |  |  |
 
 ## Legenda
 
