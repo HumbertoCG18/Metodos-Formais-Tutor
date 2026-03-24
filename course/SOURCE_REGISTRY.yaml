@@ -130,3 +130,13 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
+  - id: revisao
+    title: "Revisao"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/revisao.pdf"
+    raw_target: "raw/pdfs/material-de-aula/revisao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""

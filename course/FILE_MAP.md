@@ -26,6 +26,7 @@ status: pending_review
 | 11 | NASA Langley Formal Methods Research Program | references | `staging/markdown-auto/url_fetcher/nasa-langley-formal-methods-research-program-54b4c9.md` | — |  |  |
 | 12 | GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub | bibliografia | — | — |  | main |
 | 13 | Introducao | material-de-aula | `staging/markdown-auto/pymupdf4llm/introducao.md` | `raw/pdfs/material-de-aula/introducao.pdf` |  |  |
+| 14 | Revisao | material-de-aula | `staging/markdown-auto/pymupdf4llm/revisao.md` | `raw/pdfs/material-de-aula/revisao.pdf` |  |  |
 
 ## Legenda
 

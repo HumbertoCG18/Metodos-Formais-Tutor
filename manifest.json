@@ -326,6 +326,56 @@
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/introducao",
       "advanced_metadata_path": "staging/markdown-auto/marker/introducao/marker-run.json"
+    },
+    {
+      "id": "revisao",
+      "title": "Revisao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/revisao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/revisao.pdf",
+      "document_report": {
+        "page_count": 22,
+        "text_chars": 4197,
+        "images_count": 1,
+        "table_candidates": 0,
+        "text_density": 190.77,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "revisao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "advanced_markdown": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/revisao",
+      "tables_dir": "staging/assets/tables/revisao",
+      "table_detection_dir": "staging/assets/table-detections/revisao",
+      "manual_review": "manual-review/pdfs/revisao.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/revisao",
+      "advanced_metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json"
     }
   ],
   "logs": [
@@ -1675,7 +1725,60 @@
       "step": "detect_tables_pymupdf",
       "status": "ok",
       "count": 0
+    },
+    {
+      "entry": "revisao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
+      "asset_dir": "staging/assets/inline-images/revisao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
+      "asset_dir": "staging/markdown-auto/marker/revisao",
+      "metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\revisao",
+        "--page_range",
+        "0-21",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "revisao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 22
+    },
+    {
+      "entry": "revisao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
     }
   ],
-  "updated_at": "2026-03-23T20:32:18"
+  "updated_at": "2026-03-23T21:32:17"
 }
