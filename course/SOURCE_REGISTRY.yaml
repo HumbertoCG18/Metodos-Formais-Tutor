@@ -260,3 +260,13 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao-respostas
+    title: "Exerciciosformalizacaoalgoritmosrecursao Respostas"
+    category: gabaritos
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf"
+    raw_target: "raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf"
+    processing_mode: auto
+    effective_profile: scanned
+    include_in_bundle: true
+    professor_signal: ""

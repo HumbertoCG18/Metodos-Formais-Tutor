@@ -1044,7 +1044,60 @@
       "approved_markdown": "content/curated/logicaproposicional-semantica.md",
       "curated_markdown": "content/curated/logicaproposicional-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicaproposicional-semantica/logicaproposicional-semantica/logicaproposicional-semantica.md",
-      "approved_at": "2026-03-24T11:46:39",
+      "approved_at": "2026-03-24T12:48:02",
+      "review_status": "approved"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao Respostas",
+      "category": "gabaritos",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "scanned",
+      "preferred_backend": "auto",
+      "raw_target": "raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf",
+      "document_report": {
+        "page_count": 3,
+        "text_chars": 0,
+        "images_count": 3,
+        "table_candidates": 0,
+        "text_density": 0.0,
+        "suspected_scan": true,
+        "suggested_profile": "scanned",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+        "processing_mode": "auto",
+        "effective_profile": "scanned",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Modo auto detectou perfil scanned e ativou camada avançada."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "scanned-pages",
+      "images_dir": null,
+      "tables_dir": null,
+      "table_detection_dir": null,
+      "manual_review": null,
+      "effective_profile": "scanned",
+      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "approved_source_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "approved_at": "2026-03-24T14:40:23",
       "review_status": "approved"
     }
   ],
@@ -3361,7 +3414,250 @@
       "approved_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "approved_source_markdown": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
       "category": "material-de-aula"
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-semantica",
+        "--page_range",
+        "0-17",
+        "--force_ocr",
+        "--languages",
+        "por,eng"
+      ],
+      "error": "Usage: marker_single.EXE [OPTIONS] FPATH\nTry 'marker_single.EXE --help' for help.\nError: No such option: --languages"
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicaproposicional-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "error",
+      "markdown_path": null,
+      "asset_dir": null,
+      "metadata_path": null,
+      "notes": [],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-semantica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicaproposicional-semantica",
+        "--page_range",
+        "0-24",
+        "--force_ocr",
+        "--languages",
+        "eng"
+      ],
+      "error": "Usage: marker_single.EXE [OPTIONS] FPATH\nTry 'marker_single.EXE --help' for help.\nError: No such option: --languages"
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 29
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicaproposicional-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/logicaproposicional-semantica/logicaproposicional-semantica/logicaproposicional-semantica.md",
+      "asset_dir": "staging/markdown-auto/marker/logicaproposicional-semantica",
+      "metadata_path": "staging/markdown-auto/marker/logicaproposicional-semantica/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-semantica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicaproposicional-semantica",
+        "--page_range",
+        "0-24",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 29
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 4
+    },
+    {
+      "entry": "logicaproposicional-semantica",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/logicaproposicional-semantica.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/logicaproposicional-semantica/logicaproposicional-semantica/logicaproposicional-semantica.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao-respostas/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "asset_dir": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "metadata_path": "staging/markdown-auto/docling/exerciciosformalizacaoalgoritmosrecursao-respostas/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\gabaritos\\exerciciosformalizacaoalgoritmosrecursao-respostas.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\exerciciosformalizacaoalgoritmosrecursao-respostas",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--force-ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "scanned_pages",
+      "status": "ok",
+      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas"
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "approved_source_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "category": "gabaritos"
     }
   ],
-  "updated_at": "2026-03-24T11:55:18"
+  "updated_at": "2026-03-24T14:40:23"
 }

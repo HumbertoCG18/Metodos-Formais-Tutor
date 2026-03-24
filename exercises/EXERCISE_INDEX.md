@@ -9,12 +9,12 @@
 | Arquivo | Título | Categoria | Observação |
 |---|---|---|---|
 | ExerciciosFormalizacaoAlgoritmosRecursao.pdf | Exerciciosformalizacaoalgoritmosrecursao | listas |  |
-| ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos |  |
 | ExerciciosFormalizacaoAlgoritmosRecursao3.pdf | Exerciciosformalizacaoalgoritmosrecursao3 | listas |  |
 | ExerciciosFormalizacaoAlgoritmosRecursao2.pdf | Exerciciosformalizacaoalgoritmosrecursao2 | listas |  |
 | ExerciciosConjuntosIndutivos.pdf | Exerciciosconjuntosindutivos | listas |  |
 | ExerciciosEspecificacao_respostas.pdf | Exerciciosespecificacao Respostas | gabaritos |  |
 | ExerciciosEspecificacao.pdf | Exerciciosespecificacao | listas |  |
+| ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos |  |
 
 ## Mapeamento de exercícios por tópico
 

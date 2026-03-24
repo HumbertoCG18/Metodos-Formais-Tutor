@@ -28,19 +28,18 @@ status: pending_review
 | 13 | Introducao | material-de-aula | — | `raw/pdfs/material-de-aula/introducao.pdf` |  |  |
 | 14 | Revisao | material-de-aula | — | `raw/pdfs/material-de-aula/revisao.pdf` |  |  |
 | 15 | Exerciciosformalizacaoalgoritmosrecursao | listas | — | `raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf` |  |  |
-| 16 | Logicaproposicional Sintaxe | material-de-aula | `staging/markdown-auto/pymupdf4llm/logicaproposicional-sintaxe.md` | `raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf` |  |  |
-| 17 | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos | `staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf` |  |  |
-| 18 | Formalizacaoalgoritmos Recursao3 | material-de-aula | `staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao3.md` | `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf` |  |  |
-| 19 | Exerciciosformalizacaoalgoritmosrecursao3 | listas | `staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao3.md` | `raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf` |  |  |
-| 20 | Exerciciosformalizacaoalgoritmosrecursao2 | listas | `staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao2.md` | `raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf` |  |  |
-| 21 | Formalizacaoalgoritmos Recursao | material-de-aula | `staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao.md` | `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf` |  |  |
-| 22 | Exerciciosconjuntosindutivos | listas | `staging/markdown-auto/pymupdf4llm/exerciciosconjuntosindutivos.md` | `raw/pdfs/listas/exerciciosconjuntosindutivos.pdf` |  |  |
-| 23 | Conjuntosindutivos | material-de-aula | `staging/markdown-auto/pymupdf4llm/conjuntosindutivos.md` | `raw/pdfs/material-de-aula/conjuntosindutivos.pdf` |  |  |
-| 24 | Exerciciosespecificacao Respostas | gabaritos | `staging/markdown-auto/pymupdf4llm/exerciciosespecificacao-respostas.md` | `raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf` |  |  |
-| 25 | Exerciciosespecificacao | listas | `staging/markdown-auto/pymupdf4llm/exerciciosespecificacao.md` | `raw/pdfs/listas/exerciciosespecificacao.pdf` |  |  |
-| 26 | Logicapredicados Semantica | material-de-aula | `staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md` | `raw/pdfs/material-de-aula/logicapredicados-semantica.pdf` |  |  |
-| 27 | Logicapredicados Sintaxe | material-de-aula | `staging/markdown-auto/pymupdf4llm/logicapredicados-sintaxe.md` | `raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf` |  |  |
-| 28 | Logicaproposicional Semantica | material-de-aula | `staging/markdown-auto/pymupdf4llm/logicaproposicional-semantica.md` | `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf` |  |  |
+| 16 | Logicaproposicional Sintaxe | material-de-aula | — | `raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf` |  |  |
+| 17 | Formalizacaoalgoritmos Recursao3 | material-de-aula | — | `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf` |  |  |
+| 18 | Exerciciosformalizacaoalgoritmosrecursao3 | listas | — | `raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf` |  |  |
+| 19 | Exerciciosformalizacaoalgoritmosrecursao2 | listas | — | `raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf` |  |  |
+| 20 | Formalizacaoalgoritmos Recursao | material-de-aula | — | `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf` |  |  |
+| 21 | Exerciciosconjuntosindutivos | listas | — | `raw/pdfs/listas/exerciciosconjuntosindutivos.pdf` |  |  |
+| 22 | Conjuntosindutivos | material-de-aula | — | `raw/pdfs/material-de-aula/conjuntosindutivos.pdf` |  |  |
+| 23 | Exerciciosespecificacao Respostas | gabaritos | — | `raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf` |  |  |
+| 24 | Exerciciosespecificacao | listas | — | `raw/pdfs/listas/exerciciosespecificacao.pdf` |  |  |
+| 25 | Logicapredicados Sintaxe | material-de-aula | — | `raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf` |  |  |
+| 26 | Logicaproposicional Semantica | material-de-aula | — | `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf` |  |  |
+| 27 | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos | `staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf` |  |  |
 
 ## Legenda
 

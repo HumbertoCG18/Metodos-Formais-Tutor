@@ -18,7 +18,7 @@ Baseado nos materiais do Prof. Alfio Martini
 ## Interpretações
 
 - Os símbolos que não possuem significado fixo são chamados de variáveis proposicionais
-- Uma interpretação I para um conjunto de variáveis proposicionais Σ é uma função I:Σ→B, onde B={V,F}
+- Uma interpretação I para um conjunto de variáveis proposicionais $\Sigma$ é uma função I:$\Sigma$→B, onde B={V,F}
 - Exemplo:
   - Se  $\Sigma$ ={p,q}, então temos quatro interpretações possíveis:
 
@@ -63,16 +63,16 @@ $$\mathcal{I}_4 = \{ p \mapsto V, q \mapsto V \}$$
 #### Modelos
 
 - Modelos são interpretações na qual uma fórmula (ou conjunto de fórmulas) é verdadeira (são verdadeiras)
-- Uma interpretação I:Σ→B é um modelo para uma fórmula A∈P<sub>Σ</sub> se somente se [A]<sub>I</sub> = V (ou seja, o valor da fórmula nessa interpretação é verdadeira)
+- Uma interpretação I:$\Sigma$→B é um modelo para uma fórmula A$\in$P<sub>$\Sigma$</sub> se somente se [A]<sub>I</sub> = V (ou seja, o valor da fórmula nessa interpretação é verdadeira)
   - Nesse caso escrevemos  $I \models A$
-- Uma interpretação I:Σ→B não é um modelo para uma fórmula A∈P<sub>Σ</sub> se somente se [A]<sub>I</sub> = F (ou seja, o valor da fórmula nessa interpretação é falsa)
+- Uma interpretação I:$\Sigma$→B não é um modelo para uma fórmula A$\in$P<sub>$\Sigma$</sub> se somente se [A]<sub>I</sub> = F (ou seja, o valor da fórmula nessa interpretação é falsa)
   - Nesse caso escrevemos  $I \not\models A$
 
 #### Modelos
 
 - Uma interpretação I: $\Sigma \rightarrow B$  é um modelo para um conjunto de fórmulas  $\{A_1,...,A_n\}$  onde  $A_i \in P_\Sigma$  se somente se  $[A_i]_I = V$  para todo i=1,...,n
   - Nesse caso escrevemos  $I \models A_1, ..., A_n$
-- Uma interpretação I:Σ→B não é um modelo para um conjunto de fórmulas {A<sub>1</sub>,...,A<sub>n</sub>} onde A<sub>i</sub>∈P<sub>Σ</sub> se somente se [A<sub>i</sub>]<sub>I</sub> = F para algum 1≤i≤n
+- Uma interpretação I:$\Sigma$→B não é um modelo para um conjunto de fórmulas {A<sub>1</sub>,...,A<sub>n</sub>} onde A<sub>i</sub>$\in$P<sub>$\Sigma$</sub> se somente se [A<sub>i</sub>]<sub>I</sub> = F para algum 1$\leq$i$\leq$n
   - Nesse caso escrevemos  $I \not\models A_1, ..., A_n$
 
 #### Modelos
@@ -100,24 +100,24 @@ $$I2 \not\vDash p \rightarrow q, \neg p \lor q$$
 
 ## Classificação das Fórmulas
 
-- Uma fórmula A é uma tautologia (ou válida) se e somente se toda interpretação I:Σ→B para A é modelo
+- Uma fórmula A é uma tautologia (ou válida) se e somente se toda interpretação I:$\Sigma$→B para A é modelo
   - Ou seja, para toda interpretação I, [A]<sub>I</sub>=V
   - Nesse caso escrevemos  $\models A$
-- Uma fórmula A é uma contradição (ou inválida) se e somente se nenhuma interpretação I:Σ→B para A é modelo
+- Uma fórmula A é uma contradição (ou inválida) se e somente se nenhuma interpretação I:$\Sigma$→B para A é modelo
   - Ou seja, para toda interpretação I, [A]<sub>I</sub>=F
   - Nesse caso escrevemos  $\not\models A$
-- Uma fórmula A é <u>satisfatível</u> se e somente se existe ao menos uma interpretação I:Σ→B para A que é modelo
+- Uma fórmula A é <u>satisfatível</u> se e somente se existe ao menos uma interpretação I:$\Sigma$→B para A que é modelo
   - Ou seja, existe pelo menos uma interpretação I, [A]<sub>I</sub> = V
 
 ## Classificação das Fórmulas
 
 - Verifique usando tabela-verdade:
-  - P∨¬P é tautologia
-  - P∨Q é satisfatível
-  - P∧¬P é contradição
+  - P$\lor$$\neg$P é tautologia
+  - P$\lor$Q é satisfatível
+  - P$\land$$\neg$P é contradição
 
 - Seja {A<sub>1</sub>,...,A<sub>n</sub>} um conjunto de fórmulas
-- O conjunto de modelos de {A<sub>1</sub>,...,A<sub>n</sub>}, escrito mod({A<sub>1</sub>,...,A<sub>n</sub>}), é definido como o conjunto de \ninterpretações I:Σ→B tal que I é modelo para cada fórmula do conjunto {A<sub>1</sub>,...,A<sub>n</sub>}
+- O conjunto de modelos de {A<sub>1</sub>,...,A<sub>n</sub>}, escrito mod({A<sub>1</sub>,...,A<sub>n</sub>}), é definido como o conjunto de \ninterpretações I:$\Sigma$→B tal que I é modelo para cada fórmula do conjunto {A<sub>1</sub>,...,A<sub>n</sub>}
   - Ou seja, os modelos de um conjunto de fórmulas são somente aquelas interpretações que satisfazem simultaneamente todas as fórmulas do conjunto
 
 $$mod(\{A_1,\ldots,A_n\}) = \bigcap mod(A_i)$$
@@ -133,12 +133,12 @@ $$mod(\{A_1,\ldots,A_n\}) = \bigcap mod(A_i)$$
 
 - Um conjunto de fórmulas proposicionais {A<sub>1</sub>,...,A<sub>n</sub>} é
    consistente quando existe pelo menos uma interpretação
-   I:Σ→B no conjunto de modelos mod({A<sub>1</sub>,...,A<sub>n</sub>}) para as
+   I:$\Sigma$→B no conjunto de modelos mod({A<sub>1</sub>,...,A<sub>n</sub>}) para as
    fórmulas
 - Um conjunto de fórmulas proposicionais {A<sub>1</sub>,...,A<sub>n</sub>} é
-   inconsistente quando não existe uma interpretação I:Σ→B
+   inconsistente quando não existe uma interpretação I:$\Sigma$→B
    no conjunto de modelos mod({A<sub>1</sub>,...,A<sub>n</sub>}) para as fórmulas,
-   ou seja, mod({A<sub>1</sub>,...,A<sub>n</sub>})=∅
+   ou seja, mod({A<sub>1</sub>,...,A<sub>n</sub>})=$\emptyset$
 
  Verifique usando tabelas-verdade quais dos conjuntos de fórmulas abaixo são consistente e quais são inconsistentes:
 
@@ -192,7 +192,7 @@ $$A_1, ..., A_n \models B \ sse \ A_1 \land \cdots \land A_n \rightarrow B \ \'e
 
 - O conceito de equivalência entre fórmulas permite a abstração de certas diferenças sintáticas entre as fórmulas
 - Sejam A e B duas fórmulas da Lógica Proposicional
-- Diz-se que <u>A e B são equivalentes</u>, denotado A≡B, se e somente se mod({A})=mod({B})
+- Diz-se que <u>A e B são equivalentes</u>, denotado A$\equiv$B, se e somente se mod({A})=mod({B})
 
 ## Equivalências
 
@@ -216,6 +216,6 @@ $$mod(\{\neg p \lor q\}) = \{I_1, I_3, I_4\} = mod(\{p \to q\})$$
 ## Teoremas Importantes
 
 - Equivalência e Consequência Semântica:
-  - Sejam A e B fórmulas da Lógica Proposicional; então A≡B
+  - Sejam A e B fórmulas da Lógica Proposicional; então A$\equiv$B
   - se e somente se  $A \models B \in B \models A$
   - se e somente se  $A \leftrightarrow B$  é uma tautologia
