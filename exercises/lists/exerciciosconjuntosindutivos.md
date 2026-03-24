@@ -1,46 +1,53 @@
-## Métodos Formais
-
 ## Prof. Júlio Machado
 
-## Exercícios
+## **Exercícios**
 
-## Conjuntos Indutivos
+## **Conjuntos Indutivos**
 
 - 1) Definir um conjunto de regras para construir os conjuntos que seguem:
-- a. Conjunto Pares : conjunto dos números naturais pares tal que (0 ∈ 𝑃𝑎𝑟𝑒𝑠)
-- b. Conjunto Impares : conjunto dos números naturais ímpares tal que (0 ∉ 𝐼𝑚𝑝𝑎𝑟𝑒𝑠)
-- c. Conjunto 𝑆1 ≜ {𝑎 𝑛 𝑏𝑐 𝑛 |𝑛 ∈ ℕ}
-- d. Conjunto 𝑆2 ≜ {𝑎 𝑛 𝑏 𝑚 |𝑛 &gt; 0  ∧ 𝑚 &gt; 0}
-- e. Conjunto 𝑆3 ≜ {𝑎 𝑛 𝑏 𝑚 𝑎 𝑛 |𝑛 &gt; 0  ∧ 𝑚 &gt; 0}
-- f. Conjunto 𝑆4 ≜ {𝑎 𝑛 𝑏 𝑚 𝑎 𝑖 |𝑛 &gt; 0  ∧ 𝑚 &gt; 0  ∧ 𝑖 ≥ 0}
-- g. Conjunto Pot2 : conjunto das potências de dois {1,2,4,8,16,32,...}
-- h. Conjunto S = {0,1,3,7,15,31,...}
+  - a. Conjunto Pares: conjunto dos números naturais pares tal que  $(0 \in Pares)$
+  - b. Conjunto *Impares*: conjunto dos números naturais ímpares tal que (0 ∉ *Impares*)
+  - c. Conjunto  $S_1 \triangleq \{a^nbc^n | n \in \mathbb{N}\}$
+  - d. Conjunto  $S_2 \triangleq \{a^n b^m | n > 0 \land m > 0\}$
+  - e. Conjunto  $S_3 \triangleq \{a^n b^m a^n | n > 0 \land m > 0\}$
+  - f. Conjunto  $S_4 \triangleq \{a^n b^m a^i | n > 0 \land m > 0 \land i \ge 0\}$
+  - g. Conjunto Pot2: conjunto das potências de dois {1,2,4,8,16,32,...}
+  - h. Conjunto S = {0,1,3,7,15,31,...}
 - 2) Através de árvores de prova, mostrar que:
-- a. 8  ∈ 𝑃𝑎𝑟𝑒𝑠
-- b. 9  ∉ 𝑃𝑎𝑟𝑒𝑠
-- c. 11  ∈ 𝐼𝑚𝑝𝑎𝑟𝑒𝑠
-- d. 𝑎𝑎𝑎𝑏𝑐𝑐𝑐  ∈ 𝑆 1
-- e. 𝑎𝑎𝑎𝑏  ∈ 𝑆2
-- f. 𝑎𝑏𝑎  ∈ 𝑆 3
-- g. 𝑎𝑎𝑏𝑏𝑏𝑎𝑎𝑎  ∉ 𝑆3
-- h. 𝑎𝑎𝑎𝑏𝑎𝑎𝑎  ∈ 𝑆4
-- i. 𝑎𝑎𝑎  ∈ 𝑆 4
-- j. 𝑎𝑎𝑎𝑏𝑏  ∈ 𝑆4
-- k. 𝑎𝑎𝑎𝑏𝑎  ∈ 𝑆4
-- l. 𝑏𝑎𝑎𝑎  ∉ 𝑆4
-- 3) Considere o conjunto Prop das proposições válidas sobre ∑:
+  - a.  $8 \in Pares$
+  - b. 9 ∉ Pares
+  - c.  $11 \in Impares$
+  - d.  $aaabccc \in S_1$
+  - e.  $aaab \in S_2$
+  - f.  $aba \in S_3$
+  - g.  $aabbbaaa \notin S_3$
+  - h.  $aaabaaa \in S_4$
+  - i.  $aaa \in S_4$
+  - j.  $aaabb \in S_4$
+  - k.  $aaaba \in S_4$
+  - I. baaa  $\notin S_4$
+- 3) Considere o conjunto *Prop* das proposições válidas sobre ∑:
 
-𝑆 ≜ {∧,∨, →} 𝑋 ≜ {𝑥0  , 𝑥 1  , … , 𝑥 𝑛 } Σ ≜ 𝑆 ∪ 𝑋
+$$\begin{split} S &\triangleq \{\land, \lor, \rightarrow\} \\ X &\triangleq \{x_0\,, x_1\,, \ldots, x_n\} \\ \Sigma &\triangleq S \cup X \end{split}$$
 
-| 𝑣 ∈ 𝑃𝑟𝑜𝑝 (𝑣 ∈ 𝑋)𝑉𝑎𝑟   | 𝑝 ∈ 𝑃𝑟𝑜𝑝 𝑞 ∈ 𝑃𝑟𝑜𝑝 (𝑝 𝑏𝑜𝑝 𝑞) ∈ 𝑃𝑟𝑜𝑝 (𝑏𝑜𝑝 ∈ 𝑆)𝐵𝑜𝑝   |
-|-----------------------|---------------------------------------------------|
+$$\frac{1}{v \in Prop} (v \in X) Var \qquad \frac{p \in Prop \quad q \in Prop}{(p \ bop \ q) \in Prop} (bop \in S) Bop$$
 
-| 𝑝 ∈ 𝑃𝑟𝑜𝑝 (𝑝) ∈ 𝑃𝑟𝑜𝑝 𝑃𝑎𝑟   |
-|---------------------------|
+| $p \in Prop$                    |  |
+|---------------------------------|--|
+| $\overline{(p) \in Prop}^{Par}$ |  |
 
-Demonstre que: a. ((𝑥0 ∧ 𝑥 1 ) → 𝑥2) ∈ 𝑃𝑟𝑜𝑝
+Demonstre que:
 
-- b. (((𝑥0 ∧ 𝑥 1 ) ∨ (𝑥 2 ∧ 𝑥3 )) → (𝑥4 ∧ 𝑥5 )) ∈ 𝑃𝑟𝑜𝑝
-- 4) Considere o exercício anterior e apresente uma regra para introduzir o operador unário de negação representado pelo símbolo ¬ . Após, demonstre que:
-- a. (¬(𝑥0 ∧ 𝑥1 ) → 𝑥2 ) ∈ 𝑃𝑟𝑜𝑝
-- b. (((𝑥0 ∧ 𝑥 1 ) ∨ (¬𝑥2 ∧ 𝑥3 )) → ¬(𝑥4 ∧ 𝑥5 )) ∈ 𝑃𝑟𝑜𝑝
+a. 
+$$((x_0 \land x_1) \rightarrow x_2) \in Prop$$
+
+b. 
+$$(((x_0 \land x_1) \lor (x_2 \land x_3)) \to (x_4 \land x_5)) \in Prop$$
+
+4) Considere o exercício anterior e apresente uma regra para introduzir o operador unário de negação representado pelo símbolo ¬. Após, demonstre que:
+
+a. 
+$$(\neg(x_0 \land x_1) \rightarrow x_2) \in Prop$$
+
+b. 
+$$(((x_0 \land x_1) \lor (\neg x_2 \land x_3)) \rightarrow \neg (x_4 \land x_5)) \in Prop$$

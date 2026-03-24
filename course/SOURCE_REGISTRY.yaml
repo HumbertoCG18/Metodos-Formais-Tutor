@@ -140,3 +140,123 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao
+    title: "Exerciciosformalizacaoalgoritmosrecursao"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicaproposicional-sintaxe
+    title: "Logicaproposicional Sintaxe"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_sintaxe.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: formalizacaoalgoritmos-recursao3
+    title: "Formalizacaoalgoritmos Recursao3"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao3.pdf"
+    raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao3
+    title: "Exerciciosformalizacaoalgoritmosrecursao3"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao3.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao2
+    title: "Exerciciosformalizacaoalgoritmosrecursao2"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao2.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: formalizacaoalgoritmos-recursao
+    title: "Formalizacaoalgoritmos Recursao"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao.pdf"
+    raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosconjuntosindutivos
+    title: "Exerciciosconjuntosindutivos"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosConjuntosIndutivos.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosconjuntosindutivos.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: conjuntosindutivos
+    title: "Conjuntosindutivos"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ConjuntosIndutivos.pdf"
+    raw_target: "raw/pdfs/material-de-aula/conjuntosindutivos.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosespecificacao-respostas
+    title: "Exerciciosespecificacao Respostas"
+    category: gabaritos
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao_respostas.pdf"
+    raw_target: "raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosespecificacao
+    title: "Exerciciosespecificacao"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosespecificacao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicapredicados-sintaxe
+    title: "Logicapredicados Sintaxe"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_sintaxe.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicaproposicional-semantica
+    title: "Logicaproposicional Semantica"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_semantica.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""

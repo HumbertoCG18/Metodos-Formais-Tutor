@@ -23,7 +23,7 @@ Revisão
 - A={0,1,2}
 - N={0,1,2,3,...}
 - A⊆N
-- A<u></u>
+- A⊆A
 - ∅⊆A, o vazio está contido em qualquer conjunto
 
 - União  $A \cup B = \{x \mid x \in A \text{ ou } x \in B\}$ 
@@ -139,4 +139,4 @@ Revisão
 
 #### Hierarquia de Chomsky
 
-![](content/images/images-revisao-_page_21_Picture_1.jpeg)
+![](content/images/revisao-_page_21_Picture_1.jpeg)
