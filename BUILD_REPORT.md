@@ -1,18 +1,22 @@
 # BUILD_REPORT
 
 - generated_at: 2026-03-23T14:50:26
-- target_platform: Claude Projects
+- preferred_platform: claude
 - pymupdf: True
 - pymupdf4llm: True
 - pdfplumber: True
 - docling_cli: True
 - marker_cli: True
 
-## Como usar com Claude Projects
-1. Crie um Projeto no Claude.ai para esta disciplina
-2. Cole o conteúdo de `INSTRUCOES_CLAUDE_PROJETO.md` no system prompt do Projeto
-3. Conecte este repositório GitHub ao Projeto (Settings → GitHub)
-4. Ou faça upload manual dos arquivos de `build/claude-knowledge/`
+## Plataforma principal: CLAUDE
+
+> Copie o conteúdo de `INSTRUCOES_CLAUDE_PROJETO.md`
+> Cole no campo 'Instructions' do Projeto Claude
+
+Os três arquivos de instruções foram gerados:
+- `INSTRUCOES_CLAUDE_PROJETO.md` **<< atual**
+- `INSTRUCOES_GPT_PROJETO.md`
+- `INSTRUCOES_GEMINI_PROJETO.md`
 
 ## Regras práticas de curadoria
 - PDFs simples: camada base costuma bastar.
