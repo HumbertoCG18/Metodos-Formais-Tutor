@@ -388,61 +388,6 @@
       "review_status": "approved"
     },
     {
-      "id": "exerciciosformalizacaoalgoritmosrecursao",
-      "title": "Exerciciosformalizacaoalgoritmosrecursao",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf",
-      "document_report": {
-        "page_count": 1,
-        "text_chars": 1625,
-        "images_count": 0,
-        "table_candidates": 1,
-        "text_density": 1625.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosformalizacaoalgoritmosrecursao",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao",
-      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
-      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
-      "approved_at": "2026-03-24T00:44:37",
-      "review_status": "approved"
-    },
-    {
       "id": "logicaproposicional-sintaxe",
       "title": "Logicaproposicional Sintaxe",
       "category": "material-de-aula",
@@ -553,116 +498,6 @@
       "review_status": "approved"
     },
     {
-      "id": "exerciciosformalizacaoalgoritmosrecursao3",
-      "title": "Exerciciosformalizacaoalgoritmosrecursao3",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao3.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf",
-      "document_report": {
-        "page_count": 1,
-        "text_chars": 1252,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 1252.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosformalizacaoalgoritmosrecursao3",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao3",
-      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao3",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao3",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3.md",
-      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
-      "approved_at": "2026-03-24T11:54:35",
-      "review_status": "approved"
-    },
-    {
-      "id": "exerciciosformalizacaoalgoritmosrecursao2",
-      "title": "Exerciciosformalizacaoalgoritmosrecursao2",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao2.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf",
-      "document_report": {
-        "page_count": 1,
-        "text_chars": 885,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 885.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosformalizacaoalgoritmosrecursao2",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao2",
-      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao2",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao2",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao2.md",
-      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao2.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
-      "approved_at": "2026-03-24T11:54:26",
-      "review_status": "approved"
-    },
-    {
       "id": "formalizacaoalgoritmos-recursao",
       "title": "Formalizacaoalgoritmos Recursao",
       "category": "material-de-aula",
@@ -718,61 +553,6 @@
       "review_status": "approved"
     },
     {
-      "id": "exerciciosconjuntosindutivos",
-      "title": "Exerciciosconjuntosindutivos",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosConjuntosIndutivos.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosconjuntosindutivos.pdf",
-      "document_report": {
-        "page_count": 2,
-        "text_chars": 1282,
-        "images_count": 0,
-        "table_candidates": 1,
-        "text_density": 641.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosconjuntosindutivos",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosconjuntosindutivos",
-      "tables_dir": "staging/assets/tables/exerciciosconjuntosindutivos",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosconjuntosindutivos",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosconjuntosindutivos",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
-      "curated_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
-      "approved_at": "2026-03-24T11:49:20",
-      "review_status": "approved"
-    },
-    {
       "id": "conjuntosindutivos",
       "title": "Conjuntosindutivos",
       "category": "material-de-aula",
@@ -825,116 +605,6 @@
       "curated_markdown": "content/curated/conjuntosindutivos.md",
       "approved_source_markdown": "staging/markdown-auto/marker/conjuntosindutivos/conjuntosindutivos/conjuntosindutivos.md",
       "approved_at": "2026-03-24T11:49:08",
-      "review_status": "approved"
-    },
-    {
-      "id": "exerciciosespecificacao-respostas",
-      "title": "Exerciciosespecificacao Respostas",
-      "category": "gabaritos",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao_respostas.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf",
-      "document_report": {
-        "page_count": 4,
-        "text_chars": 4323,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 1080.75,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosespecificacao-respostas",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosespecificacao-respostas",
-      "tables_dir": "staging/assets/tables/exerciciosespecificacao-respostas",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao-respostas",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao-respostas",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosespecificacao-respostas.md",
-      "curated_markdown": "exercises/lists/exerciciosespecificacao-respostas.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
-      "approved_at": "2026-03-24T11:51:17",
-      "review_status": "approved"
-    },
-    {
-      "id": "exerciciosespecificacao",
-      "title": "Exerciciosespecificacao",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosespecificacao.pdf",
-      "document_report": {
-        "page_count": 2,
-        "text_chars": 3202,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 1601.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosespecificacao",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": null,
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosespecificacao",
-      "tables_dir": "staging/assets/tables/exerciciosespecificacao",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao/marker-run.json",
-      "approved_markdown": "exercises/lists/exerciciosespecificacao.md",
-      "curated_markdown": "exercises/lists/exerciciosespecificacao.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosespecificacao/exerciciosespecificacao/exerciciosespecificacao.md",
-      "approved_at": "2026-03-24T11:51:30",
       "review_status": "approved"
     },
     {
@@ -1048,6 +718,61 @@
       "review_status": "approved"
     },
     {
+      "id": "exerciciosformalizacaoalgoritmosrecursao",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 1625,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 1625.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/marker-run.json",
+      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
+      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
+      "approved_at": "2026-03-24T21:46:36",
+      "review_status": "approved"
+    },
+    {
       "id": "exerciciosformalizacaoalgoritmosrecursao-respostas",
       "title": "Exerciciosformalizacaoalgoritmosrecursao Respostas",
       "category": "gabaritos",
@@ -1084,20 +809,380 @@
           "Modo auto detectou perfil scanned e ativou camada avançada."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "advanced_markdown": null,
       "advanced_backend": null,
       "base_backend": "scanned-pages",
       "images_dir": null,
       "tables_dir": null,
       "table_detection_dir": null,
-      "manual_review": null,
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "effective_profile": "scanned",
-      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas",
-      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
-      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
-      "approved_source_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
-      "approved_at": "2026-03-24T14:40:23",
+      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao3",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao3",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao3.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 1252,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1252.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao3",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "advanced_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao3",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao3",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao3",
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/marker-run.json"
+    },
+    {
+      "id": "exerciciosformalizacaoalgoritmosrecursao2",
+      "title": "Exerciciosformalizacaoalgoritmosrecursao2",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao2.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf",
+      "document_report": {
+        "page_count": 1,
+        "text_chars": 885,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 885.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosformalizacaoalgoritmosrecursao2",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "advanced_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosformalizacaoalgoritmosrecursao2",
+      "tables_dir": "staging/assets/tables/exerciciosformalizacaoalgoritmosrecursao2",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosformalizacaoalgoritmosrecursao2",
+      "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/marker-run.json"
+    },
+    {
+      "id": "formalizacaoalgoritmos-recursao2",
+      "title": "Formalizacaoalgoritmos Recursao2",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao2.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao2.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2271,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 1135.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "formalizacaoalgoritmos-recursao2",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao2.md",
+      "advanced_markdown": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/formalizacaoalgoritmos-recursao2",
+      "tables_dir": "staging/assets/tables/formalizacaoalgoritmos-recursao2",
+      "table_detection_dir": "staging/assets/table-detections/formalizacaoalgoritmos-recursao2",
+      "manual_review": "manual-review/pdfs/formalizacaoalgoritmos-recursao2.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2",
+      "advanced_metadata_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/marker-run.json"
+    },
+    {
+      "id": "exerciciosconjuntosindutivos",
+      "title": "Exerciciosconjuntosindutivos",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosConjuntosIndutivos.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosconjuntosindutivos.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 1282,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 641.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosconjuntosindutivos",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosconjuntosindutivos",
+      "tables_dir": "staging/assets/tables/exerciciosconjuntosindutivos",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosconjuntosindutivos",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosconjuntosindutivos",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/marker-run.json",
+      "approved_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
+      "curated_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
+      "approved_at": "2026-03-24T23:44:23",
+      "review_status": "approved"
+    },
+    {
+      "id": "exerciciosespecificacao-respostas",
+      "title": "Exerciciosespecificacao Respostas",
+      "category": "gabaritos",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao_respostas.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf",
+      "document_report": {
+        "page_count": 4,
+        "text_chars": 4323,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1080.75,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosespecificacao-respostas",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao-respostas.md",
+      "advanced_markdown": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosespecificacao-respostas",
+      "tables_dir": "staging/assets/tables/exerciciosespecificacao-respostas",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao-respostas",
+      "manual_review": "manual-review/pdfs/exerciciosespecificacao-respostas.md",
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao-respostas",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/marker-run.json"
+    },
+    {
+      "id": "exerciciosespecificacao",
+      "title": "Exerciciosespecificacao",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosespecificacao.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 3202,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1601.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosespecificacao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosespecificacao",
+      "tables_dir": "staging/assets/tables/exerciciosespecificacao",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosespecificacao",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao/marker-run.json",
+      "approved_markdown": "exercises/lists/exerciciosespecificacao.md",
+      "curated_markdown": "exercises/lists/exerciciosespecificacao.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosespecificacao/exerciciosespecificacao/exerciciosespecificacao.md",
+      "approved_at": "2026-03-24T23:44:37",
+      "review_status": "approved"
+    },
+    {
+      "id": "logicapredicados-semantica",
+      "title": "Logicapredicados Semantica",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf",
+      "tags": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf",
+      "document_report": {
+        "page_count": 18,
+        "text_chars": 4616,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 256.44,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "logicapredicados-semantica",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/logicapredicados-semantica",
+      "tables_dir": "staging/assets/tables/logicapredicados-semantica",
+      "table_detection_dir": "staging/assets/table-detections/logicapredicados-semantica",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
+      "advanced_metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json",
+      "approved_markdown": "content/curated/logicapredicados-semantica.md",
+      "curated_markdown": "content/curated/logicapredicados-semantica.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
+      "approved_at": "2026-03-24T23:44:59",
       "review_status": "approved"
     }
   ],
@@ -3657,7 +3742,469 @@
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "category": "gabaritos"
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosformalizacaoalgoritmosrecursao",
+        "--page_range",
+        "0",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
+      "category": "listas"
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "step": "scanned_pages",
+      "status": "ok",
+      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas"
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao3",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao3.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosformalizacaoalgoritmosrecursao3",
+        "--page_range",
+        "0",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao3",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosformalizacaoalgoritmosrecursao2",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosformalizacaoalgoritmosrecursao2.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosformalizacaoalgoritmosrecursao2",
+        "--page_range",
+        "0",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosformalizacaoalgoritmosrecursao2",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao2.md",
+      "asset_dir": "staging/assets/inline-images/formalizacaoalgoritmos-recursao2",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2.md",
+      "asset_dir": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2",
+      "metadata_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao2.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\formalizacaoalgoritmos-recursao2",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "formalizacaoalgoritmos-recursao2",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosconjuntosindutivos.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosconjuntosindutivos",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosconjuntosindutivos",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosconjuntosindutivos.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosconjuntosindutivos",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao-respostas.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosespecificacao-respostas",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao-respostas",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\gabaritos\\exerciciosespecificacao-respostas.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosespecificacao-respostas",
+        "--page_range",
+        "0-3",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao-respostas",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosespecificacao.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosespecificacao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosespecificacao/exerciciosespecificacao/exerciciosespecificacao.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosespecificacao.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosespecificacao",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
+      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
+      "asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
+      "metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-semantica",
+        "--page_range",
+        "0-17",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 18
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosconjuntosindutivos",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
+      "category": "listas"
+    },
+    {
+      "entry": "exerciciosespecificacao",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosespecificacao.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosespecificacao/exerciciosespecificacao/exerciciosespecificacao.md",
+      "category": "listas"
+    },
+    {
+      "entry": "logicapredicados-semantica",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/logicapredicados-semantica.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
+      "category": "material-de-aula"
     }
   ],
-  "updated_at": "2026-03-24T21:18:27"
+  "updated_at": "2026-03-24T23:44:59"
 }

@@ -76,7 +76,7 @@ Logo:
 ```
 
 ```
-3)  \begin{array}{l} \text{Pré condição:} \\ \forall i,j \in \mathbb{N}. \ (i < j < |array| \rightarrow array[i] \leq array[j]) \\ \text{Pós condição:} \\ \text{Dado} buscaBinaria(array,x) = r \text{temos} \\ r < 0 \rightarrow (\forall i \in \mathbb{N}. \ (i < |array| \rightarrow array[i] \neq x)) \land \\ r \geq 0 \rightarrow (r < |array| \land array[r] = x) \\ \end{array}
+3)  \begin{array}{l} \text{Pr\'e condi\~ç\~ao:} \\ \forall i,j \in \mathbb{N}. \ (i < j < |array| \rightarrow array[i] \leq array[j]) \\ \text{Pos condição:} \\ \text{Dado } buscaBinaria(array,x) = r \text{ temos} \\ r < 0 \rightarrow (\forall i \in \mathbb{N}. \ (i < |array| \rightarrow array[i] \neq x)) \land \\ r \geq 0 \rightarrow (r < |array| \land array[r] = x) \\ \end{array}
 ```
 
 Pré condição:
