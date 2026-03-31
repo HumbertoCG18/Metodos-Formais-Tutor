@@ -385,7 +385,24 @@
       "curated_markdown": "content/curated/revisao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
       "approved_at": "2026-03-23T21:37:07",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-03-30T19:55:24",
+        "pages": {
+          "21": {
+            "include_page": true,
+            "images": {
+              "revisao-_page_21_Picture_1.jpeg": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta a **hierarquia de Chomsky** para linguagens formais, representada como uma estrutura hierárquica de inclusão estrita. Abaixo, descrevemos os elementos de forma acadêmica, com notação formal adequada:\n\n---\n\n### **Nós (Níveis da Hierarquia)**  \nOs elementos principais são as classes de linguagens, definidas por suas gramáticas associadas:  \n- **Linguagens Recursivamente Enumeráveis (Tipo 0)**: Conjunto mais amplo, contendo todas as linguagens cuja decisão de pertinência é computável por máquinas de Turing. Representado como $ \\mathcal{L}_0 $.  \n- **Linguagens Sensíveis ao Contexto (Tipo 1)**: Subconjunto de $ \\mathcal{L}_0 $, definidas por gramáticas sensíveis ao contexto (regras com restrições de contexto). Representado como $ \\mathcal{L}_1 $.  \n- **Linguagens Livres do Contexto (Tipo 2)**: Subconjunto de $ \\mathcal{L}_1 $, definidas por gramáticas livres do contexto (regras sem dependência de contexto). Representado como $ \\mathcal{L}_2 $.  \n- **Linguagens Regulares (Tipo 3)**: Subconjunto de $ \\mathcal{L}_2 $, definidas por gramáticas regulares (regras com estrutura linear). Representado como $ \\mathcal{L}_3 $.  \n\n---\n\n### **Relações e Hierarquia**  \nA estrutura exibe uma **inclusão estrita** entre as classes, conforme a hierarquia de Chomsky. Formalmente:  \n$$\n\\mathcal{L}_3 \\subset \\mathcal{L}_2 \\subset \\mathcal{L}_1 \\subset \\mathcal{L}_0\n$$  \nCada classe de linguagens de menor tipo (ex.: $ \\mathcal{L}_3 $) é um subconjunto próprio da classe de maior tipo (ex.: $ \\mathcal{L}_2 $), com a seguinte relação:  \n- **$ \\mathcal{L}_3 $** (Regulares) é uma subclasse de $ \\mathcal{L}_2 $ (Livres do Contexto), pois gramáticas regulares são um caso especial de gramáticas livres do contexto.  \n- **$ \\mathcal{L}_2 $** é uma subclasse de $ \\mathcal{L}_1 $ (Sensíveis ao Contexto), pois gramáticas livres do contexto são um caso especial de gramáticas sensíveis ao contexto.  \n- **$ \\mathcal{L}_1 $** é uma subclasse de $ \\mathcal{L}_0 $ (Recursivamente Enumeráveis), pois gramáticas sensíveis ao contexto são um caso especial de gramáticas recursivamente enumeráveis (associadas a máquinas de Turing).  \n\n---\n\n### **Regras Representadas**  \n1. **Ordem de inclusão**: A hierarquia segue a ordem descendente dos tipos (do mais específico ao mais genérico), com $ \\mathcal{L}_3 $ sendo a classe mais restritiva e $ \\mathcal{L}_0 $ a mais ampla.  \n2. **Propriedades formais**:  \n   - $ \\mathcal{L}_3 $: Linguagens que podem ser reconhecidas por autômatos finitos (AF) ou descritas por expressões regulares.  \n   - $ \\mathcal{L}_2 $: Linguagens reconhecidas por autômatos de pilha (AP).  \n   - $ \\mathcal{L}_1 $: Linguagens reconhecidas por autômatos de Turing não-determinísticos com restrições de contexto.  \n   - $ \\mathcal{L}_0 $: Linguagens reconhecidas por máquinas de Turing genéricas.  \n3. **Exclusão de sobreposição**: Nenhum nível contém elementos fora do seu escopo definido (ex.: uma linguagem regular não pode ser um exemplo de linguagem livre do contexto).  \n\n---\n\n### **Contexto Acadêmico**  \nEste diagrama é uma representação visual da **hierarquia de Chomsky**, um conceito fundamental na teoria da computação e linguística formal. A estrutura hierárquica reflete a capacidade de expressão das gramáticas: quanto maior o tipo (maior o número), mais complexas e menos restritivas as regras de formação da linguagem.  \n\nA enumeração explícita dos termos em português (ex.: \"Linguagens Sensíveis ao Contexto ou Tipo 1\") reforça a correspondência com a nomenclatura padrão utilizada no Brasil para descrever os níveis da hierarquia.",
+                "described_at": "2026-03-30T19:55:03"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "logicaproposicional-sintaxe",
@@ -440,7 +457,24 @@
       "curated_markdown": "content/curated/logicaproposicional-sintaxe.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicaproposicional-sintaxe/logicaproposicional-sintaxe/logicaproposicional-sintaxe.md",
       "approved_at": "2026-03-24T10:58:00",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-03-30T20:05:43",
+        "pages": {
+          "6": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-_page_6_Figure_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "formalizacaoalgoritmos-recursao3",
@@ -605,7 +639,24 @@
       "curated_markdown": "content/curated/conjuntosindutivos.md",
       "approved_source_markdown": "staging/markdown-auto/marker/conjuntosindutivos/conjuntosindutivos/conjuntosindutivos.md",
       "approved_at": "2026-03-24T11:49:08",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-03-30T20:20:59",
+        "pages": {
+          "3": {
+            "include_page": true,
+            "images": {
+              "conjuntosindutivos-_page_3_Picture_7.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "**Estrutura Acadêmica do Diagrama**  \n\nO diagrama ilustra relações entre dois conjuntos *A* e *B*, representados por círculos, segundo os princípios da teoria dos conjuntos. Abaixo, descrevemos os elementos estruturais:  \n\n### **Nós**  \n- **A** e **B**: Representam conjuntos, com *A* e *B* como entidades básicas da estrutura.  \n\n### **Relações**  \nAs configurações visuais representam três relações distintas entre *A* e *B*:  \n1. **Inclusão própria**:  \n   - *A ⊂ B* (Leitura: *A* é subconjunto próprio de *B*).  \n   - *A* está totalmente contido em *B*, sem intersecção externa.  \n\n2. **Intersecção parcial (não inclusão)**:  \n   - *A ⊈ B* e *A ∩ B ≠ ∅* (Leitura: *A* não é subconjunto de *B*, com intersecção não vazia).  \n   - *A* e *B* compartilham parte de seus elementos, mas *A* não está totalmente contido em *B*.  \n\n3. **Conjuntos disjuntos (não inclusão)**:  \n   - *A ⊈ B* e *A ∩ B = ∅* (Leitura: *A* não é subconjunto de *B*, com intersecção vazia).  \n   - *A* e *B* não compartilham elementos, sendo mutuamente exclusivos.  \n\n### **Hierarquia**  \n- **Hierarquia explícita**: Apenas no primeiro caso (*A ⊂ B*) há uma relação hierárquica, onde *A* está estratificadamente contido em *B*.  \n- **Hierarquia ausente**: Nos outros casos (*A ⊈ B*), não existe uma estrutura hierárquica entre *A* e *B*, pois não há relação de inclusão total.  \n\n### **Regras Representadas**  \n- **Relação de subconjunto**:  \n  - *A ⊂ B* se e somente se todos os elementos de *A* pertencem a *B* (e *A* ≠ *B*).  \n  - *A ⊈ B* se houver pelo menos um elemento de *A* que não pertença a *B*.  \n- **Casos não inclusivos**:  \n  - A intersecção não vazia (*A ∩ B ≠ ∅*) ou vazia (*A ∩ B = ∅*) define a natureza da relação entre *A* e *B*, independentemente da inclusão.  \n- **Geometria das relações**:  \n  - A disposição dos círculos reflete as propriedades teóricas: inclusão (circular inteira), intersecção (sobreposição parcial) e disjunção (separação total).  \n\n### **Resumo Estrutural**  \nO diagrama serve como **exemplo didático de relações entre conjuntos**, destacando:  \n- A **relação de subconjunto** (*A ⊂ B*) como caso hierárquico.  \n- Os **casos não inclusivos** (*A ⊈ B*) como cenários alternativos, com configurações geométricas distintas para intersecção parcial ou disjunção.  \n\nA representação formal e visual sintetiza as propriedades fundamentais da teoria dos conjuntos, com foco na distinção entre inclusão total e relações de intersecção ou disjunção.",
+                "described_at": "2026-03-30T20:20:47"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "logicapredicados-sintaxe",
@@ -818,7 +869,46 @@
       "table_detection_dir": null,
       "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "effective_profile": "scanned",
-      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas"
+      "rendered_pages_dir": "content/images/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-03-30T23:34:00",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "page-001.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "EQUAÇÕES RECURSIVAS 1\n\n①\n\na) $SOMA: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRAE: T  \nPOS: $SOMA(x,y) = x + y$  \n\n$$\n\\begin{cases}\nSOMA(0, y) = y \\\\\nSOMA(x+1, y) = SOMA(x, y) + 1\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\nSOMA(x, y) = y, \\text{ se } x=0 \\\\\nSOMA(x, y) = SOMA(x-1, y) + 1, \\text{ se } y > 0\n\\end{cases}\n$$\n\nb) $FAT: \\mathbb{N} \\to \\mathbb{N}$  \nPRAE: T  \nPOS: $FAT(x) = x!$  \n\n$$\n\\begin{cases}\nFAT(0) = 1 \\\\\nFAT(x+1) = (x+1) \\times FAT(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\nFAT(x) = 1, \\text{ se } x=0 \\\\\nFAT(x) = x \\times FAT(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nc) $POT2: \\mathbb{N} \\to \\mathbb{N}$  \nPRAE: T  \nPOS: $POT2(x) = 2^x$  \n\n$$\n\\begin{cases}\nPOT2(0) = 1 \\\\\nPOT2(x+1) = 2 \\times POT2(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\nPOT2(x) = 1, \\text{ se } x=0 \\\\\nPOT2(x) = 2 \\times POT2(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nd) Seja a série: $0, 1, \\frac{1}{2}, \\frac{1}{3}, \\frac{2}{3}, \\frac{1}{4}, \\frac{3}{4}, \\frac{1}{5}, \\frac{4}{5}, \\frac{1}{6}, \\dots$\n\nPUCRS",
+                "described_at": "2026-03-30T23:29:45"
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "page-002.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "$FIB: \\mathbb{N} \\to \\mathbb{N}$\n\n$$\n\\begin{cases}\nFIB(0) = 0 \\\\\nFIB(1) = 1 \\\\\nFIB(m) = FIB(m-2) + FIB(m-1), \\quad m \\geq 2\n\\end{cases}\n$$\n\ne) $DIV: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\n$PRÉ: y > 0$\n\n$POS: DIV(x,y) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor$\n\n$DIV(x,y) = DIVAUX(x,y,0)$\n\n$DIVAUX: \\mathbb{N} \\times \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\n$PRÉ: y > 0$\n\n$POS: DIVAUX(x,y,c) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor + c$\n\n$$\n\\begin{cases}\nDIVAUX(x,y,c) = c, \\quad \\text{se } x < y \\\\\nDIVAUX(x,y,c) = DIVAUX(x-y, y, c+1), \\quad \\text{se } x \\geq y\n\\end{cases}\n$$\n\nou\n\n$DIV: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\n$PRÉ: y > 0$\n\n$POS: DIV(x,y) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor$\n\n$$\n\\begin{cases}\nDIV(x,y) = 0, \\quad \\text{se } x < y \\\\\nDIV(x,y) = 1 + DIV(x-y, y), \\quad \\text{se } x \\geq y\n\\end{cases}\n$$\n\n2) $MULT: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\n$PRÉ: T$\n\n$POS: MULT(x,y) = x \\times y$\n\nPUCRS",
+                "described_at": "2026-03-30T23:31:35"
+              }
+            }
+          },
+          "3": {
+            "include_page": true,
+            "images": {
+              "page-003.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "$MULT(x,y) = 0$, se $x=0$  \n$MULT(x,y) = MULT\\left(\\frac{\\alpha}{2}, 2y\\right)$, se $x$ é par  \n$MULT(\\alpha,y) = MULT\\left(\\frac{\\alpha-2}{2}, 2y\\right) + y$, se $\\alpha$ é ímpar  \n\nou  \n\n$MULT(\\alpha,y) = MULTAUX(\\alpha,y,0)$  \n\n$MULTAUX: \\mathbb{N} \\times \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRE: $T$  \nPOS: $MULTAUX(a,y,a) = a \\cdot y + a$  \n\n$MULTAUX(\\alpha,y,a) = a$, se $\\alpha=0$  \n$MULTAUX(\\alpha,y,a) = MULTAUX\\left(\\frac{\\alpha}{2}, 2y, a\\right)$, se $\\alpha$ é par  \n$MULTAUX(\\alpha,y,a) = MULTAUX\\left(\\frac{\\alpha-2}{2}, 2y, a+y\\right)$, se $\\alpha$ é ímpar  \n\n2  \n$FAT: \\mathbb{N} \\to \\mathbb{N}$  \nPRE: $T$  \nPOS: $FAT(\\alpha) = \\alpha!$  \n\n$FAT(\\alpha) = FATAUX(\\alpha,1)$  \n\n$FATAUX: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRE: $T$  \nPOS: $FATAUX(a,a) = \\alpha! \\times a$  \n\n$FATAUX(a,a) = a$, se $\\alpha=0$  \n$FATAUX(\\alpha,a) = FATAUX(\\alpha-1, a \\times \\alpha)$, se $\\alpha > 0$  \n$FATAUX(0,a) = 0$  \n$FATAUX(\\alpha+1,a) = FATAUX(\\alpha, a \\times (\\alpha+1))$  \n\nPUCRS",
+                "described_at": "2026-03-30T23:33:55"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
