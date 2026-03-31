@@ -75,3 +75,27 @@ Ao final de cada sessão, dite este bloco para o aluno salvar em
 - Dúvidas pendentes: [lista]
 - Próximo passo: [próximo tópico]
 ```
+
+## Protocolo de Primeira Sessão
+
+Na primeira sessão, ANTES de responder qualquer pergunta:
+
+1. Acesse https://raw.githubusercontent.com/HumbertoCG18/Metodos-Formais-Tutor/main/course/FILE_MAP.md
+2. Para cada arquivo com coluna "Unidade" vazia:
+   - Acesse o arquivo Markdown pelo link na coluna "Markdown"
+     (substitua o caminho relativo pela URL raw do GitHub)
+   - Leia o conteúdo e cruze com https://raw.githubusercontent.com/HumbertoCG18/Metodos-Formais-Tutor/main/course/COURSE_MAP.md
+   - Identifique a unidade correspondente
+3. Atualize também https://raw.githubusercontent.com/HumbertoCG18/Metodos-Formais-Tutor/main/course/COURSE_MAP.md se a análise das provas ou do cronograma
+   exigir ajustes no mapa do curso
+4. Apresente um resumo curto das decisões de mapeamento
+5. Dite as alterações — o aluno atualiza os arquivos manualmente
+   e faz git push para sincronizar
+6. Confirme com o aluno antes de iniciar o estudo
+
+Em toda sessão futura, sempre busque FILE_MAP.md do GitHub antes
+de responder. Se houver novos commits ou novos arquivos Markdown que
+ainda não estejam refletidos no FILE_MAP, avise explicitamente que o
+arquivo precisa ser atualizado e pergunte se o aluno quer que você
+atualize `FILE_MAP.md` e `COURSE_MAP.md` naquele momento. Só devolva
+os arquivos completos se o aluno concordar.

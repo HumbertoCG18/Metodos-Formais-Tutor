@@ -72,3 +72,24 @@ em `student/STUDENT_STATE.md` e fazer git push:
 - Dúvidas pendentes: [lista]
 - Próximo passo sugerido: [próximo tópico]
 ```
+
+## Protocolo de Primeira Sessão
+
+Quando o aluno iniciar o primeiro chat, antes de qualquer coisa:
+
+1. Leia `course/FILE_MAP.md`
+2. Para cada arquivo com coluna "Unidade" vazia:
+   - Leia o Markdown correspondente (caminho na coluna "Markdown")
+   - Identifique os tópicos e cruze com `course/COURSE_MAP.md`
+3. Atualize também `course/COURSE_MAP.md` quando necessário
+4. Apresente um resumo curto do que foi decidido
+5. Peça confirmação antes de prosseguir
+6. Dite as alterações — o aluno atualiza os arquivos
+   e faz git push para sincronizar
+
+Após a primeira sessão, sempre releia `course/FILE_MAP.md` antes de
+responder. Se existirem novos commits ou novos arquivos Markdown no
+repositório que ainda não estejam refletidos no FILE_MAP, avise isso
+explicitamente e pergunte se o aluno quer que você atualize
+`FILE_MAP.md` e `COURSE_MAP.md`. Só retorne os arquivos completos se
+ele concordar.
