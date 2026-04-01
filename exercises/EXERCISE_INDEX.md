@@ -1,25 +1,15 @@
-# EXERCISE_INDEX — Metodos-Formais
+# EXERCISE_INDEX â€” Metodos-Formais
 
-> **Como usar:** Mapa de listas de exercícios por tópico.
-> O tutor consulta este arquivo no modo `assignment` para contextualizar
-> exercícios e no modo `exam_prep` para indicar prática por tema.
+> **Como usar:** Ãndice operacional de prÃ¡tica da disciplina.
+> O tutor consulta este arquivo para localizar listas, provas antigas
+> e recursos de exercÃ­cios por unidade, prioridade e finalidade.
 
-## Listas disponíveis
-
-| Arquivo | Título | Categoria | Observação |
-|---|---|---|---|
-| ExerciciosFormalizacaoAlgoritmosRecursao.pdf | Exerciciosformalizacaoalgoritmosrecursao | listas |  |
-| ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf | Exerciciosformalizacaoalgoritmosrecursao Respostas | gabaritos |  |
-| ExerciciosFormalizacaoAlgoritmosRecursao3.pdf | Exerciciosformalizacaoalgoritmosrecursao3 | listas |  |
-| ExerciciosFormalizacaoAlgoritmosRecursao2.pdf | Exerciciosformalizacaoalgoritmosrecursao2 | listas |  |
-| ExerciciosConjuntosIndutivos.pdf | Exerciciosconjuntosindutivos | listas |  |
-| ExerciciosEspecificacao_respostas.pdf | Exerciciosespecificacao Respostas | gabaritos |  |
-| ExerciciosEspecificacao.pdf | Exerciciosespecificacao | listas |  |
-
-## Mapeamento de exercícios por tópico
-
-> Preencha após organizar as listas. O tutor usa esta tabela para sugerir exercícios relevantes.
-
-| Tópico | Lista | Exercícios | Dificuldade | Notas |
-|---|---|---|---|---|
-| [a preencher] | | | | |
+| Recurso | Tipo | Unidade | SoluÃ§Ã£o | Prioridade | Quando usar |
+|---|---|---|---|---|---|
+| Exerciciosformalizacaoalgoritmosrecursao | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao Respostas | exercÃ­cio | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao3 | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao2 | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosconjuntosindutivos | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosespecificacao Respostas | exercÃ­cio | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosespecificacao | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |

@@ -11,25 +11,19 @@ Chame o aluno de **Humberto**.
 
 ## Arquivos de referência deste Projeto
 
-Consulte primeiro os artefatos curtos e roteadores. Não abra arquivos longos por padrão.
+Fluxo `map-first`: consulte primeiro os artefatos curtos e roteadores. Não abra arquivos longos por padrão.
 
 | Arquivo | Quando consultar |
 |---|---|
-| `course/COURSE_MAP.md` | Comece por aqui para ordem, dependências e foco do curso |
-| `student/STUDENT_STATE.md` | Sempre consulte para evitar repetição e calibrar profundidade |
-| `course/FILE_MAP.md` | Use para localizar o material certo sem abrir muitos arquivos |
-| `content/` | Material curado — abra apenas o arquivo necessário |
-| `exercises/` | Listas e exercícios resolvidos |
-| `exams/` | Provas anteriores e gabaritos |
+| `course/COURSE_MAP.md` | Ordem, dependências e foco do curso |
+| `student/STUDENT_STATE.md` | Profundidade, repetição e progresso |
+| `course/FILE_MAP.md` | Localizar o material certo sem abrir muitos arquivos |
+| `content/` | Material curado, por demanda |
+| `exercises/` | Exercícios resolvidos |
+| `exams/` | Provas e gabaritos |
 | `course/GLOSSARY.md` | Terminologia oficial da disciplina |
 | `course/SYLLABUS.md` | Cronograma e datas |
-| `system/TUTOR_POLICY.md` | Regras de comportamento |
-| `system/PEDAGOGY.md` | Estratégia de ensino |
-| `system/MODES.md` | Identificação do modo da sessão |
-| `system/OUTPUT_TEMPLATES.md` | Formatação das respostas |
-| `course/COURSE_IDENTITY.md` | Dados gerais da disciplina |
-| `student/STUDENT_PROFILE.md` | Perfil e estilo do aluno |
-| `content/BIBLIOGRAPHY.md` | Referências bibliográficas |
+| `system/*` | Regras, modos e templates de resposta |
 
 ## Ordem de leitura econômica
 
@@ -92,14 +86,15 @@ Quando o aluno enviar foto de quadro, caderno ou anotação:
 
 Quando o aluno abrir o primeiro chat deste Projeto, ou quando `course/FILE_MAP.md` estiver com `status: pending_review`:
 
-1. **Mapear arquivos → unidades**: leia `course/COURSE_MAP.md`, depois `course/FILE_MAP.md`, e preencha a coluna **Unidade** dos itens ainda vazios.
-2. Se existirem provas em `exams/`, preencha a seção de alta incidência em `course/COURSE_MAP.md`.
-3. Se houver termos pendentes em `course/GLOSSARY.md`, semeie definições curtas para o glossário.
-4. Mostre um resumo curto do que foi mapeado e confirme com o aluno.
+1. **Mapear arquivos → unidades**: leia `course/COURSE_MAP.md` e `course/FILE_MAP.md` e preencha a coluna **Unidade** dos itens vazios.
+2. **Calibrar profundidade**: consulte `student/STUDENT_STATE.md` antes de repetir explicações ou abrir material longo.
+3. **Fechar lacunas**: se `COURSE_MAP.md`, `FILE_MAP.md` e `GLOSSARY.md` não bastarem, abra o markdown longo correspondente.
+4. Se existirem provas em `exams/`, preencha a seção de alta incidência em `course/COURSE_MAP.md`.
+5. Mostre um resumo curto do que foi mapeado e confirme com o aluno.
 
 Mensagem de abertura sugerida:
 > "Olá Humberto! Antes de começarmos, vou mapear seus materiais para as unidades do curso e ajustar os arquivos-base do projeto."
 
 Regra contínua:
-- Antes de sessões futuras, releia `course/FILE_MAP.md`.
+- Antes de sessões futuras, releia `student/STUDENT_STATE.md` e `course/FILE_MAP.md`.
 - Se surgirem novos materiais ainda não refletidos nele, avise o aluno antes de continuar e proponha atualizar `FILE_MAP.md` e `COURSE_MAP.md`.
