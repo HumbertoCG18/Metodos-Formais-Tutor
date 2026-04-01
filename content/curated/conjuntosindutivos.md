@@ -110,6 +110,26 @@ O conjunto A não está contido em B quando existe pelo menos um elemento de A q
 
  $A \not\subset B$  (lê-se: A não está contido em B)
 
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** **Estrutura Acadêmica do Diagrama** O diagrama ilustra relações entre dois conjuntos *A* e *B*, representados por círculos, segundo os princípios da teoria dos conjuntos.
+<!-- /IMAGE_DESCRIPTION -->
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama apresenta quatro configurações de conjuntos $ A $ e $ B $, representados como nós circulares.
+<!-- /IMAGE_DESCRIPTION -->
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama apresenta quatro configurações de conjuntos $ A $ e $ B $, representados como nós circulares.
+<!-- /IMAGE_DESCRIPTION -->
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama apresenta quatro configurações de conjuntos $ A $ e $ B $, representados como nós circulares.
+<!-- /IMAGE_DESCRIPTION -->
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama apresenta quatro configurações de conjuntos $ A $ e $ B $, representados como nós circulares.
+<!-- /IMAGE_DESCRIPTION -->
 ![](content/images/conjuntosindutivos-_page_3_Picture_7.png)
 
 Se o conjunto *A* está contido no conjunto *B*, dizemos que *A* é um subconjunto de *B*. Como todo elemento do conjunto *A* pertence ao conjunto *A*, dizemos que *A* é subconjunto de *A* e, por extensão, todo conjunto é subconjunto dele mesmo.
