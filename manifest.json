@@ -1613,43 +1613,68 @@
       "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas.md",
       "approved_at": "2026-04-06T21:12:48",
       "review_status": "approved"
+    },
+    {
+      "id": "introducao",
+      "title": "introducao",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/introducao.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "docling",
+      "raw_target": "raw/pdfs/material-de-aula/introducao.pdf",
+      "document_report": {
+        "page_count": 24,
+        "text_chars": 7498,
+        "images_count": 11,
+        "table_candidates": 0,
+        "text_density": 312.42,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "introducao",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "docling",
+        "reasons": [
+          "Backend preferido manualmente: docling.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "docling",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/introducao",
+      "tables_dir": "staging/assets/tables/introducao",
+      "table_detection_dir": "staging/assets/table-detections/introducao",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/docling/introducao",
+      "advanced_metadata_path": "staging/markdown-auto/docling/introducao/docling-run.json",
+      "approved_markdown": "content/curated/introducao.md",
+      "curated_markdown": "content/curated/introducao.md",
+      "approved_source_markdown": "staging/markdown-auto/docling/introducao/introducao.md",
+      "approved_at": "2026-04-07T13:31:21",
+      "review_status": "approved"
     }
   ],
   "logs": [
-    {
-      "entry": "revisao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "revisao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 22
-    },
-    {
-      "entry": "revisao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "revisao",
-      "step": "curator_approve",
-      "status": "ok",
-      "approved_markdown": "content/curated/revisao.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
-      "category": "material-de-aula"
-    },
-    {
-      "entry": "introducao",
-      "step": "curator_approve",
-      "status": "ok",
-      "approved_markdown": "content/curated/introducao.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/introducao/introducao/introducao.md",
-      "category": "material-de-aula"
-    },
     {
       "entry": "exerciciosformalizacaoalgoritmosrecursao",
       "step": "pymupdf4llm",
@@ -3641,7 +3666,75 @@
       "approved_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
       "approved_source_markdown": "staging/markdown-auto/url_fetcher/archive-of-formal-proofs-355fb8.md",
       "category": "references"
+    },
+    {
+      "entry": "introducao",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducao.md",
+      "asset_dir": "staging/assets/inline-images/introducao",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "introducao",
+      "step": "docling",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/docling/introducao/introducao.md",
+      "asset_dir": "staging/markdown-auto/docling/introducao",
+      "metadata_path": "staging/markdown-auto/docling/introducao/docling-run.json",
+      "notes": [
+        "Saída avançada gerada com Docling CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\introducao.pdf",
+        "--to",
+        "md",
+        "--output",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\introducao",
+        "--image-export-mode",
+        "referenced",
+        "--tables",
+        "--ocr",
+        "--ocr-lang",
+        "por,eng",
+        "--table-mode",
+        "accurate",
+        "-vv",
+        "--enrich-formula"
+      ]
+    },
+    {
+      "entry": "introducao",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 7
+    },
+    {
+      "entry": "introducao",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 26
+    },
+    {
+      "entry": "introducao",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "introducao",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/introducao.md",
+      "approved_source_markdown": "staging/markdown-auto/docling/introducao/introducao.md",
+      "category": "material-de-aula"
     }
   ],
-  "updated_at": "2026-04-07T02:22:44"
+  "updated_at": "2026-04-07T13:31:21"
 }

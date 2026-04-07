@@ -28,7 +28,7 @@
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2. Linguagens de Especificação e Lógicas
-**Definição:** Exemplo: teste de software - Técnicas de V&V formais requerem o uso de linguagens formais de especificação e fundamentos matemáticos sólidos.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais

@@ -139,8 +139,3 @@ Revisão
 
 #### Hierarquia de Chomsky
 
-<!-- IMAGE_DESCRIPTION: revisao-_page_21_Picture_1.jpeg -->
-<!-- Tipo: diagrama -->
-> **[Descrição de imagem]** O diagrama representa a hierarquia de Chomsky por meio de uma estrutura de subconjuntos aninhados.
-<!-- /IMAGE_DESCRIPTION -->
-
