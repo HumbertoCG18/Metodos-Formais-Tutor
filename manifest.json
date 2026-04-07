@@ -64,65 +64,6 @@
       "auto_tags": []
     },
     {
-      "id": "introducao",
-      "title": "Introducao",
-      "category": "material-de-aula",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/introducao.pdf",
-      "tags": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/material-de-aula/introducao.pdf",
-      "document_report": {
-        "page_count": 24,
-        "text_chars": 7498,
-        "images_count": 11,
-        "table_candidates": 0,
-        "text_density": 312.42,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "introducao",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": "content/curated/introducao.md",
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/introducao",
-      "tables_dir": "staging/assets/tables/introducao",
-      "table_detection_dir": "staging/assets/table-detections/introducao",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/introducao",
-      "advanced_metadata_path": "staging/markdown-auto/marker/introducao/marker-run.json",
-      "approved_markdown": "content/curated/introducao.md",
-      "curated_markdown": "content/curated/introducao.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/introducao/introducao/introducao.md",
-      "approved_at": "2026-03-23T21:38:30",
-      "review_status": "approved",
-      "manual_tags": [],
-      "auto_tags": [
-        "tipo:material-base"
-      ]
-    },
-    {
       "id": "revisao",
       "title": "Revisao",
       "category": "material-de-aula",
@@ -3702,5 +3643,5 @@
       "category": "references"
     }
   ],
-  "updated_at": "2026-04-07T02:12:21"
+  "updated_at": "2026-04-07T02:22:44"
 }
