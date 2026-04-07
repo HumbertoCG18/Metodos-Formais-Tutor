@@ -58,22 +58,20 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosespecificacao.pdf`; tags: `tipo:lista`; unidade-manual: `unidade-01-metodos-formais` |  |  |  |  |
 | 19 | Logicapredicados Semantica | material-de-aula | teoria base | alta | `content/curated/logicapredicados-semantica.md` | unidade-01-metodos-formais | 04/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicapredicados-semantica.pdf`; tags: `tipo:material-base`; unidade-manual: `unidade-01-metodos-formais` |  |  |  |  |
-| 20 | Archive of Formal Proofs | references | consulta pontual | alta | A revisar | unidade-01-metodos-formais | 04/03/2026 |
-|  | ↳ rastreabilidade |  | markdown-base: `staging/markdown-auto/url_fetcher/archive-of-formal-proofs-355fb8.md` |  |  |  |  |
-| 21 | Isabelle | references | consulta pontual | alta | A revisar | unidade-01-metodos-formais | 06/04/2026 a 13/04/2026 |
-|  | ↳ rastreabilidade |  | markdown-base: `staging/markdown-auto/url_fetcher/isabelle-f92eb8.md` |  |  |  |  |
-| 22 | Exerciciosisabelle2 | listas | exercícios | alta | A revisar | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle2.pdf`; tags: `tipo:lista`; markdown-base: `staging/markdown-auto/pymupdf4llm/exerciciosisabelle2.md` |  |  |  |  |
-| 23 | Exerciciosisabelle | listas | exercícios | alta | A revisar | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle.pdf`; tags: `tipo:lista`; markdown-base: `staging/markdown-auto/pymupdf4llm/exerciciosisabelle.md` |  |  |  |  |
-| 24 | Exercicioscorrecaoinducaomatematica | listas | exercícios | alta | A revisar | unidade-02-verificacao-de-programas | 06/05/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exercicioscorrecaoinducaomatematica.pdf`; tags: `tipo:lista`; markdown-base: `staging/markdown-auto/pymupdf4llm/exercicioscorrecaoinducaomatematica.md` |  |  |  |  |
-| 25 | Provasindutivas Especificaçõesrecursivas Arvores | material-de-aula | teoria base | alta | A revisar | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-arvores.pdf`; tags: `tipo:material-base`; markdown-base: `staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas-arvores.md` |  |  |  |  |
-| 26 | Provasindutivas Especificaçõesrecursivas Listas | material-de-aula | teoria base | alta | A revisar | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-listas.pdf`; tags: `tipo:material-base`; markdown-base: `staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas-listas.md` |  |  |  |  |
-| 27 | Provasindutivas Especificaçõesrecursivas | material-de-aula | teoria base | alta | A revisar | unidade-01-metodos-formais | 04/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas.pdf`; tags: `tipo:material-base`; markdown-base: `staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas.md` |  |  |  |  |
+| 20 | Archive of Formal Proofs | references | consulta pontual | alta | `content/curated/archive-of-formal-proofs-355fb8.md` | unidade-01-metodos-formais | 04/03/2026 |
+|  | ↳ rastreabilidade |  | tags: `ferramenta:isabelle` |  |  |  |  |
+| 21 | Exerciciosisabelle2 | listas | exercícios | alta | `exercises/lists/exerciciosisabelle2.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle2.pdf`; tags: `ferramenta:isabelle; tipo:lista` |  |  |  |  |
+| 22 | Exerciciosisabelle | listas | exercícios | alta | `exercises/lists/exerciciosisabelle.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle.pdf`; tags: `ferramenta:isabelle; tipo:lista` |  |  |  |  |
+| 23 | Exercicioscorrecaoinducaomatematica | listas | exercícios | alta | `exercises/lists/exercicioscorrecaoinducaomatematica.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exercicioscorrecaoinducaomatematica.pdf`; tags: `tipo:lista` |  |  |  |  |
+| 24 | Provasindutivas Especificaçõesrecursivas Arvores | material-de-aula | teoria base | alta | `content/curated/provasindutivas-especificacoesrecursivas-arvores.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-arvores.pdf`; tags: `tipo:material-base` |  |  |  |  |
+| 25 | Provasindutivas Especificaçõesrecursivas Listas | material-de-aula | teoria base | alta | `content/curated/provasindutivas-especificacoesrecursivas-listas.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-listas.pdf`; tags: `tipo:material-base` |  |  |  |  |
+| 26 | Provasindutivas Especificaçõesrecursivas | material-de-aula | teoria base | alta | `content/curated/provasindutivas-especificacoesrecursivas.md` | unidade-01-metodos-formais | 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas.pdf`; tags: `tipo:material-base` |  |  |  |  |
 
 ## Legenda
 

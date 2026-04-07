@@ -27,6 +27,10 @@ $$\forall x \in \mathbb{Z}. (x \ge m \to P(x)) (P(x) \text{ \'e verdadeiro para 
 - Caso base: P(m); isto é, o predicado é verdadeiro para x com valor m.
 - Caso indutivo:  $\forall x \in \mathbb{Z}. \left(\left(x \geq m \land P(x)\right) \rightarrow P(x+1)\right)$ ; isto é, para um inteiro arbitrário  $x_0 \geq m$ , assumimos que  $P(x_0)$  é verdadeiro (isso é chamado de HI Hipótese de Indução) e provamos que  $P(x_0+1)$  também é verdadeiro (isso é chamado de Passo da Indução).
 
+<!-- IMAGE_DESCRIPTION: provasindutivas-especificacoesrecursivas-_page_1_Figure_0.png -->
+<!-- Tipo: genérico -->
+> **[Descrição de imagem]** A imagem apresenta um diagrama estruturado que ilustra o princípio da indução matemática generalizada.
+<!-- /IMAGE_DESCRIPTION -->
 ![](content/images/provasindutivas-especificacoesrecursivas-_page_1_Figure_0.png)
 
 ## 3. Provas por indução de especificações recursivas

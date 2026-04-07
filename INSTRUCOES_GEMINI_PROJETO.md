@@ -72,23 +72,21 @@ em `student/STUDENT_STATE.md` e fazer git push:
 - Dúvidas pendentes: [lista]
 - Próximo passo sugerido: [próximo tópico]
 ```
-
 ## Protocolo de Primeira Sessão
 
-Quando o aluno iniciar o primeiro chat, antes de qualquer coisa:
+1. Leia `course/COURSE_MAP.md`, `course/FILE_MAP.md`, `course/GLOSSARY.md` e `student/STUDENT_STATE.md`.
+2. Trate `FILE_MAP.md` e `COURSE_MAP.md` como artefatos estruturais gerados pelo app.
+3. Se algo parecer desatualizado, proponha `Reprocessar Repositório` ou ajuste manual no backlog.
+4. não reescreva `FILE_MAP.md`/`COURSE_MAP.md` manualmente como fluxo padrão.
 
-1. Leia `course/COURSE_MAP.md`, `course/FILE_MAP.md`, `course/GLOSSARY.md` e `student/STUDENT_STATE.md`
-2. Trate `FILE_MAP.md` e `COURSE_MAP.md` como artefatos estruturais gerados pelo app
-3. Se encontrar itens com `Unidade` ou `Período` vazios, ambíguos ou desatualizados:
-   - avise isso explicitamente
-   - proponha `Reprocessar Repositório` ou ajuste manual no backlog
-   - não reescreva `FILE_MAP.md`/`COURSE_MAP.md` manualmente como fluxo padrão
-4. Use os artefatos curtos como roteadores e só abra markdown longo quando necessário
-5. Apresente um resumo curto do diagnóstico estrutural
-6. Peça confirmação antes de prosseguir
-
-Após a primeira sessão, sempre releia `course/FILE_MAP.md` antes de
-responder. Se existirem novos commits ou novos arquivos Markdown no
-repositório que ainda não estejam refletidos no FILE_MAP, avise isso
-explicitamente e proponha reprocessar o repositório ou revisar
-overrides no backlog.
+Quando o aluno abrir o primeiro chat deste Projeto, ou quando `course/FILE_MAP.md` estiver com `status: pending_review`:
+1. Consulte os artefatos estruturais gerados pelo app.
+2. Assuma que `FILE_MAP.md` e `COURSE_MAP.md` são a base estrutural atual do repositório.
+3. Se detectar lacunas reais, explique isso ao aluno antes de continuar.
+4. Encaminhe a correção pelo fluxo do app: `Reprocessar Repositório` ou override manual no backlog.
+5. Não trate esses arquivos como formulários a preencher manualmente.
+6. Use os artefatos curtos para navegar e só abra markdown longo quando necessário.
+7. Mostre um resumo curto do diagnóstico estrutural antes de iniciar o estudo.
+Mensagem de abertura sugerida: "Olá Humberto! Antes de começarmos, vou conferir os artefatos-base do projeto para ver se o mapeamento estrutural já está consistente."
+Horário: Seg/Qua 19:15-20:45
+Projeto: Metodos-Formais

@@ -1151,7 +1151,9 @@
       "source_path": "https://www.isa-afp.org/",
       "tags": "",
       "manual_tags": [],
-      "auto_tags": [],
+      "auto_tags": [
+        "ferramenta:isabelle"
+      ],
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -1161,7 +1163,7 @@
       "preferred_backend": "url_fetcher",
       "document_report": null,
       "pipeline_decision": null,
-      "base_markdown": null,
+      "base_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
       "advanced_markdown": null,
       "advanced_backend": null,
       "base_backend": "url_fetcher",
@@ -1181,6 +1183,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:isabelle",
         "tipo:lista"
       ],
       "notes": "",
@@ -1214,7 +1217,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exerciciosisabelle2.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -1263,6 +1266,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:isabelle",
         "tipo:lista"
       ],
       "notes": "",
@@ -1296,7 +1300,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exerciciosisabelle.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -1390,7 +1394,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exercicioscorrecaoinducaomatematica.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -1671,53 +1675,6 @@
     }
   ],
   "logs": [
-    {
-      "entry": "introducao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 26
-    },
-    {
-      "entry": "introducao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "revisao",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
-      "asset_dir": "staging/assets/inline-images/revisao",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "revisao",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
-      "asset_dir": "staging/markdown-auto/marker/revisao",
-      "metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\revisao",
-        "--page_range",
-        "0-21",
-        "--force_ocr"
-      ]
-    },
     {
       "entry": "revisao",
       "step": "extract_images",
@@ -3745,5 +3702,5 @@
       "category": "references"
     }
   ],
-  "updated_at": "2026-04-06T21:21:19"
+  "updated_at": "2026-04-07T02:12:21"
 }
