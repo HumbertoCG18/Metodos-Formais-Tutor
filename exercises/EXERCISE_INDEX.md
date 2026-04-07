@@ -6,10 +6,13 @@
 
 | Recurso | Tipo | Unidade | SoluÃ§Ã£o | Prioridade | Quando usar |
 |---|---|---|---|---|---|
-| Exerciciosformalizacaoalgoritmosrecursao | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosformalizacaoalgoritmosrecursao Respostas | exercÃ­cio | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosformalizacaoalgoritmosrecursao3 | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosformalizacaoalgoritmosrecursao2 | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosconjuntosindutivos | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosespecificacao Respostas | exercÃ­cio | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
-| Exerciciosespecificacao | lista | nÃ£o mapeado | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao Respostas | exercÃ­cio | tipo:gabarito | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao3 | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosformalizacaoalgoritmosrecursao2 | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosconjuntosindutivos | lista | topico:conjuntos-indutivos; tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosespecificacao Respostas | exercÃ­cio | tipo:gabarito | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosespecificacao | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosisabelle2 | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exerciciosisabelle | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |
+| Exercicioscorrecaoinducaomatematica | lista | tipo:lista | nÃ£o | mÃ©dia | fixaÃ§Ã£o por unidade |

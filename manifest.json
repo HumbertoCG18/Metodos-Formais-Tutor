@@ -31,13 +31,16 @@
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
-      "relevant_for_exam": true,
+      "relevant_for_exam": false,
       "processing_mode": "auto",
       "document_profile": "general",
       "preferred_backend": "auto",
       "extracted_files": [],
       "base_markdown": null,
-      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\eth2\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\eth2\\main'...\nfatal: Remote branch main not found in upstream origin\n",
+      "effective_profile": "general",
+      "manual_tags": [],
+      "auto_tags": []
     },
     {
       "id": "aws-encryption-sdk",
@@ -49,13 +52,16 @@
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
-      "relevant_for_exam": true,
+      "relevant_for_exam": false,
       "processing_mode": "auto",
       "document_profile": "general",
       "preferred_backend": "auto",
       "extracted_files": [],
       "base_markdown": null,
-      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\aws-encryption-sdk\\main'...\nfatal: Remote branch main not found in upstream origin\n"
+      "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\aws-encryption-sdk\\main'...\nfatal: Remote branch main not found in upstream origin\n",
+      "effective_profile": "general",
+      "manual_tags": [],
+      "auto_tags": []
     },
     {
       "id": "introducao",
@@ -95,7 +101,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/introducao.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -110,7 +116,11 @@
       "curated_markdown": "content/curated/introducao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/introducao/introducao/introducao.md",
       "approved_at": "2026-03-23T21:38:30",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ]
     },
     {
       "id": "revisao",
@@ -150,7 +160,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/revisao.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -168,7 +178,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-01T13:46:56",
+        "curated_at": "2026-04-06T21:29:31",
         "pages": {
           "22": {
             "include_page": true,
@@ -182,7 +192,11 @@
             }
           }
         }
-      }
+      },
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ]
     },
     {
       "id": "logicaproposicional-sintaxe",
@@ -222,7 +236,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/logicaproposicional-sintaxe.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -254,7 +268,13 @@
             }
           }
         }
-      }
+      },
+      "manual_tags": [],
+      "auto_tags": [
+        "topico:logica-propocional",
+        "topico:logica-proposicional",
+        "tipo:material-base"
+      ]
     },
     {
       "id": "formalizacaoalgoritmos-recursao3",
@@ -294,7 +314,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -309,7 +329,13 @@
       "curated_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "approved_source_markdown": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
       "approved_at": "2026-03-24T11:55:03",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "topico:funcoes-recursivas",
+        "topico:funcoes-recursivas-sobre-arvores",
+        "tipo:material-base"
+      ]
     },
     {
       "id": "formalizacaoalgoritmos-recursao",
@@ -349,7 +375,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/formalizacaoalgoritmos-recursao.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -364,7 +390,11 @@
       "curated_markdown": "content/curated/formalizacaoalgoritmos-recursao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao.md",
       "approved_at": "2026-03-24T11:54:50",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ]
     },
     {
       "id": "conjuntosindutivos",
@@ -404,7 +434,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/conjuntosindutivos.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -422,7 +452,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-01T13:48:55",
+        "curated_at": "2026-04-06T21:29:34",
         "pages": {
           "4": {
             "include_page": true,
@@ -436,7 +466,12 @@
             }
           }
         }
-      }
+      },
+      "manual_tags": [],
+      "auto_tags": [
+        "topico:conjuntos-indutivos",
+        "tipo:material-base"
+      ]
     },
     {
       "id": "logicapredicados-sintaxe",
@@ -476,7 +511,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/logicapredicados-sintaxe.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -491,7 +526,11 @@
       "curated_markdown": "content/curated/logicapredicados-sintaxe.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-sintaxe/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
       "approved_at": "2026-03-24T11:47:59",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ]
     },
     {
       "id": "logicaproposicional-semantica",
@@ -531,7 +570,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/logicaproposicional-semantica.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -546,7 +585,13 @@
       "curated_markdown": "content/curated/logicaproposicional-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicaproposicional-semantica/logicaproposicional-semantica/logicaproposicional-semantica.md",
       "approved_at": "2026-03-24T12:48:02",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "topico:logica-propocional",
+        "topico:logica-proposicional",
+        "tipo:material-base"
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao",
@@ -586,7 +631,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -601,7 +646,11 @@
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
       "approved_at": "2026-03-24T21:46:36",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao-respostas",
@@ -688,7 +737,13 @@
             }
           }
         }
-      }
+      },
+      "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:gabarito"
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
@@ -738,7 +793,11 @@
       "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao3.md",
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/marker-run.json"
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/marker-run.json",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao2",
@@ -788,7 +847,11 @@
       "manual_review": "manual-review/pdfs/exerciciosformalizacaoalgoritmosrecursao2.md",
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/marker-run.json"
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao2/marker-run.json",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ]
     },
     {
       "id": "formalizacaoalgoritmos-recursao2",
@@ -838,7 +901,11 @@
       "manual_review": "manual-review/pdfs/formalizacaoalgoritmos-recursao2.md",
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2",
-      "advanced_metadata_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/marker-run.json"
+      "advanced_metadata_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/marker-run.json",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ]
     },
     {
       "id": "exerciciosconjuntosindutivos",
@@ -878,7 +945,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -893,7 +960,13 @@
       "curated_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
       "approved_source_markdown": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
       "approved_at": "2026-03-24T23:44:23",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "topico:conjuntos-indutivos",
+        "tipo:lista"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais"
     },
     {
       "id": "exerciciosespecificacao-respostas",
@@ -943,7 +1016,12 @@
       "manual_review": "manual-review/pdfs/exerciciosespecificacao-respostas.md",
       "effective_profile": "math_heavy",
       "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosespecificacao-respostas",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/marker-run.json"
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosespecificacao-respostas/marker-run.json",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:gabarito"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais"
     },
     {
       "id": "exerciciosespecificacao",
@@ -983,7 +1061,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "exercises/lists/exerciciosespecificacao.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -998,7 +1076,12 @@
       "curated_markdown": "exercises/lists/exerciciosespecificacao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/exerciciosespecificacao/exerciciosespecificacao/exerciciosespecificacao.md",
       "approved_at": "2026-03-24T23:44:37",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais"
     },
     {
       "id": "logicapredicados-semantica",
@@ -1038,7 +1121,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/logicapredicados-semantica.md",
       "advanced_markdown": null,
       "advanced_backend": "marker",
       "base_backend": "pymupdf4llm",
@@ -1053,401 +1136,541 @@
       "curated_markdown": "content/curated/logicapredicados-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
       "approved_at": "2026-03-24T23:44:59",
+      "review_status": "approved",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais"
+    },
+    {
+      "id": "archive-of-formal-proofs-355fb8",
+      "title": "Archive of Formal Proofs",
+      "category": "references",
+      "file_type": "url",
+      "source_path": "https://www.isa-afp.org/",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "general",
+      "preferred_backend": "url_fetcher",
+      "document_report": null,
+      "pipeline_decision": null,
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": null,
+      "base_backend": "url_fetcher",
+      "manual_review": null,
+      "approved_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
+      "curated_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/archive-of-formal-proofs-355fb8.md",
+      "approved_at": "2026-04-06T21:21:19",
+      "review_status": "approved"
+    },
+    {
+      "id": "exerciciosisabelle2",
+      "title": "Exerciciosisabelle2",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle2.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosisabelle2.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2470,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1235.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosisabelle2",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosisabelle2",
+      "tables_dir": "staging/assets/tables/exerciciosisabelle2",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosisabelle2",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosisabelle2",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosisabelle2/marker-run.json",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-06T21:28:44",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "exerciciosisabelle2-page-001-manual-210925.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "A imagem apresenta definições formais relacionadas a árvores binárias, estruturadas em regras de inferência e uma função recursiva. Na parte superior, duas regras de formação para o conjunto $ \\text{ArvBin}(\\tau) $ (árvores binárias sobre um tipo $ \\tau $) são exibidas:  \n\n1. **Regra \"vazia\"**: Representa a árvore binária vazia, denotada por $ \\langle \\; \\rangle $, com a conclusão $ \\langle \\; \\rangle \\in \\text{ArvBin}(\\tau) $. A regra não possui premissas, indicando que a árvore vazia é um elemento primitivo do conjunto.  \n\n2. **Regra \"cons\"**: Define a construção de uma árvore binária não vazia a partir de duas subárvores ($ L $ e $ R $) e um valor $ x $ do tipo $ \\tau $. As premissas são $ L \\in \\text{ArvBin}(\\tau) $, $ R \\in \\text{ArvBin}(\\tau) $ e $ x \\in \\tau $, com a conclusão $ \\langle L, x, R \\rangle \\in \\text{ArvBin}(\\tau) $.  \n\nNa parte inferior, está a definição da função $ \\text{numnodos} : \\text{ArvBin}(\\tau) \\to \\mathbb{N} $, que computa o número de nós em uma árvore binária. A equação (1) especifica o **caso base**: $ \\text{numnodos}(\\langle \\; \\rangle) = 0 $, indicando que a árvore vazia contém zero nós. A notação e a estrutura refletem uma abordagem matemática rigorosa, com ênfase em tipos (como $ \\tau $) e semântica operacional para árvores binárias.",
+                "described_at": "2026-04-06T21:27:03"
+              },
+              "exerciciosisabelle2-page-001-manual-211008.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta uma estrutura formal para definir listas tipadas e operações sobre elas, organizada em três componentes principais:\n\n1. **Nós e Hierarquia**:\n   - **Níveis de definição**:\n     - **Nível 1 (Tipos)**: Regras de inferência para o tipo `List(τ)`:\n       - `empty`: `[ ] ∈ List(τ)`.\n       - `cons`: $\\frac{L \\in List(\\tau), h \\in \\tau}{h:L \\in List(\\tau)}$.\n     - **Nível 2 (Funções)**: Definições recursivas sobre `List(τ)`:\n       - `cat: List(τ) × List(τ) → List(τ)`.\n       - `tamanho: List(τ) → ℕ`.\n\n2. **Relações**:\n   - As regras `empty` e `cons` estabelecem a base indutiva para `List(τ)`.\n   - As funções `cat` e `tamanho` dependem da estrutura recursiva de `List(τ)` definida pelas regras do Nível 1, utilizando padrões de correspondência (pattern matching) com casos base (`[ ]`) e recursivo (`h:T`).\n\n3. **Regras Representadas**:\n   - **Para `cat`**:\n     - $(cat1)$: $cat([ ], l) = l$,\n     - $(cat2)$: $cat(h:T, l) = h:cat(T, l)$.\n   - **Para `tamanho`**:\n     - $(tamanho1)$: $tamanho([ ]) = 0$,\n     - $(tamanho2)$: $tamanho(h:T) = 1 + tamanho(T)$.\n\nA hierarquia reflete uma construção indutiva: o tipo `List(τ)` é definido por regras de formação (`empty`, `cons`), enquanto as funções operam sobre essa estrutura via recursão estrutural, garantindo totalidade e consistência tipada.",
+                "described_at": "2026-04-06T21:28:11"
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "exercises/lists/exerciciosisabelle2.md",
+      "curated_markdown": "exercises/lists/exerciciosisabelle2.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosisabelle2/exerciciosisabelle2/exerciciosisabelle2.md",
+      "approved_at": "2026-04-06T21:15:12",
+      "review_status": "approved"
+    },
+    {
+      "id": "exerciciosisabelle",
+      "title": "Exerciciosisabelle",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exerciciosisabelle.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2080,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1040.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosisabelle",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosisabelle",
+      "tables_dir": "staging/assets/tables/exerciciosisabelle",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosisabelle",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosisabelle",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosisabelle/marker-run.json",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-06T21:28:57",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "exerciciosisabelle-page-001-manual-210623.png": {
+                "type": "código",
+                "include": true,
+                "description": "primrec soma::\"nat ⇒ nat ⇒ nat\" where\n  soma01: \"soma x 0 = x\" |\n  soma02: \"soma x (Suc y) = Suc (soma x y)\"\n\nA linguagem de programação é Isabelle/HOL.",
+                "described_at": "2026-04-06T21:23:27"
+              },
+              "exerciciosisabelle-page-001-manual-210631.png": {
+                "type": "código",
+                "include": true,
+                "description": "primrec mult::\"nat ⇒ nat ⇒ nat\" where\n  mult01: \"mult x 0 = 0\" |\n\nA linguagem de programação é Isabelle/HOL.",
+                "described_at": "2026-04-06T21:25:13"
+              },
+              "exerciciosisabelle2-page-001-manual-210925.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta uma definição indutiva do tipo `ArvBin(τ)` e a função `numnodos`, estruturados formalmente como segue:\n\n**Nós**:  \n- Duas regras de inferência: `vazia` e `cons`.  \n- Definição da função `numnodos: ArvBin(τ) → ℕ`.  \n\n**Relações**:  \n- Regra `vazia`: Premissa vazia implica `⟨ ⟩ ∈ ArvBin(τ)`.  \n- Regra `cons`: Premissas `L ∈ ArvBin(τ)`, `R ∈ ArvBin(τ)` e `x ∈ τ` implicam `⟨L, x, R⟩ ∈ ArvBin(τ)`.  \n- Função `numnodos`: Base definida por `numnodos(⟨ ⟩) = 0` (equação (1)).  \n\n**Hierarquia**:  \n- Definição indutiva de `ArvBin(τ)`:  \n  - **Caso base**: `⟨ ⟩` (árvore vazia).  \n  - **Passo indutivo**: Construção via `⟨L, x, R⟩` a partir de subárvores `L`, `R` e valor `x`.  \n- A função `numnodos` segue a estrutura indutiva, com base na árvore vazia.  \n\n**Regras formais**:  \n1. **Formação de `ArvBin(τ)`**:  \n   $$\n   \\frac{}{⟨ ⟩ \\in ArvBin(\\tau)} \\text{vazia} \\quad \\frac{L \\in ArvBin(\\tau) \\quad R \\in ArvBin(\\tau) \\quad x \\in \\tau}{⟨L, x, R⟩ \\in ArvBin(\\tau)} \\text{cons}\n   $$  \n2. **Definição de `numnodos`**:  \n   $$\n   numnodos(⟨ ⟩) = 0 \\quad (1)\n   $$  \nA hierarquia reflete a estrutura recursiva de árvores binárias, com a regra `cons` estendendo a base `vazia`, e `numnodos` computando o número de nós via indução estrutural.",
+                "described_at": "2026-04-06T21:24:32"
+              },
+              "exerciciosisabelle2-page-001-manual-211008.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta uma definição indutiva do tipo $List(\\tau)$ e funções recursivas sobre ele. Os **nós** principais são: o tipo indutivo $List(\\tau)$, seus construtores $[\\ ]$ (empty) e $h:L$ (cons), e as funções $cat$ e $tamanho$. As **relações** são definidas por regras de inferência e equações recursivas. A **hierarquia** é indutiva, com $[\\ ]$ como caso base e $cons$ como passo indutivo, onde estruturas complexas dependem de componentes menores. As **regras** representadas são:  \n\n1. **Regras de formação de $List(\\tau)$**:  \n   - Regra *empty*: $\\dfrac{}{[\\ ] \\in List(\\tau)}$  \n   - Regra *cons*: $\\dfrac{L \\in List(\\tau), h \\in \\tau}{h:L \\in List(\\tau)}$  \n\n2. **Função $cat$**: $cat: List(\\tau) \\times List(\\tau) \\rightarrow List(\\tau)$, com equações:  \n   - (cat1) $cat([\\ ], l) = l$  \n   - (cat2) $cat(h:T, l) = h:cat(T, l)$  \n\n3. **Função $tamanho$**: $tamanho: List(\\tau) \\rightarrow \\mathbb{N}$, com equações:  \n   - (tamanho1) $tamanho([\\ ]) = 0$  \n   - (tamanho2) $tamanho(h:T) = 1 + tamanho(T)$  \n\nA estrutura reflete recursão estrutural, onde $cons$, $cat$ e $tamanho$ são definidos indutivamente com base na decomposição do tipo $List(\\tau)$.",
+                "described_at": "2026-04-06T21:26:27"
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "exercises/lists/exerciciosisabelle.md",
+      "curated_markdown": "exercises/lists/exerciciosisabelle.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosisabelle.md",
+      "approved_at": "2026-04-06T21:21:04",
+      "review_status": "approved"
+    },
+    {
+      "id": "exercicioscorrecaoinducaomatematica",
+      "title": "Exercicioscorrecaoinducaomatematica",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosCorrecaoInducaoMatematica.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:lista"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/listas/exercicioscorrecaoinducaomatematica.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 1683,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 841.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exercicioscorrecaoinducaomatematica",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": null,
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exercicioscorrecaoinducaomatematica",
+      "tables_dir": "staging/assets/tables/exercicioscorrecaoinducaomatematica",
+      "table_detection_dir": "staging/assets/table-detections/exercicioscorrecaoinducaomatematica",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica",
+      "advanced_metadata_path": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica/marker-run.json",
+      "approved_markdown": "exercises/lists/exercicioscorrecaoinducaomatematica.md",
+      "curated_markdown": "exercises/lists/exercicioscorrecaoinducaomatematica.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica.md",
+      "approved_at": "2026-04-06T21:20:27",
+      "review_status": "approved"
+    },
+    {
+      "id": "provasindutivas-especificacoesrecursivas-arvores",
+      "title": "Provasindutivas Especificaçõesrecursivas Arvores",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Arvores.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-arvores.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2202,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1101.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "provasindutivas-especificacoesrecursivas-arvores",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "content/curated/provasindutivas-especificacoesrecursivas-arvores.md",
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/provasindutivas-especificacoesrecursivas-arvores",
+      "tables_dir": "staging/assets/tables/provasindutivas-especificacoesrecursivas-arvores",
+      "table_detection_dir": "staging/assets/table-detections/provasindutivas-especificacoesrecursivas-arvores",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores",
+      "advanced_metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores/marker-run.json",
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas-arvores.md",
+      "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas-arvores.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores.md",
+      "approved_at": "2026-04-06T21:14:24",
+      "review_status": "approved"
+    },
+    {
+      "id": "provasindutivas-especificacoesrecursivas-listas",
+      "title": "Provasindutivas Especificaçõesrecursivas Listas",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Listas.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-listas.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2189,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1094.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "provasindutivas-especificacoesrecursivas-listas",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "content/curated/provasindutivas-especificacoesrecursivas-listas.md",
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/provasindutivas-especificacoesrecursivas-listas",
+      "tables_dir": "staging/assets/tables/provasindutivas-especificacoesrecursivas-listas",
+      "table_detection_dir": "staging/assets/table-detections/provasindutivas-especificacoesrecursivas-listas",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas",
+      "advanced_metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas/marker-run.json",
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas-listas.md",
+      "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas-listas.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas.md",
+      "approved_at": "2026-04-06T21:13:45",
+      "review_status": "approved"
+    },
+    {
+      "id": "provasindutivas-especificacoesrecursivas",
+      "title": "Provasindutivas Especificaçõesrecursivas",
+      "category": "material-de-aula",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "tipo:material-base"
+      ],
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "marker",
+      "raw_target": "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas.pdf",
+      "document_report": {
+        "page_count": 5,
+        "text_chars": 4823,
+        "images_count": 0,
+        "table_candidates": 1,
+        "text_density": 964.6,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "provasindutivas-especificacoesrecursivas",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "marker",
+        "reasons": [
+          "Backend preferido manualmente: marker.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "content/curated/provasindutivas-especificacoesrecursivas.md",
+      "advanced_markdown": null,
+      "advanced_backend": "marker",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/provasindutivas-especificacoesrecursivas",
+      "tables_dir": "staging/assets/tables/provasindutivas-especificacoesrecursivas",
+      "table_detection_dir": "staging/assets/table-detections/provasindutivas-especificacoesrecursivas",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas",
+      "advanced_metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/marker-run.json",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-06T21:29:26",
+        "pages": {
+          "2": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-_page_1_Figure_0.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta um diagrama estruturado que ilustra o princípio da indução matemática generalizada. No topo, uma seção destacada com o título \"indução matemática generalizada\" é seguida por uma linha horizontal. Abaixo, à esquerda, encontra-se o \"caso base\" representado por $ P(m) $, indicando a verificação do predicado para um valor inicial $ m \\in \\mathbb{Z} $. Centralizado, um retângulo contém o \"caso indutivo\": na parte superior, $ x_0 \\geq m, P(x_0) $ (HI), onde \"HI\" denota *hipótese de indução*; seguido de reticências e, na parte inferior do retângulo, $ P(x_0 + 1) $. À direita do retângulo, a nota $ (x_0 \\text{ arbitrário}) $ explicita que $ x_0 $ é um inteiro arbitrário satisfazendo $ x_0 \\geq m $. Abaixo do diagrama, uma linha horizontal conecta os elementos anteriores à conclusão: $ \\forall x \\in \\mathbb{Z}. \\, (x \\geq m \\rightarrow P(x)) $, rotulada como \"IndGen\". Este arranjo visual sintetiza a estrutura lógica da indução generalizada, destacando a necessidade de provar o caso base $ P(m) $ e, assumindo $ P(x_0) $ para $ x_0 \\geq m $ (HI), demonstrar $ P(x_0 + 1) $, garantindo assim a validade do predicado para todos os inteiros $ x \\geq m $.",
+                "described_at": "2026-04-06T20:49:21"
+              }
+            }
+          },
+          "3": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0003-21.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta uma equação matemática definindo a função $ P(n) $ por meio de uma notação de soma. A expressão é escrita como $ P(n) \\triangleq \\text{Sum2k}(0, n) = \\sum_{k=0}^{n} 2k $, onde:  \n- O símbolo $ \\triangleq $ denota \"definido como\", estabelecendo que $ P(n) $ é igual à função $ \\text{Sum2k}(0, n) $;  \n- $ \\text{Sum2k}(0, n) $ representa uma função específica que soma os termos $ 2k $ no intervalo de $ k = 0 $ até $ k = n $;  \n- A notação de somatório $ \\sum_{k=0}^{n} 2k $ explicita a operação, com $ k $ como índice de iteração que varia de $ 0 $ (limite inferior) a $ n $ (limite superior), e $ 2k $ como termo geral da soma.  \nA estrutura reflete uma definição recursiva ou funcional comum em contextos de análise de algoritmos ou teoria da computação, onde $ P(n) $ pode representar uma sequência ou complexidade computacional associada à soma dos primeiros $ n+1 $ termos pares (incluindo $ k=0 $). A notação é rigorosa, utilizando símbolos padrão em matemática discreta e algoritmos.",
+                "described_at": "2026-04-06T20:51:06"
+              }
+            }
+          },
+          "4": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0004-03.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta uma equação matemática definida de forma rigorosa, expressa como \\( P(0) \\triangleq \\text{Sum2}k(0,0) = \\sum_{k=0}^{0} 2k \\). A notação \\( \\triangleq \\) indica uma definição, estabelecendo que \\( P(0) \\) é igual à função \\( \\text{Sum2}k(0,0) \\), a qual é explicitada como uma soma finita. A soma, representada pelo símbolo \\( \\sum \\), tem limite inferior \\( k=0 \\) e superior \\( k=0 \\), o que caracteriza um caso degenerado com apenas um termo. O integrando \\( 2k \\) é avaliado exclusivamente para \\( k=0 \\), resultando em \\( 2 \\cdot 0 = 0 \\). A estrutura da equação reflete uma definição recursiva ou parametrizada, onde a função \\( \\text{Sum2}k \\) depende dos argumentos \\( (0,0) \\) e é decomposta em sua forma somatória explícita, evidenciando a relação entre a notação funcional e a representação por somatório. A escolha dos limites de soma (coincidindo no valor zero) destaca um cenário trivial, comum em definições indutivas ou bases de recursão em contextos matemáticos formais.",
+                "described_at": "2026-04-06T20:58:03"
+              },
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0004-07.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta uma expressão matemática que inicia com um sinal de igualdade, seguida de um somatório ($\\sum$) com limite inferior $k=0$ e limite superior $0$, cujo termo geral é $2k$. À direita, entre parênteses, consta a justificativa \"(por definição do somatório)\", indicando que a igualdade decorre da definição formal de somatório. Neste caso, como os limites superior e inferior coincidem ($k=0$), a soma se reduz ao único termo avaliado no índice $k=0$, resultando em $2 \\cdot 0 = 0$. A notação respeita a convenção matemática, com a variável de indexação $k$ explicitada no limite inferior e a relação lógica entre a definição do operador somatório e sua aplicação em casos de intervalo unitário. A estrutura reflete rigor acadêmico ao vincular a expressão à fundamentação teórica subjacente.",
+                "described_at": "2026-04-06T20:59:15"
+              },
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0004-12.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta uma equação matemática definida como $ P(x_0) \\triangleq Sum2k(0, x_0) = \\sum_{k=0}^{x_0} 2k \\quad (HI) $. A notação $ \\triangleq $ indica uma definição, estabelecendo que $ P(x_0) $ é igual à função $ Sum2k(0, x_0) $, a qual representa a soma dos termos $ 2k $ com $ k $ variando de $ 0 $ até $ x_0 $ (limite superior da soma). O índice de soma $ k $ inicia em $ 0 $ e avança até $ x_0 $, sendo $ x_0 $ uma variável não negativa, provavelmente inteira, conforme contexto acadêmico. O termo $ 2k $ denota a sequência de valores a serem somados. O rótulo $ (HI) $, posicionado à direita, serve como identificador da equação, possivelmente referenciando uma hipótese ou equação específica no texto original. A estrutura reflete uma definição recursiva ou uma soma aritmética, com notação padrão de somatório e variáveis claramente delimitadas.",
+                "described_at": "2026-04-06T21:00:43"
+              },
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0004-14.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0004-18.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "1": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0001-09.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta um esquema de prova por indução matemática sobre o conjunto dos números naturais (ℕ), intitulado \"indução sobre ℕ\". O esquema é estruturado como uma regra de inferência formal, com os seguintes elementos:  \n\n1. **Caso base**: À esquerda, está escrito *P(0)*, representando a verificação da propriedade *P* para o número natural 0.  \n2. **Passo indutivo**: Centralizado em uma caixa retangular, encontra-se *P(x₀) (HI)*, onde *HI* denota a **hipótese de indução** para um *x₀* arbitrário (indicado pela nota *(x₀ arbitrário)* à direita da caixa). Abaixo da hipótese, reticências (...) sugerem a sequência lógica de raciocínio, culminando em *P(x₀ + 1)*, a conclusão do passo indutivo.  \n3. **Conclusão**: Uma linha horizontal separa as premissas da conclusão, que é a fórmula *∀x ∈ ℕ. P(x)*, expressando a **quantificação universal** da propriedade *P* sobre todos os números naturais. Ao lado direito da conclusão, a etiqueta *IndNat* identifica a regra de indução natural utilizada.  \n\nA estrutura reflete a formalização típica de provas indutivas em especificações recursivas, conforme o contexto do material de aula sobre \"Provas Indutivas e Especificações Recursivas\", com ênfase na clareza notacional e na lógica subjacente ao princípio da indução matemática.",
+                "described_at": "2026-04-06T21:04:06"
+              }
+            }
+          },
+          "5": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-provasindutivas-especificacoesrecursivas.pdf-0005-00.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem exibe uma expressão matemática que inicia com um sinal de igualdade, seguido de um somatório. O símbolo de somatório (∑) apresenta limite inferior $ k = 0 $ e limite superior $ x_0 + 1 $, onde $ x_0 $ é uma variável com subscrito 0. O termo geral do somatório é $ 2k $, indicando que cada parcela da soma corresponde ao dobro do índice $ k $. À direita da expressão, uma nota entre parênteses esclarece: \"(por definição do somatório)\", justificando que a igualdade decorre da definição formal do operador de somatório. A notação segue convenções matemáticas rigorosas, utilizando $ k $ como índice de soma, com a sequência abrangendo todos os valores inteiros desde $ 0 $ até $ x_0 + 1 $. A estrutura reflete uma etapa de derivação ou prova matemática, na qual se aplica diretamente a definição do somatório para estabelecer uma relação envolvendo a variável $ x_0 $.",
+                "described_at": "2026-04-06T21:22:19"
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas.md",
+      "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas.md",
+      "approved_at": "2026-04-06T21:12:48",
       "review_status": "approved"
     }
   ],
   "logs": [
-    {
-      "entry": "exerciciosespecificacao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "exerciciosespecificacao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "exerciciosespecificacao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
-      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "docling",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/docling/logicapredicados-semantica/logicapredicados-semantica.md",
-      "asset_dir": "staging/markdown-auto/docling/logicapredicados-semantica",
-      "metadata_path": "staging/markdown-auto/docling/logicapredicados-semantica/docling-run.json",
-      "notes": [
-        "Saída avançada gerada com Docling CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
-        "--to",
-        "md",
-        "--output",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\logicapredicados-semantica",
-        "--image-export-mode",
-        "referenced",
-        "--tables",
-        "--ocr",
-        "--ocr-lang",
-        "por,eng",
-        "--table-mode",
-        "accurate",
-        "-vv",
-        "--enrich-formula"
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 18
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "revisao",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
-      "asset_dir": "staging/assets/inline-images/revisao",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "revisao",
-      "step": "docling",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/docling/revisao/revisao.md",
-      "asset_dir": "staging/markdown-auto/docling/revisao",
-      "metadata_path": "staging/markdown-auto/docling/revisao/docling-run.json",
-      "notes": [
-        "Saída avançada gerada com Docling CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\docling.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
-        "--to",
-        "md",
-        "--output",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\docling\\revisao",
-        "--image-export-mode",
-        "referenced",
-        "--tables",
-        "--ocr",
-        "--ocr-lang",
-        "por,eng",
-        "--table-mode",
-        "accurate",
-        "-vv",
-        "--enrich-formula"
-      ]
-    },
-    {
-      "entry": "revisao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "revisao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 22
-    },
-    {
-      "entry": "revisao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "revisao",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao.md",
-      "asset_dir": "staging/assets/inline-images/revisao",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "revisao",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
-      "asset_dir": "staging/markdown-auto/marker/revisao",
-      "metadata_path": "staging/markdown-auto/marker/revisao/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\revisao.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\revisao",
-        "--page_range",
-        "0-21",
-        "--force_ocr"
-      ]
-    },
-    {
-      "entry": "revisao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "revisao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 22
-    },
-    {
-      "entry": "revisao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicapredicados-sintaxe",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-sintaxe.md",
-      "asset_dir": "staging/assets/inline-images/logicapredicados-sintaxe",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "logicapredicados-sintaxe",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/logicapredicados-sintaxe/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
-      "asset_dir": "staging/markdown-auto/marker/logicapredicados-sintaxe",
-      "metadata_path": "staging/markdown-auto/marker/logicapredicados-sintaxe/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-sintaxe.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-sintaxe",
-        "--page_range",
-        "0-20",
-        "--force_ocr"
-      ]
-    },
-    {
-      "entry": "logicapredicados-sintaxe",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "entry": "logicapredicados-sintaxe",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 21
-    },
-    {
-      "entry": "logicapredicados-sintaxe",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicaproposicional-sintaxe",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicaproposicional-sintaxe.md",
-      "asset_dir": "staging/assets/inline-images/logicaproposicional-sintaxe",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "logicaproposicional-sintaxe",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/logicaproposicional-sintaxe/logicaproposicional-sintaxe/logicaproposicional-sintaxe.md",
-      "asset_dir": "staging/markdown-auto/marker/logicaproposicional-sintaxe",
-      "metadata_path": "staging/markdown-auto/marker/logicaproposicional-sintaxe/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicaproposicional-sintaxe.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicaproposicional-sintaxe",
-        "--page_range",
-        "0-17",
-        "--force_ocr"
-      ]
-    },
-    {
-      "entry": "logicaproposicional-sintaxe",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "entry": "logicaproposicional-sintaxe",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 18
-    },
-    {
-      "entry": "logicaproposicional-sintaxe",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
-      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
-      "asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
-      "metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-semantica",
-        "--page_range",
-        "0-17",
-        "--force_ocr"
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 18
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "introducao",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/introducao.md",
-      "asset_dir": "staging/assets/inline-images/introducao",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "introducao",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/introducao/introducao/introducao.md",
-      "asset_dir": "staging/markdown-auto/marker/introducao",
-      "metadata_path": "staging/markdown-auto/marker/introducao/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\introducao.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\introducao",
-        "--page_range",
-        "0-23",
-        "--force_ocr"
-      ]
-    },
-    {
-      "entry": "introducao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 7
-    },
     {
       "entry": "introducao",
       "step": "extract_tables_pdfplumber",
@@ -3130,7 +3353,397 @@
       "approved_markdown": "content/curated/logicapredicados-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
       "category": "material-de-aula"
+    },
+    {
+      "entry": "archive-of-formal-proofs-355fb8",
+      "step": "url_fetch",
+      "status": "ok"
+    },
+    {
+      "entry": "isabelle-f92eb8",
+      "step": "url_fetch",
+      "status": "error",
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)>"
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosisabelle2.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosisabelle2",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosisabelle2/exerciciosisabelle2/exerciciosisabelle2.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosisabelle2",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosisabelle2/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosisabelle2.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosisabelle2",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosisabelle.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosisabelle",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exerciciosisabelle/exerciciosisabelle/exerciciosisabelle.md",
+      "asset_dir": "staging/markdown-auto/marker/exerciciosisabelle",
+      "metadata_path": "staging/markdown-auto/marker/exerciciosisabelle/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosisabelle.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosisabelle",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exercicioscorrecaoinducaomatematica.md",
+      "asset_dir": "staging/assets/inline-images/exercicioscorrecaoinducaomatematica",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica.md",
+      "asset_dir": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica",
+      "metadata_path": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exercicioscorrecaoinducaomatematica.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exercicioscorrecaoinducaomatematica",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas-arvores.md",
+      "asset_dir": "staging/assets/inline-images/provasindutivas-especificacoesrecursivas-arvores",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores.md",
+      "asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores",
+      "metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\provasindutivas-especificacoesrecursivas-arvores.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\provasindutivas-especificacoesrecursivas-arvores",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas-listas.md",
+      "asset_dir": "staging/assets/inline-images/provasindutivas-especificacoesrecursivas-listas",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas.md",
+      "asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas",
+      "metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\provasindutivas-especificacoesrecursivas-listas.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\provasindutivas-especificacoesrecursivas-listas",
+        "--page_range",
+        "0-1",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/provasindutivas-especificacoesrecursivas.md",
+      "asset_dir": "staging/assets/inline-images/provasindutivas-especificacoesrecursivas",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "marker",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas.md",
+      "asset_dir": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas",
+      "metadata_path": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/marker-run.json",
+      "notes": [
+        "Saída avançada gerada com Marker CLI."
+      ],
+      "command": [
+        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\provasindutivas-especificacoesrecursivas.pdf",
+        "--output_format",
+        "markdown",
+        "--output_dir",
+        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\provasindutivas-especificacoesrecursivas",
+        "--page_range",
+        "0-4",
+        "--force_ocr"
+      ]
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 2
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-listas",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas-listas.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "provasindutivas-especificacoesrecursivas-arvores",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/provasindutivas-especificacoesrecursivas-arvores.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores.md",
+      "category": "material-de-aula"
+    },
+    {
+      "entry": "isabelle-f92eb8",
+      "step": "curator_reject",
+      "status": "ok"
+    },
+    {
+      "entry": "exerciciosisabelle2",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosisabelle2.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosisabelle2/exerciciosisabelle2/exerciciosisabelle2.md",
+      "category": "listas"
+    },
+    {
+      "entry": "exercicioscorrecaoinducaomatematica",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exercicioscorrecaoinducaomatematica.md",
+      "approved_source_markdown": "staging/markdown-auto/marker/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica.md",
+      "category": "listas"
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosisabelle.md",
+      "approved_source_markdown": "staging/markdown-auto/pymupdf4llm/exerciciosisabelle.md",
+      "category": "listas"
+    },
+    {
+      "entry": "archive-of-formal-proofs-355fb8",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
+      "approved_source_markdown": "staging/markdown-auto/url_fetcher/archive-of-formal-proofs-355fb8.md",
+      "category": "references"
     }
   ],
-  "updated_at": "2026-04-01T15:56:00"
+  "updated_at": "2026-04-06T21:21:19"
 }

@@ -190,3 +190,73 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
+  - id: archive-of-formal-proofs-355fb8
+    title: "Archive of Formal Proofs"
+    category: references
+    file_type: url
+    source_path: "https://www.isa-afp.org/"
+    raw_target: null
+    processing_mode: auto
+    effective_profile: general
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosisabelle2
+    title: "Exerciciosisabelle2"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle2.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosisabelle2.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosisabelle
+    title: "Exerciciosisabelle"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosisabelle.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicioscorrecaoinducaomatematica
+    title: "Exercicioscorrecaoinducaomatematica"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosCorrecaoInducaoMatematica.pdf"
+    raw_target: "raw/pdfs/listas/exercicioscorrecaoinducaomatematica.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: provasindutivas-especificacoesrecursivas-arvores
+    title: "Provasindutivas Especificaçõesrecursivas Arvores"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Arvores.pdf"
+    raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-arvores.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: provasindutivas-especificacoesrecursivas-listas
+    title: "Provasindutivas Especificaçõesrecursivas Listas"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Listas.pdf"
+    raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-listas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: provasindutivas-especificacoesrecursivas
+    title: "Provasindutivas Especificaçõesrecursivas"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas.pdf"
+    raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""

@@ -9,11 +9,14 @@ build/
 manual-review/
 # Scripts utilitários locais
 scripts/
+# Índices internos derivados do app (regeneráveis)
+course/.content_taxonomy.json
+course/.timeline_index.json
+course/.assessment_context.json
+course/.tag_catalog.json
 
 # === Sistema ===
 __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
-*.jpeg
-*pdf

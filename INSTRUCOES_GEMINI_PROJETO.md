@@ -77,19 +77,18 @@ em `student/STUDENT_STATE.md` e fazer git push:
 
 Quando o aluno iniciar o primeiro chat, antes de qualquer coisa:
 
-1. Leia `course/FILE_MAP.md`
-2. Para cada arquivo com coluna "Unidade" vazia:
-   - Leia o Markdown correspondente (caminho na coluna "Markdown")
-   - Identifique os tópicos e cruze com `course/COURSE_MAP.md`
-3. Atualize também `course/COURSE_MAP.md` quando necessário
-4. Apresente um resumo curto do que foi decidido
-5. Peça confirmação antes de prosseguir
-6. Dite as alterações — o aluno atualiza os arquivos
-   e faz git push para sincronizar
+1. Leia `course/COURSE_MAP.md`, `course/FILE_MAP.md`, `course/GLOSSARY.md` e `student/STUDENT_STATE.md`
+2. Trate `FILE_MAP.md` e `COURSE_MAP.md` como artefatos estruturais gerados pelo app
+3. Se encontrar itens com `Unidade` ou `Período` vazios, ambíguos ou desatualizados:
+   - avise isso explicitamente
+   - proponha `Reprocessar Repositório` ou ajuste manual no backlog
+   - não reescreva `FILE_MAP.md`/`COURSE_MAP.md` manualmente como fluxo padrão
+4. Use os artefatos curtos como roteadores e só abra markdown longo quando necessário
+5. Apresente um resumo curto do diagnóstico estrutural
+6. Peça confirmação antes de prosseguir
 
 Após a primeira sessão, sempre releia `course/FILE_MAP.md` antes de
 responder. Se existirem novos commits ou novos arquivos Markdown no
 repositório que ainda não estejam refletidos no FILE_MAP, avise isso
-explicitamente e pergunte se o aluno quer que você atualize
-`FILE_MAP.md` e `COURSE_MAP.md`. Só retorne os arquivos completos se
-ele concordar.
+explicitamente e proponha reprocessar o repositório ou revisar
+overrides no backlog.

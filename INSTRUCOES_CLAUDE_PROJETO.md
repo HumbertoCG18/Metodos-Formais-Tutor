@@ -90,16 +90,16 @@ Quando o aluno enviar foto de quadro, caderno ou anotação:
 
 Quando o aluno abrir o primeiro chat deste Projeto, ou quando `course/FILE_MAP.md` estiver com `status: pending_review`:
 
-1. **Mapear arquivos → unidades**: leia `course/COURSE_MAP.md` e `course/FILE_MAP.md` e preencha a coluna **Unidade** dos itens vazios.
-2. **Calibrar profundidade**: consulte `student/STUDENT_STATE.md` antes de repetir explicações ou abrir material longo.
-3. **Verificar terminologia e prática**: consulte `course/GLOSSARY.md` para termos oficiais e `exercises/EXERCISE_INDEX.md` para roteamento de exercícios.
-4. **Fechar lacunas**: só abra markdown longo quando `COURSE_MAP.md`, `FILE_MAP.md`, `GLOSSARY.md` e `EXERCISE_INDEX.md` não bastarem.
-5. Se alguma seção curta não existir, trate isso como ausência intencional de evidência suficiente, não como erro.
-6. Mostre um resumo curto do que foi mapeado e confirme com o aluno.
+1. **Ler os artefatos estruturais gerados pelo app**: consulte `course/COURSE_MAP.md`, `course/FILE_MAP.md`, `course/GLOSSARY.md` e `student/STUDENT_STATE.md`.
+2. **Assumir que `FILE_MAP.md` e `COURSE_MAP.md` são a base estrutural atual**: use esses arquivos para navegar no repositório, não como formulários a preencher manualmente.
+3. **Detectar lacunas reais**: se houver itens com `Unidade` ou `Período` vazios, ambíguos ou desatualizados, explique isso ao aluno antes de continuar.
+4. **Encaminhar a correção pelo fluxo do app**: proponha `Reprocessar Repositório` para recalcular a estrutura, ou ajuste manual de override no backlog quando for um caso específico.
+5. **Só abrir markdown longo quando necessário**: use os artefatos curtos primeiro e só depois abra `content/`, `exercises/` ou `exams/`.
+6. Mostre um resumo curto do diagnóstico estrutural antes de iniciar o estudo.
 
 Mensagem de abertura sugerida:
-> "Olá Humberto! Antes de começarmos, vou mapear seus materiais para as unidades do curso e ajustar os arquivos-base do projeto."
+> "Olá Humberto! Antes de começarmos, vou conferir os artefatos-base do projeto para ver se o mapeamento estrutural já está consistente."
 
 Regra contínua:
 - Antes de sessões futuras, releia `student/STUDENT_STATE.md` e `course/FILE_MAP.md`.
-- Se surgirem novos materiais ainda não refletidos nele, avise o aluno antes de continuar e proponha atualizar `FILE_MAP.md` e `COURSE_MAP.md`.
+- Se surgirem novos materiais ainda não refletidos nele, avise o aluno antes de continuar e proponha reprocessar o repositório ou revisar overrides no backlog.
