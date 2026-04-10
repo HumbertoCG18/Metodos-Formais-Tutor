@@ -1,68 +1,54 @@
-## Indução Estrutural sobre Árvores
+# Indução Estrutural sobre Árvores
 
-Podemos provar propriedades sobre especificações recursivas para estruturas de dados indutivas utilizando a técnica de prova chamada de Indução Estrutural. A indução estrutural pode ser vista como uma generalização do processo de indução sobre os naturais para outras estruturas indutivas. Assim, uma prova por indução estrutural de uma propriedade P consiste em duas partes:
+Podemos provar propriedades sobre especificações recursivas para estruturas de dados indutivas utilizando a técnica de prova chamada de Indução Estrutural. A indução estrutural pode ser vista como uma generalização do processo de indução sobre os naturais para outras estruturas indutivas. Assim, uma prova por indução estrutural de uma propriedade  $P$  consiste em duas partes:
 
-- a) Mostrar que P vale para todos os elementos especificados nos casos base da definição indutiva da estrutura;
-- b) Mostrar que, se P vale para elementos usado para construir novos elementos nos casos de passo de indução da definição indutiva da estrutura, então P vale para os novos elementos.
+- Mostrar que  $P$  vale para todos os elementos especificados nos casos base da definição indutiva da estrutura;
+- Mostrar que, se  $P$  vale para elementos usado para construir novos elementos nos casos de passo de indução da definição indutiva da estrutura, então  $P$  vale para os novos elementos.
 
 Seja a seguinte definição indutiva para árvores:
 
-$$\frac{L \in ArvBin(\tau) \quad R \in ArvBin(\tau), x \in \tau}{\langle L, x, R \rangle \in ArvBin(\tau)} cons$$
+$$\frac{}{\langle \rangle \in ArvBin(\tau)} \text{ vazia} \qquad \frac{L \in ArvBin(\tau) \quad R \in ArvBin(\tau), x \in \tau}{\langle L, x, R \rangle \in ArvBin(\tau)} \text{ cons}$$
 
-Seja a seguinte definição equacional recursiva para a função capaz de "espelhar" uma árvore binária:
+Seja a seguinte definição equacional recursiva para a função capaz de “espelhar” uma árvore binária:
 
-$$espelho: ArvBin(\tau) \rightarrow ArvBin(\tau)$$
+$$\text{espelho}: ArvBin(\tau) \rightarrow ArvBin(\tau)$$
 
-$$espelho(\langle \ \rangle) = \langle \ \rangle \qquad (espelho1)$$
+$$\text{espelho}(\langle \rangle) = \langle \rangle \qquad (\text{espelho1})$$
 
-$$espelho(\langle L, x, R \rangle) = \langle espelho(R), x, espelho(L) \rangle \qquad (espelho2)$$
+$$\text{espelho}(\langle L, x, R \rangle) = \langle \text{espelho}(R), x, \text{espelho}(L) \rangle \qquad (\text{espelho2})$$
 
 Deseja-se provar
 
-$$\forall A \in ArvBin(\tau). espelho(espelho(A)) = A$$
+$$\forall A \in ArvBin(\tau). \text{espelho}(\text{espelho}(A)) = A$$
 
-isto é, que espelho é função inversa de si mesmo.
+isto é, que *espelho* é função inversa de si mesmo.
 
-Observe atentamente a propriedade P que queremos provar por indução em A:
+Observe atentamente a propriedade  $P$  que queremos provar por indução em  $A$ :
 
-$$P(A) \triangleq espelho(espelho(A)) = A$$
+$$P(A) \triangleq \text{espelho}(\text{espelho}(A)) = A$$
 
-Caso Base:  $P(\langle \rangle)$ 
+Caso Base:  $P(\langle \rangle)$
 
-Provar que  $espelho(espelho(\langle \rangle)) = \langle \rangle$ .
+Provar que  $\text{espelho}(\text{espelho}(\langle \rangle)) = \langle \rangle$ .
 
- $espelho(espelho(\langle \rangle))$ 
+$$\text{espelho}(\text{espelho}(\langle \rangle))$$
 
- $= espelho(\langle \rangle)$  (por espelho1)
+$$= \text{espelho}(\langle \rangle) \quad (\text{por espelho1})$$
 
- $=\langle \rangle$  (por espelho1)
+$$= \langle \rangle \qquad \qquad \qquad (\text{por espelho1})$$
 
 q.e.d
 
-```
-Caso Indutivo: P(L) \wedge P(R) \rightarrow P(\langle L, x, R \rangle)
-```
+Caso Indutivo:  $P(L) \wedge P(R) \rightarrow P(\langle L, x, R \rangle)$
 
-Sejam  $L, R \in ArvBin(\tau)$  e  $x \in \tau$  arbitrários.
+Sejam  $L, R \in \text{ArvBin}(\tau)$  e  $x \in \tau$  arbitrários.
 
-Assumir por hipótese de indução (HI1) que espelho(espelho(L)) = L.
+Assumir por hipótese de indução (HI1) que  $\text{espelho}(\text{espelho}(L)) = L$ .
 
-Assumir por hipótese de indução (HI2) que espelho(espelho(R)) = R.
+Assumir por hipótese de indução (HI2) que  $\text{espelho}(\text{espelho}(R)) = R$ .
 
-Provar que  $espelho(espelho(\langle L, x, R \rangle)) = \langle L, x, R \rangle$ .
+Provar que  $\text{espelho}(\text{espelho}(\langle L, x, R \rangle)) = \langle L, x, R \rangle$ .
 
- $espelho(espelho(\langle L, x, R \rangle))$ 
-
-$$= espelho(\langle espelho(R), x, espelho(L) \rangle)$$
- (por espelho2)
-
-$$= \langle espelho(espelho(L)), x, espelho(espelho(R)) \rangle$$
- (por espelho2)
-
-$$= \langle L, x, espelho(espelho(R)) \rangle$$
- (por HI1)
-
-$$= \langle L, x, R \rangle$$
- (por HI2)
+$$\begin{aligned} & \text{espelho}(\text{espelho}(\langle L, x, R \rangle)) \\ &= \text{espelho}(\langle \text{espelho}(R), x, \text{espelho}(L) \rangle) && \text{(por espelho2)} \\ &= \langle \text{espelho}(\text{espelho}(L)), x, \text{espelho}(\text{espelho}(R)) \rangle && \text{(por espelho2)} \\ &= \langle L, x, \text{espelho}(\text{espelho}(R)) \rangle && \text{(por HI1)} \\ &= \langle L, x, R \rangle && \text{(por HI2)} \end{aligned}$$
 
 q.e.d.

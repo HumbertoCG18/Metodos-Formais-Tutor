@@ -5,7 +5,9 @@
 - pymupdf: True
 - pymupdf4llm: True
 - pdfplumber: True
+- datalab_api: True
 - docling_cli: True
+- docling_python: True
 - marker_cli: True
 
 ## Plataforma principal: CLAUDE

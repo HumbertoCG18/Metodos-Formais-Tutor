@@ -1,221 +1,220 @@
-# MÉTODOS FORMAIS
+# MÉTODOS FORMAIS ---
 
 Prof. Júlio Machado
 
-# LÓGICA PROPOSICIONAL
+## LÓGICA PROPOSICIONAL ---
 
 Semântica
 
 Baseado nos materiais do Prof. Alfio Martini
 
-#### Semântica
+## Semântica
 
-- O estudo da semântica da lógica proposicional consiste em atribuir valores verdade a fórmulas
+- O estudo da semântica da lógica proposicional consiste em atribuir **valores verdade** a **fórmulas**
 - Na lógica clássica há apenas dois valores:
-  - Verdadeiro V
-  - Falso F
+  - Verdadeiro – V
+  - Falso – F
 
-## Interpretações
+### Interpretações
 
 - Os símbolos que não possuem significado fixo são chamados de variáveis proposicionais
-- Uma interpretação I para um conjunto de variáveis proposicionais $\Sigma$ é uma função I:$\Sigma$→B, onde B={V,F}
+- Uma interpretação  $I$  para um conjunto de variáveis proposicionais  $\Sigma$  é uma função  $I: \Sigma \rightarrow B$ , onde  $B = \{V, F\}$
 - Exemplo:
-  - Se  $\Sigma$ ={p,q}, então temos quatro interpretações possíveis:
+  - Se  $\Sigma = \{p, q\}$ , então temos quatro interpretações possíveis:
 
-$$\mathcal{I}_1 = \{ p \mapsto F, q \mapsto F \}$$
+$$\mathcal{I}_1 = \{p \mapsto F, q \mapsto F\}$$
 
-$$\mathcal{I}_2 = \{ p \mapsto F, q \mapsto V \}$$
+$$\mathcal{I}_2 = \{p \mapsto F, q \mapsto V\}$$
 
-$$\mathcal{I}_3 = \{ p \mapsto V, q \mapsto F \}$$
+$$\mathcal{I}_3 = \{p \mapsto V, q \mapsto F\}$$
 
-$$\mathcal{I}_4 = \{ p \mapsto V, q \mapsto V \}$$
+$$\mathcal{I}_4 = \{p \mapsto V, q \mapsto V\}$$
 
-## Semântica dos Operadores
+### Semântica dos Operadores
 
- Os operadores proposicionais possuem um significado fixo, o qual pode ser definido através de uma tabelaverdade
+- Os operadores proposicionais possuem um significado fixo, o qual pode ser definido através de uma tabela-verdade
 
-# Semântica dos Operadores
+### Semântica dos Operadores
 
-| p | q | $\neg p$ | $p \wedge q$ | $p \lor q$ | $p\rightarrow q$ | $p \leftrightarrow q$ |
-|---|---|----------|--------------|------------|------------------|-----------------------|
-| V | V | F        | V            | V          | V                | V                     |
-| V | F | F        | F            | V          | F                | F                     |
-| F | V | V        | F            | V          | V                | F                     |
-| F | F | V        | F            | F          | V                | V                     |
-
-## Fórmulas e Interpretações
-
- Se n é o número de variáveis proposicionais em uma fórmula, então temos 2<sup>n</sup> interpretações ou linhas na tabela-verdade correspondente à fórmula
+| $p$ | $q$ | $\neg p$ | $p \wedge q$ | $p \vee q$ | $p \rightarrow q$ | $p \leftrightarrow q$ |
+|-----|-----|----------|--------------|------------|-------------------|-----------------------|
+| V   | V   | F        | V            | V          | V                 | V                     |
+| V   | F   | F        | F            | V          | F                 | F                     |
+| F   | V   | V        | F            | V          | V                 | F                     |
+| F   | F   | V        | F            | F          | V                 | V                     |
 
 ## Fórmulas e Interpretações
 
-| p | q | r | $\neg p$ | $\neg p \rightarrow q$ | $(\neg p \rightarrow q) \lor r$ |
-|---|---|---|----------|------------------------|---------------------------------|
-| V | V | V | F        | V                      | V                               |
-| V | V | F | F        | V                      | V                               |
-| V | F | V | F        | V                      | V                               |
-| V | F | F | F        | V                      | V                               |
-| F | V | V | V        | V                      | V                               |
-| F | V | F | V        | V                      | V                               |
-| F | F | V | V        | F                      | V                               |
-| F | F | F | V        | F                      | F                               |
+- Se  $n$  é o número de variáveis proposicionais em uma fórmula, então temos  $2^n$  interpretações ou linhas na tabela-verdade correspondente à fórmula
 
-#### Modelos
+### Fórmulas e Interpretações
+
+| $p$ | $q$ | $r$ | $\neg p$ | $\neg p \rightarrow q$ | $(\neg p \rightarrow q) \vee r$ |
+|-----|-----|-----|----------|------------------------|---------------------------------|
+| V   | V   | V   | F        | V                      | V                               |
+| V   | V   | F   | F        | V                      | V                               |
+| V   | F   | V   | F        | V                      | V                               |
+| V   | F   | F   | F        | V                      | V                               |
+| F   | V   | V   | V        | V                      | V                               |
+| F   | V   | F   | V        | V                      | V                               |
+| F   | F   | V   | V        | F                      | V                               |
+| F   | F   | F   | V        | F                      | F                               |
+
+### Modelos
 
 - Modelos são interpretações na qual uma fórmula (ou conjunto de fórmulas) é verdadeira (são verdadeiras)
-- Uma interpretação I:$\Sigma$→B é um modelo para uma fórmula A$\in$P<sub>$\Sigma$</sub> se somente se [A]<sub>I</sub> = V (ou seja, o valor da fórmula nessa interpretação é verdadeira)
+- Uma interpretação  $I: \Sigma \rightarrow B$  é um modelo para uma fórmula  $A \in P_\Sigma$  se somente se  $[A]_I = V$  (ou seja, o valor da fórmula nessa interpretação é verdadeira)
   - Nesse caso escrevemos  $I \models A$
-- Uma interpretação I:$\Sigma$→B não é um modelo para uma fórmula A$\in$P<sub>$\Sigma$</sub> se somente se [A]<sub>I</sub> = F (ou seja, o valor da fórmula nessa interpretação é falsa)
+- Uma interpretação  $I: \Sigma \rightarrow B$  não é um modelo para uma fórmula  $A \in P_\Sigma$  se somente se  $[A]_I = F$  (ou seja, o valor da fórmula nessa interpretação é falsa)
   - Nesse caso escrevemos  $I \not\models A$
 
+### Modelos
+
+- Uma interpretação  $I: \Sigma \rightarrow B$  é um modelo para um conjunto de fórmulas  $\{A_1, \dots, A_n\}$  onde  $A_i \in P_\Sigma$  se somente se  $[A_i]_I = V$  para todo  $i=1, \dots, n$ 
+  - Nesse caso escrevemos  $I \models A_1, \dots, A_n$
+- Uma interpretação  $I: \Sigma \rightarrow B$  não é um modelo para um conjunto de fórmulas  $\{A_1, \dots, A_n\}$  onde  $A_i \in P_\Sigma$  se somente se  $[A_i]_I = F$  para algum  $1 \leq i \leq n$ 
+  - Nesse caso escrevemos  $I \not\models A_1, \dots, A_n$
+
 #### Modelos
 
-- Uma interpretação I: $\Sigma \rightarrow B$  é um modelo para um conjunto de fórmulas  $\{A_1,...,A_n\}$  onde  $A_i \in P_\Sigma$  se somente se  $[A_i]_I = V$  para todo i=1,...,n
-  - Nesse caso escrevemos  $I \models A_1, ..., A_n$
-- Uma interpretação I:$\Sigma$→B não é um modelo para um conjunto de fórmulas {A<sub>1</sub>,...,A<sub>n</sub>} onde A<sub>i</sub>$\in$P<sub>$\Sigma$</sub> se somente se [A<sub>i</sub>]<sub>I</sub> = F para algum 1$\leq$i$\leq$n
-  - Nesse caso escrevemos  $I \not\models A_1, ..., A_n$
+- Sejam as seguintes interpretações:
 
-#### Modelos
+$$I_1 = \{p \mapsto V, q \mapsto F, r \mapsto V\}$$
 
-Sejam as seguintes interpretações:
+$$I_2 = \{p \mapsto F, q \mapsto F, r \mapsto F\}$$
 
-$$I_1 = \{ p \mapsto V, q \mapsto F, r \mapsto V \}$$
-  
-$$I_2 = \{ p \mapsto F, q \mapsto F, r \mapsto F \}$$
+- Verificar (via tabela-verdade):
 
-Verificar (via tabela-verdade):
+$$I_1 \models (\neg p \rightarrow q) \vee r$$
 
-$$I1 \vDash (\neg p \to q) \lor r$$
-$$I2 \nvDash (\neg p \to q) \lor r$$
+$$I_2 \not\models (\neg p \rightarrow q) \vee r$$
 
-Sejam as seguintes interpretações:
+- Sejam as seguintes interpretações:
 
-$$I_1 = \{ p \mapsto F, q \mapsto F \}$$
-$$I_2 = \{ p \mapsto V, q \mapsto F \}$$
+$$I_1 = \{p \mapsto F, q \mapsto F\}$$
 
-Verificar (via tabela-verdade):
+$$I_2 = \{p \mapsto V, q \mapsto F\}$$
 
-$$I1 \vDash p \rightarrow q, \neg p \lor q$$
-$$I2 \not\vDash p \rightarrow q, \neg p \lor q$$
+- Verificar (via tabela-verdade):
 
-## Classificação das Fórmulas
+$$I_1 \models p \rightarrow q, \neg p \vee q$$
 
-- Uma fórmula A é uma tautologia (ou válida) se e somente se toda interpretação I:$\Sigma$→B para A é modelo
-  - Ou seja, para toda interpretação I, [A]<sub>I</sub>=V
+$$I_2 \not\models p \rightarrow q, \neg p \vee q$$
+
+### Classificação das Fórmulas
+
+- Uma fórmula  $A$  é uma tautologia (ou válida) se e somente se toda interpretação  $I: \Sigma \rightarrow \mathbb{B}$  para  $A$  é modelo
+  - Ou seja, para toda interpretação  $I$ ,  $[A]_I = V$
   - Nesse caso escrevemos  $\models A$
-- Uma fórmula A é uma contradição (ou inválida) se e somente se nenhuma interpretação I:$\Sigma$→B para A é modelo
-  - Ou seja, para toda interpretação I, [A]<sub>I</sub>=F
+- Uma fórmula  $A$  é uma contradição (ou inválida) se e somente se nenhuma interpretação  $I: \Sigma \rightarrow \mathbb{B}$  para  $A$  é modelo
+  - Ou seja, para toda interpretação  $I$ ,  $[A]_I = F$
   - Nesse caso escrevemos  $\not\models A$
-- Uma fórmula A é <u>satisfatível</u> se e somente se existe ao menos uma interpretação I:$\Sigma$→B para A que é modelo
-  - Ou seja, existe pelo menos uma interpretação I, [A]<sub>I</sub> = V
+- Uma fórmula  $A$  é satisfatível se e somente se existe ao menos uma interpretação  $I: \Sigma \rightarrow \mathbb{B}$  para  $A$  que é modelo
+  - Ou seja, existe pelo menos uma interpretação  $I$ ,  $[A]_I = V$
 
-## Classificação das Fórmulas
+### Classificação das Fórmulas
 
 - Verifique usando tabela-verdade:
-  - P$\lor$$\neg$P é tautologia
-  - P$\lor$Q é satisfatível
-  - P$\land$$\neg$P é contradição
+  - $P \vee \neg P$  é tautologia
+  - $P \vee Q$  é satisfável
+  - $P \wedge \neg P$  é contradição
 
-- Seja {A<sub>1</sub>,...,A<sub>n</sub>} um conjunto de fórmulas
-- O conjunto de modelos de {A<sub>1</sub>,...,A<sub>n</sub>}, escrito mod({A<sub>1</sub>,...,A<sub>n</sub>}), é definido como o conjunto de \ninterpretações I:$\Sigma$→B tal que I é modelo para cada fórmula do conjunto {A<sub>1</sub>,...,A<sub>n</sub>}
+#### Classificação de Conjunto de Fórmulas
+
+- Seja  $\{A_1, \dots, A_n\}$  um conjunto de fórmulas
+- O conjunto de modelos de  $\{A_1, \dots, A_n\}$ , escrito  $mod(\{A_1, \dots, A_n\})$ , é definido como o conjunto de interpretações  $I: \Sigma \rightarrow B$  tal que  $I$  é modelo para cada fórmula do conjunto  $\{A_1, \dots, A_n\}$ 
   - Ou seja, os modelos de um conjunto de fórmulas são somente aquelas interpretações que satisfazem simultaneamente todas as fórmulas do conjunto
 
-$$mod(\{A_1,\ldots,A_n\}) = \bigcap mod(A_i)$$
+$$mod(\{A_1, \dots, A_n\}) = \bigcap mod(A_i)$$
 
- Verifique usando tabelas-verdade quais os modelos de cada conjunto de fórmulas:
+#### Classificação de Conjunto de Fórmulas
 
-```
-• mod(\{p, p \rightarrow q, q\})
-```
-
+- Verifique usando tabelas-verdade quais os modelos de cada conjunto de fórmulas:
+- $mod(\{p, p \rightarrow q, q\})$
 - $mod(\{p, \neg p\})$
 - $mod(\{p \rightarrow q, q\})$
 
-- Um conjunto de fórmulas proposicionais {A<sub>1</sub>,...,A<sub>n</sub>} é
-   consistente quando existe pelo menos uma interpretação
-   I:$\Sigma$→B no conjunto de modelos mod({A<sub>1</sub>,...,A<sub>n</sub>}) para as
-   fórmulas
-- Um conjunto de fórmulas proposicionais {A<sub>1</sub>,...,A<sub>n</sub>} é
-   inconsistente quando não existe uma interpretação I:$\Sigma$→B
-   no conjunto de modelos mod({A<sub>1</sub>,...,A<sub>n</sub>}) para as fórmulas,
-   ou seja, mod({A<sub>1</sub>,...,A<sub>n</sub>})=$\emptyset$
+#### Classificação de Conjunto de Fórmulas
 
- Verifique usando tabelas-verdade quais dos conjuntos de fórmulas abaixo são consistente e quais são inconsistentes:
+- Um conjunto de fórmulas proposicionais  $\{A_1, \dots, A_n\}$  é consistente quando existe pelo menos uma interpretação  $I: \Sigma \rightarrow \mathbb{B}$  no conjunto de modelos  $mod(\{A_1, \dots, A_n\})$  para as fórmulas
+- Um conjunto de fórmulas proposicionais  $\{A_1, \dots, A_n\}$  é inconsistente quando não existe uma interpretação  $I: \Sigma \rightarrow \mathbb{B}$  no conjunto de modelos  $mod(\{A_1, \dots, A_n\})$  para as fórmulas, ou seja,  $mod(\{A_1, \dots, A_n\}) = \emptyset$
 
-```
-• \{p \rightarrow q, \neg q\}
-• \{p \rightarrow q, \neg q \lor r, p \land \neg r\}
-• \{(p \lor q) \rightarrow r, \neg((\neg p \land \neg q) \lor r)\}
-```
+#### Classificação de Conjunto de Fórmulas
 
-## Consequência Lógica/Semântica
+- Verifique usando tabelas-verdade quais dos conjuntos de fórmulas abaixo são consistente e quais são inconsistentes:
+- $\{p \rightarrow q, \neg q\}$
+- $\{p \rightarrow q, \neg q \vee r, p \wedge \neg r\}$
+- $\{(p \vee q) \rightarrow r, \neg((\neg p \wedge \neg q) \vee r)\}$
 
-- Diz que uma fórmula proposicional B é consequência lógica/semântica de um conjunto de fórmulas proposicionais  $\{A_1,...,A_n\}$  se e somente se  $mod(\{A_1,...,A_n\}) \subseteq mod(\{B\})$ 
-  - Nesse caso escrevemos  $A_1, ..., A_n \models B$
-  - Ou seja, se para todos os valores nos quais todas as fórmulas de {A<sub>1</sub>,...,A<sub>n</sub>} têm valor V, B também tem valor V
+### Consequência Lógica/Semântica
 
-# Consequência Lógica/Semântica
+- Diz que uma fórmula proposicional  $B$  é consequência lógica/semântica de um conjunto de fórmulas proposicionais  $\{A_1, \dots, A_n\}$  se e somente se
+$$\text{mod}(\{A_1, \dots, A_n\}) \subseteq \text{mod}(\{B\})$$
+  - Nesse caso escrevemos  $A_1, \dots, A_n \models B$
+  - Ou seja, se para todos os valores nos quais todas as fórmulas de  $\{A_1, \dots, A_n\}$  têm valor V,  $B$  também tem valor V
 
-• 
-$$\neg p \rightarrow q, \neg q \models p$$
+### Consequência Lógica/Semântica
 
-| p | q | $\neg p$ | $\neg p \rightarrow q$ | $\neg q$ |
-|---|---|----------|------------------------|----------|
-| V | V | F        | V                      | F        |
-| V | F | F        | V                      | V        |
-| F | V | V        | V                      | F        |
-| F | F | V        | F                      | V        |
+- $\neg p \rightarrow q, \neg q \models p$
 
-- $mod(\{\neg p \to q\}) = \{I1, I2, I3\}$
+| $p$ | $q$ | $\neg p$ | $\neg p \rightarrow q$ | $\neg q$ |
+|-----|-----|----------|------------------------|----------|
+| V   | V   | F        | V                      | F        |
+| V   | F   | F        | V                      | V        |
+| F   | V   | V        | V                      | F        |
+| F   | F   | V        | F                      | V        |
+
+- $mod(\{\neg p \rightarrow q\}) = \{I1, I2, I3\}$
 - $mod(\{\neg q\}) = \{I2, I4\}$
 - $mod(\{\neg p \rightarrow q\}) \cap mod(\{\neg q\}) = \{I2\}$
 - $mod(\{p\}) = \{I1, I2\}$
 - $\{I2\} \subseteq \{I1, I2\}$ , logo, é consequência semântica
 
-## Conjectura e Consequência Lógica
+### Conjectura e Consequência Lógica
 
- Uma conjectura é <u>válida</u> se e somente se a conclusão é consequência lógica/semântica das premissas
+- Uma conjectura é válida se e somente se a conclusão é consequência lógica/semântica das premissas
 
-## Teoremas Importantes
+### Teoremas Importantes
 
 - Tautologia e Consequência Semântica:
-  - Seja A uma fórmula da Lógica Proposicional, então A é uma tautologia se e somente se  $\models A$
+  - Seja  $A$  uma fórmula da Lógica Proposicional, então  $A$  é uma tautologia se e somente se  $\models A$
 - Teorema da Consequência:
-  - Sejam A<sub>1</sub>,...,A<sub>n</sub> e B fórmulas da Lógica Proposicional, então temos
+  - Sejam  $A_1, \dots, A_n$  e  $B$  fórmulas da Lógica Proposicional, então temos
 
-$$A_1, ..., A_n \models B \ sse \ A_1 \land \cdots \land A_n \rightarrow B \ \'e \ uma \ tautologia$$
-  
- $A_1, ..., A_n \models B \ sse \ A_1 \land \cdots \land A_n \land \neg B \ \'e \ uma \ contradição$   
- $A_1, ..., A_n \models B \ sse \ \{A_1, ..., A_n, \neg B\} \ \'e \ inconsistente$ 
+$A_1, \dots, A_n \models B$  sse  $A_1 \wedge \dots \wedge A_n \rightarrow B$  é uma tautologia
 
-## Equivalências
+$A_1, \dots, A_n \models B$  sse  $A_1 \wedge \dots \wedge A_n \wedge \neg B$  é uma contradição
+
+$A_1, \dots, A_n \models B$  sse  $\{A_1, \dots, A_n, \neg B\}$  é inconsistente
+
+### Equivalências
 
 - O conceito de equivalência entre fórmulas permite a abstração de certas diferenças sintáticas entre as fórmulas
 - Sejam A e B duas fórmulas da Lógica Proposicional
-- Diz-se que <u>A e B são equivalentes</u>, denotado A$\equiv$B, se e somente se mod({A})=mod({B})
+- Diz-se que A e B são equivalentes, denotado  $A \equiv B$ , se e somente se  $mod(\{A\}) = mod(\{B\})$
 
-## Equivalências
+### Equivalências
 
-• Mostre que  $\neg p \lor q \equiv p \rightarrow q$ 
+- Mostre que  $\neg p \vee q \equiv p \rightarrow q$
 
-| p | q | $\neg p$ | $\neg p \lor q$ | $\boldsymbol{p} \to \boldsymbol{q}$ |
-|---|---|----------|-----------------|-------------------------------------|
-| V | V | F        | V               | V                                   |
-| V | F | F        | F               | F                                   |
-| F | V | V        | V               | V                                   |
-| F | F | V        | V               | V                                   |
+| $p$ | $q$ | $\neg p$ | $\neg p \vee q$ | $p \rightarrow q$ |
+|-----|-----|----------|-----------------|-------------------|
+| V   | V   | F        | V               | V                 |
+| V   | F   | F        | F               | F                 |
+| F   | V   | V        | V               | V                 |
+| F   | F   | V        | V               | V                 |
 
-A equivalência está correta pois
+- A equivalência está correta pois
 
-$$mod(\{\neg p \lor q\}) = \{I_1, I_3, I_4\} = mod(\{p \to q\})$$
+$$\text{mod}(\{\neg p \vee q\}) = \{I_1, I_3, I_4\} = \text{mod}(\{p \rightarrow q\})$$
 
-# Equivalências
+#### Equivalências
 
-• Mostre que  $p \rightarrow q \equiv \neg q \rightarrow \neg p$ 
+- Mostre que  $p \rightarrow q \equiv \neg q \rightarrow \neg p$
 
-## Teoremas Importantes
+### Teoremas Importantes
 
 - Equivalência e Consequência Semântica:
-  - Sejam A e B fórmulas da Lógica Proposicional; então A$\equiv$B
-  - se e somente se  $A \models B \in B \models A$
+  - Sejam  $A$  e  $B$  fórmulas da Lógica Proposicional; então  $A \equiv B$
+  - se e somente se  $A \models B$  e  $B \models A$
   - se e somente se  $A \leftrightarrow B$  é uma tautologia
