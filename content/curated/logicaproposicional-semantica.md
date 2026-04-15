@@ -1,3 +1,27 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **LÓGICA PROPOSICIONAL ---**
+- **Semântica**
+  - Interpretações
+  - Semântica dos Operadores
+  - Semântica dos Operadores
+- **Fórmulas e Interpretações**
+  - Fórmulas e Interpretações
+  - Modelos
+  - Modelos
+  - Classificação das Fórmulas
+  - Classificação das Fórmulas
+  - Consequência Lógica/Semântica
+  - Consequência Lógica/Semântica
+  - Conjectura e Consequência Lógica
+  - Teoremas Importantes
+  - Equivalências
+  - Equivalências
+  - Teoremas Importantes
+
+<!-- EXEC_SUMMARY_END -->
 # MÉTODOS FORMAIS ---
 
 Prof. Júlio Machado

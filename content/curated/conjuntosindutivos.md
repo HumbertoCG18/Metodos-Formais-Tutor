@@ -1,3 +1,20 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- ****Métodos Formais****
+- ****Prof. Júlio Machado****
+- ****1. Revisão****
+  - **Introdução**
+- ****Representação por enumeração****
+  - Exemplos:
+  - **Igualdade de conjuntos**
+- ****2. Definição por indução****
+- **Axioma:**
+- **3. Árvores de prova**
+- ****4. Listas****
+
+<!-- EXEC_SUMMARY_END -->
 ## **Métodos Formais**
 
 ## **Prof. Júlio Machado**

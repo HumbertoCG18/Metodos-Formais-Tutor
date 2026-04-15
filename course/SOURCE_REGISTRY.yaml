@@ -30,16 +30,6 @@ sources:
     effective_profile: auto
     include_in_bundle: true
     professor_signal: ""
-  - id: exerciciosisabelle
-    title: "ExerciciosIsabelle"
-    category: listas
-    file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf"
-    raw_target: "raw/pdfs/listas/exerciciosisabelle.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao3
     title: "ExerciciosFormalizacaoAlgoritmosRecursao3"
     category: listas
@@ -248,5 +238,45 @@ sources:
     raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosisabelle
+    title: "ExerciciosIsabelle"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosisabelle.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: revisao-p1
+    title: "revisao_p1"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/revisao_p1.pdf"
+    raw_target: "raw/pdfs/listas/revisao-p1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: t1-2026-1
+    title: "t1_2026_1"
+    category: trabalhos
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Downloads/t1_2026_1.pdf"
+    raw_target: "raw/pdfs/trabalhos/t1-2026-1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: t1-2026-1
+    title: "T1 2026 1"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:/Users/Humberto/Downloads/T1_2026_1.thy"
+    raw_target: "raw/code/professor/t1-2026-1.thy"
+    processing_mode: auto
+    effective_profile: auto
     include_in_bundle: true
     professor_signal: ""

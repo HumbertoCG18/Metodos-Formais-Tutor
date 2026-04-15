@@ -1,3 +1,17 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **1. Introdução**
+- **2. Um primeiro algoritmo**
+- **3. Algoritmos especificações equacionais**
+- **4. Tipos de recursão**
+- **5. Computação como uma sequência de estados**
+- **6. Máquina de estados**
+- **7. Completando a especificação formal de algoritmos**
+- **8. Conclusão**
+
+<!-- EXEC_SUMMARY_END -->
 # Formalizando a Noção de Algoritmo Via Equações Recursivas
 
 ## 1. Introdução

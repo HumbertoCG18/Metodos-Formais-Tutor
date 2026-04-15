@@ -14,6 +14,7 @@ course/.content_taxonomy.json
 course/.timeline_index.json
 course/.assessment_context.json
 course/.tag_catalog.json
+course/.semantic_profile.generated.json
 # Exportações operacionais de prompt (copiadas para a plataforma, não lidas pelo tutor)
 INSTRUCOES_CLAUDE_PROJETO.md
 INSTRUCOES_GPT_PROJETO.md

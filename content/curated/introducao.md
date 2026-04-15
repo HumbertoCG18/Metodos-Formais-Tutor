@@ -1,3 +1,27 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **INTRODUÇÃO**
+  - Verificação
+  - Verificação
+  - Validação
+  - Validação
+  - Validação e Verificação
+  - Requisitos
+  - Técnicas de V&V
+  - Técnicas de V&V
+  - O que é um Método Formal?
+  - O que é uma Linguagem de Especificação Formal?
+  - Porque Métodos Formais?
+  - Quando utilizar Métodos Formais?
+- **VERIFICAÇÃO FORMAL DE SISTEMAS**
+  - Verificação Formal
+  - Abordagens para Verificação Formal
+  - Abordagens para Verificação Formal
+  - Abordagens para Verificação Formal
+
+<!-- EXEC_SUMMARY_END -->
 # MÉTODOS FORMAIS
 
 Prof. Júlio Machado

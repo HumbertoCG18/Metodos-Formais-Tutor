@@ -1,3 +1,13 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- ****Funções Recursivas sobre Listas****
+- ****1. Introdução****
+- ****2. Listas polimórficas (definição indutiva)****
+- ****3. Listas polimórficas (equações recursivas)****
+
+<!-- EXEC_SUMMARY_END -->
 ## **Funções Recursivas sobre Listas**
 
 ## **1. Introdução**

@@ -1,3 +1,15 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **LÓGICA PROPOCIONAL**
+  - Proposição
+  - Proposição
+  - Composição de Proposições
+  - Composição de Proposições
+- **LÓGICA PROPOCIONAL**
+
+<!-- EXEC_SUMMARY_END -->
 # MÉTODOS FORMAIS
 
 Prof. Júlio Machado

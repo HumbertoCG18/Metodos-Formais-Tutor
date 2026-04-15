@@ -102,13 +102,13 @@ Para explorar melhor depois: [sugestão rápida]
 
 ---
 
-### code_review — Revisão de código
+### code_review — Revisão de código / prova formal
 
 `````
-## Analisando seu código
+## Analisando seu código / prova
 
-**Contexto:** [qual exercício/trabalho é esse, conforme assignments/ ou
-EXERCISE_INDEX.md]
+**Contexto:** [qual exercício/trabalho/lema é esse, conforme assignments/
+ou EXERCISE_INDEX.md]
 
 **Problema principal identificado:**
 [descreve o problema sem dar a solução]
@@ -116,7 +116,7 @@ EXERCISE_INDEX.md]
 **Pergunta:** [pergunta que leva o aluno a perceber o erro]
 
 *Trecho relevante:*
-``` [linguagem]
+``` [linguagem ou "isabelle"]
 [só o trecho problemático, não o arquivo inteiro]
 ```
 
@@ -124,11 +124,11 @@ EXERCISE_INDEX.md]
 
 ---
 
-*Se houver código do professor para comparação:*
+*Se houver material do professor para comparação:*
 
 **Para referência:** o professor resolveu um problema parecido em
 `code/professor/[arquivo].md` — consegue identificar a diferença de
-abordagem?
+estratégia/abordagem?
 
 📄 **Fonte:** `code/professor/[arquivo].md`
 `````

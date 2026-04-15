@@ -1,3 +1,14 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **1. Princípio da indução matemática**
+- **2. Princípio da indução matemática generalizada**
+- **3. Provas por indução de especificações recursivas**
+  - Exemplo 1:
+  - Exemplo 2:
+
+<!-- EXEC_SUMMARY_END -->
 # Provas por Indução de Especificações Recursivas
 
 ## 1. Princípio da indução matemática

@@ -1,3 +1,11 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **1. Árvores polimórficas (definição indutiva)**
+- **2. Árvores polimórficas (equações recursivas)**
+
+<!-- EXEC_SUMMARY_END -->
 # Funções Recursivas sobre Árvores
 
 ## 1. Árvores polimórficas (definição indutiva)

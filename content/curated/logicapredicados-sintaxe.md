@@ -1,3 +1,13 @@
+<!-- EXEC_SUMMARY_START -->
+## Sumário
+> *Leia antes de varrer o arquivo. Vá direto à seção relevante para a pergunta do aluno.*
+
+- **LÓGICA DE PREDICADOS**
+  - Exemplo
+  - Exemplo
+- **LÓGICA DE PREDICADOS**
+
+<!-- EXEC_SUMMARY_END -->
 # MÉTODOS FORMAIS
 
 Prof. Júlio Machado

@@ -72,6 +72,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:axiom-free",
+        "ferramenta:es",
+        "ferramenta:formal",
+        "ferramenta:hol",
         "ferramenta:isabelle"
       ],
       "notes": "",
@@ -95,71 +99,6 @@
       "review_status": "approved"
     },
     {
-      "id": "exerciciosisabelle",
-      "title": "ExerciciosIsabelle",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf",
-      "tags": "",
-      "manual_tags": [],
-      "auto_tags": [
-        "ferramenta:isabelle",
-        "tipo:lista"
-      ],
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "marker",
-      "raw_target": "raw/pdfs/listas/exerciciosisabelle.pdf",
-      "document_report": {
-        "page_count": 2,
-        "text_chars": 2080,
-        "images_count": 0,
-        "table_candidates": 0,
-        "text_density": 1040.0,
-        "suspected_scan": false,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "exerciciosisabelle",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "marker",
-        "reasons": [
-          "Backend preferido manualmente: marker.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": "exercises/lists/exerciciosisabelle.md",
-      "advanced_markdown": null,
-      "advanced_backend": "marker",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/exerciciosisabelle",
-      "tables_dir": "staging/assets/tables/exerciciosisabelle",
-      "table_detection_dir": "staging/assets/table-detections/exerciciosisabelle",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/marker/exerciciosisabelle",
-      "advanced_metadata_path": "staging/markdown-auto/marker/exerciciosisabelle/marker-run.json",
-      "image_extraction": {
-        "source": "pymupdf-pdf-images",
-        "mode": "permissive",
-        "count": 0
-      },
-      "approved_markdown": "exercises/lists/exerciciosisabelle.md",
-      "curated_markdown": "exercises/lists/exerciciosisabelle.md",
-      "approved_source_markdown": "staging/markdown-auto/marker/exerciciosisabelle/exerciciosisabelle/exerciciosisabelle.md",
-      "approved_at": "2026-04-09T20:34:10",
-      "review_status": "approved"
-    },
-    {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
       "title": "ExerciciosFormalizacaoAlgoritmosRecursao3",
       "category": "listas",
@@ -168,6 +107,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:lista"
       ],
       "notes": "",
@@ -221,7 +162,9 @@
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3.md",
       "approved_source_markdown": "staging/markdown-auto/marker/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3/exerciciosformalizacaoalgoritmosrecursao3.md",
       "approved_at": "2026-04-09T20:33:36",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_unit_slug": "unidade-01-metodos-formais",
+      "manual_timeline_block_id": "bloco-04"
     },
     {
       "id": "formalizacaoalgoritmos-recursao2",
@@ -232,8 +175,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:funcoes-recursivas",
-        "topico:funcoes-recursivas-sobre-listas",
+        "ferramenta:es",
+        "ferramenta:formal",
+        "ferramenta:sobre",
         "tipo:material-base"
       ],
       "notes": "",
@@ -363,6 +307,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
         "topico:conjuntos-indutivos",
         "tipo:material-base"
       ],
@@ -428,6 +373,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:predicados",
         "tipo:material-base"
       ],
       "notes": "",
@@ -492,6 +438,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:predicados",
         "tipo:material-base"
       ],
       "notes": "",
@@ -556,8 +503,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:logica-propocional",
-        "topico:logica-proposicional",
+        "ferramenta:es",
+        "ferramenta:propocional",
+        "ferramenta:proposicional",
         "tipo:material-base"
       ],
       "notes": "",
@@ -622,6 +570,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
         "tipo:material-base"
       ],
       "notes": "",
@@ -739,7 +688,9 @@
       "curated_markdown": "content/curated/introducao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/introducao/introducao/introducao.md",
       "approved_at": "2026-04-09T20:35:18",
-      "review_status": "approved"
+      "review_status": "approved",
+      "manual_unit_slug": "",
+      "manual_timeline_block_id": ""
     },
     {
       "id": "provasindutivas-especificacoesrecursivas",
@@ -750,6 +701,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
         "tipo:material-base"
       ],
       "notes": "",
@@ -814,6 +766,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:sobre",
         "tipo:material-base"
       ],
       "notes": "",
@@ -878,6 +832,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:sobre",
         "tipo:material-base"
       ],
       "notes": "",
@@ -942,6 +898,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
         "tipo:lista"
       ],
       "manual_unit_slug": "",
@@ -1016,6 +973,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:gabarito"
       ],
       "manual_unit_slug": "",
@@ -1090,6 +1049,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:lista"
       ],
       "manual_unit_slug": "",
@@ -1164,6 +1125,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:lista"
       ],
       "manual_unit_slug": "",
@@ -1238,11 +1201,13 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "ferramenta:isabelle",
         "tipo:lista"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "",
+      "manual_timeline_block_id": "bloco-06",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -1313,8 +1278,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:logica-propocional",
-        "topico:logica-proposicional",
+        "ferramenta:es",
+        "ferramenta:proposicional",
         "tipo:material-base"
       ],
       "manual_unit_slug": "",
@@ -1389,6 +1354,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:gabarito"
       ],
       "manual_unit_slug": "",
@@ -1456,6 +1423,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
         "tipo:material-base"
       ],
       "manual_unit_slug": "",
@@ -1499,7 +1468,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/formalizacaoalgoritmos-recursao.md",
       "advanced_markdown": null,
       "advanced_backend": "datalab",
       "base_backend": "pymupdf4llm",
@@ -1530,11 +1499,13 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:funcoes-recursivas",
+        "ferramenta:es",
+        "ferramenta:formal",
+        "ferramenta:sobre",
         "tipo:material-base"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "",
+      "manual_timeline_block_id": "bloco-04",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -1574,7 +1545,7 @@
           "Documento math_heavy pede backend avançado com enrich-formula."
         ]
       },
-      "base_markdown": null,
+      "base_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "advanced_markdown": null,
       "advanced_backend": "datalab",
       "base_backend": "pymupdf4llm",
@@ -1595,223 +1566,308 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
       "approved_at": "2026-04-10T14:05:31",
       "review_status": "approved"
+    },
+    {
+      "id": "exerciciosisabelle",
+      "title": "ExerciciosIsabelle",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:formal",
+        "ferramenta:isabelle",
+        "tipo:lista"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais",
+      "manual_timeline_block_id": "bloco-06",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "datalab",
+      "datalab_mode": "accurate",
+      "formula_priority": true,
+      "preserve_pdf_images_in_markdown": true,
+      "force_ocr": false,
+      "extract_images": true,
+      "extract_tables": true,
+      "page_range": "1-2",
+      "ocr_language": "por,eng",
+      "raw_target": "raw/pdfs/listas/exerciciosisabelle.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 2080,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1040.0,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "exerciciosisabelle",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "datalab",
+        "reasons": [
+          "Backend preferido manualmente: datalab.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "exercises/lists/exerciciosisabelle.md",
+      "advanced_markdown": null,
+      "advanced_backend": "datalab",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/exerciciosisabelle",
+      "tables_dir": "staging/assets/tables/exerciciosisabelle",
+      "table_detection_dir": "staging/assets/table-detections/exerciciosisabelle",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/datalab/exerciciosisabelle",
+      "advanced_metadata_path": "staging/markdown-auto/datalab/exerciciosisabelle/datalab-run.json",
+      "image_extraction": {
+        "source": "pymupdf-pdf-images",
+        "mode": "permissive",
+        "count": 0
+      },
+      "latex_corruption": {
+        "detected": false,
+        "score": 0,
+        "signals": [],
+        "markdown_path": "staging/markdown-auto/datalab/exerciciosisabelle/exerciciosisabelle.md"
+      },
+      "approved_markdown": "exercises/lists/exerciciosisabelle.md",
+      "curated_markdown": "exercises/lists/exerciciosisabelle.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosisabelle/exerciciosisabelle.md",
+      "approved_at": "2026-04-13T01:28:36",
+      "review_status": "approved"
+    },
+    {
+      "id": "revisao-p1",
+      "title": "revisao_p1",
+      "category": "listas",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/revisao_p1.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "ferramenta:p1",
+        "tipo:lista",
+        "uso:revisao-prova"
+      ],
+      "manual_unit_slug": "unidade-01-metodos-formais",
+      "manual_timeline_block_id": "bloco-06",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "datalab",
+      "datalab_mode": "accurate",
+      "formula_priority": true,
+      "preserve_pdf_images_in_markdown": true,
+      "force_ocr": false,
+      "extract_images": true,
+      "extract_tables": true,
+      "page_range": "1-2",
+      "ocr_language": "por,eng",
+      "raw_target": "raw/pdfs/listas/revisao-p1.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 1945,
+        "images_count": 1,
+        "table_candidates": 0,
+        "text_density": 972.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "revisao-p1",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "datalab",
+        "reasons": [
+          "Backend preferido manualmente: datalab.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "exercises/lists/revisao-p1.md",
+      "advanced_markdown": null,
+      "advanced_backend": "datalab",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/revisao-p1",
+      "tables_dir": "staging/assets/tables/revisao-p1",
+      "table_detection_dir": "staging/assets/table-detections/revisao-p1",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/datalab/revisao-p1",
+      "advanced_metadata_path": "staging/markdown-auto/datalab/revisao-p1/datalab-run.json",
+      "image_extraction": {
+        "source": "pymupdf-pdf-images",
+        "mode": "permissive",
+        "count": 1
+      },
+      "latex_corruption": {
+        "detected": false,
+        "score": 0,
+        "signals": [],
+        "markdown_path": "staging/markdown-auto/datalab/revisao-p1/revisao-p1.md"
+      },
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-14T15:32:44",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "revisao-p1-revisao-p1.pdf-0001-07.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "A imagem apresenta uma sequência de quatro árvores binárias {T₀, T₁, T₂, T₃}, organizadas em ordem crescente de profundidade. Cada nó é rotulado como \"a\", sem distinção de identificadores.  \n\n**Nós e Relações**:  \n- **T₀**: Conjunto de nós V₀ = {a}, sem arestas (E₀ = ∅).  \n- **Tₖ (k ≥ 1)**:  \n  - Nós: Vₖ = {a} ∪ {aᵢᴸ | 1 ≤ i ≤ k} ∪ {aᵢᴿ | 1 ≤ i ≤ k}, totalizando |Vₖ| = 1 + 2k.  \n  - Arestas: Eₖ = {(a, a₁ᴸ), (a, a₁ᴿ)} ∪ {(aᵢᴸ, aᵢ₊₁ᴸ) | 1 ≤ i < k} ∪ {(aᵢᴿ, aᵢ₊₁ᴿ) | 1 ≤ i < k}.  \n\n**Hierarquia**:  \n- Profundidade (altura) de Tₖ é k.  \n- T₀ (altura 0): árvore trivial com raiz.  \n- Tₖ (k ≥ 1): raiz com duas subárvores lineares simétricas — haste esquerda (a₁ᴸ → a₂ᴸ → ... → aₖᴸ) e haste direita (a₁ᴿ → a₂ᴿ → ... → aₖᴿ), ambas com profundidade k−1.  \n\n**Regras de Construção**:  \n- **Base**: T₀ = ({a}, ∅).  \n- **Recursão**: Tₖ é obtido de Tₖ₋₁ adicionando:  \n  - Um filho esquerdo aₖᴸ ao nó mais profundo da haste esquerda de Tₖ₋₁.  \n  - Um filho direito aₖᴿ ao nó mais profundo da haste direita de Tₖ₋₁.  \n\n**Notação Formal**:  \nTₖ = (Vₖ, Eₖ), onde:  \n- Vₖ = {a} ∪ {aᵢᴸ, aᵢᴿ | 1 ≤ i ≤ k},  \n- Eₖ = {(a, a₁ᴸ), (a, a₁ᴿ)} ∪ ⋃ᵢ=1ᵏ⁻¹ {(aᵢᴸ, aᵢ₊₁ᴸ), (aᵢᴿ, aᵢ₊₁ᴿ)}.  \n\nA sequência ilustra a evolução de árvores binárias degeneradas simétricas, com crescimento controlado nas hastes esquerda e direita, conforme regras recursivas.",
+                "described_at": "2026-04-14T15:26:16"
+              }
+            }
+          }
+        }
+      },
+      "approved_markdown": "exercises/lists/revisao-p1.md",
+      "curated_markdown": "exercises/lists/revisao-p1.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1/revisao-p1.md",
+      "approved_at": "2026-04-14T15:33:35",
+      "review_status": "approved"
+    },
+    {
+      "id": "t1-2026-1",
+      "title": "t1_2026_1",
+      "category": "trabalhos",
+      "file_type": "pdf",
+      "source_path": "C:/Users/Humberto/Downloads/t1_2026_1.pdf",
+      "tags": "",
+      "manual_tags": [],
+      "auto_tags": [
+        "ferramenta:es",
+        "ferramenta:t1"
+      ],
+      "manual_unit_slug": "",
+      "manual_timeline_block_id": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "high_fidelity",
+      "document_profile": "math_heavy",
+      "preferred_backend": "datalab",
+      "datalab_mode": "accurate",
+      "formula_priority": true,
+      "preserve_pdf_images_in_markdown": true,
+      "force_ocr": false,
+      "extract_images": true,
+      "extract_tables": true,
+      "page_range": "1-2",
+      "ocr_language": "por,eng",
+      "raw_target": "raw/pdfs/trabalhos/t1-2026-1.pdf",
+      "document_report": {
+        "page_count": 2,
+        "text_chars": 3029,
+        "images_count": 0,
+        "table_candidates": 0,
+        "text_density": 1514.5,
+        "suspected_scan": false,
+        "suggested_profile": "math_heavy",
+        "notes": [
+          "Perfil definido manualmente pelo usuário."
+        ]
+      },
+      "pipeline_decision": {
+        "entry_id": "t1-2026-1",
+        "processing_mode": "high_fidelity",
+        "effective_profile": "math_heavy",
+        "base_backend": "pymupdf4llm",
+        "advanced_backend": "datalab",
+        "reasons": [
+          "Backend preferido manualmente: datalab.",
+          "Documento math_heavy pede backend avançado com enrich-formula."
+        ]
+      },
+      "base_markdown": "content/curated/t1-2026-1.md",
+      "advanced_markdown": null,
+      "advanced_backend": "datalab",
+      "base_backend": "pymupdf4llm",
+      "images_dir": "staging/assets/images/t1-2026-1",
+      "tables_dir": "staging/assets/tables/t1-2026-1",
+      "table_detection_dir": "staging/assets/table-detections/t1-2026-1",
+      "manual_review": null,
+      "effective_profile": "math_heavy",
+      "advanced_asset_dir": "staging/markdown-auto/datalab/t1-2026-1",
+      "advanced_metadata_path": "staging/markdown-auto/datalab/t1-2026-1/datalab-run.json",
+      "image_extraction": {
+        "source": "pymupdf-pdf-images",
+        "mode": "permissive",
+        "count": 0
+      },
+      "latex_corruption": {
+        "detected": false,
+        "score": 0,
+        "signals": [],
+        "markdown_path": "staging/markdown-auto/datalab/t1-2026-1/t1-2026-1.md"
+      },
+      "approved_markdown": "content/curated/t1-2026-1.md",
+      "curated_markdown": "content/curated/t1-2026-1.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/t1-2026-1/t1-2026-1.md",
+      "approved_at": "2026-04-15T20:42:47",
+      "review_status": "approved"
+    },
+    {
+      "id": "t1-2026-1",
+      "title": "T1 2026 1",
+      "category": "codigo-professor",
+      "file_type": "code",
+      "source_path": "C:/Users/Humberto/Downloads/T1_2026_1.thy",
+      "tags": "thy",
+      "manual_tags": [],
+      "auto_tags": [
+        "ferramenta:t1",
+        "tipo:codigo"
+      ],
+      "manual_unit_slug": "",
+      "manual_timeline_block_id": "",
+      "notes": "",
+      "professor_signal": "",
+      "include_in_bundle": true,
+      "relevant_for_exam": true,
+      "processing_mode": "auto",
+      "document_profile": "auto",
+      "preferred_backend": "auto",
+      "datalab_mode": "accurate",
+      "formula_priority": false,
+      "preserve_pdf_images_in_markdown": false,
+      "force_ocr": false,
+      "extract_images": false,
+      "extract_tables": false,
+      "page_range": "",
+      "ocr_language": "por,eng",
+      "raw_target": "raw/code/professor/t1-2026-1.thy",
+      "manual_review": "manual-review/code/t1-2026-1.md",
+      "base_markdown": "code/professor/t1-2026-1.md",
+      "language": "isabelle",
+      "approved_markdown": "code/professor/t1-2026-1.md",
+      "curated_markdown": "code/professor/t1-2026-1.md"
     }
   ],
   "logs": [
-    {
-      "entry": "formalizacaoalgoritmos-recursao2",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "formalizacaoalgoritmos-recursao",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/formalizacaoalgoritmos-recursao.md",
-      "asset_dir": "staging/assets/inline-images/formalizacaoalgoritmos-recursao",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "formalizacaoalgoritmos-recursao",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao.md",
-      "asset_dir": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao",
-      "metadata_path": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\formalizacaoalgoritmos-recursao.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\formalizacaoalgoritmos-recursao",
-        "--page_range",
-        "0-7"
-      ]
-    },
-    {
-      "entry": "formalizacaoalgoritmos-recursao",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "formalizacaoalgoritmos-recursao",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "entry": "formalizacaoalgoritmos-recursao",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 4
-    },
-    {
-      "entry": "exerciciosconjuntosindutivos",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosconjuntosindutivos.md",
-      "asset_dir": "staging/assets/inline-images/exerciciosconjuntosindutivos",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "exerciciosconjuntosindutivos",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
-      "asset_dir": "staging/markdown-auto/marker/exerciciosconjuntosindutivos",
-      "metadata_path": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\listas\\exerciciosconjuntosindutivos.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\exerciciosconjuntosindutivos",
-        "--page_range",
-        "0-1"
-      ]
-    },
-    {
-      "entry": "exerciciosconjuntosindutivos",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
-    {
-      "entry": "exerciciosconjuntosindutivos",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 2
-    },
-    {
-      "entry": "exerciciosconjuntosindutivos",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "conjuntosindutivos",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/conjuntosindutivos.md",
-      "asset_dir": "staging/assets/inline-images/conjuntosindutivos",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "conjuntosindutivos",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/conjuntosindutivos/conjuntosindutivos/conjuntosindutivos.md",
-      "asset_dir": "staging/markdown-auto/marker/conjuntosindutivos",
-      "metadata_path": "staging/markdown-auto/marker/conjuntosindutivos/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\conjuntosindutivos.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\conjuntosindutivos",
-        "--page_range",
-        "0-8"
-      ]
-    },
-    {
-      "entry": "conjuntosindutivos",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 3
-    },
-    {
-      "entry": "conjuntosindutivos",
-      "step": "extract_tables_pdfplumber",
-      "status": "ok",
-      "count": 8
-    },
-    {
-      "entry": "conjuntosindutivos",
-      "step": "detect_tables_pymupdf",
-      "status": "ok",
-      "count": 1
-    },
-    {
-      "entry": "exerciciosespecificacao-respostas",
-      "step": "scanned_pages",
-      "status": "ok",
-      "rendered_pages_dir": "content/images/scanned/exerciciosespecificacao-respostas"
-    },
-    {
-      "entry": "exerciciosespecificacao",
-      "step": "scanned_pages",
-      "status": "ok",
-      "rendered_pages_dir": "content/images/scanned/exerciciosespecificacao"
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "pymupdf4llm",
-      "layer": "base",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/pymupdf4llm/logicapredicados-semantica.md",
-      "asset_dir": "staging/assets/inline-images/logicapredicados-semantica",
-      "metadata_path": null,
-      "notes": [
-        "Markdown gerado com PyMuPDF4LLM."
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "marker",
-      "layer": "advanced",
-      "status": "ok",
-      "markdown_path": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
-      "asset_dir": "staging/markdown-auto/marker/logicapredicados-semantica",
-      "metadata_path": "staging/markdown-auto/marker/logicapredicados-semantica/marker-run.json",
-      "notes": [
-        "Saída avançada gerada com Marker CLI."
-      ],
-      "command": [
-        "C:\\Users\\Humberto\\Documents\\GitHub\\GPT-Tutor-Generator\\.venv\\Scripts\\marker_single.EXE",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\pdfs\\material-de-aula\\logicapredicados-semantica.pdf",
-        "--output_format",
-        "markdown",
-        "--output_dir",
-        "C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\staging\\markdown-auto\\marker\\logicapredicados-semantica",
-        "--page_range",
-        "0-17"
-      ]
-    },
-    {
-      "entry": "logicapredicados-semantica",
-      "step": "extract_images",
-      "status": "ok",
-      "count": 0
-    },
     {
       "entry": "logicapredicados-semantica",
       "step": "extract_tables_pdfplumber",
@@ -3511,7 +3567,169 @@
       "approved_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
       "category": "material-de-aula"
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/exerciciosisabelle.md",
+      "asset_dir": "staging/assets/inline-images/exerciciosisabelle",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "datalab",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/datalab/exerciciosisabelle/exerciciosisabelle.md",
+      "asset_dir": "staging/markdown-auto/datalab/exerciciosisabelle",
+      "metadata_path": "staging/markdown-auto/datalab/exerciciosisabelle/datalab-run.json",
+      "notes": [
+        "SaÃ­da avanÃ§ada gerada com Datalab Document Conversion API.",
+        "Modo: accurate.",
+        "Imagens e descricoes sinteticas do Datalab desativadas; a curadoria de imagens permanece app-side."
+      ]
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "exerciciosisabelle",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/exerciciosisabelle.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosisabelle/exerciciosisabelle.md",
+      "category": "listas"
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/revisao-p1.md",
+      "asset_dir": "staging/assets/inline-images/revisao-p1",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "datalab",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/datalab/revisao-p1/revisao-p1.md",
+      "asset_dir": "staging/markdown-auto/datalab/revisao-p1",
+      "metadata_path": "staging/markdown-auto/datalab/revisao-p1/datalab-run.json",
+      "notes": [
+        "SaÃ­da avanÃ§ada gerada com Datalab Document Conversion API.",
+        "Modo: accurate.",
+        "Imagens e descricoes sinteticas do Datalab desativadas; a curadoria de imagens permanece app-side."
+      ]
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "revisao-p1",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "exercises/lists/revisao-p1.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1/revisao-p1.md",
+      "category": "listas"
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "pymupdf4llm",
+      "layer": "base",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/pymupdf4llm/t1-2026-1.md",
+      "asset_dir": "staging/assets/inline-images/t1-2026-1",
+      "metadata_path": null,
+      "notes": [
+        "Markdown gerado com PyMuPDF4LLM."
+      ]
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "datalab",
+      "layer": "advanced",
+      "status": "ok",
+      "markdown_path": "staging/markdown-auto/datalab/t1-2026-1/t1-2026-1.md",
+      "asset_dir": "staging/markdown-auto/datalab/t1-2026-1",
+      "metadata_path": "staging/markdown-auto/datalab/t1-2026-1/datalab-run.json",
+      "notes": [
+        "SaÃ­da avanÃ§ada gerada com Datalab Document Conversion API.",
+        "Modo: accurate.",
+        "Imagens e descricoes sinteticas do Datalab desativadas; a curadoria de imagens permanece app-side."
+      ]
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "extract_images",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "extract_tables_pdfplumber",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "detect_tables_pymupdf",
+      "status": "ok",
+      "count": 0
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "curator_approve",
+      "status": "ok",
+      "approved_markdown": "content/curated/t1-2026-1.md",
+      "approved_source_markdown": "staging/markdown-auto/datalab/t1-2026-1/t1-2026-1.md",
+      "category": "trabalhos"
+    },
+    {
+      "entry": "t1-2026-1",
+      "step": "code_import",
+      "status": "ok",
+      "language": "isabelle"
     }
   ],
-  "updated_at": "2026-04-10T14:05:31"
+  "updated_at": "2026-04-15T20:43:35"
 }

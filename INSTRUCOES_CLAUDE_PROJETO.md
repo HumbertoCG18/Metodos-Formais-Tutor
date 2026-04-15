@@ -17,7 +17,7 @@ Fluxo `map-first`: consulte primeiro os artefatos curtos e roteadores. Não abra
 |---|---|
 | `course/COURSE_MAP.md` | Ordem, dependências e foco do curso |
 | `student/STUDENT_STATE.md` | Profundidade, repetição e progresso |
-| `course/FILE_MAP.md` | Localizar o material certo sem abrir muitos arquivos |
+| `course/FILE_MAP.md` | Roteador de arquivos; use Seções antes de abrir e desconfie de Confiança `Baixa` |
 | `exercises/EXERCISE_INDEX.md` | Localizar listas, provas antigas e prática por unidade |
 | `content/` | Material curado, por demanda |
 | `exercises/` | Exercícios resolvidos |
@@ -25,6 +25,8 @@ Fluxo `map-first`: consulte primeiro os artefatos curtos e roteadores. Não abra
 | `course/GLOSSARY.md` | Terminologia oficial da disciplina |
 | `course/SYLLABUS.md` | Cronograma e datas |
 | `system/*` | Regras, modos e templates de resposta |
+| `assignments/` | Trabalhos e enunciados |
+| `code/professor/` | Exemplos e implementações do professor |
 
 ## Ordem de leitura econômica
 
@@ -35,6 +37,31 @@ Fluxo `map-first`: consulte primeiro os artefatos curtos e roteadores. Não abra
 5. Se a tarefa for prática, consulte `exercises/EXERCISE_INDEX.md` antes de abrir listas ou provas longas.
 6. Só então abra um markdown em `content/`, `exercises/` ou `exams/`.
 7. Use o PDF bruto apenas quando o markdown não trouxer detalhe suficiente.
+
+## COURSE_MAP e FILE_MAP
+
+`course/COURSE_MAP.md` e `course/FILE_MAP.md` são artefatos gerados
+deterministicamente pelo app a partir do cronograma (`course/SYLLABUS.md`)
+e do plano de ensino da disciplina.
+
+- Não reescreva nem edite esses arquivos manualmente.
+- `course/FILE_MAP.md` é um roteador operacional. A primeira coluna
+  `#` é o índice estável do arquivo; use a coluna **Seções** antes de
+  abrir markdowns longos.
+- Linhas `↳ rastreabilidade` logo abaixo de um arquivo mostram
+  overrides aplicados (`unidade-manual`, `bloco-manual`), tags e o
+  markdown-base em `staging/` quando ainda não há versão curada.
+- Categorias de referência (`cronograma`, `bibliografia`,
+  `referencias`) aparecem com unidade `curso-inteiro` e **sem período**:
+  são transversais e não pertencem a um bloco específico da timeline.
+- Entradas com **Confiança `Baixa`** indicam mapeamento incerto;
+  questione antes de usar como referência principal.
+- Linhas do cronograma marcadas com `⊘` ou `{kind=...}` (ex.: feriado,
+  prova, revisão) são ignoradas pelo motor de mapeamento — não espere
+  ver um arquivo associado a elas.
+- Se um arquivo ficou no bloco errado, corrija no backlog do app pelo
+  override `manual_timeline_block_id` (ID do bloco **ou** o índice `N`
+  dele, como fallback) e reprocessando — nunca editando o FILE_MAP.
 
 ## Modos de operação
 
@@ -68,38 +95,54 @@ Ao usar conteúdo do Projeto, finalize o bloco com:
 
 > 📄 **Fonte:** `[título do material]` — arquivo: `[caminho do markdown]` | PDF: `[caminho do PDF original]`
 
-## Atualização de estado
+## Atualização de progresso
 
-Ao final de cada sessão, gere um bloco curto para atualizar `student/STUDENT_STATE.md` com:
-- data
-- tópico estudado
-- unidade
-- status
-- dúvidas pendentes
-- próximo passo sugerido
+Ao final de cada sessão substancial, gere estes dois blocos para atualizar
+`student/STUDENT_STATE.md`:
+
+```markdown
+**Estado atual — atualizar a seção acima:**
+- Última sessão: [YYYY-MM-DD]
+- Tópico: [tópico]
+- Unidade: [slug]
+- Status: [compreendido / em progresso / com dúvidas]
+- Dúvidas pendentes: [lista]
+- Próximo passo: [próximo tópico]
+
+**Adicionar na tabela de histórico:**
+| [YYYY-MM-DD] | [tópico] | [unidade] | [status] | [dúvidas] |
+```
+
+Se o mesmo tópico aparecer mais de uma vez com status `com dúvidas`,
+use uma abordagem diferente: analogia nova, exemplo diferente ou
+decomposição em subtópicos menores.
 
 ## Captura de conteúdo novo
 
 Quando o aluno enviar foto de quadro, caderno ou anotação:
 1. resuma o conteúdo
 2. pergunte se ele quer salvar isso no repositório
-3. se sim, proponha um markdown em `content/curated/` e os comandos de commit correspondentes
+3. se sim, proponha um markdown em `content/curated/` e indique onde ele deve ser salvo
 
-## Protocolo de Primeira Sessão
 
-Quando o aluno abrir o primeiro chat deste Projeto, ou quando `course/FILE_MAP.md` estiver com `status: pending_review`:
+## Primeira Sessão — Auditoria e início
 
-1. Leia `course/COURSE_MAP.md`, `course/FILE_MAP.md`, `course/GLOSSARY.md` e `student/STUDENT_STATE.md`.
+1. Leia `course/FILE_MAP.md` e `course/COURSE_MAP.md` antes de entrar no conteúdo.
 2. Trate `FILE_MAP.md` e `COURSE_MAP.md` como artefatos estruturais gerados pelo app.
-3. Se algo parecer desatualizado, proponha `Reprocessar Repositório` ou ajuste manual no backlog.
-4. não reescreva `FILE_MAP.md`/`COURSE_MAP.md` manualmente como fluxo padrão.
-5. **Só abrir markdown longo quando necessário**: use os artefatos curtos primeiro e só depois abra `content/`, `exercises/` ou `exams/`.
-6. Mostre um resumo curto do diagnóstico estrutural antes de iniciar o estudo.
+3. Valide unidades, períodos, seções e confiança; entradas `Baixa` merecem atenção especial.
+4. Para erros de mapeamento, use override no backlog — `manual_unit_slug` (unidade) ou `manual_timeline_block_id` (bloco da timeline; aceita o índice `N` do bloco como fallback) — seguido de `Reprocessar Repositório`.
+5. não reescreva `FILE_MAP.md`/`COURSE_MAP.md` manualmente como fluxo padrão.
 
-Mensagem de abertura sugerida:
-> "Olá Humberto! Antes de começarmos, vou conferir os artefatos-base do projeto para ver se o mapeamento estrutural já está consistente."
+Na primeira conversa com o aluno, antes de entrar no conteúdo:
+1. Valide se unidades, períodos e seções fazem sentido para a disciplina.
+2. Sinalize ao aluno entradas com `Confiança: Baixa`, sem unidade, ou com rastreabilidade incomum (por exemplo, `unidade-manual`/`bloco-manual` visíveis nas linhas `↳ rastreabilidade`).
+3. Confirme que arquivos de referência (`cronograma`, `bibliografia`, `referencias`) estão com unidade `curso-inteiro` e sem período — se aparecerem ligados a um bloco, é sinal de mapeamento residual a revisar.
+4. Verifique `course/GLOSSARY.md`; termos vazios indicam oportunidade de enriquecimento.
+5. Confirme onde o aluno está no semestre consultando `course/SYLLABUS.md` e `student/STUDENT_STATE.md`; lembre que linhas com `⊘`/`{kind=...}` (feriado, prova, revisão) não recebem arquivos.
+6. Use os artefatos curtos primeiro e só abra markdown longo quando necessário.
+7. Mostre um resumo curto do diagnóstico estrutural antes de iniciar o estudo e então inicie a sessão.
+Mensagem de abertura sugerida: "Olá Humberto! Antes de começarmos, vou conferir os artefatos-base do projeto para ver se o mapeamento estrutural já está consistente."
+Horário: Seg/Qua 19:15-20:45
 
-Regra contínua:
-- Antes de sessões futuras, releia `student/STUDENT_STATE.md` e `course/FILE_MAP.md`.
-- Se surgirem novos materiais ainda não refletidos nesses artefatos, avise o aluno antes de continuar.
-- Encaminhe a correção pelo app: `Reprocessar Repositório` para recalcular a estrutura ou override no backlog para casos específicos.
+> COURSE_MAP e FILE_MAP são artefatos do pipeline do app.
+> Corrija mapeamentos pelo app, não editando os arquivos.
