@@ -6,7 +6,7 @@ Plataforma alvo: **Claude Projects** (claude.ai)
 ## Como usar com Claude
 
 1. Crie um **Projeto** no Claude.ai com o nome desta disciplina
-2. Cole o conteúdo de `INSTRUCOES_CLAUDE_PROJETO.md` no campo **Instructions** do Projeto
+2. Cole o conteúdo de `setup/INSTRUCOES_CLAUDE_PROJETO.md` no campo **Instructions** do Projeto
 3. Conecte este repositório GitHub ao Projeto (aba Settings → GitHub)
 4. Inicie uma conversa — o Claude lerá os arquivos automaticamente
 
@@ -26,7 +26,7 @@ Plataforma alvo: **Claude Projects** (claude.ai)
 
 | Arquivo | Função |
 |---|---|
-| `INSTRUCOES_CLAUDE_PROJETO.md` | System prompt do Projeto |
+| `setup/INSTRUCOES_CLAUDE_PROJETO.md` | System prompt do Projeto (não indexado pelo tutor) |
 | `student/STUDENT_STATE.md` | Estado atual do aluno — atualizar após cada sessão |
 | `course/COURSE_MAP.md` | Preencher com os tópicos em ordem |
 | `course/GLOSSARY.md` | Preencher com terminologia da disciplina |

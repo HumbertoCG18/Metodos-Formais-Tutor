@@ -12,13 +12,13 @@
 
 ## Plataforma principal: CLAUDE
 
-> Copie o conteúdo de `INSTRUCOES_CLAUDE_PROJETO.md`
+> Copie o conteúdo de `setup/INSTRUCOES_CLAUDE_PROJETO.md`
 > Cole no campo 'Instructions' do Projeto Claude
 
 Os três arquivos de instruções foram gerados:
-- `INSTRUCOES_CLAUDE_PROJETO.md` **<< atual**
-- `INSTRUCOES_GPT_PROJETO.md`
-- `INSTRUCOES_GEMINI_PROJETO.md`
+- `setup/INSTRUCOES_CLAUDE_PROJETO.md` **<< atual**
+- `setup/INSTRUCOES_GPT_PROJETO.md`
+- `setup/INSTRUCOES_GEMINI_PROJETO.md`
 
 ## Regras práticas de curadoria
 - PDFs simples: camada base costuma bastar.

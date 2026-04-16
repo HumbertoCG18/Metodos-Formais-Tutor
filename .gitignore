@@ -16,9 +16,7 @@ course/.assessment_context.json
 course/.tag_catalog.json
 course/.semantic_profile.generated.json
 # Exportações operacionais de prompt (copiadas para a plataforma, não lidas pelo tutor)
-INSTRUCOES_CLAUDE_PROJETO.md
-INSTRUCOES_GPT_PROJETO.md
-INSTRUCOES_GEMINI_PROJETO.md
+setup/
 
 # === Sistema ===
 __pycache__/
