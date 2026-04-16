@@ -5,6 +5,9 @@ staging/
 raw/
 # Artefatos de build
 build/
+# Backups de consolidação e migração
+build/consolidation-backup/
+build/migration-v1-backup/
 # Workspace de revisão manual
 manual-review/
 # Scripts utilitários locais
