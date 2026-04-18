@@ -1,7 +1,6 @@
 # MÉTODOS FORMAIS
 
 Prof. Júlio Machado
-
 ## CONJUNTOS E FUNÇÕES
 
 Revisão
@@ -53,7 +52,6 @@ Revisão
   - An+1 = AxA<sup>n</sup>
 - A={0,1}
 - A<sup>3</sup>=AxA<sup>2</sup>=AxAxA<sup>1</sup>=AxAxAxA<sup>0</sup>
-
 #### Relações
 
 - Uma relação binária R entre dois conjuntos A e B, escrita R:A$\leftrightarrow$B, é um subconjunto do produto cartesiano AxB
@@ -64,7 +62,6 @@ Revisão
 - R1={(0,x),(1,x),(2,y)}
 - R2={(0,x),(0,y),(1,y),(2,y)}
 - R3={(1,x)}
-
 #### Relações
 
 - Seja uma relação binária R:A$\leftrightarrow$B
@@ -75,26 +72,22 @@ Revisão
 - R3={(1,x)}
   - dd(R3)={1}
   - img(R3)={x}
-
 #### Relações de Equivalência
 
 - Seja uma relação binária R:A$\leftrightarrow$A, diz-se que ela é uma relação de equivalência caso seja:
   - Reflexiva: xA.(x,x)R
   - Simétrica: xA, yA. (x,y)R (y,x)R
   - Transitiva: xA, yA, zA,. (x,y)R (y,z)R (x,z)R
-
 #### Relações de Ordem Parcial
 
 - Seja uma relação binária R:A$\leftrightarrow$A, diz-se que ela é uma relação de ordem parcial caso seja:
   - Reflexiva: xA.(x,x)R
   - Antissimétrica: xA, yA. (x,y)R (y,x)R x=y
   - Transitiva: xA, yA, zA,. (x,y)R (y,z)R (x,z)R
-
 #### Relações de Ordem Total
 
 - Seja uma relação de ordem parcial R:A$\leftrightarrow$A, diz-se que ela é uma relação de ordem total caso :
   - Qualquer elemento possa ser comparado, ou seja, xA, yA. (x,y)R (y,x)R
-
 #### Funções Parciais
 
 - Uma função parcial f entre dois conjuntos A e B, escrito f:A⇀B, é uma relação entre os conjuntos A e B tal que existe somente um par ordenado com a primeira componente em A
@@ -105,15 +98,12 @@ Revisão
   - Escreve-se R1(0)=x ou {0⟼x}R1
 - R2={(0,x),(0,y),(1,y),(2,y)} não é função
 - R3={(1,x)} é função
-
 #### Funções Totais
 
 • Uma função total F:A→B é uma função parcial que é definida para todo elemento do conjunto de partida, ou seja, para todo elemento xA existem um elemento yB tal que F(x)=y
-
 #### LINGUAGENS FORMAIS
 
 Revisão
-
 #### Alfabeto e palavra
 
 - Um *alfabeto* é um conjunto finito, não vazio, de elementos (símbolos)
@@ -121,20 +111,20 @@ Revisão
 - Uma *palavra* (cadeia de caracteres ou *string*) sobre um alfabeto é uma sequência finita de símbolos justapostos
 - O **tamanho de uma palavra** *w*, representado por |*w*|, é o número de símbolos da palavra
 - A **palavra vazia** (), é uma palavra sem símbolo, ou seja, || = 0
-
 #### Linguagem sobre um alfabeto
 
 - Uma linguagem sobre um alfabeto é um conjunto de palavras sobre
 - Denotanto o conjunto de todas as palavras sobre como \*, dizemos que uma linguagem sobre é qualquer subconjunto de \*
-
 #### Linguagens artificiais
-
 #### Uma linguagem artificial pode ser vista de duas formas:
 
 - como uma *entidade livre*, ou seja, sem qualquer significado associado (SINTAXE);
 - como uma *entidade* juntamente *com uma interpretação do seu significado* (SEMÂNTICA).
 - Métodos Formais lida com ambos aspectos das linguagens
-
 #### Hierarquia de Chomsky
 
+<!-- IMAGE_DESCRIPTION: revisao-_page_21_Picture_1.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama representa a hierarquia de Chomsky por meio de uma estrutura aninhada de quatro conjuntos, denotados como nós: $ L_0 $ (Linguagens Recursivamente Enumeráveis ou Tipo 0), $ L_1 $ (Linguagens Sensíveis ao...
+<!-- /IMAGE_DESCRIPTION -->
 ![](content/images/revisao-_page_21_Picture_1.png)

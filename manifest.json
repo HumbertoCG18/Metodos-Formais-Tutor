@@ -362,7 +362,35 @@
       "curated_markdown": "content/curated/conjuntosindutivos.md",
       "approved_source_markdown": "staging/markdown-auto/marker/conjuntosindutivos/conjuntosindutivos/conjuntosindutivos.md",
       "approved_at": "2026-04-08T17:59:05",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-18T14:31:45",
+        "pages": {
+          "4": {
+            "include_page": true,
+            "images": {
+              "conjuntosindutivos-_page_3_Picture_7.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta três configurações de diagramas de Venn que ilustram relações de inclusão entre conjuntos. **Nós**: Os conjuntos $ A $ e $ B $ em cada diagrama. **Relações**:  \n1. Primeiro diagrama: $ A \\subset B $ (subconjunto próprio), formalizado como $ \\forall x (x \\in A \\rightarrow x \\in B) \\land \\exists x (x \\in B \\land x \\notin A) $.  \n2. Segundo diagrama: $ A \\not\\subset B $ com interseção não vazia, $ A \\cap B \\neq \\emptyset $ e $ A \\setminus B \\neq \\emptyset $.  \n3. Terceiro diagrama: $ A \\not\\subset B $ com conjuntos disjuntos, $ A \\cap B = \\emptyset $.  \n\n**Hierarquia**: Apenas no primeiro caso, $ A $ está hierarquicamente contido em $ B $. Nos demais, não há relação de inclusão. **Regras**: A relação $ A \\subset B $ exige que todos os elementos de $ A $ pertençam a $ B $, com $ B $ possuindo elementos exclusivos. Já $ A \\not\\subset B $ é válida se $ A $ contém elementos fora de $ B $, seja com interseção parcial ou total ausência de interseção.",
+                "described_at": "2026-04-17T21:23:11"
+              }
+            }
+          },
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-_page_21_Picture_1.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "logicapredicados-semantica",
@@ -559,7 +587,35 @@
       "curated_markdown": "content/curated/logicaproposicional-sintaxe.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicaproposicional-sintaxe/logicaproposicional-sintaxe/logicaproposicional-sintaxe.md",
       "approved_at": "2026-04-09T20:25:47",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-18T14:31:42",
+        "pages": {
+          "7": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-_page_6_Figure_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": "A imagem apresenta um quadro destacado em amarelo contendo explicações sobre conectivos lógicos, inserido em um contexto de lista de proposições com suas representações simbólicas. O quadro amarelo descreve que, para compor proposições, utilizam-se os símbolos *não* (negação), *e* (conjunção), *ou* (disjunção) e *se então* (implicação), denominados *conectivos lógicos*. Explicita-se que uma proposição atômica é representada por uma variável: *C* corresponde a \"Maria tem 18 anos\". Adicionalmente, exemplifica que *não(B)* representa \"Maria não é menor\", considerando que *B* simboliza \"Maria é menor\". Ao redor do quadro, observam-se itens de uma lista com proposições em linguagem natural e suas respectivas formas simbólicas, como:  \n- *\"Maria não tem 23 anos\"* associada a *(nãoA)*, onde *A* representa \"Maria tem 23 anos\";  \n- *\"Maria não é menor\"* associada a *(não(B))*, conforme explicado no quadro;  \n- *\"Maria não tem 23 anos\" e \"Maria é menor\"* representada por *(não(A) e B)*.  \nA estrutura ilustra a formalização lógica de enunciados cotidianos, destacando a correspondência entre variáveis proposicionais (*A*, *B*, *C*), conectivos e a construção de proposições compostas, em conformidade com os princípios da lógica proposicional.",
+                "described_at": "2026-04-17T21:23:54"
+              }
+            }
+          },
+          "3": {
+            "include_page": true,
+            "images": {
+              "page-003.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "revisao",
@@ -624,7 +680,35 @@
       "curated_markdown": "content/curated/revisao.md",
       "approved_source_markdown": "staging/markdown-auto/marker/revisao/revisao/revisao.md",
       "approved_at": "2026-04-08T17:59:53",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-18T14:31:44",
+        "pages": {
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-_page_21_Picture_1.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama representa a hierarquia de Chomsky por meio de uma estrutura aninhada de quatro conjuntos, denotados como nós: $ L_0 $ (Linguagens Recursivamente Enumeráveis ou Tipo 0), $ L_1 $ (Linguagens Sensíveis ao Contexto ou Tipo 1), $ L_2 $ (Linguagens Livres do Contexto ou Tipo 2) e $ L_3 $ (Linguagens Regulares ou Tipo 3). As relações são de subconjunto próprio, formalizadas como $ L_3 \\subset L_2 \\subset L_1 \\subset L_0 $, onde cada nó interno está estritamente contido no nó externo adjacente. A hierarquia reflete a inclusão progressiva de classes de linguagens formais, com $ L_3 $ sendo a classe mais restritiva e $ L_0 $ a mais abrangente. As regras implícitas são as definições gramaticais que caracterizam cada tipo: Tipo 3 (gramáticas regulares), Tipo 2 (gramáticas livres de contexto), Tipo 1 (gramáticas sensíveis ao contexto) e Tipo 0 (gramáticas recursivamente enumeráveis), conforme a teoria da computação.",
+                "described_at": "2026-04-17T21:22:10"
+              }
+            }
+          },
+          "7": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-_page_6_Figure_1.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "introducao",
@@ -1412,7 +1496,46 @@
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/scanned/exerciciosformalizacaoalgoritmosrecursao-respostas.md",
       "approved_at": "2026-04-10T13:56:17",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-04-18T14:31:40",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "page-001.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "EQUAÇÕES RECURSIVAS 1\n\n(1)\n\na) SOMA: $\\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{SOMA}(x, y) = x + y$\n\n$$\n\\begin{cases}\n\\text{SOMA}(0, y) = y \\\\\n\\text{SOMA}(x+1, y) = \\text{SOMA}(x, y) + 1\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(x, y) = y, \\text{ se } x = 0 \\\\\n\\text{SOMA}(x, y) = \\text{SOMA}(x-1, y) + 1, \\text{ se } y > 0\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(0, y) = y \\\\\n\\text{SOMA}(x+1, y) = \\text{SOMA}(x, y+1)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(x, y) = y, \\text{ se } x = 0 \\\\\n\\text{SOMA}(x, y) = \\text{SOMA}(x-1, y+1), \\text{ se } y > 0\n\\end{cases}\n$$\n\nb) FAT: $\\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{FAT}(x) = x!$\n\n$$\n\\begin{cases}\n\\text{FAT}(0) = 1 \\\\\n\\text{FAT}(x+1) = (x+1) \\times \\text{FAT}(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{FAT}(x) = 1, \\text{ se } x = 0 \\\\\n\\text{FAT}(x) = x \\times \\text{FAT}(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nc) POT2: $\\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{POT2}(x) = 2^x$\n\n$$\n\\begin{cases}\n\\text{POT2}(0) = 1 \\\\\n\\text{POT2}(x+1) = 2 \\times \\text{POT2}(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{POT2}(x) = 1, \\text{ se } x = 0 \\\\\n\\text{POT2}(x) = 2 \\times \\text{POT2}(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nd) Seja a série: $0/0, 1/1, 1/2, 2/3, 3/5, 5/8, 8/13, \\ldots$\n\nPUCRS",
+                "described_at": "2026-04-17T21:15:09"
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "page-002.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "11\n\nFIB: $\\mathbb{N} \\to \\mathbb{N}$\n\n$$\n\\begin{cases}\nFIB(0) = 0 \\\\\nFIB(1) = 1 \\\\\nFIB(m) = FIB(m-2) + FIB(m-1), & \\text{se } m \\geq 2\n\\end{cases}\n$$\n\ne) $DIV: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRÉ: $y > 0$  \nPÓS: $DIV(x, y) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor$\n\n$DIV(x, y) = DIVAUX(x, y, 0)$\n\n$DIVAUX: \\mathbb{N} \\times \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRÉ: $y > 0$  \nPÓS: $DIVAUX(x, y, c) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor + c$\n\n$$\n\\begin{cases}\nDIVAUX(x, y, c) = c, & \\text{se } x < y \\\\\nDIVAUX(x, y, c) = DIVAUX(x - y, y, c + 1), & \\text{se } x \\geq y\n\\end{cases}\n$$\n\nou\n\n$DIV: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRÉ: $y > 0$  \nPÓS: $DIV(x, y) = \\left\\lfloor \\frac{x}{y} \\right\\rfloor$\n\n$$\n\\begin{cases}\nDIV(x, y) = 0, & \\text{se } x < y \\\\\nDIV(x, y) = 1 + DIV(x - y, y), & \\text{se } x \\geq y\n\\end{cases}\n$$\n\n2) $MULT: \\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$  \nPRÉ: T  \nPÓS: $MULT(x, y) = x \\times y$\n\nPUCRS",
+                "described_at": "2026-04-17T21:18:53"
+              }
+            }
+          },
+          "3": {
+            "include_page": true,
+            "images": {
+              "page-003.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": "11\n\n$$\n\\begin{cases}\nMULT(x, y) = 0, & \\text{se } x = 0 \\\\\nMULT(x, y) = MULT\\left(\\frac{x}{2}, 2 \\times y\\right), & \\text{se } x \\text{ é par} \\\\\nMULT(x, y) = MULT\\left(\\frac{x-1}{2}, 2 \\times y\\right) + y, & \\text{se } x \\text{ é ímpar}\n\\end{cases}\n$$\n\nou\n\n$$MULT(x, y) = MULTAUX(x, y, 0)$$\n\nMULTAUX: $\\mathbb{N} \\times \\mathbb{N} \\times \\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $MULTAUX(a, y, a) = a \\times y + a$\n\n$$\n\\begin{cases}\nMULTAUX(x, y, a) = a, & \\text{se } x = 0 \\\\\nMULTAUX(x, y, a) = MULTAUX\\left(\\frac{x}{2}, 2 \\times y, a\\right), & \\text{se } x \\text{ é par} \\\\\nMULTAUX(x, y, a) = MULTAUX\\left(\\frac{x-1}{2}, 2 \\times y, a + y\\right), & \\text{se } x \\text{ é ímpar}\n\\end{cases}\n$$\n\n3 FAT: $\\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $FAT(x) = x!$\n\n$FAT(x) = FATAUX(x, 1)$\n\nFATAUX: $\\mathbb{N} \\times \\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $FATAUX(a, a) = x \\times a$\n\n$$\n\\begin{cases}\nFATAUX(0, a) = a, & \\text{se } x = 0 \\\\\nFATAUX(x+1, a) = FATAUX(x, a \\times (x+1)), & \n\\end{cases}\n$$\n\nPUCRS",
+                "described_at": "2026-04-17T21:21:14"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "formalizacaoalgoritmos-recursao",

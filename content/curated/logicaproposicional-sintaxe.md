@@ -13,18 +13,15 @@
 # MÉTODOS FORMAIS
 
 Prof. Júlio Machado
-
 ## LÓGICA PROPOCIONAL
 
 Introdução
 
 Baseado nos materiais do Prof. Daniel Callegari
-
 ### Proposição
 
 - Costuma-se usar a palavra "**proposição**" para designar o significado de uma sentença ou oração declarativa.
 - Exemplo: "João ama Maria" é o mesmo que "Maria é amada por João".
-
 ### Proposição
 
 - Toda proposição é uma frase (mas nem toda frase é uma proposição); uma frase é uma proposição apenas quando admite um dos dois valores lógicos: Falso (F) ou Verdadeiro (V).
@@ -37,13 +34,11 @@ Baseado nos materiais do Prof. Daniel Callegari
   - A cidade de Salvador é a capital do estado do Amazonas (F)
   - O numero 712 é ímpar (F)
   - Raiz quadrada de dois é um número irracional (V)
-
 ### Composição de Proposições
 
 - É possível construir proposições a partir de proposições já existentes. Este processo é conhecido por Composição de Proposições. Suponha que tenhamos duas proposições,
 - A = "Maria tem 23 anos"
 - B = "Maria é menor"
-
 ### Composição de Proposições
 
 ```
@@ -62,11 +57,13 @@ Baseado nos materiais do Prof. Daniel Callegari
  então B) 
 • "Maria não tem 23 anos" e "Maria é menor" (não(A) e B)
 ```
-
 #### Composição de Proposições
 
+<!-- IMAGE_DESCRIPTION: logicaproposicional-sintaxe-_page_6_Figure_1.png -->
+<!-- Tipo: genérico -->
+> **[Descrição de imagem]** A imagem apresenta um quadro destacado em amarelo contendo explicações sobre conectivos lógicos, inserido em um contexto de lista de proposições com suas representações simbólicas.
+<!-- /IMAGE_DESCRIPTION -->
 ![](content/images/logicaproposicional-sintaxe-_page_6_Figure_1.png)
-
 ## LÓGICA PROPOCIONAL
 
 Sintaxe
@@ -126,7 +123,6 @@ $$\frac{\phi \in P_{\Sigma}, \psi \in P_{\Sigma}}{(\phi \to \psi) \in P_{\Sigma}
 • Se e são fórmulas bem-formadas, então $\leftrightarrow$ é uma fórmula bem-formada
 
 $$\frac{\phi \in P_{\Sigma}, \psi \in P_{\Sigma}}{(\phi \leftrightarrow \psi) \in P_{\Sigma}} (EQUI)$$
-
 #### Fórmulas bem-formadas
 
 $$(p \land q)$$
@@ -136,7 +132,6 @@ $$((\bot \lor q) \to r)$$
 $$(((\neg q) \lor (\neg r)) \leftrightarrow (p \land s))$$
 
 $$(p \to (q \to r))$$
-
 #### Fórmulas mal-formadas
 
 $$p \to q$$
