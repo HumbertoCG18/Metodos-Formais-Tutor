@@ -365,7 +365,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-18T14:31:45",
+        "curated_at": "2026-04-19T12:33:21",
         "pages": {
           "4": {
             "include_page": true,
@@ -590,7 +590,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-18T14:31:42",
+        "curated_at": "2026-04-19T12:33:26",
         "pages": {
           "7": {
             "include_page": true,
@@ -608,6 +608,17 @@
             "images": {
               "page-003.jpg": {
                 "type": "extração-latex",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "4": {
+            "include_page": true,
+            "images": {
+              "conjuntosindutivos-_page_3_Picture_7.png": {
+                "type": "diagrama",
                 "include": true,
                 "description": null,
                 "described_at": null
@@ -683,7 +694,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-18T14:31:44",
+        "curated_at": "2026-04-19T12:33:27",
         "pages": {
           "22": {
             "include_page": true,
@@ -1499,7 +1510,7 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-18T14:31:40",
+        "curated_at": "2026-04-19T12:33:35",
         "pages": {
           "1": {
             "include_page": true,
@@ -1531,6 +1542,17 @@
                 "include": true,
                 "description": "11\n\n$$\n\\begin{cases}\nMULT(x, y) = 0, & \\text{se } x = 0 \\\\\nMULT(x, y) = MULT\\left(\\frac{x}{2}, 2 \\times y\\right), & \\text{se } x \\text{ é par} \\\\\nMULT(x, y) = MULT\\left(\\frac{x-1}{2}, 2 \\times y\\right) + y, & \\text{se } x \\text{ é ímpar}\n\\end{cases}\n$$\n\nou\n\n$$MULT(x, y) = MULTAUX(x, y, 0)$$\n\nMULTAUX: $\\mathbb{N} \\times \\mathbb{N} \\times \\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $MULTAUX(a, y, a) = a \\times y + a$\n\n$$\n\\begin{cases}\nMULTAUX(x, y, a) = a, & \\text{se } x = 0 \\\\\nMULTAUX(x, y, a) = MULTAUX\\left(\\frac{x}{2}, 2 \\times y, a\\right), & \\text{se } x \\text{ é par} \\\\\nMULTAUX(x, y, a) = MULTAUX\\left(\\frac{x-1}{2}, 2 \\times y, a + y\\right), & \\text{se } x \\text{ é ímpar}\n\\end{cases}\n$$\n\n3 FAT: $\\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $FAT(x) = x!$\n\n$FAT(x) = FATAUX(x, 1)$\n\nFATAUX: $\\mathbb{N} \\times \\mathbb{N} \\rightarrow \\mathbb{N}$\n\nPRE: T\n\nPOS: $FATAUX(a, a) = x \\times a$\n\n$$\n\\begin{cases}\nFATAUX(0, a) = a, & \\text{se } x = 0 \\\\\nFATAUX(x+1, a) = FATAUX(x, a \\times (x+1)), & \n\\end{cases}\n$$\n\nPUCRS",
                 "described_at": "2026-04-17T21:21:14"
+              }
+            }
+          },
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-_page_21_Picture_1.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": null,
+                "described_at": null
               }
             }
           }
@@ -3854,5 +3876,5 @@
       "language": "isabelle"
     }
   ],
-  "updated_at": "2026-04-16T15:12:40"
+  "updated_at": "2026-04-19T23:35:39"
 }

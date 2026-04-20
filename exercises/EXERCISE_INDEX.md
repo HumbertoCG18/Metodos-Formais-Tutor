@@ -1,4 +1,4 @@
-# EXERCISE_INDEX â€” Metodos-Formais
+# EXERCISE_INDEX — Metodos-Formais
 
 > **Como usar:** Índice operacional de prática da disciplina.
 > O tutor consulta este arquivo para localizar listas, provas antigas
