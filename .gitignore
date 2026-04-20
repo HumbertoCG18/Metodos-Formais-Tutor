@@ -18,7 +18,7 @@ course/.timeline_index.json
 course/.assessment_context.json
 course/.tag_catalog.json
 course/.semantic_profile.generated.json
-/content/images
+/content/images/*.png
 # Exportações operacionais de prompt (copiadas para a plataforma, não lidas pelo tutor)
 setup/
 
