@@ -73,10 +73,10 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:axiom-free",
-        "ferramenta:es",
         "ferramenta:formal",
-        "ferramenta:hol",
-        "ferramenta:isabelle"
+        "ferramenta:isabelle",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-06"
       ],
       "notes": "",
       "professor_signal": "",
@@ -96,7 +96,16 @@
       "curated_markdown": "content/curated/archive-of-formal-proofs-355fb8.md",
       "approved_source_markdown": "staging/markdown-auto/url_fetcher/archive-of-formal-proofs-355fb8.md",
       "approved_at": "2026-04-06T21:21:19",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=10.00",
+        "topic_score=11.76"
+      ],
+      "unit_match_confidence": 0.9487172929773847,
+      "subunit_match_reasons": [
+        "winner_score=11.76"
+      ],
+      "subunit_match_confidence": 0.16119707532732522
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
@@ -107,9 +116,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas",
+        "bloco:bloco-04"
       ],
       "notes": "",
       "professor_signal": "",
@@ -164,7 +175,15 @@
       "approved_at": "2026-04-09T20:33:36",
       "review_status": "approved",
       "manual_unit_slug": "unidade-01-metodos-formais",
-      "manual_timeline_block_id": "bloco-04"
+      "manual_timeline_block_id": "bloco-04",
+      "unit_match_reasons": [
+        "manual"
+      ],
+      "unit_match_confidence": 1.0,
+      "subunit_match_reasons": [
+        "winner_score=9.63"
+      ],
+      "subunit_match_confidence": 0.8698524828589237
     },
     {
       "id": "formalizacaoalgoritmos-recursao2",
@@ -175,10 +194,12 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "ferramenta:sobre",
-        "tipo:material-base"
+        "topico:funcoes-recursivas",
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-05"
       ],
       "notes": "",
       "professor_signal": "",
@@ -231,7 +252,17 @@
       "curated_markdown": "content/curated/formalizacaoalgoritmos-recursao2.md",
       "approved_source_markdown": "staging/markdown-auto/marker/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2/formalizacaoalgoritmos-recursao2.md",
       "approved_at": "2026-04-09T20:35:50",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=16.65",
+        "topic_score=9.19"
+      ],
+      "unit_match_confidence": 0.9343362508164598,
+      "subunit_match_reasons": [
+        "winner_score=9.19",
+        "ambiguous"
+      ],
+      "subunit_match_confidence": 0.05878510777269769
     },
     {
       "id": "exerciciosconjuntosindutivos",
@@ -243,7 +274,10 @@
       "manual_tags": [],
       "auto_tags": [
         "topico:conjuntos-indutivos",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-conjuntos-indutivos",
+        "bloco:bloco-04"
       ],
       "notes": "",
       "professor_signal": "",
@@ -296,7 +330,50 @@
       "curated_markdown": "exercises/lists/exerciciosconjuntosindutivos.md",
       "approved_source_markdown": "staging/markdown-auto/marker/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos/exerciciosconjuntosindutivos.md",
       "approved_at": "2026-04-08T18:35:38",
-      "review_status": "approved"
+      "review_status": "approved",
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-05-13T19:46:20",
+        "pages": {
+          "1": {
+            "include_page": true,
+            "images": {
+              "exerciciosconjuntosindutivos-page-001-manual-181817.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta duas regras de inferência formais para a definição sintática da lógica proposicional, dispostas lado a lado em um quadro retangular dividido em duas seções. \n\nNa seção esquerda, encontra-se a regra **Var** (variável), um axioma que estabelece a pertinência de variáveis proposicionais ao conjunto de fórmulas. A estrutura da regra é composta por uma linha horizontal, com a conclusão $ v \\in Prop $ abaixo dela. Acima da linha, não há premissas explícitas, indicando que se trata de um axioma. À direita da regra, a condição lateral $ (v \\in X)Var $ especifica que a variável $ v $ deve pertencer ao conjunto $ X $ de variáveis proposicionais para que seja considerada uma proposição válida.\n\nNa seção direita, está a regra **Bop** (operador binário), que define a construção de fórmulas compostas. Acima da linha horizontal, as premissas $ p \\in Prop $ e $ q \\in Prop $ indicam que $ p $ e $ q $ são proposições válidas. Abaixo da linha, a conclusão $ (p \\; bop \\; q) \\in Prop $ afirma que a aplicação de um operador binário $ bop $ às proposições $ p $ e $ q $ resulta em uma nova proposição. A condição lateral $ (bop \\in S)Bop $ estabelece que $ bop $ deve pertencer ao conjunto $ S $ de operadores binários autorizados. \n\nAmbas as regras ilustram a estrutura hierárquica da sintaxe lógica, com notação rigorosa e condições laterais que delimitam o domínio de aplicação de cada regra, fundamentais para a construção indutiva de fórmulas proposicionais.",
+                "described_at": "2026-05-13T19:43:51"
+              },
+              "exerciciosconjuntosindutivos-page-001-manual-181842.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma tabela com duas regras de inferência de um sistema formal para definição de proposições, organizadas em colunas. Na coluna esquerda, a regra **Var** é expressa como:  \n$$\n\\frac{v \\in Prop}{v \\in X} \\quad (v \\in X)Var\n$$  \nEla estabelece que, se $v$ pertence a um conjunto atômico $X$, então $v$ é uma proposição ($v \\in Prop$), representando a formação de proposições atômicas.  \n\nNa coluna direita, a regra **Bop** é definida como:  \n$$\n\\frac{p \\in Prop \\quad q \\in Prop \\quad (bop \\in S)}{(p \\ bop \\ q) \\in Prop} \\quad (bop \\in S)Bop\n$$  \nEsta regra indica que, dados $p$ e $q$ como proposições e $bop$ como um operador binário pertencente a um conjunto $S$, a expressão composta $(p \\ bop \\ q)$ também é uma proposição.  \n\nA notação segue convenções de sistemas dedutivos, com premissas acima da linha horizontal e conclusão abaixo, enquanto os rótulos **Var** e **Bop** identificam as regras, vinculando variáveis ($v$), operadores ($bop$) e estruturas de formação sintática. A enumeração e os símbolos refletem rigor formal, essencial para a definição indutiva de linguagens lógicas.",
+                "described_at": "2026-05-13T19:44:13"
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "exerciciosconjuntosindutivos-page-002-manual-181900.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      },
+      "unit_match_reasons": [
+        "winner_score=20.99",
+        "topic_score=8.73"
+      ],
+      "unit_match_confidence": 0.9308778877887788,
+      "subunit_match_reasons": [
+        "winner_score=8.73"
+      ],
+      "subunit_match_confidence": 0.8712871287128713
     },
     {
       "id": "conjuntosindutivos",
@@ -307,9 +384,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "topico:conjuntos-indutivos",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-04"
       ],
       "notes": "",
       "professor_signal": "",
@@ -365,16 +443,28 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-19T12:33:21",
+        "curated_at": "2026-05-13T19:54:53",
         "pages": {
           "4": {
             "include_page": true,
             "images": {
-              "conjuntosindutivos-_page_3_Picture_7.png": {
+              "conjuntosindutivos-page-004-img-03.png": {
                 "type": "diagrama",
                 "include": true,
-                "description": "O diagrama apresenta três configurações de diagramas de Venn que ilustram relações de inclusão entre conjuntos. **Nós**: Os conjuntos $ A $ e $ B $ em cada diagrama. **Relações**:  \n1. Primeiro diagrama: $ A \\subset B $ (subconjunto próprio), formalizado como $ \\forall x (x \\in A \\rightarrow x \\in B) \\land \\exists x (x \\in B \\land x \\notin A) $.  \n2. Segundo diagrama: $ A \\not\\subset B $ com interseção não vazia, $ A \\cap B \\neq \\emptyset $ e $ A \\setminus B \\neq \\emptyset $.  \n3. Terceiro diagrama: $ A \\not\\subset B $ com conjuntos disjuntos, $ A \\cap B = \\emptyset $.  \n\n**Hierarquia**: Apenas no primeiro caso, $ A $ está hierarquicamente contido em $ B $. Nos demais, não há relação de inclusão. **Regras**: A relação $ A \\subset B $ exige que todos os elementos de $ A $ pertençam a $ B $, com $ B $ possuindo elementos exclusivos. Já $ A \\not\\subset B $ é válida se $ A $ contém elementos fora de $ B $, seja com interseção parcial ou total ausência de interseção.",
-                "described_at": "2026-04-17T21:23:11"
+                "description": "O diagrama apresenta duas estruturas de diagramas de Venn que representam relações entre conjuntos. Os nós são os conjuntos $ A $ e $ B $, representados por círculos. Na primeira estrutura (esquerda), $ A \\subset B $, indicando que $ A $ é subconjunto de $ B $, com $ A $ inteiramente contido em $ B $. Na segunda (direita), $ A \\not\\subset B $, mostrando que $ A $ não é subconjunto de $ B $, com interseção parcial entre os conjuntos. A hierarquia é definida pela inclusão: em $ A \\subset B $, $ A $ está hierarquicamente subordinado a $ B $; em $ A \\not\\subset B $, não há subordinação total. As regras formais são:  \n- $ A \\subset B \\iff \\forall x \\, (x \\in A \\rightarrow x \\in B) $,  \n- $ A \\not\\subset B \\iff \\exists x \\, (x \\in A \\land x \\notin B) $.  \nOs rótulos $ A \\subset B $ e $ A \\not\\subset B $ refletem fielmente as definições teóricas de subconjunto e não subconjunto.",
+                "described_at": "2026-05-13T19:46:49"
+              },
+              "conjuntosindutivos-page-004-img-04.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "Os nós do diagrama são os conjuntos $ A $ e $ B $, representados graficamente como círculos. A relação estabelecida é a **não-pertencimento**, formalizada como $ A \\notin B $, indicando que o conjunto $ A $ não é um elemento do conjunto $ B $. Não há hierarquia de inclusão (como subconjunto), já que a relação refere-se à pertinência de elementos entre conjuntos, não à contensão. As regras representadas seguem a notação lógica $ \\neg (A \\in B) $, explicitando que a propriedade de $ A $ ser elemento de $ B $ é falsa. A estrutura reflete fielmente a relação definida no contexto textual, com rótulos $ A $ e $ B $ e a expressão $ A \\notin B $ como regra central.",
+                "described_at": "2026-05-13T19:47:30"
+              },
+              "conjuntosindutivos-page-004-img-05.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma comparação didática entre notações incorretas e corretas em teoria de conjuntos, organizada em duas seções: \"Errado\" e \"Correto\". Na seção \"Errado\", são destacados dois equívocos comuns:  \n1. **2 ⊂ {0, 2, 4, 6, 8}**: Incorreto, pois o símbolo ⊂ denota relação de *subconjunto*, enquanto 2 é um *elemento* do conjunto, exigindo o uso de ∈.  \n2. **{2} ∈ {0, 2, 4, 6, 8}**: Incorreto, pois {2} é um subconjunto (não um elemento) do conjunto, devendo-se usar ⊂ ou, caso o conjunto não contenha {2} como elemento, ∉.  \n\nNa seção \"Correto\", são apresentadas quatro formulações precisas:  \n1. **2 ∈ {0, 2, 4, 6, 8}**: Correto, pois 2 é um elemento do conjunto.  \n2. **{2} ⊂ {0, 2, 4, 6, 8}**: Correto, pois {2} é subconjunto do conjunto dado.  \n3. **{2} ∈ {0, {2}, 4, 6, 8}**: Correto, pois {2} figura como *elemento* do conjunto, ilustrando que conjuntos podem ser elementos de outros conjuntos.  \n4. **{2} ∉ {0, 2, 4, 6, 8}**: Correto, pois {2} (conjunto unitário) não é elemento do conjunto, que contém apenas o número 2.  \n\nA imagem destaca a distinção crítica entre pertinência (∈) e inclusão (⊂), reforçando que a escolha do símbolo depende da relação entre elementos e conjuntos, com ênfase na estrutura hierárquica de conjuntos que podem conter outros conjuntos como elementos.",
+                "described_at": "2026-05-13T19:49:03"
               }
             }
           },
@@ -388,9 +478,46 @@
                 "described_at": null
               }
             }
+          },
+          "1": {
+            "include_page": true,
+            "images": {
+              "exerciciosconjuntosindutivos-page-001-manual-181817.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "exerciciosconjuntosindutivos-page-001-manual-181842.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "exerciciosconjuntosindutivos-page-002-manual-181900.png": {
+                "type": "genérico",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
           }
         }
-      }
+      },
+      "unit_match_reasons": [
+        "winner_score=27.86",
+        "topic_score=9.19"
+      ],
+      "unit_match_confidence": 0.9343391099886789,
+      "subunit_match_reasons": [
+        "winner_score=9.19"
+      ],
+      "subunit_match_confidence": 0.25912218061482184
     },
     {
       "id": "logicapredicados-semantica",
@@ -402,7 +529,9 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:predicados",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-02"
       ],
       "notes": "",
       "professor_signal": "",
@@ -455,7 +584,17 @@
       "curated_markdown": "content/curated/logicapredicados-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-semantica/logicapredicados-semantica/logicapredicados-semantica.md",
       "approved_at": "2026-04-09T20:35:09",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=13.69",
+        "topic_score=7.10"
+      ],
+      "unit_match_confidence": 0.914996166854566,
+      "subunit_match_reasons": [
+        "winner_score=7.10",
+        "ambiguous"
+      ],
+      "subunit_match_confidence": 0.04086809470124014
     },
     {
       "id": "logicapredicados-sintaxe",
@@ -467,7 +606,9 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:predicados",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-02"
       ],
       "notes": "",
       "professor_signal": "",
@@ -520,7 +661,84 @@
       "curated_markdown": "content/curated/logicapredicados-sintaxe.md",
       "approved_source_markdown": "staging/markdown-auto/marker/logicapredicados-sintaxe/logicapredicados-sintaxe/logicapredicados-sintaxe.md",
       "approved_at": "2026-04-09T20:34:56",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=27.08",
+        "topic_score=15.52"
+      ],
+      "unit_match_confidence": 0.95,
+      "subunit_match_reasons": [
+        "winner_score=15.52"
+      ],
+      "subunit_match_confidence": 0.5615255766009533,
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-05-13T20:02:52",
+        "pages": {
+          "4": {
+            "include_page": true,
+            "images": {
+              "conjuntosindutivos-page-004-img-03.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta duas estruturas de conjuntos representadas por diagramas de Venn. **Nós**: Os conjuntos $ A $ e $ B $, representados por círculos. **Relações e hierarquia**:  \n1. À esquerda: $ A \\subset B $, indicando que $ A $ é subconjunto próprio de $ B $ (todo elemento de $ A $ pertence a $ B $, e $ B \\setminus A \\neq \\emptyset $). Hierarquicamente, $ A $ está contido em $ B $, com $ B $ como superconjunto.  \n2. À direita: $ A \\not\\subset B $, representando que $ A $ não é subconjunto de $ B $ (existe $ x \\in A $ tal que $ x \\notin B $), com interseção parcial ($ A \\cap B \\neq \\emptyset $) e elementos de $ A $ fora de $ B $.  \n**Regras formais**:  \n- $ A \\subset B \\iff (\\forall x)(x \\in A \\rightarrow x \\in B) \\land (\\exists y)(y \\in B \\land y \\notin A) $.  \n- $ A \\not\\subset B \\iff (\\exists x)(x \\in A \\land x \\notin B) $.  \nA estrutura ilustra a distinção entre inclusão estrita e não-inclusão de conjuntos, conforme notação padrão da teoria dos conjuntos.",
+                "described_at": "2026-05-13T19:55:25"
+              },
+              "conjuntosindutivos-page-004-img-04.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta uma estrutura de teoria dos conjuntos com dois nós principais: **A** e **B**, representados como círculos disjuntos. Os nós são definidos como conjuntos, onde **B** é visualmente maior que **A**. A relação entre eles é formalizada pela notação **A ∉ B**, indicando que **A** não é um elemento de **B**. Não há hierarquia explícita, pois os conjuntos estão espacialmente separados, refletindo a ausência de relação de pertinência ou inclusão. A regra fundamental representada é: **∀x (x = A → x ∉ B)**, ou seja, o conjunto **A** não pertence ao conjunto **B**, conforme explicitado pela posição externa do círculo **A** em relação a **B**. A notação **A ∉ B** é a expressão formal da relação não verificada entre os elementos dos conjuntos.",
+                "described_at": "2026-05-13T19:55:53"
+              },
+              "conjuntosindutivos-page-004-img-05.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma comparação didática entre notações incorretas e corretas em teoria dos conjuntos, organizada em duas seções rotuladas \"Errado\" e \"Correto\". Na seção **Errado**, destacam-se dois erros comuns:  \n1. $ 2 \\subset \\{0, 2, 4, 6, 8\\} $ — uso indevido do símbolo de subconjunto ($\\subset$) para um elemento individual (o número 2, não um conjunto).  \n2. $ \\{2\\} \\in \\{0, 2, 4, 6, 8\\} $ — aplicação incorreta do símbolo de pertinência ($\\in$), já que $\\{2\\}$ é um conjunto e não está listado como elemento no conjunto à direita (que contém apenas números).  \n\nNa seção **Correto**, são apresentados quatro exemplos que ilustram o uso adequado:  \n1. $ 2 \\in \\{0, 2, 4, 6, 8\\} $ — indica que 2 é **elemento** do conjunto.  \n2. $ \\{2\\} \\subset \\{0, 2, 4, 6, 8\\} $ — mostra que $\\{2\\}$ é **subconjunto** do conjunto dado.  \n3. $ \\{2\\} \\in \\{0, \\{2\\}, 4, 6, 8\\} $ — demonstra que $\\{2\\}$ é **elemento** de um conjunto que inclui subconjuntos em sua estrutura.  \n4. $ \\{2\\} \\not\\in \\{0, \\{2\\}, 4, 6, 8\\} $ — listado como correto na imagem, embora, matematicamente, $\\{2\\}$ **seja** elemento desse conjunto (o que sugere possível erro no material, mas refletido fielmente na descrição).  \n\nA imagem destaca a distinção crítica entre **pertinência** ($\\in$) e **inclusão** ($\\subset$), conceitos fundamentais para a precisão em definições e operações em teoria dos conjuntos, servindo como recurso pedagógico para evitar equívocos comuns em notação matemática.",
+                "described_at": "2026-05-13T19:58:07"
+              }
+            }
+          },
+          "9": {
+            "include_page": true,
+            "images": {
+              "logicapredicados-sintaxe-page-009-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta três regras de inferência tipográficas de um sistema de tipos formal, estruturadas em notação de cálculo de sequentes, com rótulos [VAR], [CON] e [FUN]. A primeira regra, [VAR], descreve que, para qualquer variável $ v \\in X_\\Sigma $ (onde $ X_\\Sigma $ denota o conjunto de variáveis associadas à assinatura $ \\Sigma $), o julgamento de tipo $ v : T_\\Sigma(X) $ é válido. A segunda regra, [CON], estabelece que, para toda constante $ c \\in C $ (sendo $ C $ o conjunto de símbolos de constante da assinatura), o julgamento $ c : T_\\Sigma(X) $ é satisfeito. A terceira regra, [FUN], especifica que, dados termos $ t_1 : T_\\Sigma(X), \\dots, t_n : T_\\Sigma(X) $ e um símbolo de função $ f \\in F $ com aridade $ \\text{Ar}_F(f) = n $ (onde $ F $ é o conjunto de símbolos de função da assinatura), o termo composto $ f(t_1, \\dots, t_n) $ também pertence ao tipo $ T_\\Sigma(X) $. Essas regras definem indutivamente a estrutura de termos tipados $ T_\\Sigma(X) $, compondo variáveis, constantes e aplicações funcionais sob restrições de aridade. A notação reflete um sistema algébrico de especificação, comum em teoria da computação e semântica formal de linguagens de programação.",
+                "described_at": "2026-05-13T19:58:32"
+              }
+            }
+          },
+          "13": {
+            "include_page": true,
+            "images": {
+              "logicapredicados-sintaxe-page-013-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem exibe três regras de inferência para a formação de fórmulas em um sistema lógico formal, associado a uma assinatura Σ e um conjunto de variáveis X, com notação tipada. As regras são estruturadas com premissas acima de uma linha horizontal e conclusões abaixo, conforme padrões de cálculo de sequentes:\n\n1. **Regra [BOT]**: Axioma que estabelece que o símbolo de falsidade (⊥) pertence ao conjunto de fórmulas, formalizado como $\\bot : Form_\\Sigma(X)$. Não possui premissas, indicando que ⊥ é uma fórmula primitiva.\n\n2. **Regra [TOP]**: Axioma análogo, definindo que o símbolo de verdade (⊤) é uma fórmula, ou seja, $\\top : Form_\\Sigma(X)$. Também não requer premissas, caracterizando ⊤ como fórmula básica.\n\n3. **Regra [ATOM]**: Define a formação de fórmulas atômicas. Dados termos $t_1 : T_\\Sigma(X), \\ldots, t_n : T_\\Sigma(X)$ (onde $T_\\Sigma(X)$ denota o conjunto de termos sobre Σ e X) e um símbolo de predicado $p \\in P$ com aridade $n$ ($Arp(p) = n$), a fórmula atômica $p(t_1, \\ldots, t_n)$ pertence a $Form_\\Sigma(X)$. As premissas listam os termos tipados, e a conclusão inclui as condições explícitas $p \\in P$ e $Arp(p) = n$, garantindo a consistência aritética do predicado. \n\nAs regras refletem a estrutura hierárquica da sintaxe lógica, distinguindo axiomas ([BOT], [TOP]) de regras dependentes de termos ([ATOM]), com notação rigorosa para variáveis, predicados e aridades.",
+                "described_at": "2026-05-13T19:59:09"
+              },
+              "logicapredicados-sintaxe-page-013-img-02.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma regra de inferência formal em notação de cálculo sequencial, estruturada com duas premissas acima de uma linha horizontal e uma conclusão abaixo. As premissas são $ t_1 : T_\\Sigma(X) $ e $ t_2 : T_\\Sigma(X) $, indicando que os termos $ t_1 $ e $ t_2 $ pertencem ao conjunto de termos $ T_\\Sigma(X) $ sobre uma assinatura $ \\Sigma $ com variáveis $ X $. A conclusão, abaixo da linha, é $ t_1 = t_2 : Form_\\Sigma(X) $, denotando que a igualdade entre $ t_1 $ e $ t_2 $ constitui uma fórmula atômica no conjunto $ Form_\\Sigma(X) $. À direita da regra, a etiqueta $ [\\text{ATOM, EQ}] $ identifica sua função: a formação de fórmulas atômicas via igualdade ($ \\text{EQ} $) em sistemas lógicos baseados em assinaturas $ \\Sigma $. A notação reflete um sistema de tipos, onde $ T_\\Sigma(X) $ representa termos construídos a partir de $ \\Sigma $ e $ X $, e $ Form_\\Sigma(X) $ designa o conjunto de fórmulas geradas pela mesma assinatura. A estrutura hierárquica e a nomenclatura adotam convenções de lógica matemática e teoria de tipos, com ênfase na definição rigorosa de igualdade como construto sintático.",
+                "described_at": "2026-05-13T19:59:28"
+              }
+            }
+          },
+          "15": {
+            "include_page": true,
+            "images": {
+              "logicapredicados-sintaxe-page-015-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta quatro regras de inferência formais, organizadas em um layout de duas linhas e duas colunas, pertencentes a um sistema lógico que opera sobre o conjunto de fórmulas $ \\text{Form}_\\Sigma(X) $, onde $ \\Sigma $ denota uma assinatura e $ X $ um conjunto de variáveis. Cada regra é estruturada com premissas acima de uma linha horizontal e uma conclusão abaixo, acompanhada de um rótulo entre colchetes à direita.  \n\n1. **[BOP]** (Operação Binária):  \n   - **Premissas**: $ A : \\text{Form}_\\Sigma(X) $ e $ B : \\text{Form}_\\Sigma(X) $.  \n   - **Conclusão**: $ (A \\text{ bop } B) : \\text{Form}_\\Sigma(X) $.  \n   - Descreve a formação de uma fórmula composta por uma operação binária genérica \"bop\" entre duas fórmulas atômicas ou compostas.  \n\n2. **[NEG]** (Negação):  \n   - **Premissa**: $ A : \\text{Form}_\\Sigma(X) $.  \n   - **Conclusão**: $ (\\neg A) : \\text{Form}_\\Sigma(X) $.  \n   - Define a introdução da negação lógica como operação unária sobre uma fórmula.  \n\n3. **[UNI]** (Quantificador Universal):  \n   - **Premissas**: $ A : \\text{Form}_\\Sigma(X) $ e $ v \\in X_\\Sigma $ (onde $ X_\\Sigma $ é o conjunto de variáveis associadas à assinatura $ \\Sigma $).  \n   - **Conclusão**: $ (\\forall v. A) : \\text{Form}_\\Sigma(X) $.  \n   - Formaliza a generalização universal, exigindo que a variável $ v $ pertença ao domínio $ X_\\Sigma $.  \n\n4. **[EXI]** (Quantificador Existencial):  \n   - **Premissas**: $ A : \\text{Form}_\\Sigma(X) $ e $ v \\in X_\\Sigma $.  \n   - **Conclusão**: $ (\\exists v. A) : \\text{Form}_\\Sigma(X) $.  \n   - Define a existencialização, com a mesma restrição de pertencimento de $ v $ a $ X_\\Sigma $.  \n\nAs regras ilustram a construção indutiva de fórmulas em uma lógica de primeira ordem estendida com operações genéricas, mantendo rigor tipológico (todas as conclusões permanecem em $ \\text{Form}_\\Sigma(X) $). Os rótulos [BOP], [NEG], [UNI] e [EXI] indicam os axiomas ou regras de formação sintática para operações binárias, negação e quantificadores, respectivamente, fundamentais para a definição recursiva da sintaxe do sistema.",
+                "described_at": "2026-05-13T19:59:54"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "logicaproposicional-sintaxe",
@@ -531,10 +749,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:propocional",
         "ferramenta:proposicional",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-02"
       ],
       "notes": "",
       "professor_signal": "",
@@ -590,16 +809,16 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-19T12:33:26",
+        "curated_at": "2026-05-13T20:13:42",
         "pages": {
           "7": {
             "include_page": true,
             "images": {
-              "logicaproposicional-sintaxe-_page_6_Figure_1.png": {
+              "logicaproposicional-sintaxe-page-007-img-02.png": {
                 "type": "genérico",
                 "include": true,
-                "description": "A imagem apresenta um quadro destacado em amarelo contendo explicações sobre conectivos lógicos, inserido em um contexto de lista de proposições com suas representações simbólicas. O quadro amarelo descreve que, para compor proposições, utilizam-se os símbolos *não* (negação), *e* (conjunção), *ou* (disjunção) e *se então* (implicação), denominados *conectivos lógicos*. Explicita-se que uma proposição atômica é representada por uma variável: *C* corresponde a \"Maria tem 18 anos\". Adicionalmente, exemplifica que *não(B)* representa \"Maria não é menor\", considerando que *B* simboliza \"Maria é menor\". Ao redor do quadro, observam-se itens de uma lista com proposições em linguagem natural e suas respectivas formas simbólicas, como:  \n- *\"Maria não tem 23 anos\"* associada a *(nãoA)*, onde *A* representa \"Maria tem 23 anos\";  \n- *\"Maria não é menor\"* associada a *(não(B))*, conforme explicado no quadro;  \n- *\"Maria não tem 23 anos\" e \"Maria é menor\"* representada por *(não(A) e B)*.  \nA estrutura ilustra a formalização lógica de enunciados cotidianos, destacando a correspondência entre variáveis proposicionais (*A*, *B*, *C*), conectivos e a construção de proposições compostas, em conformidade com os princípios da lógica proposicional.",
-                "described_at": "2026-04-17T21:23:54"
+                "description": "A imagem apresenta um fundo preto com texto em branco, estruturado em parágrafos, que aborda conceitos de lógica proposicional de forma didática. O conteúdo inicia com uma observação sobre a composição de proposições, destacando os símbolos lógicos utilizados: **não** (negação), **e** (conjunção), **ou** (disjunção) e **se então** (implicação), identificados como *conectivos lógicos*. Em seguida, explica-se a simbolização de proposições atômicas, exemplificando que a letra **C** representa a proposição \"Maria tem 18 anos\", enquanto **B** denota \"Maria é menor\". A descrição inclui um exemplo de aplicação da negação: **não(B)** corresponde à proposição \"Maria não é menor\", reforçando a relação entre a variável **B** e sua negação. O texto, organizado em notas explicativas, serve como material educacional para ilustrar a construção de proposições compostas e a função dos conectivos lógicos, com ênfase em clareza conceitual e uso de exemplos contextualizados.",
+                "described_at": "2026-05-13T20:03:24"
               }
             }
           },
@@ -624,9 +843,62 @@
                 "described_at": null
               }
             }
+          },
+          "15": {
+            "include_page": true,
+            "images": {
+              "logicapredicados-sintaxe-page-015-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem exibe quatro regras de inferência organizadas em duas linhas e duas colunas, relativas à formação sintática de fórmulas em um sistema lógico formal. Na primeira linha, à esquerda, a regra **[BOP]** (Operação Binária) apresenta as premissas $A : Form_Σ(X)$ e $B : Form_Σ(X)$, concluindo $(A \\mathbin{bop} B) : Form_Σ(X)$, onde $bop$ denota uma operação binária. À direita, a regra **[NEG]** (Negação) parte de $A : Form_Σ(X)$ para derivar $(\\neg A) : Form_Σ(X)$. Na segunda linha, à esquerda, a regra **[UNI]** (Universal) assume $A : Form_Σ(X)$ e $v \\in X_Σ$ (com $X_Σ$ sendo o conjunto de variáveis do sistema), concluindo $(\\forall v. A) : Form_Σ(X)$. À direita, a regra **[EXI]** (Existencial) utiliza as mesmas premissas para obter $(\\exists v. A) : Form_Σ(X)$. Todas as regras definem a estrutura de $Form_Σ(X)$, o conjunto de fórmulas bem formadas, com $v$ representando uma variável genérica em $X_Σ$. A notação e a enumeração refletem rigorosamente a sintaxe e a semântica do sistema lógico descrito.",
+                "described_at": "2026-05-13T20:03:51"
+              }
+            }
+          },
+          "10": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-page-010-img-01.png": {
+                "type": "tabela",
+                "include": true,
+                "description": "| operador | significado |\n|:---:|:---|\n| ⊥ | (bottom), constante para falso |\n| ⊤ | (top), constante para verdadeiro |\n| ¬ | negação, não |\n| ∧ | conjunção, e |\n| ∨ | disjunção, ou |\n| → | implicação, se…então… |\n| ↔ | equivalência, se e somente se |",
+                "described_at": "2026-05-13T20:04:12"
+              }
+            }
+          },
+          "18": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-page-018-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma tabela dividida em duas seções principais, intituladas \"Fórmulas bem-formadas\" e \"Fórmulas mal-formadas\", organizada em um formato estruturado para ilustrar exemplos de fórmulas lógicas na lógica proposicional.  \n\nNa seção **\"Fórmulas bem-formadas\"**, listam-se quatro expressões que seguem as regras sintáticas rigorosas da lógica formal:  \n1. $(p \\land q)$: Conjunção entre as variáveis proposicionais $p$ e $q$.  \n2. $((\\bot \\lor q) \\to r)$: Disjunção entre a constante $\\bot$ (falsidade) e $q$, implicando $r$.  \n3. $(((\\neg q) \\lor (\\neg r)) \\leftrightarrow (p \\land s))$: Bicondicional entre a disjunção de $\\neg q$ e $\\neg r$ e a conjunção de $p$ e $s$.  \n4. $(p \\to (q \\to r))$: Implicação aninhada, onde $p$ implica a implicação entre $q$ e $r$.  \n\nNa seção **\"Fórmulas mal-formadas\"**, constam cinco expressões que violam regras de formação sintática, evidenciando erros comuns:  \n1. $p \\to q$: Ausência de parênteses em torno da implicação, inadequada em sistemas formais que exigem delimitação explícita.  \n2. $(p \\land q\\neg)$: Uso incorreto do operador de negação $\\neg$, posicionado após $q$ sem estrutura válida.  \n3. $(\\lor p \\lor q)$: Símbolo de disjunção $\\lor$ inicial sem operando à esquerda, quebrando a sintaxe.  \n4. $((p \\land q) \\lor \\neg r)$: Estrutura que, embora possa parecer válida, é classificada como mal-formada no contexto desta tabela (possivelmente devido a convenções específicas não explicitadas).  \n5. $p \\land q$: Falta de parênteses envolvendo a conjunção, considerada inadequada segundo as regras do sistema em questão.  \n\nA tabela utiliza variáveis proposicionais ($p, q, r, s$), constantes ($\\bot$), e conectivos lógicos ($\\neg, \\land, \\lor, \\to, \\leftrightarrow$), destacando a importância da sintaxe rigorosa na definição de fórmulas válidas em sistemas lógicos formais.",
+                "described_at": "2026-05-13T20:04:37"
+              }
+            }
+          },
+          "9": {
+            "include_page": true,
+            "images": {
+              "logicapredicados-sintaxe-page-009-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta três regras de inferência de um sistema formal tipado, estruturadas no estilo de cálculo de sequentes (Gentzen), com rótulos [VAR], [CON] e [FUN], associadas à definição de juízos de tipagem para termos em uma teoria algébrica.  \n\n1. **Regra [VAR]**:  \n   - *Premissa*: $ v \\in X_\\Sigma $, onde $ X_\\Sigma $ denota o conjunto de variáveis parametrizado por uma assinatura $ \\Sigma $.  \n   - *Conclusão*: $ v : T_\\Sigma(X) $, indicando que toda variável $ v $ é tipada como um termo da álgebra de termos $ T_\\Sigma(X) $.  \n   - A regra formaliza a introdução de variáveis no sistema, estabelecendo que elementos de $ X_\\Sigma $ são termos válidos da estrutura $ T_\\Sigma(X) $.  \n\n2. **Regra [CON]**:  \n   - *Premissa*: $ c \\in C $, com $ C $ representando o conjunto de constantes da assinatura $ \\Sigma $.  \n   - *Conclusão*: $ c : T_\\Sigma(X) $, assegurando que toda constante $ c $ é um termo de $ T_\\Sigma(X) $.  \n   - Esta regra define a base para a construção de termos atômicos não variáveis.  \n\n3. **Regra [FUN]**:  \n   - *Premissas*: $ t_1 : T_\\Sigma(X), \\ldots, t_n : T_\\Sigma(X) $, onde $ t_1 $ a $ t_n $ são termos previamente tipados.  \n   - *Conclusão*: $ f(t_1, \\ldots, t_n) : T_\\Sigma(X) $, para $ f \\in F $ (conjunto de símbolos de função da assinatura $ \\Sigma $) e $ Ar_F(f) = n $, sendo $ Ar_F(f) $ a aridade do símbolo $ f $.  \n   - A regra captura a aplicação de funções: dados $ n $ termos tipados e um símbolo funcional $ f $ com aridade $ n $, o termo composto $ f(t_1, \\ldots, t_n) $ é um termo válido de $ T_\\Sigma(X) $.  \n\nAs regras operam sobre a estrutura $ T_\\Sigma(X) $, que denota a álgebra livre de termos construídos a partir da assinatura $ \\Sigma $ e do conjunto de variáveis $ X $. A notação $ v : T_\\Sigma(X) $ representa um juízo de tipagem, onde o termo $ v $ é classificado como pertencente à estrutura $ T_\\Sigma(X) $. A sequência de enumeração das premissas em [FUN] ($ t_1, \\ldots, t_n $) respeita rigorosamente a aridade $ n $ do símbolo funcional $ f $, garantindo a correção sintática da composição de termos. O conjunto $ F $, associado à aridade $ Ar_F $, reflete a parametrização da assinatura $ \\Sigma $, enquanto $ X_\\Sigma $ e $ C $ definem os elementos básicos (variáveis e constantes) do sistema. Essas regras são fundamentais para a definição indutiva da sintaxe de termos em lógica algébrica ou teoria de especificações formais.",
+                "described_at": "2026-05-13T20:05:07"
+              }
+            }
           }
         }
-      }
+      },
+      "unit_match_reasons": [
+        "winner_score=16.00",
+        "topic_score=13.90"
+      ],
+      "unit_match_confidence": 0.95,
+      "subunit_match_reasons": [
+        "winner_score=13.90"
+      ],
+      "subunit_match_confidence": 0.5104301539346856
     },
     {
       "id": "revisao",
@@ -637,8 +909,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
-        "tipo:material-base"
+        "topico:conjuntos-e-funcoes",
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-04"
       ],
       "notes": "",
       "professor_signal": "",
@@ -693,33 +967,64 @@
       "approved_at": "2026-04-08T17:59:53",
       "review_status": "approved",
       "image_curation": {
-        "status": "curated",
-        "curated_at": "2026-04-19T12:33:27",
+        "status": "described",
+        "curated_at": "2026-05-13T20:14:20",
         "pages": {
           "22": {
             "include_page": true,
             "images": {
-              "revisao-_page_21_Picture_1.png": {
+              "revisao-page-022-img-01.png": {
                 "type": "diagrama",
                 "include": true,
-                "description": "O diagrama representa a hierarquia de Chomsky por meio de uma estrutura aninhada de quatro conjuntos, denotados como nós: $ L_0 $ (Linguagens Recursivamente Enumeráveis ou Tipo 0), $ L_1 $ (Linguagens Sensíveis ao Contexto ou Tipo 1), $ L_2 $ (Linguagens Livres do Contexto ou Tipo 2) e $ L_3 $ (Linguagens Regulares ou Tipo 3). As relações são de subconjunto próprio, formalizadas como $ L_3 \\subset L_2 \\subset L_1 \\subset L_0 $, onde cada nó interno está estritamente contido no nó externo adjacente. A hierarquia reflete a inclusão progressiva de classes de linguagens formais, com $ L_3 $ sendo a classe mais restritiva e $ L_0 $ a mais abrangente. As regras implícitas são as definições gramaticais que caracterizam cada tipo: Tipo 3 (gramáticas regulares), Tipo 2 (gramáticas livres de contexto), Tipo 1 (gramáticas sensíveis ao contexto) e Tipo 0 (gramáticas recursivamente enumeráveis), conforme a teoria da computação.",
-                "described_at": "2026-04-17T21:22:10"
+                "description": "A imagem apresenta uma hierarquia aninhada de classes de linguagens formais, representada por quatro retângulos concêntricos. Os **nós** são:  \n1. **Linguagens Regulares ou Tipo 3** (nó interno, mais específico);  \n2. **Linguagens Livres do Contexto ou Tipo 2**;  \n3. **Linguagens Sensíveis ao Contexto ou Tipo 1**;  \n4. **Linguagens Recursivamente Enumeráveis ou Tipo 0** (nó externo, mais abrangente).  \n\nAs **relações** são de inclusão estrita, formalizadas como $ \\mathcal{L}_3 \\subset \\mathcal{L}_2 \\subset \\mathcal{L}_1 \\subset \\mathcal{L}_0 $, onde $ \\mathcal{L}_i $ denota a classe de linguagens do Tipo $ i $. A **hierarquia** segue ordem crescente de expressividade: linguagens regulares são um subconjunto próprio das livres de contexto, estas das sensíveis ao contexto, e estas, por sua vez, das recursivamente enumeráveis. As **regras** implícitas são:  \n- Cada classe $ \\mathcal{L}_i $ (para $ i = 0,1,2,3 $) é definida por restrições sintáticas específicas (ex.: gramáticas regulares para $ \\mathcal{L}_3 $, gramáticas não restritas para $ \\mathcal{L}_0 $);  \n- A inclusão estrita reflete que toda linguagem de Tipo $ i $ também é de Tipo $ j $ para $ j > i $, mas não vice-versa.",
+                "described_at": "2026-05-13T20:14:06"
               }
             }
           },
           "7": {
             "include_page": true,
             "images": {
-              "logicaproposicional-sintaxe-_page_6_Figure_1.png": {
+              "logicaproposicional-sintaxe-page-007-img-02.png": {
                 "type": "genérico",
                 "include": true,
-                "description": null,
-                "described_at": null
+                "description": "A imagem apresenta um texto explicativo sobre conectivos lógicos em lógica proposicional, organizado em parágrafos com fundo preto e texto branco. Inicialmente, destaca que para compor proposições utilizam-se os símbolos \"não\" (negação), \"e\" (conjunção), \"ou\" (disjunção) e \"se então\" (implicação), identificados como *conectivos lógicos*. O texto especifica que variáveis proposicionais, como **C** e **B**, representam proposições atômicas: **C** corresponde a \"Maria tem 18 anos\", enquanto **B** representa \"Maria é menor\". Ilustra a aplicação da negação com a expressão **não(B)**, que denota \"Maria não é menor\", estabelecendo a relação entre o conectivo e a estrutura lógica. A descrição estrutura-se de forma didática, definindo cada conectivo em ordem enumerada, exemplificando sua utilização e reforçando a correspondência entre símbolos, variáveis e proposições, essencial para a compreensão de proposições compostas na lógica formal.",
+                "described_at": "2026-05-13T20:14:46"
+              }
+            }
+          },
+          "18": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-sintaxe-page-018-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma tabela dividida em duas seções principais, intituladas \"Fórmulas bem-formadas\" e \"Fórmulas mal-formadas\", com estrutura tabular delimitada por bordas e alinhamento centralizado. Na seção superior, sob o título em negrito \"Fórmulas bem-formadas\", estão listadas quatro fórmulas lógicas que seguem rigorosamente as regras sintáticas da lógica proposicional: (1) $(p \\land q)$, uma conjunção atômica; (2) $((\\bot \\lor q) \\to r)$, combinando a constante $\\bot$ (falsidade) com disjunção e implicação; (3) $(((\\neg q) \\lor (\\neg r)) \\leftrightarrow (p \\land s))$, uma bi-implicação entre disjunções de negações e uma conjunção; e (4) $(p \\to (q \\to r))$, uma implicação aninhada. Todas possuem parênteses explícitos que definem a hierarquia operacional. Na seção inferior, \"Fórmulas mal-formadas\", constam cinco expressões que violam critérios de formação: (1) $p \\to q$, sem parênteses externos; (2) $(p \\land q\\neg)$, com negação ($\\neg$) posicionada incorretamente após $q$ sem delimitação; (3) $(\\lor p \\lor q)$, iniciando com disjunção sem termo esquerdo; (4) $((p \\land q) \\lor \\neg r)$, apesar de aparentemente válida, classificada como mal-formada conforme a estrutura da tabela; e (5) $p \\land q$, ausente de parênteses envolvendo toda a fórmula. A tabela utiliza notação lógica padrão (conectivos $\\land$, $\\lor$, $\\to$, $\\leftrightarrow$, $\\neg$, $\\bot$) e destaca, por contraste, a importância da sintaxe rigorosa na formação de fórmulas em sistemas formais.",
+                "described_at": "2026-05-13T20:15:41"
+              }
+            }
+          },
+          "1": {
+            "include_page": true,
+            "images": {
+              "revisao-p1-page-001-img-01.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": "O diagrama apresenta uma sequência de quatro árvores que representam a estrutura recursiva do produto cartesiano generalizado $ A^n $, conforme definido no contexto acadêmico fornecido. \n\n**Nós**: Todos os nós são rotulados como \"a\", abstraindo elementos de um conjunto $ A $ com dois elementos (ex.: $ A = \\{0,1\\} $, conforme exemplos do contexto). Cada nó representa um elemento de $ A^k $ para $ 0 \\leq k \\leq n $, onde $ n $ é a profundidade da árvore.\n\n**Relações**: A relação pai-filho $ R \\subseteq N \\times N $ (com $ N $ sendo o conjunto de nós) codifica a operação $ A^{k+1} = A \\times A^k $. Formalmente, para cada nó $ v \\in A^k $, seus filhos são os pares $ (a, v) $ para todo $ a \\in A $.\n\n**Hierarquia**: \n- **Primeira árvore**: $ A^0 = \\{()\\} $, representada por um único nó raiz (caso base).\n- **Segunda árvore**: $ A^1 = A \\times A^0 $, com raiz e dois filhos (profundidade 1).\n- **Terceira árvore**: $ A^2 = A \\times A^1 $, com raiz, dois filhos (nível 1) e quatro netos (nível 2).\n- **Quarta árvore**: $ A^3 = A \\times A^2 $, estendendo a estrutura até profundidade 3 (com ramificações completas em alguns ramos).\n\n**Regras formais**:\n- Definição recursiva: $ A^0 = \\{()\\} $ e $ A^{n+1} = A \\times A^n $ para $ n \\geq 0 $.\n- Estrutura de árvore: Cada nó no nível $ k $ ($ 0 \\leq k \\leq n $) possui $ |A| = 2 $ filhos, refletindo a cardinalidade de $ A $ (ex.: $ A = \\{0,1\\} $).\n- Notação formal: Para $ A^n $, a árvore $ T_n $ é definida como $ T_0 = \\{()\\} $ e $ T_{n+1} = \\{(a, t) \\mid a \\in A, t \\in T_n\\} $.\n\nA hierarquia ilustra a construção indutiva do produto cartesiano, com cada nível $ k $ correspondendo a $ A^k $, e a relação pai-filho implementando a regra recursiva $ A^{n+1} = A \\times A^n $.",
+                "described_at": "2026-05-13T20:17:20"
               }
             }
           }
         }
-      }
+      },
+      "unit_match_reasons": [
+        "winner_score=21.04",
+        "topic_score=8.47"
+      ],
+      "unit_match_confidence": 0.8894453368610035,
+      "subunit_match_reasons": [
+        "winner_score=8.47"
+      ],
+      "subunit_match_confidence": 0.19611641311537356
     },
     {
       "id": "introducao",
@@ -730,7 +1035,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-02"
       ],
       "notes": "",
       "professor_signal": "",
@@ -785,7 +1092,33 @@
       "approved_at": "2026-04-09T20:35:18",
       "review_status": "approved",
       "manual_unit_slug": "",
-      "manual_timeline_block_id": ""
+      "manual_timeline_block_id": "",
+      "unit_match_reasons": [
+        "winner_score=57.95",
+        "topic_score=10.00"
+      ],
+      "unit_match_confidence": 0.7935825669732106,
+      "subunit_match_reasons": [
+        "winner_score=10.00"
+      ],
+      "subunit_match_confidence": 0.21281487405037985,
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-05-13T19:42:23",
+        "pages": {
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-page-022-img-01.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "provasindutivas-especificacoesrecursivas",
@@ -796,8 +1129,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas",
+        "bloco:bloco-05"
       ],
       "notes": "",
       "professor_signal": "",
@@ -850,7 +1185,73 @@
       "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/provasindutivas-especificacoesrecursivas/provasindutivas-especificacoesrecursivas.md",
       "approved_at": "2026-04-09T20:15:55",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=19.24",
+        "topic_score=9.19"
+      ],
+      "unit_match_confidence": 0.9343362508164598,
+      "subunit_match_reasons": [
+        "winner_score=9.19"
+      ],
+      "subunit_match_confidence": 0.8557805355976487,
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-05-13T20:24:51",
+        "pages": {
+          "11": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-semantica-page-011-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-02.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-03.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-04.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-page-022-img-01.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-listas-page-002-manual-193527.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem apresenta uma derivação matemática formal que demonstra a associatividade da função de concatenação de listas, denotada por $ \\text{cat} $, em um contexto de programação funcional ou teoria de listas. A sequência de igualdades é estruturada em cinco linhas, com justificativas explícitas para cada passo, utilizando regras e hipóteses previamente definidas:\n\n1. **Expressão inicial**: $ \\text{cat}(h:L_1, \\text{cat}(L_2, L_3)) $, onde $ h $ representa um elemento (cabeça de lista), $ L_1, L_2, L_3 $ são listas, e $ : $ denota o operador de construção de listas (cons).  \n2. **Primeira transformação**: $ = h:\\text{cat}(L_1, \\text{cat}(L_2, L_3)) $ (por **cat2**). Aplica-se a regra **cat2**, que define a concatenação entre uma lista não vazia $ h:L_1 $ e outra lista, resultando na introdução de $ h $ na cabeça da concatenação recursiva.  \n3. **Segunda transformação**: $ = h:\\text{cat}(\\text{cat}(L_1, L_2), L_3) $ (por **H1**). Utiliza-se a **hipótese indutiva H1**, que assume a validade da associatividade para a cauda $ L_1 $, permitindo reorganizar a concatenação interna.  \n4. **Terceira transformação**: $ = \\text{cat}(h:\\text{cat}(L_1, L_2), L_3) $ (por **cat2**). Reaplica-se **cat2** para converter a estrutura $ h:\\text{cat}(L_1, L_2) $ em $ \\text{cat}(h:L_1, L_2) $, mantendo a equivalência.  \n5. **Quarta transformação**: $ = \\text{cat}(\\text{cat}(h:L_1, L_2), L_3) $ (por **cat2**). Finaliza-se a derivação, reescrevendo $ h:\\text{cat}(L_1, L_2) $ como $ \\text{cat}(h:L_1, L_2) $, evidenciando a forma associativa completa.\n\nA notação segue convenções acadêmicas de semântica operacional, com destaque para a regra **cat2** (definindo o comportamento recursivo da concatenação) e a **H1** (hipótese indutiva essencial para a prova). A sequência ilustra um passo indutivo na demonstração de que $ \\text{cat}(A, \\text{cat}(B, C)) = \\text{cat}(\\text{cat}(A, B), C) $, central em teorias de estruturas de dados e verificação de propriedades de funções recursivas.",
+                "described_at": "2026-05-13T20:24:45"
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-arvores",
@@ -861,7 +1262,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:sobre",
         "tipo:material-base"
       ],
@@ -916,7 +1316,16 @@
       "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas-arvores.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/provasindutivas-especificacoesrecursivas-arvores/provasindutivas-especificacoesrecursivas-arvores.md",
       "approved_at": "2026-04-09T20:23:30",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=17.00",
+        "topic_score=1.32"
+      ],
+      "unit_match_confidence": 0.5446956521739129,
+      "subunit_match_reasons": [
+        "winner_score=1.32"
+      ],
+      "subunit_match_confidence": 0.19565217391304343
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-listas",
@@ -927,7 +1336,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:sobre",
         "tipo:material-base"
       ],
@@ -982,7 +1390,73 @@
       "curated_markdown": "content/curated/provasindutivas-especificacoesrecursivas-listas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/provasindutivas-especificacoesrecursivas-listas/provasindutivas-especificacoesrecursivas-listas.md",
       "approved_at": "2026-04-09T20:25:26",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=17.00",
+        "topic_score=1.32"
+      ],
+      "unit_match_confidence": 0.5446956521739129,
+      "subunit_match_reasons": [
+        "winner_score=1.32"
+      ],
+      "subunit_match_confidence": 0.19565217391304343,
+      "image_curation": {
+        "status": "curated",
+        "curated_at": "2026-05-13T20:26:09",
+        "pages": {
+          "11": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-semantica-page-011-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-02.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-03.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-04.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-listas-page-002-manual-193527.png": {
+                "type": "formula",
+                "include": true,
+                "description": "A imagem exibe uma derivação formal em quatro etapas que demonstra a propriedade associativa do operador de concatenação $ cat $, com justificativas explícitas para cada transformação. Inicia-se com a expressão $ cat(h:L_1, cat(L_2, L_3)) $, onde $ L_1, L_2, L_3 $ representam variáveis de lista e $ h $ denota um elemento cabeça. A primeira igualdade aplica a regra $ cat2 $, reescrevendo a expressão como $ h:cat(L_1, cat(L_2, L_3)) $. Na sequência, a hipótese $ Hi $ é utilizada para reestruturar a concatenação aninhada, resultando em $ h:cat(cat(L_1, L_2), L_3) $. As duas etapas finais aplicam novamente $ cat2 $: primeiramente, movendo a operação de cons ($ h: $) para dentro da concatenação externa, obtendo $ cat(h:cat(L_1, L_2), L_3) $, e, por último, consolidando a forma totalmente associativa $ cat(cat(h:L_1, L_2), L_3) $. Cada transformação segue rigorosamente as definições dos axiomas $ cat2 $ (que regula a interação entre cons e concatenação) e $ Hi $ (que estabelece a reordenação de estruturas aninhadas), evidenciando a equivalência entre diferentes formas de associação sob $ cat $. A notação utiliza subscritos para listas, o símbolo $ : $ para a construção de listas (cons) e justificações entre parênteses, conforme convenções de métodos formais em teoria da computação.",
+                "described_at": "2026-05-13T20:26:02"
+              }
+            }
+          },
+          "22": {
+            "include_page": true,
+            "images": {
+              "revisao-page-022-img-01.png": {
+                "type": "diagrama",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "exercicioscorrecaoinducaomatematica",
@@ -993,8 +1467,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas",
+        "bloco:bloco-05"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1057,7 +1533,16 @@
       "curated_markdown": "exercises/lists/exercicioscorrecaoinducaomatematica.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioscorrecaoinducaomatematica/exercicioscorrecaoinducaomatematica.md",
       "approved_at": "2026-04-10T13:55:33",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=17.22",
+        "topic_score=8.91"
+      ],
+      "unit_match_confidence": 0.888434763081069,
+      "subunit_match_reasons": [
+        "winner_score=8.91"
+      ],
+      "subunit_match_confidence": 0.888434763081069
     },
     {
       "id": "exerciciosespecificacao-respostas",
@@ -1068,7 +1553,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "tipo:gabarito"
       ],
@@ -1133,7 +1617,16 @@
       "curated_markdown": "exercises/lists/exerciciosespecificacao-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosespecificacao-respostas/exerciciosespecificacao-respostas.md",
       "approved_at": "2026-04-10T13:56:01",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=34.69",
+        "topic_score=6.80"
+      ],
+      "unit_match_confidence": 0.30829460213147714,
+      "subunit_match_reasons": [
+        "winner_score=13.61"
+      ],
+      "subunit_match_confidence": 0.5000734645900676
     },
     {
       "id": "exerciciosespecificacao",
@@ -1144,7 +1637,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "tipo:lista"
       ],
@@ -1209,7 +1701,16 @@
       "curated_markdown": "exercises/lists/exerciciosespecificacao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosespecificacao/exerciciosespecificacao.md",
       "approved_at": "2026-04-10T13:56:11",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=34.44",
+        "topic_score=6.80"
+      ],
+      "unit_match_confidence": 0.3105322368755308,
+      "subunit_match_reasons": [
+        "winner_score=13.61"
+      ],
+      "subunit_match_confidence": 0.5000734645900676
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao2",
@@ -1220,9 +1721,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas",
+        "bloco:bloco-05"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1285,7 +1788,16 @@
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao2/exerciciosformalizacaoalgoritmosrecursao2.md",
       "approved_at": "2026-04-10T13:56:25",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=11.48",
+        "topic_score=9.27"
+      ],
+      "unit_match_confidence": 0.9427771913469999,
+      "subunit_match_reasons": [
+        "winner_score=9.27"
+      ],
+      "subunit_match_confidence": 0.878782646233542
     },
     {
       "id": "exerciciosisabelle2",
@@ -1296,10 +1808,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "ferramenta:isabelle",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-06"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "bloco-06",
@@ -1362,7 +1875,16 @@
       "curated_markdown": "exercises/lists/exerciciosisabelle2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosisabelle2/exerciciosisabelle2.md",
       "approved_at": "2026-04-10T13:56:40",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=11.28",
+        "topic_score=2.03"
+      ],
+      "unit_match_confidence": 0.7029219858156028,
+      "subunit_match_reasons": [
+        "winner_score=2.03"
+      ],
+      "subunit_match_confidence": 0.4468085106382978
     },
     {
       "id": "logicaproposicional-semantica",
@@ -1373,9 +1895,10 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:proposicional",
-        "tipo:material-base"
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-06"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1438,7 +1961,84 @@
       "curated_markdown": "content/curated/logicaproposicional-semantica.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicaproposicional-semantica/logicaproposicional-semantica.md",
       "approved_at": "2026-04-10T13:57:56",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=16.68",
+        "topic_score=13.90"
+      ],
+      "unit_match_confidence": 0.95,
+      "subunit_match_reasons": [
+        "winner_score=13.90"
+      ],
+      "subunit_match_confidence": 0.5104301539346856,
+      "image_curation": {
+        "status": "pending",
+        "curated_at": "2026-05-13T20:26:13",
+        "pages": {
+          "3": {
+            "include_page": true,
+            "images": {
+              "page-003.jpg": {
+                "type": "extração-latex",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "4": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-semantica-page-004-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "11": {
+            "include_page": true,
+            "images": {
+              "logicaproposicional-semantica-page-011-img-01.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-02.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-03.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              },
+              "logicaproposicional-semantica-page-011-img-04.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          },
+          "2": {
+            "include_page": true,
+            "images": {
+              "provasindutivas-especificacoesrecursivas-listas-page-002-manual-193527.png": {
+                "type": "formula",
+                "include": true,
+                "description": null,
+                "described_at": null
+              }
+            }
+          }
+        }
+      }
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao-respostas",
@@ -1449,7 +2049,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "tipo:gabarito"
       ],
@@ -1510,16 +2109,16 @@
       "review_status": "approved",
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-19T12:33:35",
+        "curated_at": "2026-05-13T19:42:42",
         "pages": {
           "1": {
             "include_page": true,
             "images": {
               "page-001.jpg": {
-                "type": "extração-latex",
+                "type": "extracao-latex",
                 "include": true,
-                "description": "EQUAÇÕES RECURSIVAS 1\n\n(1)\n\na) SOMA: $\\mathbb{N} \\times \\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{SOMA}(x, y) = x + y$\n\n$$\n\\begin{cases}\n\\text{SOMA}(0, y) = y \\\\\n\\text{SOMA}(x+1, y) = \\text{SOMA}(x, y) + 1\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(x, y) = y, \\text{ se } x = 0 \\\\\n\\text{SOMA}(x, y) = \\text{SOMA}(x-1, y) + 1, \\text{ se } y > 0\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(0, y) = y \\\\\n\\text{SOMA}(x+1, y) = \\text{SOMA}(x, y+1)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{SOMA}(x, y) = y, \\text{ se } x = 0 \\\\\n\\text{SOMA}(x, y) = \\text{SOMA}(x-1, y+1), \\text{ se } y > 0\n\\end{cases}\n$$\n\nb) FAT: $\\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{FAT}(x) = x!$\n\n$$\n\\begin{cases}\n\\text{FAT}(0) = 1 \\\\\n\\text{FAT}(x+1) = (x+1) \\times \\text{FAT}(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{FAT}(x) = 1, \\text{ se } x = 0 \\\\\n\\text{FAT}(x) = x \\times \\text{FAT}(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nc) POT2: $\\mathbb{N} \\to \\mathbb{N}$\n\nPRE: T\n\nPOS: $\\text{POT2}(x) = 2^x$\n\n$$\n\\begin{cases}\n\\text{POT2}(0) = 1 \\\\\n\\text{POT2}(x+1) = 2 \\times \\text{POT2}(x)\n\\end{cases}\n$$\n\n$$\n\\begin{cases}\n\\text{POT2}(x) = 1, \\text{ se } x = 0 \\\\\n\\text{POT2}(x) = 2 \\times \\text{POT2}(x-1), \\text{ se } x > 0\n\\end{cases}\n$$\n\nd) Seja a série: $0/0, 1/1, 1/2, 2/3, 3/5, 5/8, 8/13, \\ldots$\n\nPUCRS",
-                "described_at": "2026-04-17T21:15:09"
+                "description": null,
+                "described_at": null
               }
             }
           },
@@ -1557,7 +2156,16 @@
             }
           }
         }
-      }
+      },
+      "unit_match_reasons": [
+        "winner_score=6.34",
+        "topic_score=1.12"
+      ],
+      "unit_match_confidence": 0.46297435897435896,
+      "subunit_match_reasons": [
+        "winner_score=1.12"
+      ],
+      "subunit_match_confidence": 0.4476307692307693
     },
     {
       "id": "formalizacaoalgoritmos-recursao",
@@ -1568,9 +2176,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
-        "tipo:material-base"
+        "tipo:material-base",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1633,7 +2241,16 @@
       "curated_markdown": "content/curated/formalizacaoalgoritmos-recursao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/formalizacaoalgoritmos-recursao/formalizacaoalgoritmos-recursao.md",
       "approved_at": "2026-04-10T14:05:19",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=37.80",
+        "topic_score=2.20"
+      ],
+      "unit_match_confidence": 0.2512392292219112,
+      "subunit_match_reasons": [
+        "winner_score=9.73"
+      ],
+      "subunit_match_confidence": 0.6711906230721776
     },
     {
       "id": "formalizacaoalgoritmos-recursao3",
@@ -1644,10 +2261,12 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "ferramenta:sobre",
-        "tipo:material-base"
+        "topico:funcoes-recursivas",
+        "tipo:material-base",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-04"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "bloco-04",
@@ -1710,7 +2329,16 @@
       "curated_markdown": "content/curated/formalizacaoalgoritmos-recursao3.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/formalizacaoalgoritmos-recursao3/formalizacaoalgoritmos-recursao3.md",
       "approved_at": "2026-04-10T14:05:31",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=28.11",
+        "topic_score=15.81"
+      ],
+      "unit_match_confidence": 0.95,
+      "subunit_match_reasons": [
+        "winner_score=15.81"
+      ],
+      "subunit_match_confidence": 0.45320010118897036
     },
     {
       "id": "exerciciosisabelle",
@@ -1721,10 +2349,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
         "ferramenta:formal",
         "ferramenta:isabelle",
-        "tipo:lista"
+        "tipo:lista",
+        "unit:unidade-01-metodos-formais",
+        "bloco:bloco-06"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
       "manual_timeline_block_id": "bloco-06",
@@ -1793,7 +2422,15 @@
       "curated_markdown": "exercises/lists/exerciciosisabelle.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosisabelle/exerciciosisabelle.md",
       "approved_at": "2026-04-13T01:28:36",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "manual"
+      ],
+      "unit_match_confidence": 1.0,
+      "subunit_match_reasons": [
+        "winner_score=1.64"
+      ],
+      "subunit_match_confidence": 0.3947368421052632
     },
     {
       "id": "revisao-p1",
@@ -1804,9 +2441,11 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:p1",
         "tipo:lista",
-        "uso:revisao-prova"
+        "uso:revisao-prova",
+        "unit:unidade-01-metodos-formais",
+        "subunit:pre-e-pos-condicoes",
+        "bloco:bloco-06"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
       "manual_timeline_block_id": "bloco-06",
@@ -1873,16 +2512,16 @@
       },
       "image_curation": {
         "status": "curated",
-        "curated_at": "2026-04-14T15:32:44",
+        "curated_at": "2026-05-13T19:42:33",
         "pages": {
           "1": {
             "include_page": true,
             "images": {
-              "revisao-p1-revisao-p1.pdf-0001-07.png": {
+              "revisao-p1-page-001-img-01.png": {
                 "type": "diagrama",
                 "include": true,
-                "description": "A imagem apresenta uma sequência de quatro árvores binárias {T₀, T₁, T₂, T₃}, organizadas em ordem crescente de profundidade. Cada nó é rotulado como \"a\", sem distinção de identificadores.  \n\n**Nós e Relações**:  \n- **T₀**: Conjunto de nós V₀ = {a}, sem arestas (E₀ = ∅).  \n- **Tₖ (k ≥ 1)**:  \n  - Nós: Vₖ = {a} ∪ {aᵢᴸ | 1 ≤ i ≤ k} ∪ {aᵢᴿ | 1 ≤ i ≤ k}, totalizando |Vₖ| = 1 + 2k.  \n  - Arestas: Eₖ = {(a, a₁ᴸ), (a, a₁ᴿ)} ∪ {(aᵢᴸ, aᵢ₊₁ᴸ) | 1 ≤ i < k} ∪ {(aᵢᴿ, aᵢ₊₁ᴿ) | 1 ≤ i < k}.  \n\n**Hierarquia**:  \n- Profundidade (altura) de Tₖ é k.  \n- T₀ (altura 0): árvore trivial com raiz.  \n- Tₖ (k ≥ 1): raiz com duas subárvores lineares simétricas — haste esquerda (a₁ᴸ → a₂ᴸ → ... → aₖᴸ) e haste direita (a₁ᴿ → a₂ᴿ → ... → aₖᴿ), ambas com profundidade k−1.  \n\n**Regras de Construção**:  \n- **Base**: T₀ = ({a}, ∅).  \n- **Recursão**: Tₖ é obtido de Tₖ₋₁ adicionando:  \n  - Um filho esquerdo aₖᴸ ao nó mais profundo da haste esquerda de Tₖ₋₁.  \n  - Um filho direito aₖᴿ ao nó mais profundo da haste direita de Tₖ₋₁.  \n\n**Notação Formal**:  \nTₖ = (Vₖ, Eₖ), onde:  \n- Vₖ = {a} ∪ {aᵢᴸ, aᵢᴿ | 1 ≤ i ≤ k},  \n- Eₖ = {(a, a₁ᴸ), (a, a₁ᴿ)} ∪ ⋃ᵢ=1ᵏ⁻¹ {(aᵢᴸ, aᵢ₊₁ᴸ), (aᵢᴿ, aᵢ₊₁ᴿ)}.  \n\nA sequência ilustra a evolução de árvores binárias degeneradas simétricas, com crescimento controlado nas hastes esquerda e direita, conforme regras recursivas.",
-                "described_at": "2026-04-14T15:26:16"
+                "description": null,
+                "described_at": null
               }
             }
           }
@@ -1892,7 +2531,15 @@
       "curated_markdown": "exercises/lists/revisao-p1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1/revisao-p1.md",
       "approved_at": "2026-04-14T15:33:35",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "manual"
+      ],
+      "unit_match_confidence": 1.0,
+      "subunit_match_reasons": [
+        "winner_score=6.80"
+      ],
+      "subunit_match_confidence": 0.7587656135194709
     },
     {
       "id": "t1-2026-1",
@@ -1903,8 +2550,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:es",
-        "ferramenta:t1"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas",
+        "bloco:bloco-05"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1973,7 +2621,16 @@
       "curated_markdown": "content/curated/t1-2026-1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/t1-2026-1/t1-2026-1.md",
       "approved_at": "2026-04-15T20:42:47",
-      "review_status": "approved"
+      "review_status": "approved",
+      "unit_match_reasons": [
+        "winner_score=31.99",
+        "topic_score=9.19"
+      ],
+      "unit_match_confidence": 0.8526453298497714,
+      "subunit_match_reasons": [
+        "winner_score=9.19"
+      ],
+      "subunit_match_confidence": 0.8526453298497714
     },
     {
       "id": "t1-2026-1",
@@ -1984,8 +2641,8 @@
       "tags": "thy",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:t1",
-        "tipo:codigo"
+        "tipo:codigo",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2009,7 +2666,17 @@
       "base_markdown": "code/professor/t1-2026-1.md",
       "language": "isabelle",
       "approved_markdown": "code/professor/t1-2026-1.md",
-      "curated_markdown": "code/professor/t1-2026-1.md"
+      "curated_markdown": "code/professor/t1-2026-1.md",
+      "unit_match_reasons": [
+        "winner_score=3.27",
+        "topic_score=0.54"
+      ],
+      "unit_match_confidence": 0.8532382009765902,
+      "subunit_match_reasons": [
+        "winner_score=0.56",
+        "ambiguous"
+      ],
+      "subunit_match_confidence": 0.027777777777777523
     }
   ],
   "logs": [
@@ -3876,5 +4543,5 @@
       "language": "isabelle"
     }
   ],
-  "updated_at": "2026-04-19T23:49:41"
+  "updated_at": "2026-05-13T19:38:39"
 }

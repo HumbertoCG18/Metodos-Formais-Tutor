@@ -127,4 +127,3 @@ Revisão
 <!-- Tipo: diagrama -->
 > **[Descrição de imagem]** O diagrama representa a hierarquia de Chomsky por meio de uma estrutura aninhada de quatro conjuntos, denotados como nós: $ L_0 $ (Linguagens Recursivamente Enumeráveis ou Tipo 0), $ L_1 $ (Linguagens Sensíveis ao...
 <!-- /IMAGE_DESCRIPTION -->
-![](content/images/revisao-_page_21_Picture_1.png)

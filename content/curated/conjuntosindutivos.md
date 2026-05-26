@@ -118,12 +118,6 @@ O conjunto *A* não está contido em *B* quando existe pelo menos um elemento de
 
 $\not\subset$ (lê-se: *A* não está contido em *B*)
 
-<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
-<!-- Tipo: diagrama -->
-> **[Descrição de imagem]** O diagrama apresenta três configurações de diagramas de Venn que ilustram relações de inclusão entre conjuntos.
-<!-- /IMAGE_DESCRIPTION -->
-![](content/images/conjuntosindutivos-_page_3_Picture_7.png)
-
 Se o conjunto *A* está contido no conjunto *B*, dizemos que *A* é um [subconjunto](javascript:popGlossario() de *B*. Como todo elemento do conjunto *A* pertence ao conjunto *A*, dizemos que *A* é subconjunto de *A* e, por extensão, todo conjunto é subconjunto dele mesmo.
 
 Importante – a relação de pertinência relaciona um elemento a um conjunto e a relação de inclusão refere-se, sempre, a dois conjuntos.
@@ -135,6 +129,11 @@ Podemos notar, também, que, dentro de um conjunto, um outro conjunto pode ser t
 {1, 2} é um conjunto, porém no conjunto *A* = {1, 3, {1, 2}, 4} ele será considerado um elemento, ou seja, {1, 2}$\in$ .
 
 Uma cidade é um conjunto de pessoas que representam os moradores da cidade, porém uma cidade é um elemento do conjunto de cidades que formam um Estado.
+
+<!-- IMAGE_DESCRIPTION: conjuntosindutivos-_page_3_Picture_7.png -->
+<!-- Tipo: diagrama -->
+> **[Descrição de imagem]** O diagrama apresenta três configurações de diagramas de Venn que ilustram relações de inclusão entre conjuntos.
+<!-- /IMAGE_DESCRIPTION -->
 #### **Conjunto das partes**
 
 Dado um conjunto *A*, dizemos que o seu conjunto de partes, representado por *P*(*A*) ou 2 , é o conjunto formado por todos os subconjuntos do conjunto *A*.

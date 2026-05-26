@@ -18,6 +18,7 @@ course/.timeline_index.json
 course/.assessment_context.json
 course/.tag_catalog.json
 course/.semantic_profile.generated.json
+# Assets de imagem usados localmente pelo app (o tutor consome as descrições injetadas)
 content/images/
 # Exportações operacionais de prompt (copiadas para a plataforma, não lidas pelo tutor)
 setup/
@@ -26,5 +27,5 @@ setup/
 __pycache__/
 *.pyc
 .DS_Store
-Thumbs.db
-
+# Exportação local para DeepTutor (não commitada)
+.deeptutor/

@@ -6,13 +6,13 @@
 
 | Recurso | Tipo | Unidade | Solução | Prioridade | Quando usar |
 |---|---|---|---|---|---|
-| ExerciciosFormalizacaoAlgoritmosRecursao3 | lista | ferramenta:es; ferramenta:formal; tipo:lista | não | média | fixação por unidade |
-| ExerciciosConjuntosIndutivos | lista | topico:conjuntos-indutivos; tipo:lista | não | média | fixação por unidade |
-| ExerciciosCorrecaoInducaoMatematica | lista | ferramenta:es; tipo:lista | não | média | fixação por unidade |
-| ExerciciosEspecificacao_respostas | exercício | ferramenta:es; ferramenta:formal; tipo:gabarito | não | média | fixação por unidade |
-| ExerciciosEspecificacao | lista | ferramenta:es; ferramenta:formal; tipo:lista | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao2 | lista | ferramenta:es; ferramenta:formal; tipo:lista | não | média | fixação por unidade |
-| ExerciciosIsabelle2 | lista | ferramenta:es; ferramenta:formal; ferramenta:isabelle | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao_respostas | exercício | ferramenta:es; ferramenta:formal; tipo:gabarito | não | média | fixação por unidade |
-| ExerciciosIsabelle | lista | ferramenta:es; ferramenta:formal; ferramenta:isabelle | não | média | fixação por unidade |
-| revisao_p1 | lista | ferramenta:p1; tipo:lista; uso:revisao-prova | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao3 | lista | ferramenta:formal; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosConjuntosIndutivos | lista | topico:conjuntos-indutivos; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosCorrecaoInducaoMatematica | lista | tipo:lista; unit:unidade-01-metodos-formais; subunit:especificacao-de-funcoes-recursivas | não | média | fixação por unidade |
+| ExerciciosEspecificacao_respostas | exercício | ferramenta:formal; tipo:gabarito | não | média | fixação por unidade |
+| ExerciciosEspecificacao | lista | ferramenta:formal; tipo:lista | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao2 | lista | ferramenta:formal; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosIsabelle2 | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao_respostas | exercício | ferramenta:formal; tipo:gabarito | não | média | fixação por unidade |
+| ExerciciosIsabelle | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
+| revisao_p1 | lista | tipo:lista; uso:revisao-prova; unit:unidade-01-metodos-formais | não | média | fixação por unidade |

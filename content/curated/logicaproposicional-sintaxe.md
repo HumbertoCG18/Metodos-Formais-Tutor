@@ -34,6 +34,11 @@ Baseado nos materiais do Prof. Daniel Callegari
   - A cidade de Salvador é a capital do estado do Amazonas (F)
   - O numero 712 é ímpar (F)
   - Raiz quadrada de dois é um número irracional (V)
+
+<!-- IMAGE_DESCRIPTION: logicaproposicional-sintaxe-_page_6_Figure_1.png -->
+<!-- Tipo: genérico -->
+> **[Descrição de imagem]** A imagem apresenta um quadro destacado em amarelo contendo explicações sobre conectivos lógicos, inserido em um contexto de lista de proposições com suas representações simbólicas.
+<!-- /IMAGE_DESCRIPTION -->
 ### Composição de Proposições
 
 - É possível construir proposições a partir de proposições já existentes. Este processo é conhecido por Composição de Proposições. Suponha que tenhamos duas proposições,
@@ -58,12 +63,6 @@ Baseado nos materiais do Prof. Daniel Callegari
 • "Maria não tem 23 anos" e "Maria é menor" (não(A) e B)
 ```
 #### Composição de Proposições
-
-<!-- IMAGE_DESCRIPTION: logicaproposicional-sintaxe-_page_6_Figure_1.png -->
-<!-- Tipo: genérico -->
-> **[Descrição de imagem]** A imagem apresenta um quadro destacado em amarelo contendo explicações sobre conectivos lógicos, inserido em um contexto de lista de proposições com suas representações simbólicas.
-<!-- /IMAGE_DESCRIPTION -->
-![](content/images/logicaproposicional-sintaxe-_page_6_Figure_1.png)
 ## LÓGICA PROPOCIONAL
 
 Sintaxe

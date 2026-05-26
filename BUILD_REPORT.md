@@ -13,7 +13,7 @@
 ## Plataforma principal: CLAUDE
 
 > Copie o conteúdo de `setup/INSTRUCOES_CLAUDE_PROJETO.md`
-> Cole no campo 'Instructions' do Projeto Claude
+> Cole no campo 'Instructions' do Claude Project
 
 Os três arquivos de instruções foram gerados:
 - `setup/INSTRUCOES_CLAUDE_PROJETO.md` **<< atual**
