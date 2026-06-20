@@ -1,0 +1,302 @@
+[
+  {
+    "uuid": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+    "anchor": {
+      "period_start": "2026-03-02",
+      "period_end": "2026-03-02",
+      "topic_tokens": [
+        "disciplina"
+      ]
+    },
+    "display_id_last": "bloco-01",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
+    "anchor": {
+      "period_start": "2026-03-04",
+      "period_end": "2026-03-04",
+      "topic_tokens": [
+        "formais",
+        "introducao",
+        "metodos"
+      ]
+    },
+    "display_id_last": "bloco-02",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "2edd762f-2dc8-4437-90c7-c207b796434a",
+    "anchor": {
+      "period_start": "2026-03-09",
+      "period_end": "2026-03-09",
+      "topic_tokens": [
+        "logica",
+        "predicados"
+      ]
+    },
+    "display_id_last": "bloco-03",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+    "anchor": {
+      "period_start": "2026-03-11",
+      "period_end": "2026-03-25",
+      "topic_tokens": [
+        "arvores",
+        "conjuntos",
+        "equacoes",
+        "indutivos",
+        "recursivas"
+      ]
+    },
+    "display_id_last": "bloco-04",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+    "anchor": {
+      "period_start": "2026-03-30",
+      "period_end": "2026-04-01",
+      "topic_tokens": [
+        "arvores",
+        "inducao"
+      ]
+    },
+    "display_id_last": "bloco-05",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+    "anchor": {
+      "period_start": "2026-04-06",
+      "period_end": "2026-04-13",
+      "topic_tokens": [
+        "interativa",
+        "isabelle",
+        "teoremas"
+      ]
+    },
+    "display_id_last": "bloco-06",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
+    "anchor": {
+      "period_start": "2026-04-15",
+      "period_end": "2026-04-15",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-07",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "fb878a00-3bfb-455d-9e3c-b5774f69930d",
+    "anchor": {
+      "period_start": "2026-04-20",
+      "period_end": "2026-04-20",
+      "topic_tokens": [
+        "suspensao"
+      ]
+    },
+    "display_id_last": "bloco-08",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "78e52d36-e9a8-4acf-824d-8b63a7ef9f23",
+    "anchor": {
+      "period_start": "2026-04-22",
+      "period_end": "2026-04-22",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-09",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
+    "anchor": {
+      "period_start": "2026-04-27",
+      "period_end": "2026-05-04",
+      "topic_tokens": [
+        "hoare",
+        "logica"
+      ]
+    },
+    "display_id_last": "bloco-10",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+    "anchor": {
+      "period_start": "2026-05-06",
+      "period_end": "2026-05-06",
+      "topic_tokens": [
+        "correcao",
+        "invariantes",
+        "laco",
+        "logica",
+        "parcial",
+        "programas",
+        "terminacao",
+        "total"
+      ]
+    },
+    "display_id_last": "bloco-11",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
+    "anchor": {
+      "period_start": "2026-05-11",
+      "period_end": "2026-05-11",
+      "topic_tokens": [
+        "dafny",
+        "introducao",
+        "terminacao"
+      ]
+    },
+    "display_id_last": "bloco-12",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
+    "anchor": {
+      "period_start": "2026-05-13",
+      "period_end": "2026-05-25",
+      "topic_tokens": [
+        "arrays",
+        "colecoes",
+        "conjuntos",
+        "dafny",
+        "logica",
+        "programas",
+        "sequencias"
+      ]
+    },
+    "display_id_last": "bloco-13",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
+    "anchor": {
+      "period_start": "2026-05-27",
+      "period_end": "2026-05-27",
+      "topic_tokens": [
+        "academico",
+        "evento"
+      ]
+    },
+    "display_id_last": "bloco-14",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
+    "anchor": {
+      "period_start": "2026-06-01",
+      "period_end": "2026-06-10",
+      "topic_tokens": [
+        "autocontrato",
+        "dafny",
+        "ghosts",
+        "logica",
+        "objetos",
+        "orientacao",
+        "programas"
+      ]
+    },
+    "display_id_last": "bloco-15",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "a6ac04f2-7611-4bef-b74a-54390cef4084",
+    "anchor": {
+      "period_start": "2026-06-15",
+      "period_end": "2026-06-29",
+      "topic_tokens": [
+        "ferramenta",
+        "logica",
+        "modelos",
+        "temporal",
+        "verificacao"
+      ]
+    },
+    "display_id_last": "bloco-16",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "38383c92-9c71-4c4c-90af-ad19935e5597",
+    "anchor": {
+      "period_start": "2026-07-01",
+      "period_end": "2026-07-01",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-17",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
+    "anchor": {
+      "period_start": "2026-07-06",
+      "period_end": "2026-07-06",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-18",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
+    "anchor": {
+      "period_start": "2026-07-08",
+      "period_end": "2026-07-08",
+      "topic_tokens": [
+        "substituicao"
+      ]
+    },
+    "display_id_last": "bloco-19",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "b99568b0-fc0b-4181-bf42-043f4797c92b",
+    "anchor": {
+      "period_start": "2026-07-13",
+      "period_end": "2026-07-13",
+      "topic_tokens": [
+        "devolucao"
+      ]
+    },
+    "display_id_last": "bloco-20",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  },
+  {
+    "uuid": "b4a0046d-49c1-4eab-89bc-f62dad577d52",
+    "anchor": {
+      "period_start": "2026-07-15",
+      "period_end": "2026-07-15",
+      "topic_tokens": []
+    },
+    "display_id_last": "bloco-21",
+    "first_seen": "2026-06-20",
+    "last_seen": "2026-06-20"
+  }
+]
