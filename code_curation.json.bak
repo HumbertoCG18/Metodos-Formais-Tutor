@@ -1,0 +1,695 @@
+{
+  "version": 1,
+  "entries": {
+    "t1-2026-1": {
+      "content_hash": "b4360eb2ee5f06e81f619b20a424e0b641b1f654",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-02T13:19:56",
+      "summary": {
+        "inferred_title": "Definições de Funções Recursivas Primitivas e Propriedades em Isabelle/HOL",
+        "language": "isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "recursão primitiva",
+          "tipos indutivos",
+          "números naturais",
+          "listas",
+          "definição formal",
+          "lemas",
+          "teoremas"
+        ],
+        "summary": "Este bundle demonstra a definição de funções recursivas primitivas em Isabelle/HOL para tipos de dados como números naturais e listas. Ele apresenta implementações de potência, concatenação de listas, reversão e somatório, e então declara lemas e teoremas sobre suas propriedades para futura comprovação.",
+        "files": [
+          {
+            "name": "t1-2026-1.thy",
+            "role": "código-fonte"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-05"
+        ],
+        "match_rationale": "O código demonstra a especificação de funções recursivas sobre tipos indutivos (naturais e listas), que é um tópico central de 'Equações Recursivas e Conjuntos Indutivos'.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-05"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "introducao": {
+      "content_hash": "6118e93398ad4aced791c99426ed2ddf0d51e589",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-02T13:20:05",
+      "summary": {
+        "inferred_title": "Conceitos Fundamentais de Verificação Formal de Programas",
+        "language": "Dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Sistemas Formais",
+          "Verificação Formal",
+          "Lógica de Programas",
+          "Especificação",
+          "Pré-condições",
+          "Pós-condições"
+        ],
+        "summary": "Este material introduz os princípios básicos da verificação formal de programas, explicando como a matemática pode ser usada para provar a correção de software. Ele demonstra a importância de especificar o comportamento esperado de um programa usando pré e pós-condições. O objetivo é estabelecer uma base para a compreensão de métodos formais em engenharia de software.",
+        "files": [
+          {
+            "name": "Introducao.dfy",
+            "role": "exemplo conceitual"
+          }
+        ],
+        "suggested_block_id": "bloco-02",
+        "suggested_secondary_ids": [
+          "bloco-11",
+          "bloco-09"
+        ],
+        "match_rationale": "O material é uma introdução conceitual aos métodos formais, alinhando-se diretamente com o tópico 'introducao metodos formais' do bloco-02.",
+        "primary_block_id": "bloco-02",
+        "secondary_block_ids": [
+          "bloco-11",
+          "bloco-09"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "arvores": {
+      "content_hash": "e76ae83444a8330d4b785d9fa441aa670439f918",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:04:42",
+      "summary": {
+        "inferred_title": "Definição de Árvores Binárias e Prova por Indução em Isabelle/HOL",
+        "language": "isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "árvore binária",
+          "tipo de dado indutivo",
+          "recursão",
+          "função espelho",
+          "indução estrutural",
+          "prova de teorema",
+          "Isabelle/HOL"
+        ],
+        "summary": "Este código demonstra a definição de um tipo de dado indutivo para árvores binárias em Isabelle/HOL, juntamente com a implementação de uma função recursiva para espelhar a árvore. Ele ilustra o processo de prova de uma propriedade sobre a função espelho (que espelhar duas vezes retorna a árvore original) utilizando indução estrutural.",
+        "files": [
+          {
+            "name": "arvores.thy",
+            "role": "definição e prova em Isabelle"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "match_rationale": "O material define árvores e realiza uma prova por indução, alinhando-se diretamente com o tópico 'Indução arvores'.",
+        "primary_block_id": "bloco-05",
+        "secondary_block_ids": [
+          "bloco-04",
+          "bloco-06"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exemplos": {
+      "content_hash": "34241b62396a75eaae5e5d8f77fcb6c3e819b682",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:04:51",
+      "summary": {
+        "inferred_title": "Exemplos de Definição de Tipos Indutivos, Predicados e Funções Recursivas em Isabelle",
+        "language": "isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "tipos indutivos",
+          "predicados indutivos",
+          "funções recursivas",
+          "definição por recursão primitiva",
+          "regras de simplificação",
+          "regras de indução",
+          "Isabelle/HOL"
+        ],
+        "summary": "Este código demonstra a definição de tipos de dados indutivos, predicados indutivos e funções recursivas em Isabelle/HOL. Ele explora diferentes métodos para definir funções, como `definition`, `fun` e `primrec`, e as regras de inferência e simplificação associadas. O material ilustra a sintaxe e a semântica de construções fundamentais da linguagem de forma prática.",
+        "files": [
+          {
+            "name": "exemplos.thy",
+            "role": "código fonte principal"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-05",
+          "bloco-06"
+        ],
+        "match_rationale": "O código demonstra a definição de tipos, predicados e funções recursivas, alinhando-se diretamente com o tema de conjuntos indutivos e equações recursivas.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-05",
+          "bloco-06"
+        ],
+        "block_match_confidence": 0.85,
+        "block_match_method": "consensus"
+      }
+    },
+    "intro": {
+      "content_hash": "f98edd80e9d7a792ed649fa7b6cd6c37f5b0576d",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:04:58",
+      "summary": {
+        "inferred_title": "Definição de Tipos Indutivos, Funções Recursivas e Provas por Indução em Isabelle",
+        "language": "Isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Tipo Indutivo",
+          "Recursão Primitiva",
+          "Prova por Indução",
+          "Datatype",
+          "Teorema",
+          "Isabelle/HOL",
+          "Regra de Indução"
+        ],
+        "summary": "Este código Isabelle demonstra a definição de tipos indutivos, como os números naturais, e a criação de funções por recursão primitiva. Ele explora as regras de indução geradas automaticamente para esses tipos e exemplifica a prova de teoremas usando indução, como a associatividade da adição. O material serve como uma introdução prática à especificação e verificação em Isabelle.",
+        "files": [
+          {
+            "name": "intro.thy",
+            "role": "exemplo de teoria"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-05",
+          "bloco-06"
+        ],
+        "match_rationale": "O código introduz tipos indutivos e funções recursivas, demonstrando a prova por indução, elementos centrais da teoria de conjuntos indutivos e equações recursivas.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-05",
+          "bloco-06"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "listas": {
+      "content_hash": "dd21aa53b751272c9ca086d13ae1007d76000429",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:05:02",
+      "summary": {
+        "inferred_title": "Definição Recursiva de Concatenação de Listas e Prova de Associatividade em Isabelle",
+        "language": "isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "lista",
+          "função recursiva",
+          "concatenação de listas",
+          "indução estrutural",
+          "associatividade",
+          "prova interativa",
+          "Isabelle/HOL"
+        ],
+        "summary": "Este código Isabelle define recursivamente a operação de concatenação de listas (`cat`) e, em seguida, demonstra uma prova formal de sua propriedade de associatividade. Ele ilustra o uso de indução estrutural e a metodologia de prova interativa em Isabelle para verificar propriedades de estruturas de dados básicas.",
+        "files": [
+          {
+            "name": "listas.thy",
+            "role": "definição e prova em Isabelle"
+          }
+        ],
+        "suggested_block_id": "bloco-05",
+        "suggested_secondary_ids": [
+          "bloco-06",
+          "bloco-04"
+        ],
+        "match_rationale": "O material demonstra a aplicação de indução estrutural para provar propriedades de estruturas de dados recursivas como listas, alinhando-se bem com o tema de indução.",
+        "primary_block_id": "bloco-05",
+        "secondary_block_ids": [
+          "bloco-06",
+          "bloco-04"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "provas": {
+      "content_hash": "eab227748f5bb96762e0ee1d55e975cddfec5a44",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:05:08",
+      "summary": {
+        "inferred_title": "Demonstração de propriedades indutivas e funções em Isabelle/HOL",
+        "language": "isabelle",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Isabelle/HOL",
+          "Prova por indução",
+          "Definições recursivas",
+          "Tipos de dados indutivos",
+          "Sintaxe de prova Isar",
+          "Associatividade de funções"
+        ],
+        "summary": "Este bundle demonstra a definição de funções recursivas e predicados indutivos em Isabelle/HOL, utilizando os números naturais como base. Ele exemplifica a prova de propriedades, como a associatividade da adição e a equivalência entre uma definição indutiva e uma função recursiva para números pares, usando tanto o estilo \"apply/done\" quanto o estilo estruturado Isar.",
+        "files": [
+          {
+            "name": "provas.thy",
+            "role": "Código-fonte principal"
+          }
+        ],
+        "suggested_block_id": "bloco-06",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-05"
+        ],
+        "match_rationale": "O código aborda diretamente a interatividade na prova de teoremas e a sintaxe de Isabelle/HOL, elementos centrais do \"bloco-06\".",
+        "primary_block_id": "bloco-06",
+        "secondary_block_ids": [
+          "bloco-04",
+          "bloco-05"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "classes-parte1": {
+      "content_hash": "6de2de29d9d0c1ab5bb34aba9878cabfc6283ba6",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:05:20",
+      "summary": {
+        "inferred_title": "Implementação e Verificação de Classes em Dafny: o Exemplo do Contador",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "classe",
+          "método",
+          "construtor",
+          "pré-condição",
+          "pós-condição",
+          "variável ghost",
+          "invariante de classe",
+          "frames dinâmicos",
+          "autocontracts"
+        ],
+        "summary": "Este bundle demonstra a evolução da implementação e verificação de uma classe Contador em Dafny. Ele cobre desde a definição básica de métodos e construtores, passando pela introdução de variáveis e predicados ghost para expressar invariantes de classe, até a complexidade de frames dinâmicos para verificar classes com campos que são objetos, e o uso de autocontracts para simplificar a especificação.",
+        "files": [
+          {
+            "name": "classes_parte1\\contadorV1.dfy",
+            "role": "Implementação básica e métodos"
+          },
+          {
+            "name": "classes_parte1\\contadorV1b.dfy",
+            "role": "Introdução de construtores"
+          },
+          {
+            "name": "classes_parte1\\contadorV2.dfy",
+            "role": "Variáveis ghost e invariantes de classe"
+          },
+          {
+            "name": "classes_parte1\\contadorV3_inicio.dfy",
+            "role": "Introdução a frames dinâmicos (incompleto)"
+          },
+          {
+            "name": "classes_parte1\\contadorV3_final.dfy",
+            "role": "Implementação completa de frames dinâmicos"
+          },
+          {
+            "name": "classes_parte1\\contadorV4.dfy",
+            "role": "Uso de autocontracts"
+          },
+          {
+            "name": "classes_parte1\\teste.dfy",
+            "role": "Esqueleto de classe verificável"
+          }
+        ],
+        "suggested_block_id": "bloco-15",
+        "suggested_secondary_ids": [
+          "bloco-11"
+        ],
+        "match_rationale": "Este material exemplifica conceitos avançados de lógica de programas aplicados à orientação a objetos em Dafny, incluindo ghost variables, invariantes e autocontracts.",
+        "primary_block_id": "bloco-15",
+        "secondary_block_ids": [
+          "bloco-11"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "colecoes-arrays": {
+      "content_hash": "c7c09052489607e57a3a3354fcb3fa1ac153a544",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:05:53",
+      "summary": {
+        "inferred_title": "Definição de Tipos Indutivos Básicos (Datatype) em Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "datatype",
+          "tipos indutivos",
+          "predicado",
+          "construtor de tipo",
+          "verificação de tipo"
+        ],
+        "summary": "Este arquivo demonstra a criação de tipos indutivos simples usando `datatype` em Dafny, mostrando como definir e instanciar construtores de tipo. Inclui um exemplo de predicado que verifica uma propriedade baseada no tipo.",
+        "files": [
+          {
+            "name": "colecoes_arrays\\ex1.dfy",
+            "role": "demonstrativo"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O código ilustra a definição de tipos indutivos, que são um tópico central do Bloco 04.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "colecoes-conjuntos": {
+      "content_hash": "7b9442f18350748f36b0a3f6141b40782f46dd78",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:07",
+      "summary": {
+        "inferred_title": "Definição e uso de tipos de dados indutivos simples (datatype)",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "tipo de dado indutivo",
+          "datatype",
+          "predicate",
+          "construtor de tipo",
+          "verificação formal"
+        ],
+        "summary": "Este exemplo introduz a definição de tipos de dados indutivos simples (datatype) em Dafny, usando um tipo Cor. Ele demonstra como definir construtores e como usar um predicado para verificar propriedades de instâncias desses tipos.",
+        "files": [
+          {
+            "name": "ex1.dfy",
+            "role": "definição de datatype e predicado"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-02"
+        ],
+        "match_rationale": "O código demonstra a criação de tipos de dados indutivos (datatype), que são um conceito central em conjuntos indutivos.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-02"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "colecoes-sequences": {
+      "content_hash": "b80cc8164407f891b4cb1933ccff4fa5531b2e72",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:15",
+      "summary": {
+        "inferred_title": "Definição e uso de tipos indutivos simples (enum) em Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "datatype",
+          "tipo indutivo",
+          "enumeração",
+          "predicate",
+          "asserção"
+        ],
+        "summary": "Este código introduz o conceito de tipos de dados indutivos em Dafny através da definição de um tipo `Cor` semelhante a uma enumeração. Ele demonstra como definir, instanciar e usar predicados com esses tipos imutáveis.",
+        "files": [
+          {
+            "name": "ex1.dfy",
+            "role": "definição de datatype e predicado"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-12"
+        ],
+        "match_rationale": "O código demonstra a criação de tipos indutivos (datatypes) e predicados, alinhando-se com a introdução a conjuntos indutivos.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-12"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "exercicios-conjuntos": {
+      "content_hash": "33b932930fd18db97ee5e31d4374150045359b96",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:25",
+      "summary": {
+        "inferred_title": "Verificação Formal de Manipulação de Arrays e Algoritmos de Ordenação com Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Pré-condições",
+          "Pós-condições",
+          "Invariantes de laço",
+          "Predicados ghost",
+          "Multisets",
+          "Permutação",
+          "Algoritmos de ordenação",
+          "Verificação formal de programas"
+        ],
+        "summary": "Este bundle de código Dafny apresenta exemplos de verificação formal para operações de array e algoritmos de ordenação, como Bubble Sort. Ele demonstra como usar pré e pós-condições, invariantes de laço e predicados ghost para especificar e provar a correção de programas que manipulam dados em arrays.",
+        "files": [
+          {
+            "name": "exercicios_conjuntos\\exercicio2.dfy",
+            "role": "Exemplo de modificação de array"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio3b.dfy",
+            "role": "Exemplo de predicado de permutação"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio4.dfy",
+            "role": "Exemplo de troca de elementos em array"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio5.dfy",
+            "role": "Implementação e verificação de Bubble Sort"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio5b.dfy",
+            "role": "Outra implementação e verificação de Bubble Sort"
+          }
+        ],
+        "suggested_block_id": "bloco-11",
+        "suggested_secondary_ids": [
+          "bloco-13"
+        ],
+        "match_rationale": "O material aborda logicamente a verificação de programas, com foco em correção, invariantes de laço e manipulação de coleções, alinhando-se diretamente aos tópicos do bloco.",
+        "primary_block_id": "bloco-11",
+        "secondary_block_ids": [
+          "bloco-13"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "hoare": {
+      "content_hash": "3a525d50ed255cfdf91804df8c73a923d0e259d6",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:37",
+      "summary": {
+        "inferred_title": "Verificação de Correção de Programa Simples com Tripla de Hoare",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Tripla de Hoare",
+          "Pré-condição",
+          "Pós-condição",
+          "Assert",
+          "Cálculo da pré-condição mais fraca",
+          "Correção de programa"
+        ],
+        "summary": "Este exemplo em Dafny ilustra a verificação da correção de um programa trivial usando um método com pré e pós-condições, e uma asserção intermediária. Ele demonstra como a pré-condição mais fraca se relaciona com a verificação de propriedades do código.",
+        "files": [
+          {
+            "name": "ex0.dfy",
+            "role": "Exemplo de Hoare Triple"
+          }
+        ],
+        "suggested_block_id": "bloco-10",
+        "suggested_secondary_ids": [
+          "bloco-11"
+        ],
+        "match_rationale": "O código demonstra diretamente a aplicação de triplas de Hoare para verificar a correção de um programa simples.",
+        "primary_block_id": "bloco-10",
+        "secondary_block_ids": [
+          "bloco-11"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "invariantes": {
+      "content_hash": "d0a8a2907b65633da71edad6a28200a7cfb13800",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:49",
+      "summary": {
+        "inferred_title": "Definição e uso de tipos indutivos simples (Datatypes) com predicados em Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "datatype",
+          "tipo indutivo",
+          "predicate",
+          "verificação de propriedades",
+          "asserções"
+        ],
+        "summary": "Este exemplo introduz a definição e o uso de datatypes simples em Dafny, demonstrando como criar tipos enumerados. O código também ilustra a aplicação de predicados para verificar propriedades sobre os valores desses datatypes, utilizando asserções para confirmar o comportamento esperado.",
+        "files": [
+          {
+            "name": "ex1.dfy",
+            "role": "código-fonte principal"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O código demonstra a criação de tipos indutivos (datatypes) e o uso de predicados, alinhando-se com o tópico de conjuntos indutivos.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "terminacao": {
+      "content_hash": "f239171dd92811894546ce0c7e354b4a21525228",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:06:57",
+      "summary": {
+        "inferred_title": "Criação e uso de tipos de dados indutivos simples (Cor)",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "tipo de dado indutivo",
+          "datatype",
+          "enum",
+          "predicado",
+          "verificação de propriedade"
+        ],
+        "summary": "Este exemplo introduz a declaração e o uso de tipos de dados indutivos simples (datatype) em Dafny, demonstrando como definir um conjunto de valores distintos e usar predicados para verificar propriedades desses tipos.",
+        "files": [
+          {
+            "name": "ex1.dfy",
+            "role": "exemplo de datatype"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [],
+        "match_rationale": "O arquivo demonstra a criação de conjuntos indutivos através de datatypes.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "tiposindutivos": {
+      "content_hash": "10fd92fab3f0342b9f192ac6c9f1a56cc526d4c4",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-08T20:07:05",
+      "summary": {
+        "inferred_title": "Introdução e Verificação de Tipos de Dados Indutivos em Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "datatype",
+          "tipos indutivos",
+          "recursão",
+          "casamento de padrões",
+          "listas encadeadas",
+          "árvores binárias",
+          "lemma",
+          "ensures"
+        ],
+        "summary": "Este bundle de código Dafny exemplifica a criação e manipulação de tipos de dados indutivos como cores, listas genéricas e árvores binárias. Ele demonstra o uso de 'datatype' para definição, funções recursivas e casamento de padrões para processamento, além de introduzir a verificação de propriedades com 'ensures' e 'lemma'.",
+        "files": [
+          {
+            "name": "tiposindutivos\\ex1.dfy",
+            "role": "exemplo de tipo indutivo básico"
+          },
+          {
+            "name": "tiposindutivos\\ex2.dfy",
+            "role": "exemplo de lista indutiva genérica e propriedades"
+          },
+          {
+            "name": "tiposindutivos\\ex3.dfy",
+            "role": "exemplo de árvore indutiva genérica e funções"
+          }
+        ],
+        "suggested_block_id": "bloco-04",
+        "suggested_secondary_ids": [
+          "bloco-05",
+          "bloco-13"
+        ],
+        "match_rationale": "O material foca na definição e manipulação de tipos de dados indutivos como listas e árvores, explorando recursão e casamento de padrões em Dafny.",
+        "primary_block_id": "bloco-04",
+        "secondary_block_ids": [
+          "bloco-05",
+          "bloco-13"
+        ],
+        "block_match_confidence": 0.75,
+        "block_match_method": "consensus"
+      }
+    },
+    "exemplos-codigo-professor": {
+      "content_hash": "c0e7747a26c7d5e6650f39ca9f6cdc7736122b5a",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-16T18:12:05",
+      "summary": {
+        "inferred_title": "Demonstração de Verificação de Programas com Lógica de Hoare em Dafny",
+        "language": "Dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Lógica de Hoare",
+          "Verificação formal",
+          "Pré-condições",
+          "Pós-condições",
+          "Invariantes de laço",
+          "Correção parcial",
+          "Correção total",
+          "Dafny"
+        ],
+        "summary": "Este bundle oferece exemplos práticos que demonstram a aplicação da lógica de Hoare para verificar a correção de programas usando a linguagem Dafny. Ele ilustra como definir pré e pós-condições, e como usar invariantes de laço para provar a correção parcial e total de algoritmos.",
+        "files": [
+          {
+            "name": "exemplos.dfy",
+            "role": "código fonte"
+          }
+        ],
+        "suggested_block_id": "bloco-11",
+        "suggested_secondary_ids": [
+          "bloco-10",
+          "bloco-12"
+        ],
+        "match_rationale": "O material demonstra a aplicação prática da lógica de Hoare para provar a correção parcial e total de programas, um tema central do bloco 11.",
+        "primary_block_id": "bloco-11",
+        "secondary_block_ids": [
+          "bloco-10",
+          "bloco-12"
+        ],
+        "block_match_confidence": 0.85,
+        "block_match_method": "consensus"
+      }
+    }
+  }
+}
