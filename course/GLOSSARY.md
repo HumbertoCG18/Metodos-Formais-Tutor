@@ -94,7 +94,7 @@
 **Aparece em:** Unidade 02 — Verificação de Programas
 
 ## 2.1.2. Correção Parcial e Total
-**Definição:** Conceito central de verificação de programas que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Existem duas definições para correção: - Correção parcial; - Correção total.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 02 — Verificação de Programas
@@ -154,7 +154,7 @@
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.4. Softwares de Suporte à Verificação Formal de Modelos
-**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Sumário MÉTODOS FORMAIS --- VERIFICAÇÃO DE MODELOS Introdução Introdução Introdução Introdução Introdução.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos

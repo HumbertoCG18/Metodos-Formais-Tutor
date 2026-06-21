@@ -34,7 +34,7 @@ sources:
     title: "ExerciciosFormalizacaoAlgoritmosRecursao3"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao3.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosFormalizacaoAlgoritmosRecursao3.pdf"
     raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -44,7 +44,7 @@ sources:
     title: "FormalizacaoAlgoritmos_Recursao2"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao2.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\FormalizacaoAlgoritmos_Recursao2.pdf"
     raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao2.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -54,7 +54,7 @@ sources:
     title: "ExerciciosConjuntosIndutivos"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosConjuntosIndutivos.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosConjuntosIndutivos.pdf"
     raw_target: "raw/pdfs/listas/exerciciosconjuntosindutivos.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -64,7 +64,7 @@ sources:
     title: "ConjuntosIndutivos"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ConjuntosIndutivos.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ConjuntosIndutivos.pdf"
     raw_target: "raw/pdfs/material-de-aula/conjuntosindutivos.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -74,7 +74,7 @@ sources:
     title: "logicaPredicados_semantica"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_semantica.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\logicaPredicados_semantica.pdf"
     raw_target: "raw/pdfs/material-de-aula/logicapredicados-semantica.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -84,7 +84,7 @@ sources:
     title: "logicaPredicados_sintaxe"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaPredicados_sintaxe.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\logicaPredicados_sintaxe.pdf"
     raw_target: "raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -94,7 +94,7 @@ sources:
     title: "logicaProposicional_sintaxe"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_sintaxe.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\logicaProposicional_sintaxe.pdf"
     raw_target: "raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -104,7 +104,7 @@ sources:
     title: "revisao"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/revisao.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\revisao.pdf"
     raw_target: "raw/pdfs/material-de-aula/revisao.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -114,7 +114,7 @@ sources:
     title: "introducao"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/introducao.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Introdução a Métodos Formais\\introducao.pdf"
     raw_target: "raw/pdfs/material-de-aula/introducao.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -124,7 +124,7 @@ sources:
     title: "ProvasIndutivas_EspecificaçõesRecursivas"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ProvasIndutivas_EspecificaçõesRecursivas.pdf"
     raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -134,7 +134,7 @@ sources:
     title: "ProvasIndutivas_EspecificaçõesRecursivas_Arvores"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Arvores.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ProvasIndutivas_EspecificaçõesRecursivas_Arvores.pdf"
     raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-arvores.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -144,7 +144,7 @@ sources:
     title: "ProvasIndutivas_EspecificaçõesRecursivas_Listas"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ProvasIndutivas_EspecificaçõesRecursivas_Listas.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ProvasIndutivas_EspecificaçõesRecursivas_Listas.pdf"
     raw_target: "raw/pdfs/material-de-aula/provasindutivas-especificacoesrecursivas-listas.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -154,7 +154,7 @@ sources:
     title: "ExerciciosCorrecaoInducaoMatematica"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosCorrecaoInducaoMatematica.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ExerciciosCorrecaoInducaoMatematica.pdf"
     raw_target: "raw/pdfs/listas/exercicioscorrecaoinducaomatematica.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -164,7 +164,7 @@ sources:
     title: "ExerciciosEspecificacao_respostas"
     category: gabaritos
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao_respostas.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\ExerciciosEspecificacao_respostas.pdf"
     raw_target: "raw/pdfs/gabaritos/exerciciosespecificacao-respostas.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -174,7 +174,7 @@ sources:
     title: "ExerciciosEspecificacao"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosEspecificacao.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\ExerciciosEspecificacao.pdf"
     raw_target: "raw/pdfs/listas/exerciciosespecificacao.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -184,7 +184,7 @@ sources:
     title: "ExerciciosFormalizacaoAlgoritmosRecursao2"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao2.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosFormalizacaoAlgoritmosRecursao2.pdf"
     raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao2.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -194,7 +194,7 @@ sources:
     title: "ExerciciosIsabelle2"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle2.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ExerciciosIsabelle2.pdf"
     raw_target: "raw/pdfs/listas/exerciciosisabelle2.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -204,7 +204,7 @@ sources:
     title: "logicaProposicional_semantica"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/logicaProposicional_semantica.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Revisão - Lógica e Especificação\\logicaProposicional_semantica.pdf"
     raw_target: "raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -214,7 +214,7 @@ sources:
     title: "ExerciciosFormalizacaoAlgoritmosRecursao_respostas"
     category: gabaritos
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosFormalizacaoAlgoritmosRecursao_respostas.pdf"
     raw_target: "raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf"
     processing_mode: auto
     effective_profile: scanned
@@ -224,7 +224,7 @@ sources:
     title: "FormalizacaoAlgoritmos_Recursao"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\FormalizacaoAlgoritmos_Recursao.pdf"
     raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -234,7 +234,7 @@ sources:
     title: "FormalizacaoAlgoritmos_Recursao3"
     category: material-de-aula
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/FormalizacaoAlgoritmos_Recursao3.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\FormalizacaoAlgoritmos_Recursao3.pdf"
     raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -244,7 +244,7 @@ sources:
     title: "ExerciciosIsabelle"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/Metodos-Formais/ExerciciosIsabelle.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\ExerciciosIsabelle.pdf"
     raw_target: "raw/pdfs/listas/exerciciosisabelle.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -254,7 +254,7 @@ sources:
     title: "revisao_p1"
     category: listas
     file_type: pdf
-    source_path: "C:/Users/Humberto/Downloads/revisao_p1.pdf"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Exercícios de Revisão para Provas\\revisao_p1.pdf"
     raw_target: "raw/pdfs/listas/revisao-p1.pdf"
     processing_mode: high_fidelity
     effective_profile: math_heavy
@@ -270,13 +270,333 @@ sources:
     effective_profile: math_heavy
     include_in_bundle: true
     professor_signal: ""
-  - id: t1-2026-1
+  - id: t1-2026-1-thy
     title: "T1 2026 1"
     category: codigo-professor
     file_type: code
-    source_path: "C:/Users/Humberto/Downloads/T1_2026_1.thy"
-    raw_target: "raw/code/professor/t1-2026-1.thy"
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\TDE Trabalho Discente Efetivo\\T1_2026_1.thy"
+    raw_target: "raw/code/professor/t1-2026-1-thy.thy"
     processing_mode: auto
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao
+    title: "ExerciciosFormalizacaoAlgoritmosRecursao"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosFormalizacaoAlgoritmosRecursao.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: revisao-p1-gabarito
+    title: "revisao_p1_gabarito"
+    category: provas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Exercícios de Revisão para Provas\\revisao_p1_gabarito.pdf"
+    raw_target: "raw/pdfs/provas/revisao-p1-gabarito.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: arvores
+    title: "arvores"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\arvores.thy"
+    raw_target: "raw/code/professor/arvores.thy"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplos
+    title: "exemplos"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\exemplos.thy"
+    raw_target: "raw/code/professor/exemplos.thy"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: intro
+    title: "intro"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\intro.thy"
+    raw_target: "raw/code/professor/intro.thy"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: listas
+    title: "listas"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\listas.thy"
+    raw_target: "raw/code/professor/listas.thy"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: provas
+    title: "provas"
+    category: codigo-professor
+    file_type: code
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Provas por Indução\\provas.thy"
+    raw_target: "raw/code/professor/provas.thy"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: correcaoterminacao
+    title: "CorrecaoTerminacao"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\CorrecaoTerminacao.pdf"
+    raw_target: "raw/pdfs/material-de-aula/correcaoterminacao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicioscorrecaoterminacao
+    title: "ExerciciosCorrecaoTerminacao"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosCorrecaoTerminacao.pdf"
+    raw_target: "raw/pdfs/listas/exercicioscorrecaoterminacao.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosinvariantes
+    title: "ExerciciosFormalizacaoAlgoritmosInvariantes"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosFormalizacaoAlgoritmosInvariantes.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosinvariantes.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: formalizacaoalgoritmos-invarianteslaco
+    title: "FormalizacaoAlgoritmos_InvariantesLaco"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\FormalizacaoAlgoritmos_InvariantesLaco.pdf"
+    raw_target: "raw/pdfs/material-de-aula/formalizacaoalgoritmos-invarianteslaco.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicadehoare
+    title: "LogicaDeHoare"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicadehoare.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicadehoare2
+    title: "LogicaDeHoare2"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare2.pdf"
+    raw_target: "raw/pdfs/material-de-aula/logicadehoare2.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosdafny1
+    title: "ExerciciosDafny1"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosDafny1.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosdafny1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosdafny2
+    title: "ExerciciosDafny2"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosDafny2.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosdafny2.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosdafny3
+    title: "ExerciciosDafny3"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosDafny3.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosdafny3.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosdafny4
+    title: "ExerciciosDafny4"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosDafny4.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosdafny4.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosdafny5
+    title: "ExerciciosDafny5"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\ExerciciosDafny5.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosdafny5.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: verificacaomodelos
+    title: "verificacaomodelos"
+    category: material-de-aula
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Especificação e Verificação de Modelos/verificacaomodelos.pdf"
+    raw_target: "raw/pdfs/material-de-aula/verificacaomodelos.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicioslogicatemporal
+    title: "ExerciciosLogicaTemporal"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Especificação e Verificação de Modelos/ExerciciosLogicaTemporal.pdf"
+    raw_target: "raw/pdfs/listas/exercicioslogicatemporal.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exerciciosnusmv
+    title: "ExerciciosNusmv"
+    category: listas
+    file_type: pdf
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Especificação e Verificação de Modelos/ExerciciosNusmv.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosnusmv.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: classes-parte1
+    title: "Classes Parte1"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/classes_parte1.zip"
+    raw_target: "raw/zip/classes-parte1.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: colecoes-arrays
+    title: "Colecoes Arrays"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/colecoes_arrays.zip"
+    raw_target: "raw/zip/colecoes-arrays.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: colecoes-conjuntos
+    title: "Colecoes Conjuntos"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/colecoes_conjuntos.zip"
+    raw_target: "raw/zip/colecoes-conjuntos.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: colecoes-sequences
+    title: "Colecoes Sequences"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/colecoes_sequences.zip"
+    raw_target: "raw/zip/colecoes-sequences.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicios-conjuntos
+    title: "Exercicios Conjuntos"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/exercicios_conjuntos.zip"
+    raw_target: "raw/zip/exercicios-conjuntos.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: hoare
+    title: "Hoare"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/hoare.zip"
+    raw_target: "raw/zip/hoare.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: introducao-zip
+    title: "Introducao"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/introducao.zip"
+    raw_target: "raw/zip/introducao-zip.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: invariantes
+    title: "Invariantes"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/invariantes.zip"
+    raw_target: "raw/zip/invariantes.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: terminacao
+    title: "Terminacao"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/terminacao.zip"
+    raw_target: "raw/zip/terminacao.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: tiposindutivos
+    title: "Tiposindutivos"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Verificação de Programas/tiposindutivos.zip"
+    raw_target: "raw/zip/tiposindutivos.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exemplos-zip
+    title: "Exemplos"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:/Users/Humberto/Desktop/Moodle/metodos-formais-para-computacao/Especificação e Verificação de Modelos/exemplos.zip"
+    raw_target: "raw/zip/exemplos-zip.zip"
+    processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
     professor_signal: ""

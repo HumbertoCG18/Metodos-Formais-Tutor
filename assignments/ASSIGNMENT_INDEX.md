@@ -5,10 +5,6 @@
 
 ## Trabalhos
 
-| Arquivo | Título | Unidade | Status |
-|---|---|---|---|
-| t1_2026_1.pdf | t1_2026_1 |  | pendente |
-
-## Padrões do professor
-
-- [a preencher]
+| Arquivo | Título | Unidade |
+|---|---|---|
+| t1_2026_1.pdf | t1_2026_1 |  |

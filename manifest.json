@@ -192,7 +192,7 @@
       ],
       "subunit_match_confidence": 0.8698524828589237,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -282,7 +282,7 @@
       ],
       "subunit_match_confidence": 0.07687379884689309,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -375,7 +375,7 @@
       ],
       "subunit_match_confidence": 0.9051543606025805,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -467,7 +467,7 @@
       ],
       "subunit_match_confidence": 0.44677461308362587,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -555,7 +555,7 @@
       ],
       "subunit_match_confidence": 0.04086809470124014,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
@@ -647,7 +647,7 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.6287793131424724,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
@@ -740,7 +740,7 @@
       ],
       "subunit_match_confidence": 0.6619648356014701,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.36425240128545955,
       "computed_block_band": "media",
       "source_section": "Revisão - Lógica e Especificação",
@@ -831,7 +831,7 @@
       ],
       "subunit_match_confidence": 0.17861453053342982,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-02",
+      "computed_block_id": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
       "computed_block_confidence": 0.17374380750176951,
       "computed_block_band": "baixa",
       "source_section": "Revisão - Lógica e Especificação",
@@ -912,7 +912,7 @@
       "unit_match_reasons": [
         "winner_score=57.95",
         "topic_score=10.00",
-        "herdada_do_bloco=bloco-11"
+        "herdada_do_bloco=c9f5f7cf-3477-4531-be7a-f7b68727009c"
       ],
       "unit_match_confidence": 0.6306477409036384,
       "subunit_match_reasons": [
@@ -925,7 +925,7 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.2705513046890328,
       "computed_block_band": "media",
       "source_section": "Verificação de Programas",
@@ -1017,7 +1017,7 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.6752205760207614,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -1097,7 +1097,7 @@
       "unit_match_reasons": [
         "winner_score=18.51",
         "topic_score=1.45",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
       "unit_match_confidence": 0.5852673267326732,
       "subunit_match_reasons": [
@@ -1105,7 +1105,7 @@
       ],
       "subunit_match_confidence": 0.26732673267326734,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.6177243055841687,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -1185,7 +1185,7 @@
       "unit_match_reasons": [
         "winner_score=18.51",
         "topic_score=1.45",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
       "unit_match_confidence": 0.5852673267326732,
       "subunit_match_reasons": [
@@ -1198,7 +1198,7 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.5225039745056145,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -1288,7 +1288,7 @@
       "unit_match_reasons": [
         "winner_score=24.57",
         "topic_score=10.89",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
       "unit_match_confidence": 0.29936676406670937,
       "subunit_match_reasons": [
@@ -1296,7 +1296,7 @@
       ],
       "subunit_match_confidence": 0.9446210796915167,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -1387,7 +1387,7 @@
       "unit_match_reasons": [
         "winner_score=34.69",
         "topic_score=6.80",
-        "herdada_do_bloco=bloco-03"
+        "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
       "unit_match_confidence": 0.30829460213147714,
       "subunit_match_reasons": [
@@ -1395,7 +1395,7 @@
       ],
       "subunit_match_confidence": 0.9113611756061719,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.6808686536379983,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
@@ -1486,7 +1486,7 @@
       "unit_match_reasons": [
         "winner_score=34.44",
         "topic_score=6.80",
-        "herdada_do_bloco=bloco-03"
+        "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
       "unit_match_confidence": 0.3105322368755308,
       "subunit_match_reasons": [
@@ -1494,7 +1494,7 @@
       ],
       "subunit_match_confidence": 0.9113611756061719,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.6808686536379983,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
@@ -1592,7 +1592,7 @@
       ],
       "subunit_match_confidence": 0.878782646233542,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -1691,7 +1691,7 @@
       ],
       "subunit_match_confidence": 0.4468085106382978,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -1794,7 +1794,7 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-03",
+      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.7988467212015555,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
@@ -1917,7 +1917,7 @@
         "winner_score=5.07",
         "topic_score=1.12",
         "ambiguous",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
       "unit_match_confidence": 0.04181822004499277,
       "subunit_match_reasons": [
@@ -1925,7 +1925,7 @@
       ],
       "subunit_match_confidence": 0.46297435897435896,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -2022,7 +2022,7 @@
       ],
       "subunit_match_confidence": 0.37196518552450764,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -2030,7 +2030,7 @@
       "unit_block_conflict": {
         "unit": "unidade-02-verificacao-de-programas",
         "block_unit": "unidade-01-metodos-formais",
-        "block_id": "bloco-04"
+        "block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       },
       "computed_block_method": "card",
       "moodle_label": "Especificações recursivas",
@@ -2126,7 +2126,7 @@
       ],
       "subunit_match_confidence": 0.46537224833044766,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
@@ -2230,7 +2230,7 @@
       ],
       "subunit_match_confidence": 0.3947368421052632,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
@@ -2339,7 +2339,7 @@
       ],
       "subunit_match_confidence": 0.07894736842105272,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Exercícios de Revisão para Provas",
@@ -2441,7 +2441,7 @@
       ],
       "subunit_match_confidence": 0.8981058131939909,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.610209323932886,
       "computed_block_band": "alta",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
@@ -2492,7 +2492,7 @@
       "unit_match_reasons": [
         "winner_score=3.27",
         "topic_score=0.54",
-        "herdada_do_bloco=bloco-05"
+        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
       "unit_match_confidence": 0.4675313738953555,
       "subunit_match_reasons": [
@@ -2500,19 +2500,19 @@
       ],
       "subunit_match_confidence": 0.9714285714285715,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.14361702127659673,
       "computed_block_band": "baixa",
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-programas",
-      "computed_block_rationale": "O código demonstra a especificação de funções recursivas sobre tipos indutivos (naturais e listas), que é um tópico central de 'Equações Recursivas e Conjuntos Indutivos'.",
       "computed_block_method": "consensus",
-      "computed_block_match_confidence": 0.75,
       "unit_block_conflict": {},
       "source_section": "TDE Trabalho Discente Efetivo",
       "id_override": "t1-2026-1-thy",
       "moodle_label": "Arquivo .thy",
       "posting_date": "2026-04-15",
-      "posting_date_created": "2026-04-15"
+      "posting_date_created": "2026-04-15",
+      "computed_block_rationale": "O código demonstra a especificação de funções recursivas sobre tipos indutivos (naturais e listas), que é um tópico central de 'Equações Recursivas e Conjuntos Indutivos'.",
+      "computed_block_match_confidence": 0.75
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao",
@@ -2593,14 +2593,14 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=15.61",
         "topic_score=6.80",
         "ambiguous",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
       "unit_match_confidence": 0.1211809725090862,
       "subunit_match_reasons": [
@@ -2722,7 +2722,7 @@
         "markdown_path": "staging/markdown-auto/datalab/revisao-p1-gabarito/revisao-p1-gabarito.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-07",
+      "computed_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
       "computed_block_confidence": 0.95,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -2784,14 +2784,14 @@
       "approved_markdown": "code/professor/arvores.md",
       "curated_markdown": "code/professor/arvores.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 0.2989717223650385,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-06"
+        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
       ],
       "unit_match_confidence": 0.4642891556292754,
       "subunit_match_reasons": [
@@ -2802,11 +2802,11 @@
       "computed_block_method": "llm_only",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
-      "computed_block_rationale": "O material define árvores e realiza uma prova por indução, alinhando-se diretamente com o tópico 'Indução arvores'.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos: provas sobre arvores",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O material define árvores e realiza uma prova por indução, alinhando-se diretamente com o tópico 'Indução arvores'.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "exemplos",
@@ -2847,7 +2847,7 @@
       "approved_markdown": "code/professor/exemplos.md",
       "curated_markdown": "code/professor/exemplos.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 0.6574319609211445,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -2860,14 +2860,14 @@
       ],
       "subunit_match_confidence": 0.8981976763994413,
       "computed_subunit_slug": "exemplos-de-aplicacoes",
-      "computed_block_rationale": "O código demonstra a definição de tipos, predicados e funções recursivas, alinhando-se diretamente com o tema de conjuntos indutivos e equações recursivas.",
       "computed_block_method": "consensus",
-      "computed_block_match_confidence": 0.85,
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos - definicoes de funcoes",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O código demonstra a definição de tipos, predicados e funções recursivas, alinhando-se diretamente com o tema de conjuntos indutivos e equações recursivas.",
+      "computed_block_match_confidence": 0.85
     },
     {
       "id": "intro",
@@ -2906,13 +2906,13 @@
       "approved_markdown": "code/professor/intro.md",
       "curated_markdown": "code/professor/intro.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 0.12861467121787842,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=11.26",
         "topic_score=0.94",
-        "herdada_do_bloco=bloco-06"
+        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
       ],
       "unit_match_confidence": 0.3555692307692307,
       "subunit_match_reasons": [
@@ -2924,11 +2924,11 @@
       "computed_block_method": "llm_only",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
-      "computed_block_rationale": "O código introduz tipos indutivos e funções recursivas, demonstrando a prova por indução, elementos centrais da teoria de conjuntos indutivos e equações recursivas.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos - introducao",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O código introduz tipos indutivos e funções recursivas, demonstrando a prova por indução, elementos centrais da teoria de conjuntos indutivos e equações recursivas.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "listas",
@@ -2967,14 +2967,14 @@
       "approved_markdown": "code/professor/listas.md",
       "curated_markdown": "code/professor/listas.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-06",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 0.5560359161955436,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-06"
+        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
       ],
       "unit_match_confidence": 0.4642891556292754,
       "subunit_match_reasons": [
@@ -2985,11 +2985,11 @@
       "computed_block_method": "llm_only",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
-      "computed_block_rationale": "O material demonstra a aplicação de indução estrutural para provar propriedades de estruturas de dados recursivas como listas, alinhando-se bem com o tema de indução.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos: provas sobre listas",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O material demonstra a aplicação de indução estrutural para provar propriedades de estruturas de dados recursivas como listas, alinhando-se bem com o tema de indução.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "provas",
@@ -3028,7 +3028,7 @@
       "approved_markdown": "code/professor/provas.md",
       "curated_markdown": "code/professor/provas.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-05",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.30468424733615806,
       "computed_block_band": "media",
       "unit_match_reasons": [
@@ -3042,14 +3042,14 @@
       ],
       "subunit_match_confidence": 0.09782608695652155,
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
-      "computed_block_rationale": "O código aborda diretamente a interatividade na prova de teoremas e a sintaxe de Isabelle/HOL, elementos centrais do \"bloco-06\".",
       "computed_block_method": "llm_only",
-      "computed_block_match_confidence": 0.6,
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos - provas isabelle e isar",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O código aborda diretamente a interatividade na prova de teoremas e a sintaxe de Isabelle/HOL, elementos centrais do \"bloco-06\".",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "correcaoterminacao",
@@ -3133,7 +3133,7 @@
         "markdown_path": "staging/markdown-auto/datalab/correcaoterminacao/correcaoterminacao.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -3237,7 +3237,7 @@
         "markdown_path": "staging/markdown-auto/datalab/exercicioscorrecaoterminacao/exercicioscorrecaoterminacao.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.40374300666278007,
       "computed_block_band": "media",
       "unit_match_reasons": [
@@ -3342,7 +3342,7 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosinvariantes/exerciciosformalizacaoalgoritmosinvariantes.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -3462,7 +3462,7 @@
         "markdown_path": "staging/markdown-auto/datalab/formalizacaoalgoritmos-invarianteslaco/formalizacaoalgoritmos-invarianteslaco.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -3582,13 +3582,13 @@
         "markdown_path": "staging/markdown-auto/datalab/logicadehoare/logicadehoare.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-10",
+      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
       "computed_block_confidence": 0.0013827692884601473,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=44.71",
         "topic_score=14.34",
-        "herdada_do_bloco=bloco-10"
+        "herdada_do_bloco=171a1a09-a72d-490d-b4d8-5843cfb301b4"
       ],
       "unit_match_confidence": 0.25582695584887266,
       "subunit_match_reasons": [
@@ -3688,7 +3688,7 @@
         "markdown_path": "staging/markdown-auto/datalab/logicadehoare2/logicadehoare2.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-10",
+      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -3794,13 +3794,13 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny1/exerciciosdafny1.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
       "computed_block_confidence": 0.14059946499164613,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=11.33",
         "topic_score=3.57",
-        "herdada_do_bloco=bloco-15"
+        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
       "unit_match_confidence": 0.3782560355781449,
       "subunit_match_reasons": [
@@ -3898,13 +3898,13 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny2/exerciciosdafny2.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.04925748966942143,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=53.65",
         "topic_score=6.80",
-        "herdada_do_bloco=bloco-11"
+        "herdada_do_bloco=c9f5f7cf-3477-4531-be7a-f7b68727009c"
       ],
       "unit_match_confidence": 0.6140004566784567,
       "subunit_match_reasons": [
@@ -4003,7 +4003,7 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny3/exerciciosdafny3.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.11259876659052216,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
@@ -4024,7 +4024,7 @@
       "unit_block_conflict": {
         "unit": "unidade-01-metodos-formais",
         "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "bloco-13"
+        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       },
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
@@ -4111,13 +4111,13 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny4/exerciciosdafny4.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.12309197777649024,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=20.33",
         "topic_score=4.58",
-        "herdada_do_bloco=bloco-13"
+        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
       "unit_match_confidence": 0.2670709693920213,
       "subunit_match_reasons": [
@@ -4216,7 +4216,7 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "bloco-15",
+      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
       "computed_block_confidence": 0.19318923700079324,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
@@ -4237,7 +4237,7 @@
       "unit_block_conflict": {
         "unit": "unidade-01-metodos-formais",
         "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "bloco-15"
+        "block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       },
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
@@ -4550,13 +4550,13 @@
       },
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "scorer_only",
-      "computed_block_id": "bloco-16",
+      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
       "computed_block_confidence": 0.689654123444777,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=48.19",
         "topic_score=1.35",
-        "herdada_do_bloco=bloco-16"
+        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
       "unit_match_confidence": 0.299829666760005,
       "unit_block_conflict": {},
@@ -4683,13 +4683,13 @@
       },
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "scorer_only",
-      "computed_block_id": "bloco-16",
+      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
       "computed_block_confidence": 0.5528441545273258,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=31.85",
         "topic_score=0.60",
-        "herdada_do_bloco=bloco-16"
+        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
       "unit_match_confidence": 0.622290643762441,
       "unit_block_conflict": {},
@@ -4804,13 +4804,13 @@
       },
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "scorer_only",
-      "computed_block_id": "bloco-16",
+      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
       "computed_block_confidence": 0.4399516536644331,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=20.94",
         "topic_score=0.96",
-        "herdada_do_bloco=bloco-16"
+        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
       "unit_match_confidence": 0.18722495568730535,
       "unit_block_conflict": {},
@@ -4909,14 +4909,14 @@
       "file_count": 7,
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-16",
+      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
       "computed_block_confidence": 0.37217647058823533,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-16"
+        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
       "unit_match_confidence": 0.5823086847784936,
       "unit_block_conflict": {},
@@ -4925,11 +4925,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.9714285714285714,
-      "computed_block_rationale": "Demonstra lógica de programas e orientação a objetos em Dafny, focando em conceitos fundamentais de classes e contratos.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (classes, parte 1)",
       "posting_date": "2026-05-31",
-      "posting_date_created": "2026-05-31"
+      "posting_date_created": "2026-05-31",
+      "computed_block_rationale": "Demonstra lógica de programas e orientação a objetos em Dafny, focando em conceitos fundamentais de classes e contratos.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "colecoes-arrays",
@@ -5017,14 +5017,14 @@
       "file_count": 8,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-13"
+        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
       "unit_match_confidence": 0.5823086847784936,
       "unit_block_conflict": {},
@@ -5033,11 +5033,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "O código introduz tipos de dados indutivos simples através de `datatype`, alinhando-se com o tema de conjuntos indutivos.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (Arrays)",
       "posting_date": "2026-05-18",
-      "posting_date_created": "2026-05-18"
+      "posting_date_created": "2026-05-18",
+      "computed_block_rationale": "O código introduz tipos de dados indutivos simples através de `datatype`, alinhando-se com o tema de conjuntos indutivos.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "colecoes-conjuntos",
@@ -5113,14 +5113,14 @@
       "file_count": 6,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-13"
+        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
       "unit_match_confidence": 0.38546551368866555,
       "unit_block_conflict": {},
@@ -5129,11 +5129,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "Este exemplo introduz a definição de tipos de dados indutivos via datatype, um conceito fundamental em linguagens como Dafny, alinhado com 'conjuntos indutivos'.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (Conjuntos e sequencias)",
       "posting_date": "2026-05-24",
-      "posting_date_created": "2026-05-24"
+      "posting_date_created": "2026-05-24",
+      "computed_block_rationale": "Este exemplo introduz a definição de tipos de dados indutivos via datatype, um conceito fundamental em linguagens como Dafny, alinhado com 'conjuntos indutivos'.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "colecoes-sequences",
@@ -5197,14 +5197,14 @@
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-13"
+        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
       "unit_match_confidence": 0.5823086847784936,
       "unit_block_conflict": {},
@@ -5213,11 +5213,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "Este exemplo introduz a definição de tipos indutivos simples utilizando 'datatype' em Dafny, que se alinha com a temática de conjuntos indutivos.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (Sequencias)",
       "posting_date": "2026-05-21",
-      "posting_date_created": "2026-05-21"
+      "posting_date_created": "2026-05-21",
+      "computed_block_rationale": "Este exemplo introduz a definição de tipos indutivos simples utilizando 'datatype' em Dafny, que se alinha com a temática de conjuntos indutivos.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "exercicios-conjuntos",
@@ -5287,14 +5287,14 @@
       "file_count": 5,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-13",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-03"
+        "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
       "unit_match_confidence": 0.38546551368866555,
       "unit_block_conflict": {},
@@ -5303,11 +5303,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "O código exemplifica o uso de pré e pós-condições para verificar a modificação de arrays em Dafny, alinhando-se com a lógica de programas e coleções.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Respostas",
       "posting_date": "2026-06-08",
-      "posting_date_created": "2026-06-08"
+      "posting_date_created": "2026-06-08",
+      "computed_block_rationale": "O código exemplifica o uso de pré e pós-condições para verificar a modificação de arrays em Dafny, alinhando-se com a lógica de programas e coleções.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "hoare",
@@ -5390,7 +5390,7 @@
       "file_count": 7,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-10",
+      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -5398,7 +5398,7 @@
         "topic_score=0.60",
         "tag_boost=1.50",
         "ambiguous",
-        "herdada_do_bloco=bloco-10"
+        "herdada_do_bloco=171a1a09-a72d-490d-b4d8-5843cfb301b4"
       ],
       "unit_match_confidence": 0.033819574986547,
       "unit_block_conflict": {},
@@ -5407,11 +5407,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "Os exemplos demonstram a aplicação da lógica de Hoare para verificar a correção parcial de programas com loops através de invariantes, além de abordar a terminação e a introdução a tipos de dados e funções em Dafny.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (Logica de Floyd-Hoare)",
       "posting_date": "2026-05-11",
-      "posting_date_created": "2026-05-11"
+      "posting_date_created": "2026-05-11",
+      "computed_block_rationale": "Os exemplos demonstram a aplicação da lógica de Hoare para verificar a correção parcial de programas com loops através de invariantes, além de abordar a terminação e a introdução a tipos de dados e funções em Dafny.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "introducao-zip",
@@ -5482,7 +5482,7 @@
       "file_count": 5,
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
       "computed_block_confidence": 0.3333333333333335,
       "computed_block_band": "media",
       "unit_match_reasons": [
@@ -5494,18 +5494,18 @@
       "unit_block_conflict": {
         "unit": "unidade-03-verificacao-de-modelos",
         "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "bloco-12"
+        "block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3"
       },
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
       "subunit_match_reasons": [
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
-      "computed_block_rationale": "O arquivo introduz conceitos fundamentais de funções e predicados em Dafny, alinhado com uma introdução à linguagem e seus mecanismos básicos.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (introducao a Dafny)",
       "posting_date": "2026-05-11",
-      "posting_date_created": "2026-05-11"
+      "posting_date_created": "2026-05-11",
+      "computed_block_rationale": "O arquivo introduz conceitos fundamentais de funções e predicados em Dafny, alinhado com uma introdução à linguagem e seus mecanismos básicos.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "invariantes",
@@ -5571,7 +5571,7 @@
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "consensus",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -5585,11 +5585,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.7928571428571429,
-      "computed_block_rationale": "O código introduz tipos indutivos (datatypes) e predicados, que são conceitos fundamentais abordados em conjuntos indutivos.",
-      "computed_block_match_confidence": 0.75,
       "moodle_label": "Exemplos (invariantes de laco)",
       "posting_date": "2026-05-11",
-      "posting_date_created": "2026-05-11"
+      "posting_date_created": "2026-05-11",
+      "computed_block_rationale": "O código introduz tipos indutivos (datatypes) e predicados, que são conceitos fundamentais abordados em conjuntos indutivos.",
+      "computed_block_match_confidence": 0.75
     },
     {
       "id": "terminacao",
@@ -5654,13 +5654,13 @@
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-11",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.5000000000000002,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=4.18",
         "topic_score=0.60",
-        "herdada_do_bloco=bloco-11"
+        "herdada_do_bloco=c9f5f7cf-3477-4531-be7a-f7b68727009c"
       ],
       "unit_match_confidence": 0.5712804623621544,
       "unit_block_conflict": {},
@@ -5669,11 +5669,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.7928571428571429,
-      "computed_block_rationale": "O arquivo exemplifica a definição de tipos indutivos (datatypes), um tópico fundamental em conjuntos e equações recursivas.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos (Terminacao)",
       "posting_date": "2026-05-11",
-      "posting_date_created": "2026-05-11"
+      "posting_date_created": "2026-05-11",
+      "computed_block_rationale": "O arquivo exemplifica a definição de tipos indutivos (datatypes), um tópico fundamental em conjuntos e equações recursivas.",
+      "computed_block_match_confidence": 0.6
     },
     {
       "id": "tiposindutivos",
@@ -5732,14 +5732,14 @@
       "file_count": 3,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "consensus",
-      "computed_block_id": "bloco-04",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.7,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "herdada_do_bloco=bloco-04"
+        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
       "unit_match_confidence": 0.5823086847784936,
       "unit_block_conflict": {},
@@ -5748,11 +5748,11 @@
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.9714285714285714,
-      "computed_block_rationale": "O material aborda diretamente a definição e uso de tipos indutivos, que são um tópico central em 'Conjuntos indutivos e equações recursivas'.",
-      "computed_block_match_confidence": 0.75,
       "moodle_label": "Exemplos (Tipos Indutivos)",
       "posting_date": "2026-05-31",
-      "posting_date_created": "2026-05-31"
+      "posting_date_created": "2026-05-31",
+      "computed_block_rationale": "O material aborda diretamente a definição e uso de tipos indutivos, que são um tópico central em 'Conjuntos indutivos e equações recursivas'.",
+      "computed_block_match_confidence": 0.75
     },
     {
       "id": "exemplos-zip",
@@ -5793,7 +5793,7 @@
       "file_count": 0,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "llm_only",
-      "computed_block_id": "bloco-12",
+      "computed_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
@@ -5807,11 +5807,11 @@
         "winner_score=11.74"
       ],
       "subunit_match_confidence": 0.34116384450274273,
-      "computed_block_rationale": "O material é focado na introdução à verificação de programas e conceitos de terminação em Dafny, alinhando-se diretamente com este bloco do cronograma.",
-      "computed_block_match_confidence": 0.6,
       "moodle_label": "Exemplos NuSMV",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "computed_block_rationale": "O material é focado na introdução à verificação de programas e conceitos de terminação em Dafny, alinhando-se diretamente com este bloco do cronograma.",
+      "computed_block_match_confidence": 0.6
     }
   ],
   "logs": [
@@ -7196,7 +7196,7 @@
       "file_count": 0
     }
   ],
-  "updated_at": "2026-06-17T09:59:50",
+  "updated_at": "2026-06-21T14:39:37",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",

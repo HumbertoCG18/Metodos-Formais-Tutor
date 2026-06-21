@@ -19,11 +19,6 @@ effective_profile: "scanned"
 
 Descrições preservadas para imagens detectadas no documento, mas sem referência markdown compatível no corpo principal.
 
-<!-- IMAGE_DESCRIPTION: page-001.jpg -->
-<!-- Tipo: extração-latex -->
-> **[LaTeX extraído]** EQUAÇÕES RECURSIVAS 1 (1) a) SOMA: $\mathbb{N} \times \mathbb{N} \to \mathbb{N}$ PRE: T POS: $\text{SOMA}(x, y) = x + y$ $$ \begin{cases} \text{SOMA}(0, y) = y \\ \text{SOMA}(x+1, y) = \text{SOMA}(x, y) + 1 \end{cases}...
-<!-- /IMAGE_DESCRIPTION -->
-
 <!-- IMAGE_DESCRIPTION: page-002.jpg -->
 <!-- Tipo: extração-latex -->
 > **[LaTeX extraído]** 11 FIB: $\mathbb{N} \to \mathbb{N}$ $$ \begin{cases} FIB(0) = 0 \\ FIB(1) = 1 \\ FIB(m) = FIB(m-2) + FIB(m-1), & \text{se } m \geq 2 \end{cases} $$ e) $DIV: \mathbb{N} \times \mathbb{N} \to \mathbb{N}$ PRÉ: $y > 0$...

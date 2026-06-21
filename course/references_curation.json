@@ -1,0 +1,42 @@
+{
+  "entries": {
+    "eth2": {
+      "ref_summary": "Este repositório apresenta uma especificação formal do Ethereum 2.0 (Eth2.0) utilizando a linguagem de programação Dafny, que permite verificação. O objetivo é criar uma especificação não ambígua e funcional, implementá-la para demonstrar sua consistência e, crucialmente, provar formalmente que a implementação satisfaz a especificação através de provas matemáticas. Esta abordagem visa reduzir a ocorrência de bugs e vulnerabilidades de segurança, fornecendo um código comprovadamente correto para a cadeia Beacon do Eth2.0. O projeto serve como um recurso para desenvolver clientes, contribuir com novas provas e até gerar código-alvo verificado.",
+      "ref_concepts": [
+        "Especificação Formal",
+        "Verificação Formal",
+        "Dafny",
+        "Hoare Logic",
+        "Ethereum 2.0",
+        "Cadeia Beacon",
+        "Provas Matemáticas",
+        "SMT-solvers"
+      ],
+      "computed_ref_unit": "unidade-02-verificacao-de-programas",
+      "computed_ref_topics": [
+        "logica de hoare",
+        "pre e pos condicoes",
+        "correcao parcial e total"
+      ],
+      "content_hash": "183bb6a17e3d49a001703c5d655acef1e5fce95a",
+      "matcher_version": 1
+    },
+    "aws-encryption-sdk": {
+      "ref_summary": "O AWS Encryption SDK para Dafny implementa criptografia segura no lado do cliente, protegendo dados e chaves de criptografia. Ele utiliza chaves de criptografia de dados únicas para cada objeto, que são protegidas por chaves de encapsulamento (wrapping keys), como as do AWS Key Management Service (KMS). O SDK gera mensagens criptografadas portáteis que contêm tanto os dados quanto a chave de dados criptografada, simplificando o gerenciamento de chaves. Este recurso detalha como construir, verificar e transcompilar o SDK para runtimes como .NET e Rust, além de gerar relatórios de conformidade, auxiliando o estudante a compreender a aplicação prática da criptografia formalmente verificada.",
+      "ref_concepts": [
+        "Criptografia lado do cliente",
+        "Chave de criptografia de dados",
+        "Chave de encapsulamento",
+        "AWS Key Management Service (KMS)",
+        "Dafny",
+        "Verificação formal",
+        "Transpilação",
+        "Mensagem criptografada"
+      ],
+      "computed_ref_unit": "",
+      "computed_ref_topics": [],
+      "content_hash": "b7f9679ecd5199ecafe5e81ab928085f28515655",
+      "matcher_version": 1
+    }
+  }
+}

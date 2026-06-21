@@ -1,0 +1,78 @@
+{
+ "Bibliografia-Livros": {
+  "block_ids": [],
+  "source": "manual"
+ },
+ "Especificações Indutivas e Recursivas": {
+  "block_ids": [
+   "bloco-04"
+  ],
+  "source": "manual"
+ },
+ "Exercícios de Revisão para Provas": {
+  "block_ids": [
+   "bloco-07"
+  ],
+  "source": "manual"
+ },
+ "Provas por Indução": {
+  "block_ids": [
+   "bloco-05",
+   "bloco-06"
+  ],
+  "source": "manual"
+ },
+ "Revisão - Lógica e Especificação": {
+  "block_ids": [
+   "bloco-02",
+   "bloco-03"
+  ],
+  "source": "manual"
+ },
+ "Introdução a Métodos Formais": {
+  "block_ids": [
+   "bloco-01",
+   "bloco-02"
+  ],
+  "source": "labels",
+  "format": "A",
+  "dates": [
+   "2026-03-02",
+   "2026-03-04"
+  ]
+ },
+ "Verificação de Programas": {
+  "block_ids": [
+   "bloco-10",
+   "bloco-11",
+   "bloco-12",
+   "bloco-13",
+   "bloco-14",
+   "bloco-15"
+  ],
+  "source": "labels",
+  "format": "A",
+  "dates": [
+   "2026-04-27",
+   "2026-04-29",
+   "2026-05-04",
+   "2026-05-06",
+   "2026-05-11",
+   "2026-05-13",
+   "2026-05-18",
+   "2026-05-20",
+   "2026-05-25",
+   "2026-05-27",
+   "2026-06-01",
+   "2026-06-03",
+   "2026-06-08",
+   "2026-06-10"
+  ],
+  "assign_due": "2026-06-10"
+ },
+ "TDE Trabalho Discente Efetivo": {
+  "block_ids": [],
+  "source": "labels",
+  "assign_due": "2026-05-06"
+ }
+}
