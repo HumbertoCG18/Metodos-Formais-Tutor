@@ -1,48 +1,47 @@
 ---
 entry_id: "exercicio4"
-title: "exercicios_conjuntos\\exercicio4.dfy"
+title: "exercicios_arrays\\exercicio4.dfy"
 language: "dafny"
 category: "codigo-professor"
 unit: ""
 source: "raw/code/professor/exercicio4.dfy"
 ---
-# exercicios_conjuntos\exercicio4.dfy
+# exercicios_arrays\exercicio4.dfy
 
 > **Linguagem:** dafny
-> Extraído de: Exercicios Conjuntos
+> Extraído de: exercicios_arrays
 
 ```dafny
-method TrocaElementos(a: array<int>, i: int, j: int)
-  //precondição para índices válidos no array
-  requires 0 <= i < j < a.Length
-  //frame de escrita para indicar alteração no array
-  modifies a
-  //poscondição para indicar que a quantidade de cada elemento do array não mudou
-  //ensures multiset(old(a[..])) == multiset(a[..])
-  //poscondição para indicar a mudança de posição entre i e j
-  ensures a[j] == old(a[i]) && a[i] == old(a[j])
-  //poscondição para indicar que as demais posições permanecem as mesmas
-  ensures forall k :: 0 <= k < a.Length && k !in {i, j} ==> a[k] == old(a[k])
+ghost function Product(a: array<int>): int
+  reads a
 {
-  a[i], a[j] := a[j], a[i];
+  ProductAux(a, 0, a.Length-1)
 }
 
-method Main()
+ghost function ProductAux(a: array<int>, from: nat, to: int): int
+  requires to < a.Length
+  reads a
 {
-  /*
-  var a := new int[3];
-  a[0], a[1], a[2] := 1, 2, 3;
-  ghost var antes := a;
-  TrocaElementos(a,0,2);
-  assert multiset(antes[..]) == multiset(a[..]);
-  assert a[0] == 3;
-  assert a[1] == 2;
-  assert a[2] == 1;
-  */
-  var a := new int[] [1,2,3,4,5];
-  assert a[..] == [1,2,3,4,5];
-  TrocaElementos(a,0,3);
-  assert a[..] == [4,2,3,1,5];
+  if from > to
+  then 1
+  else if from == to
+       then a[to]
+       else a[to] * ProductAux(a, from, to-1)
+}
+
+method ProductImpl(a: array<int>) returns (p:int)
+  requires a.Length > 0
+  ensures p == Product(a)
+{
+  p := 1;
+  var i := 0;
+  while i < a.Length
+    invariant 0 <= i <= a.Length
+    invariant p == ProductAux(a, 0, i-1)
+  {
+    p := p * a[i];
+    i := i + 1;
+  }
 }
 
 ```

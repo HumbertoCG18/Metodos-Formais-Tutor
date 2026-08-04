@@ -384,37 +384,61 @@
       }
     },
     "exercicios-conjuntos": {
-      "content_hash": "73e626de2480770adcda2dd7af17654556d4c77d",
+      "content_hash": "1be9f15328a7af0ffcee7cfcd2d3dd85499cd509",
       "matcher_version": 2,
       "model": "gemini-2.5-flash",
-      "generated_at": "2026-06-16T21:16:35",
+      "generated_at": "2026-06-28T17:46:35",
       "summary": {
-        "inferred_title": "Inserção de Elemento em Array com Verificação de Pós-condição",
+        "inferred_title": "Verificação de métodos em Dafny para manipulação de arrays e sequências",
         "language": "dafny",
         "pedagogical_role": "exemplo_demonstrativo",
         "concepts": [
+          "invariante de laço",
           "pré-condição",
           "pós-condição",
-          "frame de escrita",
-          "multiset",
-          "arrays em Dafny",
-          "asserção"
+          "arrays",
+          "sequências",
+          "multisets",
+          "predicado ghost",
+          "função ghost",
+          "verificação de programas",
+          "lógica de Hoare",
+          "algoritmos de busca",
+          "algoritmos de ordenação"
         ],
-        "summary": "Este código demonstra como especificar e verificar a inserção de um elemento em uma posição específica de um array em Dafny, utilizando pré-condições, pós-condições e asserções que envolvem multiset para garantir a correção da operação.",
+        "summary": "Este bundle de exemplos em Dafny demonstra a verificação formal de diversos algoritmos fundamentais, como encontrar o máximo em um array, verificar permutação de sequências, calcular o produto de elementos e implementar busca binária e Bubble Sort. Os exemplos utilizam intensivamente pré e pós-condições, invariantes de laço, e funções/predicados ghost para provar a correção dos programas.",
         "files": [
           {
-            "name": "exercicio2.dfy",
-            "role": "exemplo de código"
+            "name": "exercicios_conjuntos\\exercicio2.dfy",
+            "role": "implementação verificada"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio3b.dfy",
+            "role": "implementação verificada"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio4.dfy",
+            "role": "implementação verificada"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio5.dfy",
+            "role": "implementação verificada"
+          },
+          {
+            "name": "exercicios_conjuntos\\exercicio5b.dfy",
+            "role": "implementação verificada"
           }
         ],
-        "suggested_block_id": "bloco-13",
+        "suggested_block_id": "bloco-11",
         "suggested_secondary_ids": [
-          "bloco-11"
+          "bloco-13",
+          "bloco-15"
         ],
-        "match_rationale": "O código exemplifica o uso de pré e pós-condições para verificar a modificação de arrays em Dafny, alinhando-se com a lógica de programas e coleções.",
-        "primary_block_id": "bloco-13",
+        "match_rationale": "Os exemplos demonstram a aplicação de invariantes de laço, pré/pós-condições e o uso de funções/predicados ghost para provar a correção de algoritmos em Dafny, alinhando-se diretamente aos tópicos de correção parcial e total de programas.",
+        "primary_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
         "secondary_block_ids": [
-          "bloco-11"
+          "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
+          "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
         ],
         "block_match_confidence": 0.6,
         "block_match_method": "llm_only"
@@ -674,6 +698,108 @@
         ],
         "block_match_confidence": 0.6,
         "block_match_method": "llm_only"
+      }
+    },
+    "classes-parte2": {
+      "content_hash": "25e3f9d9d8bee2a6d2d3292ff7519cc6b1e4ea3c",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-28T17:46:44",
+      "summary": {
+        "inferred_title": "Implementação Verificada de Árvore Binária de Busca com Abstração",
+        "language": "dafny",
+        "pedagogical_role": "exemplo_demonstrativo",
+        "concepts": [
+          "Árvore Binária de Busca (ABB)",
+          "Invariantes de Classe",
+          "Funções Abstratas (ghost variables)",
+          "Tripleto de Hoare Estendido",
+          "Encapsulamento",
+          "Relação de Abstração",
+          "Conjuntos (set)",
+          "Mapas (map)"
+        ],
+        "summary": "Este código Dafny demonstra a implementação e verificação de uma Árvore Binária de Busca. Ele foca na utilização de variáveis 'ghost' e predicados para definir a função de abstração e os invariantes de classe, garantindo a correção das operações de busca e adição.",
+        "files": [
+          {
+            "name": "classes_parte2\\ArvoreBinariaBusca.dfy",
+            "role": "implementacao_e_verificacao_abb"
+          }
+        ],
+        "suggested_block_id": "bloco-15",
+        "suggested_secondary_ids": [
+          "bloco-04",
+          "bloco-13"
+        ],
+        "match_rationale": "O material exemplifica a lógica de programas e verificação com Dafny, utilizando conceitos de orientação a objetos, variáveis ghost e abstração para uma estrutura de dados complexa.",
+        "primary_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
+        "secondary_block_ids": [
+          "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+          "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        ],
+        "block_match_confidence": 0.6,
+        "block_match_method": "llm_only"
+      }
+    },
+    "exercicios-arrays": {
+      "content_hash": "68f9da5fa03ec279db2c75c374894c9d79922b0c",
+      "matcher_version": 2,
+      "model": "gemini-2.5-flash",
+      "generated_at": "2026-06-28T17:46:52",
+      "summary": {
+        "inferred_title": "Verificação Formal de Algoritmos em Arrays com Dafny",
+        "language": "dafny",
+        "pedagogical_role": "exercicio_resolvido",
+        "concepts": [
+          "Arrays em Dafny",
+          "Pré-condições e Pós-condições",
+          "Invariantes de Laço",
+          "Funções Ghost",
+          "Predicados Ghost",
+          "Verificação de Programas",
+          "Busca Binária",
+          "Especificação de Modificação de Estado"
+        ],
+        "summary": "Este bundle de exercícios resolvidos em Dafny demonstra a especificação e verificação formal de algoritmos comuns em arrays. Ele aborda a aplicação de pré-condições, pós-condições, invariantes de laço e funções/predicados ghost para provar a correção de métodos como busca do maior elemento, cálculo de produto, verificação de ordenação e busca binária. O material reforça conceitos de lógica de programas aplicados a estruturas de dados.",
+        "files": [
+          {
+            "name": "exercicios_arrays\\exercicio2.dfy",
+            "role": "Encontra índice do maior elemento"
+          },
+          {
+            "name": "exercicios_arrays\\exercicio2b.dfy",
+            "role": "Encontra valor máximo do array"
+          },
+          {
+            "name": "exercicios_arrays\\exercicio3.dfy",
+            "role": "Predicado ghost para array ordenado"
+          },
+          {
+            "name": "exercicios_arrays\\exercicio4.dfy",
+            "role": "Função ghost e implementação para produto de array"
+          },
+          {
+            "name": "exercicios_arrays\\exercicio5.dfy",
+            "role": "Implementação e verificação de busca binária"
+          },
+          {
+            "name": "exercicios_arrays\\exercicio6.dfy",
+            "role": "Incrementa todos os elementos de um array"
+          }
+        ],
+        "suggested_block_id": "bloco-13",
+        "suggested_secondary_ids": [
+          "bloco-11",
+          "bloco-10"
+        ],
+        "match_rationale": "O conteúdo foca na aplicação de lógica de programas e verificação com Dafny para manipular e provar propriedades de arrays, alinhando-se com coleções e lógica de programas.",
+        "primary_block_id": "bloco-15",
+        "secondary_block_ids": [
+          "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
+          "c9f5f7cf-3477-4531-be7a-f7b68727009c"
+        ],
+        "block_match_confidence": 0.5,
+        "block_match_method": "auto_concept"
       }
     }
   }

@@ -63,16 +63,10 @@ _Sem códigos vinculados a esta aula._
 
 ### Códigos desta aula
 
-- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
-  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
-  - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
 
-- Definição de Árvores Binárias e Prova por Indução em Isabelle/HOL (`arvores.thy`)
-- Definição Recursiva de Concatenação de Listas e Prova de Associatividade em Isabelle (`listas.thy`)
-- Demonstração de propriedades indutivas e funções em Isabelle/HOL (`provas.thy`)
-- Verificação Formal de Programas com Dafny: Fundamentos, Tipos Indutivos, Terminação e Lógica de Hoare (`hoare.zip`)
+- Implementação Verificada de Árvore Binária de Busca com Abstração (`classes_parte2.zip`)
 
 ---
 
@@ -175,7 +169,7 @@ _Sem códigos vinculados a esta aula._
 
 ## 3 dias · 27/04/2026 a 04/05/2026 — Lógica de Hoare
 
-**Unidade**: unidade-01-metodos-formais
+**Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica hoare
 
 ### Sessões
@@ -216,8 +210,7 @@ _Sem códigos vinculados a esta aula._
 
 **Também relevante** (outras aulas como contexto):
 
-- Inserção de Elemento em Array com Verificação de Pós-condição (`exercicios_conjuntos.zip`)
-- Exemplos Introdutórios de Programas Verificados com Dafny (`exemplos.zip`)
+- Verificação Formal de Algoritmos em Arrays com Dafny (`exercicios_arrays.zip`)
 
 ---
 
@@ -234,9 +227,6 @@ _Sem códigos vinculados a esta aula._
 
 - **Funções e Predicados Básicos com Transparência em Dafny** (`introducao.zip`)
   - Conceitos: função recursiva, predicado, tipo nat, transparência
-  - Papel: exemplo_demonstrativo
-- **Exemplos Introdutórios de Programas Verificados com Dafny** (`exemplos.zip`)
-  - Conceitos: Lógica de Hoare, pré-condição, pós-condição, invariante de laço
   - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
@@ -272,14 +262,12 @@ _Sem códigos vinculados a esta aula._
 - **Definição de Tipos Indutivos Simples (Datatype) em Dafny** (`colecoes_sequences.zip`)
   - Conceitos: datatype, tipo indutivo, verificação de propriedades, predicado
   - Papel: exemplo_demonstrativo
-- **Inserção de Elemento em Array com Verificação de Pós-condição** (`exercicios_conjuntos.zip`)
-  - Conceitos: pré-condição, pós-condição, frame de escrita, multiset
-  - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
 
-- Definição básica de classe e métodos em Dafny (`classes_parte1.zip`)
-- Definição de Tipos Indutivos Simples (Datatype) em Dafny (`colecoes_sequences.zip`)
+- Verificação de métodos em Dafny para manipulação de arrays e sequências (`exercicios_conjuntos.zip`)
+- Implementação Verificada de Árvore Binária de Busca com Abstração (`classes_parte2.zip`)
+- Verificação Formal de Algoritmos em Arrays com Dafny (`exercicios_arrays.zip`)
 
 ---
 
@@ -307,13 +295,33 @@ _Sem códigos vinculados a esta aula._
 - **seg 08/06** — logica de programas orientacao a objetos dafny ghosts autocontrato aula
 - **qua 10/06** — exercicios aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+- **Definição básica de classe e métodos em Dafny** (`classes_parte1.zip`)
+  - Conceitos: Classes, Objetos, Campos, Métodos
+  - Papel: exemplo_demonstrativo
+- **Verificação de métodos em Dafny para manipulação de arrays e sequências** (`exercicios_conjuntos.zip`)
+  - Conceitos: invariante de laço, pré-condição, pós-condição, arrays
+  - Papel: exemplo_demonstrativo
+- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
+  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
+  - Papel: exemplo_demonstrativo
+- **Implementação Verificada de Árvore Binária de Busca com Abstração** (`classes_parte2.zip`)
+  - Conceitos: Árvore Binária de Busca (ABB), Invariantes de Classe, Funções Abstratas (ghost variables), Tripleto de Hoare Estendido
+  - Papel: exemplo_demonstrativo
+- **Verificação Formal de Algoritmos em Arrays com Dafny** (`exercicios_arrays.zip`)
+  - Conceitos: Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost
+  - Papel: exercicio_resolvido
+
+**Também relevante** (outras aulas como contexto):
+
+- Verificação de métodos em Dafny para manipulação de arrays e sequências (`exercicios_conjuntos.zip`)
 
 ---
 
 ## 5 dias · 15/06/2026 a 29/06/2026 — Verificação de Modelos (Model Checking)
 
-**Unidade**: unidade-03-verificacao-de-modelos
+**Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: verificacao modelos logica temporal, verificacao modelos ferramenta
 
 ### Sessões
@@ -324,26 +332,26 @@ _Sem códigos vinculados a esta aula._
 - **qua 24/06** — verificacao de modelos ferramenta aula
 - **seg 29/06** — exercicios aula
 
-### Códigos desta aula
-
-- **Definição básica de classe e métodos em Dafny** (`classes_parte1.zip`)
-  - Conceitos: Classes, Objetos, Campos, Métodos
-  - Papel: exemplo_demonstrativo
+_Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 01/07/2026 — Conteúdo: unidade-02-verificacao-de-programas, unidade-03-verificacao-de-modelos
+## 1 dia · 01/07/2026 — Conteúdo: unidade-02-verificacao-de-programas
 
 
 ### Sessões
 
 - **qua 01/07** — exercicios de revisao aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+- **Exemplos Introdutórios de Programas Verificados com Dafny** (`exemplos.zip`)
+  - Conceitos: Lógica de Hoare, pré-condição, pós-condição, invariante de laço
+  - Papel: exemplo_demonstrativo
 
 ---
 
-## 1 dia · 06/07/2026 — Conteúdo: unidade-02-verificacao-de-programas, unidade-03-verificacao-de-modelos
+## 1 dia · 06/07/2026 — Conteúdo: unidade-02-verificacao-de-programas
 
 
 ### Sessões
@@ -378,7 +386,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 15/07/2026 — Conteúdo: unidade-01-metodos-formais, unidade-02-verificacao-de-programas, unidade-03-verificacao-de-modelos
+## 1 dia · 15/07/2026 — Conteúdo: unidade-01-metodos-formais, unidade-02-verificacao-de-programas
 
 
 ### Sessões

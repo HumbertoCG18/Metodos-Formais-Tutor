@@ -17,10 +17,12 @@
 | Definição de Tipos Indutivos Simples (Datatype) em Dafny | dafny | datatype, tipos indutivos, predicados, imutabilidade | `colecoes_arrays.zip` |
 | Definição e Uso de Tipos Indutivos Simples (Datatype) em Dafny | dafny | datatype, tipo indutivo, construtores, predicados | `colecoes_conjuntos.zip` |
 | Definição de Tipos Indutivos Simples (Datatype) em Dafny | dafny | datatype, tipo indutivo, verificação de propriedades, predicado | `colecoes_sequences.zip` |
-| Inserção de Elemento em Array com Verificação de Pós-condição | dafny | pré-condição, pós-condição, frame de escrita, multiset | `exercicios_conjuntos.zip` |
+| Verificação de métodos em Dafny para manipulação de arrays e sequências | dafny | invariante de laço, pré-condição, pós-condição, arrays | `exercicios_conjuntos.zip` |
 | Verificação Formal de Programas com Dafny: Fundamentos, Tipos Indutivos, Terminação e Lógica de Hoare | dafny | Verificação formal, Lógica de Hoare, Pré-condições e Pós-condições, Invariantes de laço | `hoare.zip` |
 | Funções e Predicados Básicos com Transparência em Dafny | dafny | função recursiva, predicado, tipo nat, transparência | `introducao.zip` |
 | Definição e uso de tipos indutivos simples e predicados em Dafny | dafny | datatype, tipo indutivo, predicate, instanciação de tipo | `invariantes.zip` |
 | Definição e Uso de Tipos Indutivos Simples (Datatypes) em Dafny | dafny | datatype, tipo indutivo, enumeração, predicado | `terminacao.zip` |
 | Definição de Tipos Indutivos Simples e Predicados em Dafny | dafny | tipo de dados indutivo, datatype, construtor de tipo, predicate | `tiposindutivos.zip` |
 | Exemplos Introdutórios de Programas Verificados com Dafny | Dafny | Lógica de Hoare, pré-condição, pós-condição, invariante de laço | `exemplos.zip` |
+| Implementação Verificada de Árvore Binária de Busca com Abstração | dafny | Árvore Binária de Busca (ABB), Invariantes de Classe, Funções Abstratas (ghost variables), Tripleto de Hoare Estendido | `classes_parte2.zip` |
+| Verificação Formal de Algoritmos em Arrays com Dafny | dafny | Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost | `exercicios_arrays.zip` |

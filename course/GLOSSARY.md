@@ -28,31 +28,31 @@
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2. Linguagens de Especificação e Lógicas
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Linguagens de Especificação e Lógicas - 1.2.1.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.1. Fundamentos de Lógica de Primeira Ordem
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Fundamentos de Lógica de Primeira Ordem - 1.2.2.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.2. Especificação de Conjuntos Indutivos
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Especificação de Conjuntos Indutivos {1}------------------------------------------------ - 1.2.3.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.3. Especificação de Funções Recursivas
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Especificação de Funções Recursivas - 1.3.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.3. Abordagens para Verificação Formal
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Abordagens para Verificação Formal - 1.3.1.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
@@ -64,7 +64,7 @@
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.3.2. Verificação de Programas
-**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Especificação e verificação de modelos e programas.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
@@ -94,7 +94,7 @@
 **Aparece em:** Unidade 02 — Verificação de Programas
 
 ## 2.1.2. Correção Parcial e Total
-**Definição:** Existem duas definições para correção: - Correção parcial; - Correção total.
+**Definição:** Conceito central de verificação de programas que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 02 — Verificação de Programas
@@ -112,7 +112,7 @@
 **Aparece em:** Unidade 02 — Verificação de Programas
 
 ## 2.2. Softwares de Suporte à Verificação Formal de Programas
-**Definição:** Conceito central de verificação de programas que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Softwares de Suporte à Verificação Formal de Programas Nº.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 02 — Verificação de Programas
@@ -130,7 +130,7 @@
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.2. Fundamentos de Lógicas Temporais
-**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Fundamentos de Lógicas Temporais - 3.2.1.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos
@@ -148,13 +148,13 @@
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.3. Especificação de Propriedades para Sistemas Sequenciais e Concorrentes
-**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Especificação de Propriedades para Sistemas Sequenciais e Concorrentes - 3.4.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.4. Softwares de Suporte à Verificação Formal de Modelos
-**Definição:** Sumário MÉTODOS FORMAIS --- VERIFICAÇÃO DE MODELOS Introdução Introdução Introdução Introdução Introdução.
+**Definição:** Softwares de Suporte à Verificação Formal de Programas Nº.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos

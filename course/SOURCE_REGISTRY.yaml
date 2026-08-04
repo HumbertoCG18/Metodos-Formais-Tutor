@@ -600,3 +600,73 @@ sources:
     effective_profile: auto
     include_in_bundle: true
     professor_signal: ""
+  - id: exerciciosformalizacaoalgoritmosrecursao3-respostas
+    title: "ExerciciosFormalizacaoAlgoritmosRecursao3_respostas"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Especificações Indutivas e Recursivas\\ExerciciosFormalizacaoAlgoritmosRecursao3_respostas.pdf"
+    raw_target: "raw/pdfs/listas/exerciciosformalizacaoalgoritmosrecursao3-respostas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: plano
+    title: "plano"
+    category: cronograma
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Plano de Ensino\\plano.pdf"
+    raw_target: "raw/pdfs/cronograma/plano.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: t2-2026-1
+    title: "t2_2026_1"
+    category: trabalhos
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\TDE Trabalho Discente Efetivo\\t2_2026_1.pdf"
+    raw_target: "raw/pdfs/trabalhos/t2-2026-1.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: classes-parte2
+    title: "classes_parte2"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\classes_parte2.zip"
+    raw_target: "raw/zip/classes-parte2.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: exercicios-arrays
+    title: "exercicios_arrays"
+    category: codigo-professor
+    file_type: zip
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\exercicios_arrays.zip"
+    raw_target: "raw/zip/exercicios-arrays.zip"
+    processing_mode: high_fidelity
+    effective_profile: auto
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicadehoare1-exercicios-respostas
+    title: "LogicaDeHoare1_exercicios_respostas"
+    category: listas
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare1_exercicios_respostas.pdf"
+    raw_target: "raw/pdfs/listas/logicadehoare1-exercicios-respostas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""
+  - id: logicadehoare-exercicios-respostas
+    title: "LogicaDeHoare_exercicios_respostas"
+    category: gabaritos
+    file_type: pdf
+    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare_exercicios_respostas.pdf"
+    raw_target: "raw/pdfs/gabaritos/logicadehoare-exercicios-respostas.pdf"
+    processing_mode: high_fidelity
+    effective_profile: math_heavy
+    include_in_bundle: true
+    professor_signal: ""

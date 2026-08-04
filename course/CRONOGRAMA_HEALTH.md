@@ -1,6 +1,6 @@
 # CRONOGRAMA_HEALTH — Curso
 
-- **Cobertura de material**: 100% (58/58 com bloco)
+- **Cobertura de material**: 100% (64/64 com bloco)
 - **Órfãos** (sem bloco): 0
 
 ## Por tipo
@@ -8,32 +8,28 @@
 | Tipo | Com bloco | Total |
 |---|---|---|
 | code | 6 | 6 |
-| pdf | 40 | 40 |
+| pdf | 44 | 44 |
 | url | 1 | 1 |
-| zip | 11 | 11 |
+| zip | 13 | 13 |
 
 ## Distribuição de confiança
 
 | Faixa | Materiais |
 |---|---|
-| alta | 40 |
-| media | 8 |
-| baixa | 9 |
+| alta | 42 |
+| media | 9 |
+| baixa | 12 |
 
 ## Materiais de baixa confiança (revisar)
 
 - **logicaProposicional_sintaxe** — bloco `2edd762f-2dc8-4437-90c7-c207b796434a` (faixa media, conf 0.36, auto)
-    - candidato `bloco-10` (score 4.42)
     - candidato `bloco-13` (score 4.30)
-    - candidato `bloco-03` (score 4.06)
+    - candidato `bloco-16` (score 4.05)
+    - candidato `bloco-03` (score 4.01)
 - **revisao** — bloco `1e73625a-de3e-4c8a-87c4-d301a3138c0b` (faixa baixa, conf 0.17, auto)
-    - candidato `bloco-03` (score 4.51)
+    - candidato `bloco-03` (score 4.46)
     - candidato `bloco-07` (score 4.01)
     - candidato `bloco-17` (score 4.01)
-- **introducao** — bloco `c9f5f7cf-3477-4531-be7a-f7b68727009c` (faixa media, conf 0.27, auto)
-    - candidato `bloco-12` (score 4.41)
-    - candidato `bloco-02` (score 3.51)
-    - candidato `bloco-13` (score 2.60)
 - **T1 2026 1** — bloco `7a5e29db-f228-4e96-bd4b-272d5b74e2ae` (faixa baixa, conf 0.14, auto)
     - candidato `bloco-02` (score 2.63)
     - candidato `bloco-04` (score 2.28)
@@ -45,7 +41,7 @@
 - **intro** — bloco `5599d015-10e0-4f6e-ad17-c526b903dc09` (faixa baixa, conf 0.13, auto)
     - candidato `bloco-02` (score 3.03)
     - candidato `bloco-12` (score 1.04)
-    - candidato `bloco-03` (score 0.79)
+    - candidato `bloco-03` (score 0.74)
 - **provas** — bloco `7a5e29db-f228-4e96-bd4b-272d5b74e2ae` (faixa media, conf 0.30, auto)
     - candidato `bloco-05` (score 3.70)
     - candidato `bloco-20` (score 2.69)
@@ -55,9 +51,9 @@
     - candidato `bloco-07` (score 3.50)
     - candidato `bloco-17` (score 3.50)
 - **LogicaDeHoare** — bloco `171a1a09-a72d-490d-b4d8-5843cfb301b4` (faixa baixa, conf 0.00, auto)
-    - candidato `bloco-10` (score 9.02)
-    - candidato `bloco-13` (score 4.30)
-    - candidato `bloco-03` (score 4.06)
+    - candidato `bloco-10` (score 9.07)
+    - candidato `bloco-13` (score 5.92)
+    - candidato `bloco-16` (score 5.60)
 - **ExerciciosDafny1** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa baixa, conf 0.14, auto)
     - candidato `bloco-15` (score 4.94)
     - candidato `bloco-13` (score 4.14)
@@ -68,7 +64,7 @@
     - candidato `bloco-07` (score 3.50)
 - **ExerciciosDafny3** — bloco `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (faixa baixa, conf 0.11, auto)
     - candidato `bloco-15` (score 4.04)
-    - candidato `bloco-03` (score 4.00)
+    - candidato `bloco-03` (score 3.95)
     - candidato `bloco-07` (score 3.50)
 - **ExerciciosDafny4** — bloco `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (faixa baixa, conf 0.12, auto)
     - candidato `bloco-15` (score 4.94)
@@ -76,20 +72,40 @@
     - candidato `bloco-07` (score 3.50)
 - **ExerciciosDafny5** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa baixa, conf 0.19, auto)
     - candidato `bloco-15` (score 4.04)
-    - candidato `bloco-03` (score 4.00)
+    - candidato `bloco-03` (score 3.95)
     - candidato `bloco-07` (score 3.50)
-- **ExerciciosNusmv** — bloco `a6ac04f2-7611-4bef-b74a-54390cef4084` (faixa media, conf 0.44, auto)
-    - candidato `bloco-16` (score 4.18)
-    - candidato `bloco-07` (score 3.50)
-    - candidato `bloco-17` (score 3.50)
-- **Classes Parte1** — bloco `a6ac04f2-7611-4bef-b74a-54390cef4084` (faixa media, conf 0.37, auto)
-    - candidato `bloco-16` (score 3.13)
-    - candidato `bloco-07` (score 0.29)
-    - candidato `bloco-17` (score 0.29)
-- **Introducao** — bloco `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (faixa media, conf 0.33, auto)
+- **Classes Parte1** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa media, conf 0.28, auto)
+    - candidato `bloco-16` (score 2.49)
+    - candidato `bloco-13` (score 1.16)
+    - candidato `bloco-15` (score 1.13)
+- **Exercicios Conjuntos** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa baixa, conf 0.06, auto)
+    - candidato `bloco-07` (score 3.91)
+    - candidato `bloco-17` (score 3.91)
+    - candidato `bloco-04` (score 3.75)
+- **Terminacao** — bloco `c9f5f7cf-3477-4531-be7a-f7b68727009c` (faixa baixa, conf 0.00, auto)
+    - candidato `bloco-11` (score 4.58)
+    - candidato `bloco-12` (score 3.43)
+    - candidato `bloco-13` (score 1.87)
+- **Tiposindutivos** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa media, conf 0.28, auto)
+    - candidato `bloco-16` (score 1.19)
+    - candidato `bloco-13` (score 1.16)
+    - candidato `bloco-15` (score 1.13)
+- **Exemplos** — bloco `38383c92-9c71-4c4c-90af-ad19935e5597` (faixa media, conf 0.41, auto)
+    - candidato `bloco-02` (score 1.54)
+    - candidato `bloco-03` (score 0.74)
+    - candidato `bloco-04` (score 0.69)
+- **t2_2026_1** — bloco `1e73625a-de3e-4c8a-87c4-d301a3138c0b` (faixa media, conf 0.45, auto)
     - candidato `bloco-02` (score 2.53)
-    - candidato `bloco-12` (score 2.53)
-    - candidato `bloco-16` (score 1.84)
+    - candidato `bloco-11` (score 2.50)
+    - candidato `bloco-04` (score 2.28)
+- **classes_parte2** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa media, conf 0.28, auto)
+    - candidato `bloco-16` (score 1.19)
+    - candidato `bloco-13` (score 1.16)
+    - candidato `bloco-15` (score 1.13)
+- **exercicios_arrays** — bloco `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (faixa baixa, conf 0.06, auto)
+    - candidato `bloco-07` (score 3.91)
+    - candidato `bloco-17` (score 3.91)
+    - candidato `bloco-03` (score 3.46)
 
 ## Blocos pobres (0 materiais)
 

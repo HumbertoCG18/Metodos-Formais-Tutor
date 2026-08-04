@@ -31,8 +31,8 @@
  },
  "Introdução a Métodos Formais": {
   "block_ids": [
-   "bloco-01",
-   "bloco-02"
+   "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+   "1e73625a-de3e-4c8a-87c4-d301a3138c0b"
   ],
   "source": "labels",
   "format": "A",
@@ -43,12 +43,12 @@
  },
  "Verificação de Programas": {
   "block_ids": [
-   "bloco-10",
-   "bloco-11",
-   "bloco-12",
-   "bloco-13",
-   "bloco-14",
-   "bloco-15"
+   "171a1a09-a72d-490d-b4d8-5843cfb301b4",
+   "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+   "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
+   "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
+   "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
+   "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
   ],
   "source": "labels",
   "format": "A",
@@ -68,11 +68,290 @@
    "2026-06-08",
    "2026-06-10"
   ],
-  "assign_due": "2026-06-10"
+  "assign_due": "2026-06-10",
+  "assign_dues": [
+   {
+    "name": "Sala de Entrega (10/06)",
+    "due": "2026-06-10",
+    "source": "named"
+   }
+  ],
+  "file_dues": {
+   "ieeesoftwaredafny2017.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "leino, r. accessible software verification with dafny. ieee software, v. 34, p. 94-97, nov. dec. 2017.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "lógica de hoare (parte 1).pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "logicadehoare.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "logicadehoare2.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "lógica de hoare (parte 2).pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "lógica de hoare - exercícios (respostas 1).pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "logicadehoare1_exercicios_respostas.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "logicadehoare2_exercicios_respostas.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "lógica de hoare - exercícios (respostas 2).pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "invariantes de laço.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "formalizacaoalgoritmos_invarianteslaco.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - invariantes de laço.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosformalizacaoalgoritmosinvariantes.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosformalizacaoalgoritmosinvariantes_gabarito.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "correcaoterminacao.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "correção e terminação.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - terminação.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicioscorrecaoterminacao.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicioscorrecaoterminacao_gabarito.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "introducao.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (introdução a dafny).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (lógica de floyd-hoare).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "hoare.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "invariantes.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (invariantes de laço).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (terminação).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "terminacao.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - programação e verificação com dafny.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosdafny1.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicios_introducao.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "colecoes_arrays.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (arrays).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - arrays no dafny.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosdafny2.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicios_arrays.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (sequências).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "colecoes_sequences.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosdafny3.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - sequências no dafny.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicios_sequences.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "colecoes_conjuntos.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (conjuntos e multiconjuntos).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosdafny4.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - conjuntos e multiconjuntos no dafny.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercicios_conjuntos.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (tipos indutivos).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "tiposindutivos.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (classes, parte 1).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "classes_parte1.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exemplos (classes, parte 2).zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "classes_parte2.zip": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exerciciosdafny5.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   },
+   "exercícios - classes em dafny.pdf": {
+    "due": "2026-06-10",
+    "source": "named"
+   }
+  }
  },
  "TDE Trabalho Discente Efetivo": {
   "block_ids": [],
   "source": "labels",
-  "assign_due": "2026-05-06"
+  "assign_due": "2026-05-06",
+  "assign_dues": [
+   {
+    "name": "Sala de entrega",
+    "due": "2026-05-06",
+    "source": "structured"
+   },
+   {
+    "name": "Sala de entrega",
+    "due": "2026-07-06",
+    "source": "structured"
+   }
+  ],
+  "file_dues": {
+   "t1_2026_1.pdf": {
+    "due": "2026-05-06",
+    "source": "structured"
+   },
+   "t1_2026_1.thy": {
+    "due": "2026-05-06",
+    "source": "structured"
+   },
+   "arquivo .thy.thy": {
+    "due": "2026-05-06",
+    "source": "structured"
+   },
+   "t2_2026_1.pdf": {
+    "due": "2026-07-06",
+    "source": "structured"
+   }
+  }
+ },
+ "Especificação e Verificação de Modelos": {
+  "block_ids": [
+   "a6ac04f2-7611-4bef-b74a-54390cef4084",
+   "38383c92-9c71-4c4c-90af-ad19935e5597",
+   "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
+   "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
+   "b99568b0-fc0b-4181-bf42-043f4797c92b",
+   "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+  ],
+  "source": "labels",
+  "format": "A",
+  "dates": [
+   "2026-06-15",
+   "2026-06-17",
+   "2026-06-22",
+   "2026-06-24",
+   "2026-06-29",
+   "2026-07-01",
+   "2026-07-06",
+   "2026-07-08",
+   "2026-07-13",
+   "2026-07-15"
+  ]
  }
 }

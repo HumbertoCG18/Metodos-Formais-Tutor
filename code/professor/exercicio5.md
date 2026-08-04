@@ -1,78 +1,62 @@
 ---
 entry_id: "exercicio5"
-title: "exercicios_conjuntos\\exercicio5.dfy"
+title: "exercicios_arrays\\exercicio5.dfy"
 language: "dafny"
 category: "codigo-professor"
 unit: ""
 source: "raw/code/professor/exercicio5.dfy"
 ---
-# exercicios_conjuntos\exercicio5.dfy
+# exercicios_arrays\exercicio5.dfy
 
 > **Linguagem:** dafny
-> Extraído de: Exercicios Conjuntos
+> Extraído de: exercicios_arrays
 
 ```dafny
-ghost predicate Permutacao(a:seq<int>, b:seq<int>)
+ghost predicate sorted(a: array<int>)
+  reads a
 {
-  multiset(a) == multiset(b)
+  forall j, k :: 0 <= j < k < a.Length ==> a[j] <= a[k]
 }
 
-ghost predicate OrdenadoEntre(a:seq<int>, e:int, d:int)
-  requires 0 <= e <= d <= |a|
+method BinarySearch(a: array<int>, value: int) returns (index: int)
+  requires sorted(a)
+  ensures 0 <= index ==> index < a.Length && a[index] == value
+  ensures index < 0 ==> forall k :: 0 <= k < a.Length ==> a[k] != value
 {
-  forall i,j ::e <= i <= j < d ==> a[i] <= a[j]
-}
-
-ghost predicate Ordenado(a:seq<int>)
-{
-  OrdenadoEntre(a,0,|a|)
-}
-
-method BubbleSort(a:array<int>)
-  modifies a
-  ensures Ordenado(a[..])
-  ensures Permutacao(a[..], old(a[..]))
-{
-  if a.Length > 1
-  {
-    var i := 1;
-    while i < a.Length
-      invariant 1 <= i <= a.Length
-      invariant OrdenadoEntre(a[..],0,i)
-      invariant Permutacao(a[..], old(a[..]))
+    var low, high := 0, a.Length;
+    while low < high
+      invariant 0 <= low <= high <= a.Length
+      invariant forall i :: 0 <= i < a.Length && !(low <= i < high) ==> a[i] != value
     {
-      BubbleStep(a,i);
-      i := i + 1;
+      var mid := (low + high) / 2;
+      if a[mid] < value
+      {
+        low := mid + 1;
+      }
+      else if value < a[mid]
+      {
+        high := mid;
+      }
+      else
+      {
+        return mid;
+      }
     }
-  }
-}
-
-method BubbleStep(a:array<int>, i:int)
-  requires 0 <= i < a.Length
-  requires OrdenadoEntre(a[..],0,i)
-  modifies a
-  ensures OrdenadoEntre(a[..],0,i+1)
-  ensures Permutacao(a[..], old(a[..]))
-{
-  var j := i;
-  while j > 0 && a[j-1] > a[j]
-    invariant 0 <= j <= i
-    invariant OrdenadoEntre(a[..],0,j) && OrdenadoEntre(a[..],j,i+1)
-    invariant 1 < j+1 <= i ==> a[j-1] <= a[j+1]
-    invariant Permutacao(a[..], old(a[..]))
-  {
-    a[j-1], a[j] := a[j], a[j-1];
-    j := j - 1;
-  }
+    return -1;
 }
 
 method Main()
 {
-  var a := new int[4];
-  a[0], a[1], a[2], a[3] := 10, 1, 0, 5;
-  assert a[..] == [10,1,0,5];
-  BubbleSort(a);
-  assert a[..] == [0,1,5,10];
+  var numeros := new int[5];
+  numeros[0] := 1;
+  numeros[1] := 3;
+  numeros[2] := 4;
+  numeros[3] := 6;
+  numeros[4] := 7;
+  var resultado := BinarySearch(numeros,1);
+  assert numeros[0] == 1;
+  assert resultado >= 0;
+  assert numeros[resultado] == 1;
 }
 
 ```

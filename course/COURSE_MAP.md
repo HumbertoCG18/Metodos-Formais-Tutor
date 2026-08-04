@@ -41,6 +41,7 @@
 
 | Unidade | Período | Slug |
 |---|---|---|
-| Unidade 01 — Métodos Formais | 7 blocos · 02/03/2026 a 04/05/2026 | `unidade-01-metodos-formais` |
-| Unidade 02 — Verificação de Programas | 4 blocos · 06/05/2026 a 10/06/2026 | `unidade-02-verificacao-de-programas` |
-| Unidade 03 — Verificação de Modelos | 1 bloco · 15/06/2026 a 29/06/2026 | `unidade-03-verificacao-de-modelos` |
+| Unidade 01 — Métodos Formais | 6 blocos · 02/03/2026 a 13/04/2026 | `unidade-01-metodos-formais` |
+| Unidade 02 — Verificação de Programas | 6 blocos · 27/04/2026 a 29/06/2026 | `unidade-02-verificacao-de-programas` |
+
+> Unidades sem período explícito foram omitidas para manter o mapa enxuto.

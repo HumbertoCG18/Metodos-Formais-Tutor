@@ -24,5 +24,8 @@
 | ExerciciosDafny3 | lista | ferramenta:dafny; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
 | ExerciciosDafny4 | lista | ferramenta:dafny; tipo:lista; unit:unidade-02-verificacao-de-programas | não | média | fixação por unidade |
 | ExerciciosDafny5 | lista | ferramenta:dafny; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
-| ExerciciosLogicaTemporal | lista | ferramenta:modelos; tipo:lista; unit:unidade-03-verificacao-de-modelos | não | média | fixação por unidade |
+| ExerciciosLogicaTemporal | lista | ferramenta:modelos; tipo:lista; unit:unidade-02-verificacao-de-programas | não | média | fixação por unidade |
 | ExerciciosNusmv | lista | ferramenta:modelos; ferramenta:nusmv; ferramenta:nuxmv | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao3_respostas | lista | ferramenta:formal; tipo:lista; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
+| LogicaDeHoare1_exercicios_respostas | lista | ferramenta:hoare; tipo:lista; unit:unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| LogicaDeHoare_exercicios_respostas | exercício | ferramenta:hoare; tipo:gabarito; unit:unidade-02-verificacao-de-programas | não | média | fixação por unidade |
