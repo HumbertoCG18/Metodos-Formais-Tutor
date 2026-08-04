@@ -16,7 +16,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 04/03/2026 — Sistemas Formais
+## 1 dia · 04/03/2026 — Introducao metodos formais
 
 **Unidade**: unidade-01-metodos-formais
 **Tópicos cobertos**: introducao metodos formais
@@ -48,7 +48,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 5 dias · 11/03/2026 a 25/03/2026 — Especificação de Conjuntos Indutivos
+## 5 dias · 11/03/2026 a 25/03/2026 — Conjuntos indutivos equacoes recursivas arvores
 
 **Unidade**: unidade-01-metodos-formais
 **Tópicos cobertos**: conjuntos indutivos equacoes recursivas, arvores
@@ -82,12 +82,6 @@ _Sem códigos vinculados a esta aula._
 
 ### Códigos desta aula
 
-- **Definições de Funções Recursivas Primitivas e Propriedades em Isabelle/HOL** (`T1_2026_1.thy`)
-  - Conceitos: recursão primitiva, tipos indutivos, números naturais, listas
-  - Papel: exemplo_demonstrativo
-- **Demonstração de propriedades indutivas e funções em Isabelle/HOL** (`provas.thy`)
-  - Conceitos: Isabelle/HOL, Prova por indução, Definições recursivas, Tipos de dados indutivos
-  - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
 
@@ -122,6 +116,9 @@ _Sem códigos vinculados a esta aula._
   - Papel: exemplo_demonstrativo
 - **Definição Recursiva de Concatenação de Listas e Prova de Associatividade em Isabelle** (`listas.thy`)
   - Conceitos: lista, função recursiva, concatenação de listas, indução estrutural
+  - Papel: exemplo_demonstrativo
+- **Demonstração de propriedades indutivas e funções em Isabelle/HOL** (`provas.thy`)
+  - Conceitos: Isabelle/HOL, Prova por indução, Definições recursivas, Tipos de dados indutivos
   - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
@@ -167,7 +164,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 3 dias · 27/04/2026 a 04/05/2026 — Lógica de Hoare
+## 3 dias · 27/04/2026 a 04/05/2026 — Logica hoare
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica hoare
@@ -190,7 +187,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 06/05/2026 — Correção Parcial e Total
+## 1 dia · 06/05/2026 — Logica programas correcao parcial total terminacao invariant…
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica programas correcao parcial correcao total terminacao invariantes laco
@@ -201,6 +198,9 @@ _Sem códigos vinculados a esta aula._
 
 ### Códigos desta aula
 
+- **Definições de Funções Recursivas Primitivas e Propriedades em Isabelle/HOL** (`T1_2026_1.thy`)
+  - Conceitos: recursão primitiva, tipos indutivos, números naturais, listas
+  - Papel: exemplo_demonstrativo
 - **Definição e uso de tipos indutivos simples e predicados em Dafny** (`invariantes.zip`)
   - Conceitos: datatype, tipo indutivo, predicate, instanciação de tipo
   - Papel: exemplo_demonstrativo
@@ -262,6 +262,15 @@ _Sem códigos vinculados a esta aula._
 - **Definição de Tipos Indutivos Simples (Datatype) em Dafny** (`colecoes_sequences.zip`)
   - Conceitos: datatype, tipo indutivo, verificação de propriedades, predicado
   - Papel: exemplo_demonstrativo
+- **Verificação de métodos em Dafny para manipulação de arrays e sequências** (`exercicios_conjuntos.zip`)
+  - Conceitos: invariante de laço, pré-condição, pós-condição, arrays
+  - Papel: exemplo_demonstrativo
+- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
+  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
+  - Papel: exemplo_demonstrativo
+- **Verificação Formal de Algoritmos em Arrays com Dafny** (`exercicios_arrays.zip`)
+  - Conceitos: Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost
+  - Papel: exercicio_resolvido
 
 **Também relevante** (outras aulas como contexto):
 
@@ -300,18 +309,9 @@ _Sem códigos vinculados a esta aula._
 - **Definição básica de classe e métodos em Dafny** (`classes_parte1.zip`)
   - Conceitos: Classes, Objetos, Campos, Métodos
   - Papel: exemplo_demonstrativo
-- **Verificação de métodos em Dafny para manipulação de arrays e sequências** (`exercicios_conjuntos.zip`)
-  - Conceitos: invariante de laço, pré-condição, pós-condição, arrays
-  - Papel: exemplo_demonstrativo
-- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
-  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
-  - Papel: exemplo_demonstrativo
 - **Implementação Verificada de Árvore Binária de Busca com Abstração** (`classes_parte2.zip`)
   - Conceitos: Árvore Binária de Busca (ABB), Invariantes de Classe, Funções Abstratas (ghost variables), Tripleto de Hoare Estendido
   - Papel: exemplo_demonstrativo
-- **Verificação Formal de Algoritmos em Arrays com Dafny** (`exercicios_arrays.zip`)
-  - Conceitos: Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost
-  - Papel: exercicio_resolvido
 
 **Também relevante** (outras aulas como contexto):
 
@@ -319,7 +319,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 5 dias · 15/06/2026 a 29/06/2026 — Verificação de Modelos (Model Checking)
+## 5 dias · 15/06/2026 a 29/06/2026 — Verificacao modelos logica temporal ferramenta
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: verificacao modelos logica temporal, verificacao modelos ferramenta
@@ -332,7 +332,11 @@ _Sem códigos vinculados a esta aula._
 - **qua 24/06** — verificacao de modelos ferramenta aula
 - **seg 29/06** — exercicios aula
 
-_Sem códigos vinculados a esta aula._
+### Códigos desta aula
+
+- **Exemplos Introdutórios de Programas Verificados com Dafny** (`exemplos.zip`)
+  - Conceitos: Lógica de Hoare, pré-condição, pós-condição, invariante de laço
+  - Papel: exemplo_demonstrativo
 
 ---
 
@@ -343,11 +347,7 @@ _Sem códigos vinculados a esta aula._
 
 - **qua 01/07** — exercicios de revisao aula
 
-### Códigos desta aula
-
-- **Exemplos Introdutórios de Programas Verificados com Dafny** (`exemplos.zip`)
-  - Conceitos: Lógica de Hoare, pré-condição, pós-condição, invariante de laço
-  - Papel: exemplo_demonstrativo
+_Sem códigos vinculados a esta aula._
 
 ---
 
