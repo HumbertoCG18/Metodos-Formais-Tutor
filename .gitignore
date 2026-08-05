@@ -29,3 +29,5 @@ __pycache__/
 .DS_Store
 # Exportação local para DeepTutor (não commitada)
 .deeptutor/
+# Backups locais de scripts (retag/reprocess), nao versionados
+*.bak
