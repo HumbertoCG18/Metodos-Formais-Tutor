@@ -16,23 +16,21 @@
 
 | Faixa | Materiais |
 |---|---|
-| alta | 39 |
-| media | 13 |
+| alta | 45 |
+| media | 7 |
 | baixa | 11 |
 
 ## Materiais de baixa confiança (revisar)
 
-- **logicaProposicional_sintaxe** — bloco `bloco-03` (faixa media, conf 0.31, auto)
+- **logicaProposicional_sintaxe** — bloco `bloco-03` (faixa media, conf 0.36, auto)
     - candidato `bloco-02` (score —)
     - candidato `bloco-03` (score —)
-- **revisao** — bloco `bloco-03` (faixa media, conf 0.24, auto)
+- **revisao** — bloco `bloco-03` (faixa baixa, conf 0.17, auto)
     - candidato `bloco-02` (score —)
     - candidato `bloco-03` (score —)
-- **t1_2026_1** — bloco `bloco-11` (faixa media, conf 0.32, auto)
-    - candidato `bloco-11` (score —)
 - **T1 2026 1** — bloco `bloco-11` (faixa baixa, conf 0.14, auto)
     - candidato `bloco-11` (score —)
-- **arvores** — bloco `bloco-06` (faixa media, conf 0.27, auto)
+- **arvores** — bloco `bloco-06` (faixa media, conf 0.30, auto)
     - candidato `bloco-05` (score —)
     - candidato `bloco-06` (score —)
 - **intro** — bloco `bloco-06` (faixa baixa, conf 0.13, auto)
@@ -41,14 +39,7 @@
 - **provas** — bloco `bloco-06` (faixa media, conf 0.30, auto)
     - candidato `bloco-05` (score —)
     - candidato `bloco-06` (score —)
-- **ExerciciosCorrecaoTerminacao** — bloco `bloco-12` (faixa media, conf 0.39, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **LogicaDeHoare** — bloco `bloco-10` (faixa baixa, conf 0.01, auto)
+- **LogicaDeHoare** — bloco `bloco-10` (faixa baixa, conf 0.00, auto)
     - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
     - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
     - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
@@ -104,20 +95,6 @@
     - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
     - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
     - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **Terminacao** — bloco `bloco-11` (faixa baixa, conf 0.00, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **Tiposindutivos** — bloco `bloco-13` (faixa media, conf 0.28, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
 - **Exemplos** — bloco `bloco-16` (faixa media, conf 0.41, auto)
     - candidato `a6ac04f2-7611-4bef-b74a-54390cef4084` (score —)
     - candidato `38383c92-9c71-4c4c-90af-ad19935e5597` (score —)
@@ -141,20 +118,6 @@
     - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
     - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
     - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **LogicaDeHoare1_exercicios_respostas** — bloco `bloco-10` (faixa media, conf 0.48, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **LogicaDeHoare_exercicios_respostas** — bloco `bloco-10` (faixa media, conf 0.48, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
 
 ## Blocos pobres (0 materiais)
 
@@ -162,9 +125,9 @@ bloco-07, bloco-08, bloco-09, bloco-14, bloco-17, bloco-18, bloco-19, bloco-20, 
 
 ## Blocos mais ricos
 
+- bloco-06: 11 material(is)
 - bloco-04: 10 material(is)
-- bloco-13: 9 material(is)
-- bloco-06: 8 material(is)
+- bloco-13: 8 material(is)
 - bloco-11: 7 material(is)
 - bloco-03: 7 material(is)
 

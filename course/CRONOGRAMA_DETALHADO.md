@@ -16,7 +16,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 04/03/2026 — Introducao metodos formais
+## 1 dia · 04/03/2026 — Sistemas Formais
 
 **Unidade**: unidade-01-metodos-formais
 **Tópicos cobertos**: introducao metodos formais
@@ -48,7 +48,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 5 dias · 11/03/2026 a 25/03/2026 — Conjuntos indutivos equacoes recursivas arvores
+## 5 dias · 11/03/2026 a 25/03/2026 — Especificação de Conjuntos Indutivos
 
 **Unidade**: unidade-01-metodos-formais
 **Tópicos cobertos**: conjuntos indutivos equacoes recursivas, arvores
@@ -164,7 +164,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 3 dias · 27/04/2026 a 04/05/2026 — Logica hoare
+## 3 dias · 27/04/2026 a 04/05/2026 — Lógica de Hoare
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica hoare
@@ -187,7 +187,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 06/05/2026 — Logica programas correcao parcial total terminacao invariant…
+## 1 dia · 06/05/2026 — Correção Parcial e Total
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica programas correcao parcial correcao total terminacao invariantes laco
@@ -203,9 +203,6 @@ _Sem códigos vinculados a esta aula._
   - Papel: exemplo_demonstrativo
 - **Definição e uso de tipos indutivos simples e predicados em Dafny** (`invariantes.zip`)
   - Conceitos: datatype, tipo indutivo, predicate, instanciação de tipo
-  - Papel: exemplo_demonstrativo
-- **Definição e Uso de Tipos Indutivos Simples (Datatypes) em Dafny** (`terminacao.zip`)
-  - Conceitos: datatype, tipo indutivo, enumeração, predicado
   - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
@@ -227,6 +224,9 @@ _Sem códigos vinculados a esta aula._
 
 - **Funções e Predicados Básicos com Transparência em Dafny** (`introducao.zip`)
   - Conceitos: função recursiva, predicado, tipo nat, transparência
+  - Papel: exemplo_demonstrativo
+- **Definição e Uso de Tipos Indutivos Simples (Datatypes) em Dafny** (`terminacao.zip`)
+  - Conceitos: datatype, tipo indutivo, enumeração, predicado
   - Papel: exemplo_demonstrativo
 
 **Também relevante** (outras aulas como contexto):
@@ -264,9 +264,6 @@ _Sem códigos vinculados a esta aula._
   - Papel: exemplo_demonstrativo
 - **Verificação de métodos em Dafny para manipulação de arrays e sequências** (`exercicios_conjuntos.zip`)
   - Conceitos: invariante de laço, pré-condição, pós-condição, arrays
-  - Papel: exemplo_demonstrativo
-- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
-  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
   - Papel: exemplo_demonstrativo
 - **Verificação Formal de Algoritmos em Arrays com Dafny** (`exercicios_arrays.zip`)
   - Conceitos: Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost
@@ -309,6 +306,9 @@ _Sem códigos vinculados a esta aula._
 - **Definição básica de classe e métodos em Dafny** (`classes_parte1.zip`)
   - Conceitos: Classes, Objetos, Campos, Métodos
   - Papel: exemplo_demonstrativo
+- **Definição de Tipos Indutivos Simples e Predicados em Dafny** (`tiposindutivos.zip`)
+  - Conceitos: tipo de dados indutivo, datatype, construtor de tipo, predicate
+  - Papel: exemplo_demonstrativo
 - **Implementação Verificada de Árvore Binária de Busca com Abstração** (`classes_parte2.zip`)
   - Conceitos: Árvore Binária de Busca (ABB), Invariantes de Classe, Funções Abstratas (ghost variables), Tripleto de Hoare Estendido
   - Papel: exemplo_demonstrativo
@@ -319,7 +319,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 5 dias · 15/06/2026 a 29/06/2026 — Verificacao modelos logica temporal ferramenta
+## 5 dias · 15/06/2026 a 29/06/2026 — Verificação de Modelos (Model Checking)
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: verificacao modelos logica temporal, verificacao modelos ferramenta

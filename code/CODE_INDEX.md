@@ -3,6 +3,18 @@
 > **Como usar:** Mapa do material do professor disponível na disciplina.
 > No modo `code_review`, localize exemplos, teorias e compare com o código ou prova do aluno.
 
+## 1 dia · 11/05/2026 — Terminacao introducao dafny
+
+| Título | Linguagem | Categoria | Conceitos | Papel | Arquivo |
+|---|---|---|---|---|---|
+| Definição e Uso de Tipos Indutivos Simples (Datatypes) em Dafny | dafny | prof | datatype, tipo indutivo, enumeração, predicado | exemplo_demonstrativo | `terminacao.zip` |
+
+## 4 dias · 01/06/2026 a 10/06/2026 — Logica programas orientacao objetos dafny ghosts autocontrat…
+
+| Título | Linguagem | Categoria | Conceitos | Papel | Arquivo |
+|---|---|---|---|---|---|
+| Definição de Tipos Indutivos Simples e Predicados em Dafny | dafny | prof | tipo de dados indutivo, datatype, construtor de tipo, predicate | exemplo_demonstrativo | `tiposindutivos.zip` |
+
 ## ⚠ Sem aula atribuída (requer atribuição manual)
 
 | Título | Linguagem | Conceitos | Arquivo |
@@ -21,8 +33,6 @@
 | Verificação Formal de Programas com Dafny: Fundamentos, Tipos Indutivos, Terminação e Lógica de Hoare | dafny | Verificação formal, Lógica de Hoare, Pré-condições e Pós-condições, Invariantes de laço | `hoare.zip` |
 | Funções e Predicados Básicos com Transparência em Dafny | dafny | função recursiva, predicado, tipo nat, transparência | `introducao.zip` |
 | Definição e uso de tipos indutivos simples e predicados em Dafny | dafny | datatype, tipo indutivo, predicate, instanciação de tipo | `invariantes.zip` |
-| Definição e Uso de Tipos Indutivos Simples (Datatypes) em Dafny | dafny | datatype, tipo indutivo, enumeração, predicado | `terminacao.zip` |
-| Definição de Tipos Indutivos Simples e Predicados em Dafny | dafny | tipo de dados indutivo, datatype, construtor de tipo, predicate | `tiposindutivos.zip` |
 | Exemplos Introdutórios de Programas Verificados com Dafny | Dafny | Lógica de Hoare, pré-condição, pós-condição, invariante de laço | `exemplos.zip` |
 | Implementação Verificada de Árvore Binária de Busca com Abstração | dafny | Árvore Binária de Busca (ABB), Invariantes de Classe, Funções Abstratas (ghost variables), Tripleto de Hoare Estendido | `classes_parte2.zip` |
 | Verificação Formal de Algoritmos em Arrays com Dafny | dafny | Arrays em Dafny, Pré-condições e Pós-condições, Invariantes de Laço, Funções Ghost | `exercicios_arrays.zip` |
