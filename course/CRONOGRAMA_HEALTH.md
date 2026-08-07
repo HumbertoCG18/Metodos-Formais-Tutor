@@ -121,11 +121,11 @@
 
 ## Blocos pobres (0 materiais)
 
-bloco-07, bloco-08, bloco-09, bloco-14, bloco-17, bloco-18, bloco-19, bloco-20, bloco-21
+bloco-08, bloco-09, bloco-14, bloco-17, bloco-18, bloco-19, bloco-20, bloco-21
 
 ## Blocos mais ricos
 
-- bloco-06: 11 material(is)
+- bloco-06: 10 material(is)
 - bloco-04: 10 material(is)
 - bloco-13: 8 material(is)
 - bloco-11: 7 material(is)

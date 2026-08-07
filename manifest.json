@@ -123,7 +123,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:formal",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
@@ -189,9 +188,9 @@
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
-        "winner_score=9.81"
+        "winner_score=9.63"
       ],
-      "subunit_match_confidence": 0.8722466960352422,
+      "subunit_match_confidence": 0.8698524828589237,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 1.0,
@@ -215,7 +214,6 @@
       "auto_tags": [
         "ferramenta:formal",
         "ferramenta:sobre",
-        "topico:equacoes-recursivas-iii",
         "topico:funcoes-recursivas",
         "tipo:material-base",
         "unit:unidade-01-metodos-formais",
@@ -274,15 +272,15 @@
       "approved_at": "2026-04-09T20:35:50",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=22.96",
-        "topic_score=9.55"
+        "winner_score=22.80",
+        "topic_score=9.37"
       ],
-      "unit_match_confidence": 0.9019525685075002,
+      "unit_match_confidence": 0.9000640614990391,
       "subunit_match_reasons": [
-        "winner_score=9.55",
+        "winner_score=9.37",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.09431827704684484,
+      "subunit_match_confidence": 0.07687379884689309,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
@@ -799,7 +797,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:conjuntos-e-funcoes",
         "tipo:material-base",
         "unit:unidade-01-metodos-formais",
         "bloco:bloco-02"
@@ -862,14 +859,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=31.44",
-        "topic_score=8.47"
+        "winner_score=30.95",
+        "topic_score=8.29"
       ],
-      "unit_match_confidence": 0.8894453368610035,
+      "unit_match_confidence": 0.8870383779869659,
       "subunit_match_reasons": [
-        "winner_score=8.47"
+        "winner_score=8.29"
       ],
-      "subunit_match_confidence": 0.19611641311537356,
+      "subunit_match_confidence": 0.17861453053342982,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
       "computed_block_confidence": 0.17374380750176951,
@@ -1002,7 +999,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:provas-por-inducao-de-especificacoes-recursivas",
         "tipo:material-base",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
@@ -1061,15 +1057,15 @@
       "approved_at": "2026-04-09T20:15:55",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=26.93",
-        "topic_score=9.37",
+        "winner_score=26.44",
+        "topic_score=9.19",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.872736590365562,
+      "unit_match_confidence": 0.8702373176573046,
       "subunit_match_reasons": [
-        "winner_score=9.37"
+        "winner_score=9.19"
       ],
-      "subunit_match_confidence": 0.8076101810727707,
+      "subunit_match_confidence": 0.8038319181362944,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -1280,7 +1276,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:provas-por-inducao-de-especificacoes-recursivas",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "subunit:correcao-parcial-e-total",
@@ -1353,14 +1348,14 @@
         "topic_score=10.89",
         "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
-      "unit_match_confidence": 0.16577304443628327,
+      "unit_match_confidence": 0.18233565919941222,
       "subunit_match_reasons": [
         "winner_score=10.89"
       ],
       "subunit_match_confidence": 0.9446210796915167,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
-      "computed_block_confidence": 0.7994291427219513,
+      "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "correcao-parcial-e-total",
@@ -1605,7 +1600,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:formal",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
@@ -1674,14 +1668,14 @@
       "approved_at": "2026-04-10T13:56:25",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=17.60",
-        "topic_score=9.45"
+        "winner_score=17.28",
+        "topic_score=9.27"
       ],
-      "unit_match_confidence": 0.9470179712568972,
+      "unit_match_confidence": 0.9460264728181919,
       "subunit_match_reasons": [
-        "winner_score=9.45"
+        "winner_score=9.27"
       ],
-      "subunit_match_confidence": 0.8810975609756097,
+      "subunit_match_confidence": 0.878782646233542,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.85,
@@ -1713,10 +1707,8 @@
       "auto_tags": [
         "ferramenta:formal",
         "ferramenta:isabelle",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
         "bloco:bloco-06"
       ],
       "manual_unit_slug": "",
@@ -1782,15 +1774,15 @@
       "approved_at": "2026-04-10T13:56:40",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=15.28",
-        "topic_score=3.00",
+        "winner_score=14.28",
+        "topic_score=2.03",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.7989644047460339,
+      "unit_match_confidence": 0.7029219858156028,
       "subunit_match_reasons": [
-        "winner_score=3.00"
+        "winner_score=2.03"
       ],
-      "subunit_match_confidence": 0.6256499133448874,
+      "subunit_match_confidence": 0.4468085106382978,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 1.0,
@@ -2064,7 +2056,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:formal",
-        "topico:equacoes-recursivas-iii",
         "tipo:material-base",
         "unit:unidade-01-metodos-formais",
         "bloco:bloco-04"
@@ -2137,7 +2128,7 @@
         "ambiguous",
         "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.1313284954982266,
+      "unit_match_confidence": 0.13947476932663605,
       "subunit_match_reasons": [
         "winner_score=4.37"
       ],
@@ -2173,10 +2164,8 @@
       "auto_tags": [
         "ferramenta:formal",
         "ferramenta:sobre",
-        "topico:arvores-polimorficas-definicao-indutiva",
-        "topico:arvores-polimorficas-equacoes-recursivas",
-        "topico:equacoes-recursivas-iii",
         "topico:funcoes-recursivas",
+        "tipo:material-base",
         "unit:unidade-01-metodos-formais",
         "bloco:bloco-04"
       ],
@@ -2243,15 +2232,15 @@
       "approved_at": "2026-04-10T14:05:31",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.72",
-        "topic_score=16.53",
+        "winner_score=34.41",
+        "topic_score=16.17",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.9433852704925966,
+      "unit_match_confidence": 0.9421221864951769,
       "subunit_match_reasons": [
-        "winner_score=16.53"
+        "winner_score=16.17"
       ],
-      "subunit_match_confidence": 0.46612793961095517,
+      "subunit_match_confidence": 0.46537224833044766,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 1.0,
@@ -2275,7 +2264,6 @@
       "auto_tags": [
         "ferramenta:formal",
         "ferramenta:isabelle",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "bloco:bloco-06"
@@ -2354,9 +2342,9 @@
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
-        "winner_score=2.46"
+        "winner_score=1.64"
       ],
-      "subunit_match_confidence": 0.59616322549179,
+      "subunit_match_confidence": 0.3947368421052632,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "computed_block_confidence": 1.0,
@@ -2381,10 +2369,10 @@
         "tipo:lista",
         "uso:revisao-prova",
         "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-07"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "manual_timeline_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -2457,8 +2445,7 @@
       "approved_at": "2026-04-14T15:33:35",
       "review_status": "approved",
       "unit_match_reasons": [
-        "manual",
-        "unidade_do_bloco_manual"
+        "manual"
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
@@ -2467,7 +2454,7 @@
       ],
       "subunit_match_confidence": 0.07894736842105272,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "computed_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "source_section": "Exercícios de Revisão para Provas",
@@ -2487,7 +2474,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:provas-por-inducao-de-especificacoes-recursivas",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
         "bloco:bloco-05"
@@ -2561,14 +2547,14 @@
       "approved_at": "2026-04-15T20:42:47",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=38.29",
-        "topic_score=9.37"
+        "winner_score=37.79",
+        "topic_score=9.19"
       ],
-      "unit_match_confidence": 0.8554834301332422,
+      "unit_match_confidence": 0.8526453298497714,
       "subunit_match_reasons": [
-        "winner_score=9.37"
+        "winner_score=9.19"
       ],
-      "subunit_match_confidence": 0.9000683293474547,
+      "subunit_match_confidence": 0.8981058131939909,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.610209323932886,
@@ -2669,7 +2655,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:formal",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
@@ -2743,15 +2728,15 @@
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=19.85",
-        "topic_score=9.45",
+        "winner_score=19.52",
+        "topic_score=9.27",
         "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.2796197493224933,
+      "unit_match_confidence": 0.26559464709691355,
       "subunit_match_reasons": [
-        "winner_score=9.45"
+        "winner_score=9.27"
       ],
-      "subunit_match_confidence": 0.8948170731707317,
+      "subunit_match_confidence": 0.8927692639758256,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
@@ -3259,7 +3244,6 @@
       "manual_tags": [],
       "auto_tags": [
         "topico:correcao",
-        "topico:correcao-de-algoritmos",
         "topico:correcao-parcial",
         "topico:correcao-parcial-e-total",
         "topico:exemplos",
@@ -3336,14 +3320,14 @@
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=75.40",
-        "topic_score=26.98"
+        "winner_score=75.25",
+        "topic_score=26.80"
       ],
-      "unit_match_confidence": 0.7076750858100245,
+      "unit_match_confidence": 0.705707184918165,
       "subunit_match_reasons": [
-        "winner_score=26.98"
+        "winner_score=26.80"
       ],
-      "subunit_match_confidence": 0.7507246591692552,
+      "subunit_match_confidence": 0.7490465635238714,
       "approved_markdown": "content/curated/correcaoterminacao.md",
       "curated_markdown": "content/curated/correcaoterminacao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/correcaoterminacao/correcaoterminacao.md",
@@ -3380,7 +3364,6 @@
       "manual_tags": [],
       "auto_tags": [
         "topico:correcao",
-        "topico:correcao-e-terminacao",
         "tipo:lista",
         "unit:unidade-02-verificacao-de-programas",
         "subunit:correcao-parcial-e-total",
@@ -3454,15 +3437,15 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=36.85",
-        "topic_score=18.47",
+        "winner_score=36.53",
+        "topic_score=18.29",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8070333394116217,
+      "unit_match_confidence": 0.8053252827742454,
       "subunit_match_reasons": [
-        "winner_score=18.47"
+        "winner_score=18.29"
       ],
-      "subunit_match_confidence": 0.9462011608767218,
+      "subunit_match_confidence": 0.9456704796483016,
       "approved_markdown": "exercises/lists/exercicioscorrecaoterminacao.md",
       "curated_markdown": "exercises/lists/exercicioscorrecaoterminacao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioscorrecaoterminacao/exercicioscorrecaoterminacao.md",
@@ -4918,7 +4901,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:modelos",
-        "ferramenta:temporal",
         "tipo:lista",
         "unit:unidade-02-verificacao-de-programas",
         "bloco:bloco-16"
@@ -5019,14 +5001,14 @@
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "card+scorer",
       "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.7877250259700231,
+      "computed_block_confidence": 0.7813091695969705,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=26.95",
+        "winner_score=26.78",
         "topic_score=0.60",
         "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
-      "unit_match_confidence": 0.5536078284575331,
+      "unit_match_confidence": 0.5507737733530715,
       "unit_block_conflict": {},
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
       "subunit_match_reasons": [
@@ -6308,7 +6290,6 @@
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:formal",
-        "topico:equacoes-recursivas-iii",
         "tipo:lista",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas",
@@ -6385,16 +6366,16 @@
       "computed_block_confidence": 0.85,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=16.05",
-        "topic_score=8.91"
+        "winner_score=15.72",
+        "topic_score=8.73"
       ],
-      "unit_match_confidence": 0.8884397736459175,
+      "unit_match_confidence": 0.8861333944533578,
       "unit_block_conflict": {},
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "subunit_match_reasons": [
-        "winner_score=8.91"
+        "winner_score=8.73"
       ],
-      "subunit_match_confidence": 0.9322748585286984,
+      "subunit_match_confidence": 0.9308747192298876,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao3-respostas/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
@@ -8415,7 +8396,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-06T20:12:47",
+  "updated_at": "2026-08-07T10:33:31",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
