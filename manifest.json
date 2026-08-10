@@ -3341,10 +3341,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "labels",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -3438,8 +3438,7 @@
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=36.53",
-        "topic_score=18.29",
-        "unidade_do_bloco_manual"
+        "topic_score=18.29"
       ],
       "unit_match_confidence": 0.8053252827742454,
       "subunit_match_reasons": [
@@ -3697,10 +3696,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "labels",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -3721,9 +3720,8 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:material-base",
-        "unit:unidade-02-verificacao-de-programas",
         "subunit:logica-de-hoare",
-        "bloco:bloco-10"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3804,14 +3802,13 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/logicadehoare/logicadehoare.md"
       },
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.0013827692884601473,
+      "computed_unit_slug": "",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.012359194099393222,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=44.87",
-        "topic_score=14.52",
-        "herdada_do_bloco=171a1a09-a72d-490d-b4d8-5843cfb301b4"
+        "topic_score=14.52"
       ],
       "unit_match_confidence": 0.18407274731330953,
       "subunit_match_reasons": [
@@ -3963,7 +3960,6 @@
         "ferramenta:dafny",
         "tipo:lista",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:correcao-parcial-e-total",
         "bloco:bloco-15"
       ],
       "manual_unit_slug": "",
@@ -4031,24 +4027,23 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.14059946499164613,
+      "computed_block_confidence": 0.11649669956450691,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=11.33",
-        "topic_score=3.57",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=15.26",
+        "topic_score=8.19"
       ],
-      "unit_match_confidence": 0.3782560355781449,
+      "unit_match_confidence": 0.9606301492322111,
       "subunit_match_reasons": [
-        "winner_score=3.57"
+        "winner_score=8.19"
       ],
-      "subunit_match_confidence": 0.8309452914798205,
+      "subunit_match_confidence": 0.5641338871243587,
       "approved_markdown": "exercises/lists/exerciciosdafny1.md",
       "curated_markdown": "exercises/lists/exerciciosdafny1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny1/exerciciosdafny1.md",
       "approved_at": "2026-06-08T20:07:49",
       "review_status": "approved",
-      "computed_subunit_slug": "correcao-parcial-e-total",
+      "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
@@ -4148,24 +4143,23 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.04925748966942143,
+      "computed_block_confidence": 0.11698848644758927,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=46.95",
-        "topic_score=6.80",
-        "herdada_do_bloco=c9f5f7cf-3477-4531-be7a-f7b68727009c"
+        "winner_score=54.06",
+        "topic_score=15.17"
       ],
-      "unit_match_confidence": 0.4956531926110135,
+      "unit_match_confidence": 0.6935434941047205,
       "subunit_match_reasons": [
-        "winner_score=6.80"
+        "winner_score=15.17"
       ],
-      "subunit_match_confidence": 0.32725936811168244,
+      "subunit_match_confidence": 0.5514764039019245,
       "approved_markdown": "exercises/lists/exerciciosdafny2.md",
       "curated_markdown": "exercises/lists/exerciciosdafny2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny2/exerciciosdafny2.md",
       "approved_at": "2026-06-08T20:07:56",
       "review_status": "approved",
-      "computed_subunit_slug": "pre-e-pos-condicoes",
+      "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
@@ -4197,7 +4191,7 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
-        "unit:unidade-01-metodos-formais",
+        "unit:unidade-02-verificacao-de-programas",
         "subunit:verificacao-de-programas",
         "bloco:bloco-13"
       ],
@@ -4264,30 +4258,26 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny3/exerciciosdafny3.md"
       },
-      "computed_unit_slug": "unidade-01-metodos-formais",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.11259876659052216,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=17.38",
+        "winner_score=17.28",
         "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.95,
+      "unit_match_confidence": 0.9268368942157373,
       "subunit_match_reasons": [
         "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.9268368942157373,
+      "subunit_match_confidence": 0.9607095362167796,
       "approved_markdown": "exercises/lists/exerciciosdafny3.md",
       "curated_markdown": "exercises/lists/exerciciosdafny3.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny3/exerciciosdafny3.md",
       "approved_at": "2026-06-08T20:08:02",
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
-      "unit_block_conflict": {
-        "unit": "unidade-01-metodos-formais",
-        "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
-      },
+      "unit_block_conflict": {},
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - sequências no Dafny",
@@ -4319,7 +4309,7 @@
         "ferramenta:dafny",
         "tipo:lista",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:correcao-parcial-e-total",
+        "subunit:verificacao-de-programas",
         "bloco:bloco-13"
       ],
       "manual_unit_slug": "",
@@ -4390,22 +4380,20 @@
       "computed_block_confidence": 0.12309197777649024,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=20.33",
-        "topic_score=4.58",
-        "ambiguous",
-        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        "winner_score=29.64",
+        "topic_score=15.53"
       ],
-      "unit_match_confidence": 0.02720435978024035,
+      "unit_match_confidence": 0.9109966520731393,
       "subunit_match_reasons": [
-        "winner_score=4.58"
+        "winner_score=15.53"
       ],
-      "subunit_match_confidence": 0.8682422018348624,
+      "subunit_match_confidence": 0.7052536698429048,
       "approved_markdown": "exercises/lists/exerciciosdafny4.md",
       "curated_markdown": "exercises/lists/exerciciosdafny4.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny4/exerciciosdafny4.md",
       "approved_at": "2026-06-08T20:08:08",
       "review_status": "approved",
-      "computed_subunit_slug": "correcao-parcial-e-total",
+      "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
@@ -4437,7 +4425,7 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
-        "unit:unidade-01-metodos-formais",
+        "unit:unidade-02-verificacao-de-programas",
         "subunit:verificacao-de-programas",
         "bloco:bloco-15"
       ],
@@ -4504,30 +4492,26 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md"
       },
-      "computed_unit_slug": "unidade-01-metodos-formais",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
       "computed_block_confidence": 0.19318923700079324,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=19.41",
+        "winner_score=24.10",
         "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.7017978113600832,
+      "unit_match_confidence": 0.727853048462741,
       "subunit_match_reasons": [
         "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.727853048462741,
+      "subunit_match_confidence": 0.7017978113600832,
       "approved_markdown": "exercises/lists/exerciciosdafny5.md",
       "curated_markdown": "exercises/lists/exerciciosdafny5.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md",
       "approved_at": "2026-06-08T20:08:32",
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
-      "unit_block_conflict": {
-        "unit": "unidade-01-metodos-formais",
-        "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
-      },
+      "unit_block_conflict": {},
       "computed_block_method": "card+scorer",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - classes em Dafny",
@@ -4558,7 +4542,8 @@
       "auto_tags": [
         "ferramenta:modelos",
         "tipo:material-base",
-        "unit:unidade-02-verificacao-de-programas",
+        "unit:unidade-03-verificacao-de-modelos",
+        "subunit:verificacao-de-modelos-model-checking",
         "bloco:bloco-16"
       ],
       "manual_unit_slug": "",
@@ -4850,24 +4835,23 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md"
       },
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "card+scorer",
       "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=35.14",
-        "topic_score=1.35",
-        "ambiguous",
+        "winner_score=42.42",
+        "topic_score=9.92",
         "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
       ],
-      "unit_match_confidence": 0.13426281457828054,
+      "unit_match_confidence": 0.5621409132143935,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "empate-exato 2x score=1.35"
+        "winner_score=9.92"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.8635621409132144,
       "approved_markdown": "content/curated/verificacaomodelos.md",
       "curated_markdown": "content/curated/verificacaomodelos.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md",
@@ -4902,7 +4886,7 @@
       "auto_tags": [
         "ferramenta:modelos",
         "tipo:lista",
-        "unit:unidade-02-verificacao-de-programas",
+        "unit:unidade-03-verificacao-de-modelos",
         "bloco:bloco-16"
       ],
       "manual_unit_slug": "",
@@ -4998,23 +4982,23 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/exercicioslogicatemporal/exercicioslogicatemporal.md"
       },
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "card+scorer",
       "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.7813091695969705,
+      "computed_block_confidence": 0.777754538609554,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=26.78",
-        "topic_score=0.60",
-        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
+        "winner_score=32.36",
+        "topic_score=7.18"
       ],
-      "unit_match_confidence": 0.5507737733530715,
+      "unit_match_confidence": 0.9159438127090301,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "logica-temporal-linear",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=7.18",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.30000000000000004,
+      "subunit_match_confidence": 0.045986622073578606,
       "approved_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "curated_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioslogicatemporal/exercicioslogicatemporal.md",
@@ -5051,7 +5035,8 @@
         "ferramenta:nusmv",
         "ferramenta:nuxmv",
         "tipo:lista",
-        "unit:unidade-02-verificacao-de-programas",
+        "unit:unidade-03-verificacao-de-modelos",
+        "subunit:verificacao-de-modelos-model-checking",
         "bloco:bloco-16"
       ],
       "manual_unit_slug": "",
@@ -5133,23 +5118,22 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/exerciciosnusmv/exerciciosnusmv.md"
       },
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_method": "card+scorer",
       "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.6232725766362882,
+      "computed_block_confidence": 0.5792059966685176,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=23.74",
-        "topic_score=0.96",
-        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
+        "winner_score=35.97",
+        "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.283078820389789,
+      "unit_match_confidence": 0.9352787910369984,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "maquinas-de-estado",
+      "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "winner_score=0.96"
+        "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.3748059701492537,
+      "subunit_match_confidence": 0.9371547681083897,
       "approved_markdown": "exercises/lists/exerciciosnusmv.md",
       "curated_markdown": "exercises/lists/exerciciosnusmv.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosnusmv/exerciciosnusmv.md",
@@ -5160,10 +5144,10 @@
       "posting_date_created": "2026-02-18",
       "source_section": "Especificação e Verificação de Modelos",
       "temporal_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "labels",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
         "38383c92-9c71-4c4c-90af-ad19935e5597",
@@ -5630,6 +5614,7 @@
       "auto_tags": [
         "tipo:codigo",
         "unit:unidade-02-verificacao-de-programas",
+        "subunit:exemplos-de-aplicacoes",
         "bloco:bloco-15"
       ],
       "manual_unit_slug": "",
@@ -5697,11 +5682,11 @@
       ],
       "unit_match_confidence": 0.5712804623621544,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "computed_subunit_slug": "exemplos-de-aplicacoes",
       "subunit_match_reasons": [
-        "winner_score=7.91"
+        "winner_score=4.10"
       ],
-      "subunit_match_confidence": 0.482248894504106,
+      "subunit_match_confidence": 0.7399707174231333,
       "moodle_label": "Respostas",
       "posting_date": "2026-06-08",
       "posting_date_created": "2026-06-08",
@@ -5910,8 +5895,8 @@
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "llm_only",
       "computed_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.0,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
@@ -6218,7 +6203,8 @@
         "topico:exemplos",
         "tipo:codigo",
         "unit:unidade-01-metodos-formais",
-        "bloco:bloco-17"
+        "subunit:exemplos-de-aplicacoes",
+        "bloco:bloco-19"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6246,8 +6232,8 @@
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "llm_only",
       "computed_block_id": "38383c92-9c71-4c4c-90af-ad19935e5597",
-      "computed_block_confidence": 0.40745108695652177,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.5002880434782608,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=5.40",
         "topic_score=4.93"
@@ -6258,7 +6244,7 @@
       "subunit_match_reasons": [
         "winner_score=11.74"
       ],
-      "subunit_match_confidence": 0.34116384450274273,
+      "subunit_match_confidence": 0.9202752887465504,
       "moodle_label": "Exemplos NuSMV",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -6575,13 +6561,13 @@
       "approved_source_markdown": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md",
       "approved_at": "2026-06-28T17:47:50",
       "review_status": "approved",
-      "temporal_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
+      "temporal_block_id": "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
       "temporal_block_method": "due-straddle",
       "temporal_block_band": "media",
       "temporal_block_flag": true,
       "temporal_block_provider": "due-window",
       "temporal_block_window": [
-        "bloco-16"
+        "bloco-18"
       ]
     },
     {
@@ -6882,7 +6868,7 @@
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "card+scorer",
       "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.5747226222682836,
+      "computed_block_confidence": 0.552797107106164,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=36.58",
@@ -6998,7 +6984,7 @@
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "card+scorer",
       "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.5747226222682836,
+      "computed_block_confidence": 0.552797107106164,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=39.23",
@@ -8396,7 +8382,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-07T10:33:31",
+  "updated_at": "2026-08-10T15:12:15",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",

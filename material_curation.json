@@ -270,6 +270,18 @@
       "confianca": "alta",
       "justificativa": "O material trata explicitamente de verificação de modelos e lógica temporal (CTL, LTL), que são os tópicos abordados no bloco-16 de acordo com o roteiro e tópicos do professor.",
       "model": "gemini-3.5-flash"
+    },
+    "7b6f33c0cffda31574dd6ae3f69d3529": {
+      "block_id": "bloco-11",
+      "confianca": "alta",
+      "justificativa": "O material trata explicitamente de invariantes de laço, pré e pós-condições para formalização de algoritmos, o que corresponde diretamente ao tópico de correção parcial/total e invariantes de laço do ",
+      "model": "gemini-3.5-flash"
+    },
+    "1d6dd4ac2e2df5431cb4232ccb58a44e": {
+      "block_id": "bloco-16",
+      "confianca": "alta",
+      "justificativa": "O material trata de exercicios praticos de verificacao de modelos em NuSMV/NuXMV usando logicas temporais (LTL e CTL), o que se alinha diretamente com o topico de verificacao de modelos e logica tempo",
+      "model": "gemini-3.5-flash"
     }
   }
 }

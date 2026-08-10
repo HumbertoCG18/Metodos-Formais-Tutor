@@ -189,12 +189,11 @@ _Sem códigos vinculados a esta aula._
 
 ## 1 dia · 06/05/2026 — Correção Parcial e Total
 
-**Unidade**: unidade-02-verificacao-de-programas
-**Tópicos cobertos**: logica programas correcao parcial correcao total terminacao invariantes laco
+**Tópicos cobertos**: logica programas correcao parcial correcao total terminacao invariantes laco entrega trabalho
 
 ### Sessões
 
-- **qua 06/05** — logica de programas correcao parcial correcao total e terminacao invariantes de laco aula
+- **qua 06/05** — logica de programas correcao parcial correcao total e terminacao invariantes de laco
 
 ### Códigos desta aula
 
@@ -239,14 +238,14 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 4 dias · 13/05/2026 a 25/05/2026 — Logica programas dafny colecoes arrays sequencias conjuntos
+## 4 dias · 13/05/2026 a 25/05/2026 — Logica programas introducao dafny colecoes arrays sequencias…
 
 **Unidade**: unidade-02-verificacao-de-programas
 **Tópicos cobertos**: logica programas
 
 ### Sessões
 
-- **qua 13/05** — logica de programas dafny aula
+- **qua 13/05** — logica de programas introducao ao dafny aula
 - **seg 18/05** — logica de programas colecoes dafny arrays aula
 - **qua 20/05** — logica de programas colecoes dafny sequencias aula
 - **seg 25/05** — logica de programas colecoes dafny conjuntos aula
@@ -297,7 +296,7 @@ _Sem códigos vinculados a esta aula._
 ### Sessões
 
 - **seg 01/06** — logica de programas orientacao a objetos dafny ghosts autocontrato aula
-- **qua 03/06** — exercicios aula
+- **qua 03/06** — logica de programas orientacao a objetos dafny ghosts autocontrato
 - **seg 08/06** — logica de programas orientacao a objetos dafny ghosts autocontrato aula
 - **qua 10/06** — exercicios aula
 
@@ -319,18 +318,16 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 5 dias · 15/06/2026 a 29/06/2026 — Verificação de Modelos (Model Checking)
+## 3 dias · 15/06/2026 a 22/06/2026 — Verificação de Modelos (Model Checking)
 
-**Unidade**: unidade-02-verificacao-de-programas
-**Tópicos cobertos**: verificacao modelos logica temporal, verificacao modelos ferramenta
+**Unidade**: unidade-03-verificacao-de-modelos
+**Tópicos cobertos**: verificacao modelos logica temporal
 
 ### Sessões
 
 - **seg 15/06** — verificacao de modelos logica temporal aula
 - **qua 17/06** — verificacao de modelos logica temporal aula
 - **seg 22/06** — exercicios aula
-- **qua 24/06** — verificacao de modelos ferramenta aula
-- **seg 29/06** — exercicios aula
 
 ### Códigos desta aula
 
@@ -340,7 +337,32 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 01/07/2026 — Conteúdo: unidade-02-verificacao-de-programas
+## 1 dia · 24/06/2026 — Suspensao jogo copa mundo
+
+**Tópicos cobertos**: suspensao jogo copa mundo
+
+### Sessões
+
+- **qua 24/06** — suspensao jogo copa do mundo aula
+
+_Sem códigos vinculados a esta aula._
+
+---
+
+## 1 dia · 29/06/2026 — Verificação de Modelos (Model Checking)
+
+**Unidade**: unidade-03-verificacao-de-modelos
+**Tópicos cobertos**: verificacao modelos ferramenta
+
+### Sessões
+
+- **seg 29/06** — verificacao de modelos ferramenta aula
+
+_Sem códigos vinculados a esta aula._
+
+---
+
+## 1 dia · 01/07/2026 — Conteúdo: unidade-02-verificacao-de-programas, unidade-03-verificacao-de-modelos
 
 
 ### Sessões
@@ -351,12 +373,13 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 06/07/2026 — Conteúdo: unidade-02-verificacao-de-programas
+## 1 dia · 06/07/2026 — Entrega
 
+**Tópicos cobertos**: entrega
 
 ### Sessões
 
-- **seg 06/07** — prova p2 prova
+- **seg 06/07** — prova p2 entrega do t2 prova
 
 _Sem códigos vinculados a esta aula._
 
@@ -386,7 +409,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 15/07/2026 — Conteúdo: unidade-01-metodos-formais, unidade-02-verificacao-de-programas
+## 1 dia · 15/07/2026 — Conteúdo: unidade-01-metodos-formais, unidade-02-verificacao-de-programas, unidade-03-verificacao-de-modelos
 
 
 ### Sessões
