@@ -124,9 +124,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-04"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "notes": "",
       "professor_signal": "",
@@ -188,9 +188,9 @@
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
-        "winner_score=9.63"
+        "winner_score=10.17"
       ],
-      "subunit_match_confidence": 0.8698524828589237,
+      "subunit_match_confidence": 0.864057429442423,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 1.0,
@@ -216,8 +216,8 @@
         "ferramenta:sobre",
         "topico:funcoes-recursivas",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-04"
+        "bloco:bloco-04",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -283,12 +283,12 @@
       "subunit_match_confidence": 0.07687379884689309,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.4316666666666667,
+      "computed_block_band": "media",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Especificações recursivas - listas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -312,9 +312,9 @@
       "auto_tags": [
         "topico:conjuntos-indutivos",
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-conjuntos-indutivos",
-        "bloco:bloco-04"
+        "subunit:especificacao-de-conjuntos-indutivos"
       ],
       "notes": "",
       "professor_signal": "",
@@ -374,22 +374,22 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=32.57",
-        "topic_score=11.84"
+        "winner_score=27.46",
+        "topic_score=12.21"
       ],
-      "unit_match_confidence": 0.9490654597041139,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=11.84"
+        "winner_score=12.21"
       ],
-      "subunit_match_confidence": 0.9051543606025805,
+      "subunit_match_confidence": 0.9079751585363854,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
+      "computed_block_confidence": 0.7014925373134329,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - conjuntos indutivos",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -413,8 +413,8 @@
       "auto_tags": [
         "topico:conjuntos-indutivos",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-04"
+        "bloco:bloco-04",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -481,15 +481,15 @@
       "subunit_match_reasons": [
         "winner_score=12.30"
       ],
-      "subunit_match_confidence": 0.44677461308362587,
+      "subunit_match_confidence": 0.4321108076472883,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.30348258706467673,
+      "computed_block_band": "media",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Conjuntos Indutivos",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -513,8 +513,8 @@
       "auto_tags": [
         "ferramenta:predicados",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-03"
+        "bloco:bloco-03",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -578,7 +578,7 @@
         "winner_score=7.10",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.04086809470124014,
+      "subunit_match_confidence": 0.015445321307779081,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 1.0,
@@ -603,8 +603,8 @@
       "auto_tags": [
         "ferramenta:predicados",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-03"
+        "bloco:bloco-03",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -667,7 +667,7 @@
       "subunit_match_reasons": [
         "winner_score=14.86"
       ],
-      "subunit_match_confidence": 0.5420535594132685,
+      "subunit_match_confidence": 0.5299152200242228,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -697,9 +697,9 @@
       "auto_tags": [
         "ferramenta:proposicional",
         "tipo:material-base",
+        "bloco:bloco-05",
         "unit:unidade-01-metodos-formais",
-        "subunit:fundamentos-de-logica-de-primeira-ordem",
-        "bloco:bloco-03"
+        "subunit:fundamentos-de-logica-de-primeira-ordem"
       ],
       "notes": "",
       "professor_signal": "",
@@ -759,22 +759,22 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=21.30",
-        "topic_score=20.13"
+        "winner_score=23.68",
+        "topic_score=21.69"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=20.13"
+        "winner_score=21.69"
       ],
-      "subunit_match_confidence": 0.6619648356014701,
+      "subunit_match_confidence": 0.67785309171393,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 0.36425240128545955,
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "computed_block_confidence": 0.4666666666666668,
       "computed_block_band": "media",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Proposicional - sintaxe",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -798,8 +798,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-02"
+        "bloco:bloco-11",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -866,15 +866,15 @@
       "subunit_match_reasons": [
         "winner_score=8.29"
       ],
-      "subunit_match_confidence": 0.17861453053342982,
+      "subunit_match_confidence": 0.156842867487328,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
-      "computed_block_confidence": 0.17374380750176951,
-      "computed_block_band": "baixa",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.6375000000000001,
+      "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Conceitos essenciais",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -898,8 +898,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-02"
+        "bloco:bloco-06",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -956,27 +956,27 @@
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "unit_match_reasons": [
-        "winner_score=63.77",
-        "topic_score=10.00"
+        "winner_score=63.93",
+        "topic_score=10.18"
       ],
-      "unit_match_confidence": 0.7935825669732106,
+      "unit_match_confidence": 0.7972389144181297,
       "subunit_match_reasons": [
-        "winner_score=10.00"
+        "winner_score=10.18"
       ],
-      "subunit_match_confidence": 0.21281487405037985,
+      "subunit_match_confidence": 0.22675857193354548,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "computed_block_confidence": 0.0,
+      "computed_block_band": "baixa",
       "source_section": "Introdução a Métodos Formais",
       "computed_subunit_slug": "sistemas-formais",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Introdução",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1000,9 +1000,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:material-base",
+        "bloco:bloco-06",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-06"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1057,15 +1057,15 @@
       "approved_at": "2026-04-09T20:15:55",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=26.44",
-        "topic_score=9.19",
+        "winner_score=26.00",
+        "topic_score=9.55",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8702373176573046,
+      "unit_match_confidence": 0.8751701748874228,
       "subunit_match_reasons": [
-        "winner_score=9.19"
+        "winner_score=9.55"
       ],
-      "subunit_match_confidence": 0.8038319181362944,
+      "subunit_match_confidence": 0.8112891402241073,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -1095,8 +1095,8 @@
       "auto_tags": [
         "ferramenta:sobre",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-06",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1184,8 +1184,8 @@
       "auto_tags": [
         "ferramenta:sobre",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-06",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1277,9 +1277,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:correcao-parcial-e-total",
-        "bloco:bloco-05"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1344,23 +1344,23 @@
       "approved_at": "2026-04-10T13:55:33",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=24.57",
-        "topic_score=10.89",
-        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+        "winner_score=23.97",
+        "topic_score=11.80",
+        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.18233565919941222,
+      "unit_match_confidence": 0.24498550331473912,
       "subunit_match_reasons": [
-        "winner_score=10.89"
+        "winner_score=8.91"
       ],
-      "subunit_match_confidence": 0.9446210796915167,
+      "subunit_match_confidence": 0.9322718167527508,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.0,
+      "computed_block_band": "baixa",
       "source_section": "Provas por Indução",
-      "computed_subunit_slug": "correcao-parcial-e-total",
+      "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - provas de especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1385,9 +1385,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:gabarito",
+        "bloco:bloco-03",
         "unit:unidade-01-metodos-formais",
-        "subunit:pre-e-pos-condicoes",
-        "bloco:bloco-03"
+        "subunit:sistemas-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1452,23 +1452,23 @@
       "approved_at": "2026-04-10T13:56:01",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=35.16",
-        "topic_score=6.80",
+        "winner_score=35.64",
+        "topic_score=7.17",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.22457959143042022,
+      "unit_match_confidence": 0.23068932425682862,
       "subunit_match_reasons": [
-        "winner_score=6.80"
+        "winner_score=13.79"
       ],
-      "subunit_match_confidence": 0.9113611756061719,
+      "subunit_match_confidence": 0.6680780719816709,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 0.6808686536379983,
+      "computed_block_confidence": 0.7000000000000001,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
-      "computed_subunit_slug": "pre-e-pos-condicoes",
+      "computed_subunit_slug": "sistemas-formais",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1493,9 +1493,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:lista",
+        "bloco:bloco-03",
         "unit:unidade-01-metodos-formais",
-        "subunit:pre-e-pos-condicoes",
-        "bloco:bloco-03"
+        "subunit:sistemas-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1560,23 +1560,23 @@
       "approved_at": "2026-04-10T13:56:11",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.78",
-        "topic_score=6.80",
+        "winner_score=35.26",
+        "topic_score=7.17",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.22700072590324652,
+      "unit_match_confidence": 0.23314257517837514,
       "subunit_match_reasons": [
-        "winner_score=6.80"
+        "winner_score=13.79"
       ],
-      "subunit_match_confidence": 0.9113611756061719,
+      "subunit_match_confidence": 0.6680780719816709,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 0.6808686536379983,
+      "computed_block_confidence": 0.7000000000000001,
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
-      "computed_subunit_slug": "pre-e-pos-condicoes",
+      "computed_subunit_slug": "sistemas-formais",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - asserções lógicas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1601,9 +1601,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-04"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1668,22 +1668,22 @@
       "approved_at": "2026-04-10T13:56:25",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=17.28",
-        "topic_score=9.27"
+        "winner_score=18.62",
+        "topic_score=9.81"
       ],
-      "unit_match_confidence": 0.9460264728181919,
+      "unit_match_confidence": 0.9499152776770777,
       "subunit_match_reasons": [
-        "winner_score=9.27"
+        "winner_score=9.81"
       ],
-      "subunit_match_confidence": 0.878782646233542,
+      "subunit_match_confidence": 0.8722805586706086,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
+      "computed_block_confidence": 0.8333333333333334,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - equações recursivas parte 2",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1708,8 +1708,8 @@
         "ferramenta:formal",
         "ferramenta:isabelle",
         "tipo:lista",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-06",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
@@ -1806,9 +1806,9 @@
       "auto_tags": [
         "ferramenta:proposicional",
         "tipo:material-base",
+        "bloco:bloco-06",
         "unit:unidade-01-metodos-formais",
-        "subunit:fundamentos-de-logica-de-primeira-ordem",
-        "bloco:bloco-03"
+        "subunit:fundamentos-de-logica-de-primeira-ordem"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1873,27 +1873,27 @@
       "approved_at": "2026-04-10T13:57:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=23.43",
-        "topic_score=20.13"
+        "winner_score=25.81",
+        "topic_score=21.69"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=20.13"
+        "winner_score=21.69"
       ],
-      "subunit_match_confidence": 0.6619648356014701,
+      "subunit_match_confidence": 0.67785309171393,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 0.7988467212015555,
-      "computed_block_band": "alta",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "computed_block_confidence": 0.35000000000000003,
+      "computed_block_band": "media",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Proposicional - semântica",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1918,8 +1918,8 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:gabarito",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-04"
+        "bloco:bloco-04",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2028,12 +2028,12 @@
       "subunit_match_confidence": 0.46297435897435896,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
+      "computed_block_confidence": 0.6025,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2057,8 +2057,7 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-04"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2125,22 +2124,21 @@
       "unit_match_reasons": [
         "winner_score=39.69",
         "topic_score=4.37",
-        "ambiguous",
-        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+        "ambiguous"
       ],
       "unit_match_confidence": 0.13947476932663605,
       "subunit_match_reasons": [
-        "winner_score=4.37"
+        "winner_score=9.73"
       ],
-      "subunit_match_confidence": 0.37196518552450764,
-      "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
-      "computed_block_band": "alta",
+      "subunit_match_confidence": 0.5511001439440674,
+      "computed_unit_slug": "",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.4444444444444444,
+      "computed_block_band": "media",
       "source_section": "Especificações Indutivas e Recursivas",
-      "computed_subunit_slug": "correcao-parcial-e-total",
+      "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2166,8 +2164,8 @@
         "ferramenta:sobre",
         "topico:funcoes-recursivas",
         "tipo:material-base",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-04"
+        "bloco:bloco-04",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
@@ -2265,8 +2263,8 @@
         "ferramenta:formal",
         "ferramenta:isabelle",
         "tipo:lista",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-06",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
       "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
@@ -2368,8 +2366,8 @@
       "auto_tags": [
         "tipo:lista",
         "uso:revisao-prova",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-07"
+        "bloco:bloco-07",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
       "manual_timeline_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
@@ -2474,9 +2472,9 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "bloco:bloco-06",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-05"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2547,22 +2545,22 @@
       "approved_at": "2026-04-15T20:42:47",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=37.79",
-        "topic_score=9.19"
+        "winner_score=33.53",
+        "topic_score=9.55"
       ],
-      "unit_match_confidence": 0.8526453298497714,
+      "unit_match_confidence": 0.8582469368520264,
       "subunit_match_reasons": [
-        "winner_score=9.19"
+        "winner_score=9.55"
       ],
-      "subunit_match_confidence": 0.8981058131939909,
+      "subunit_match_confidence": 0.9019792648444863,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
-      "computed_block_confidence": 0.610209323932886,
-      "computed_block_band": "alta",
+      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "computed_block_confidence": 0.21250000000000002,
+      "computed_block_band": "media",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
       "source_section": "TDE Trabalho Discente Efetivo",
-      "computed_block_method": "scorer_only",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Definição",
       "posting_date": "2026-04-15",
       "posting_date_created": "2026-04-15",
@@ -2585,9 +2583,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-01-metodos-formais",
-        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas",
-        "bloco:bloco-05"
+        "bloco:bloco-04",
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2613,22 +2611,25 @@
       "approved_markdown": "code/professor/t1-2026-1-thy.md",
       "curated_markdown": "code/professor/t1-2026-1-thy.md",
       "unit_match_reasons": [
-        "winner_score=3.27",
-        "topic_score=0.54",
-        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+        "winner_score=4.67",
+        "topic_score=1.76"
       ],
-      "unit_match_confidence": 0.4675313738953555,
+      "unit_match_confidence": 0.6920768689733409,
       "subunit_match_reasons": [
-        "winner_score=0.54"
+        "winner_score=1.76"
       ],
-      "subunit_match_confidence": 0.9714285714285715,
-      "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
-      "computed_block_confidence": 0.14361702127659673,
-      "computed_block_band": "baixa",
+      "subunit_match_confidence": 0.7714123652864435,
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.30974713740458015,
+      "computed_block_band": "media",
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-programas",
-      "computed_block_method": "consensus",
-      "unit_block_conflict": {},
+      "computed_block_method": "concept-fused",
+      "unit_block_conflict": {
+        "unit": "unidade-02-verificacao-de-programas",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+      },
       "source_section": "TDE Trabalho Discente Efetivo",
       "id_override": "t1-2026-1-thy",
       "moodle_label": "Arquivo .thy",
@@ -2656,9 +2657,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-04"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2725,18 +2726,18 @@
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
+      "computed_block_confidence": 0.8333333333333334,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=19.52",
-        "topic_score=9.27",
+        "winner_score=18.29",
+        "topic_score=9.63",
         "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.26559464709691355,
+      "unit_match_confidence": 0.2932807145082564,
       "subunit_match_reasons": [
-        "winner_score=9.27"
+        "winner_score=9.63"
       ],
-      "subunit_match_confidence": 0.8927692639758256,
+      "subunit_match_confidence": 0.8968117146121092,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao/exerciciosformalizacaoalgoritmosrecursao.md",
@@ -2744,7 +2745,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "source_section": "Especificações Indutivas e Recursivas",
       "moodle_label": "Exercícios - equações recursivas parte 1",
       "posting_date": "2026-02-18",
@@ -2769,9 +2770,9 @@
       "auto_tags": [
         "tipo:prova",
         "uso:revisao-prova",
+        "bloco:bloco-07",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:pre-e-pos-condicoes",
-        "bloco:bloco-07"
+        "subunit:pre-e-pos-condicoes"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
@@ -2861,17 +2862,17 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
-      "computed_block_confidence": 0.95,
+      "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=20.00",
-        "topic_score=6.72"
+        "winner_score=20.48",
+        "topic_score=7.09"
       ],
-      "unit_match_confidence": 0.7451895910780669,
+      "unit_match_confidence": 0.7582392776523702,
       "subunit_match_reasons": [
-        "winner_score=6.72"
+        "winner_score=7.09"
       ],
-      "subunit_match_confidence": 0.9103067360594795,
+      "subunit_match_confidence": 0.9149002257336343,
       "approved_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "curated_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1-gabarito/revisao-p1-gabarito.md",
@@ -2879,7 +2880,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "pre-e-pos-condicoes",
       "unit_block_conflict": {},
-      "computed_block_method": "review_rule",
+      "computed_block_method": "manual",
       "source_section": "Exercícios de Revisão para Provas",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
@@ -2895,8 +2896,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-05",
+        "unit:unidade-03-verificacao-de-modelos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2921,24 +2922,27 @@
       "language": "isabelle",
       "approved_markdown": "code/professor/arvores.md",
       "curated_markdown": "code/professor/arvores.md",
-      "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 0.2989717223650385,
-      "computed_block_band": "media",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "computed_block_confidence": 0.12963134328358203,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
+        "winner_score=3.07",
         "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
+        "tag_boost=3.00"
       ],
-      "unit_match_confidence": 0.4642891556292754,
+      "unit_match_confidence": 0.7468816597481465,
       "subunit_match_reasons": [
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
-      "computed_block_method": "llm_only",
-      "unit_block_conflict": {},
+      "computed_block_method": "concept-fused",
+      "unit_block_conflict": {
+        "unit": "unidade-03-verificacao-de-modelos",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+      },
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos: provas sobre arvores",
       "posting_date": "2026-02-18",
@@ -2966,9 +2970,9 @@
       "auto_tags": [
         "topico:exemplos",
         "tipo:codigo",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:exemplos-de-aplicacoes",
-        "bloco:bloco-06"
+        "subunit:exemplos-de-aplicacoes"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2994,20 +2998,20 @@
       "approved_markdown": "code/professor/exemplos.md",
       "curated_markdown": "code/professor/exemplos.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 0.6574319609211445,
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=22.09",
-        "topic_score=11.74"
+        "winner_score=18.44",
+        "topic_score=12.10"
       ],
-      "unit_match_confidence": 0.9486229430002384,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=11.74"
+        "winner_score=12.10"
       ],
-      "subunit_match_confidence": 0.8981976763994413,
+      "subunit_match_confidence": 0.9012508881801808,
       "computed_subunit_slug": "exemplos-de-aplicacoes",
-      "computed_block_method": "consensus",
+      "computed_block_method": "concept-fused",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos - definicoes de funcoes",
@@ -3035,8 +3039,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-05",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3062,13 +3066,13 @@
       "approved_markdown": "code/professor/intro.md",
       "curated_markdown": "code/professor/intro.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 0.12861467121787842,
-      "computed_block_band": "baixa",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "computed_block_confidence": 0.2249244739756368,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=11.26",
         "topic_score=0.94",
-        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
+        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
       "unit_match_confidence": 0.3555692307692307,
       "subunit_match_reasons": [
@@ -3077,7 +3081,7 @@
       ],
       "subunit_match_confidence": 0.09782608695652155,
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos - introducao",
@@ -3105,8 +3109,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-06"
+        "bloco:bloco-05",
+        "unit:unidade-03-verificacao-de-modelos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3131,24 +3135,27 @@
       "language": "isabelle",
       "approved_markdown": "code/professor/listas.md",
       "curated_markdown": "code/professor/listas.md",
-      "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 0.5560359161955436,
-      "computed_block_band": "alta",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
+      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "computed_block_confidence": 0.1573569536423841,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
+        "winner_score=3.07",
         "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=5599d015-10e0-4f6e-ad17-c526b903dc09"
+        "tag_boost=3.00"
       ],
-      "unit_match_confidence": 0.4642891556292754,
+      "unit_match_confidence": 0.7468816597481465,
       "subunit_match_reasons": [
         "winner_score=0.60"
       ],
       "subunit_match_confidence": 0.35714285714285715,
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
-      "computed_block_method": "llm_only",
-      "unit_block_conflict": {},
+      "computed_block_method": "concept-fused",
+      "unit_block_conflict": {
+        "unit": "unidade-03-verificacao-de-modelos",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+      },
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos: provas sobre listas",
       "posting_date": "2026-02-18",
@@ -3175,8 +3182,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-01-metodos-formais",
-        "bloco:bloco-05"
+        "bloco:bloco-04",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3202,21 +3209,22 @@
       "approved_markdown": "code/professor/provas.md",
       "curated_markdown": "code/professor/provas.md",
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
-      "computed_block_confidence": 0.30468424733615806,
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.3995462794918331,
       "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=6.81",
-        "topic_score=0.91"
+        "topic_score=0.91",
+        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.7367233112909477,
+      "unit_match_confidence": 0.5495294283465861,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
       ],
       "subunit_match_confidence": 0.09782608695652155,
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "unit_block_conflict": {},
       "source_section": "Provas por Indução",
       "moodle_label": "Exemplos - provas isabelle e isar",
@@ -3248,9 +3256,9 @@
         "topico:correcao-parcial-e-total",
         "topico:exemplos",
         "tipo:material-base",
+        "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:correcao-parcial-e-total",
-        "bloco:bloco-11"
+        "subunit:correcao-parcial-e-total"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3335,7 +3343,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "correcao-parcial-e-total",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Correção e Terminação",
       "posting_date": "2026-02-18",
@@ -3365,9 +3373,9 @@
       "auto_tags": [
         "topico:correcao",
         "tipo:lista",
+        "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:correcao-parcial-e-total",
-        "bloco:bloco-11"
+        "subunit:correcao-parcial-e-total"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -3437,14 +3445,14 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=36.53",
-        "topic_score=18.29"
+        "winner_score=38.18",
+        "topic_score=19.19"
       ],
-      "unit_match_confidence": 0.8053252827742454,
+      "unit_match_confidence": 0.8042985533447731,
       "subunit_match_reasons": [
-        "winner_score=18.29"
+        "winner_score=19.19"
       ],
-      "subunit_match_confidence": 0.9456704796483016,
+      "subunit_match_confidence": 0.9482278889942579,
       "approved_markdown": "exercises/lists/exercicioscorrecaoterminacao.md",
       "curated_markdown": "exercises/lists/exercicioscorrecaoterminacao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioscorrecaoterminacao/exercicioscorrecaoterminacao.md",
@@ -3470,9 +3478,9 @@
         "ferramenta:formal",
         "ferramenta:invariantes",
         "tipo:lista",
+        "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:invariante-e-variante-de-laco",
-        "bloco:bloco-11"
+        "subunit:invariante-e-variante-de-laco"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3539,17 +3547,17 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.8,
+      "computed_block_confidence": 0.7000000000000001,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=46.47",
-        "topic_score=18.73"
+        "winner_score=46.07",
+        "topic_score=20.01"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=18.73"
+        "winner_score=20.01"
       ],
-      "subunit_match_confidence": 0.6366791243993593,
+      "subunit_match_confidence": 0.6599710188377553,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosinvariantes.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosinvariantes.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosinvariantes/exerciciosformalizacaoalgoritmosinvariantes.md",
@@ -3557,7 +3565,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "invariante-e-variante-de-laco",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - invariantes de laço",
       "posting_date": "2026-02-18",
@@ -3588,8 +3596,8 @@
         "ferramenta:formal",
         "ferramenta:invariantes",
         "tipo:material-base",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3672,8 +3680,8 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.2833333333333334,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=56.62",
         "topic_score=15.45"
@@ -3690,7 +3698,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "invariante-e-variante-de-laco",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Invariantes de laço",
       "posting_date": "2026-02-18",
@@ -3720,7 +3728,6 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:material-base",
-        "subunit:logica-de-hoare",
         "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
@@ -3804,17 +3811,17 @@
       },
       "computed_unit_slug": "",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.012359194099393222,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.42500000000000004,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=44.87",
-        "topic_score=14.52"
+        "winner_score=45.18",
+        "topic_score=14.88"
       ],
-      "unit_match_confidence": 0.18407274731330953,
+      "unit_match_confidence": 0.20397876201357631,
       "subunit_match_reasons": [
-        "winner_score=14.52"
+        "winner_score=14.88"
       ],
-      "subunit_match_confidence": 0.8549875998897768,
+      "subunit_match_confidence": 0.20397876201357631,
       "approved_markdown": "content/curated/logicadehoare.md",
       "curated_markdown": "content/curated/logicadehoare.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare/logicadehoare.md",
@@ -3822,7 +3829,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "logica-de-hoare",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Lógica de Hoare (parte 1)",
       "posting_date": "2026-02-18",
@@ -3853,9 +3860,9 @@
         "ferramenta:enquanto",
         "ferramenta:hoare",
         "tipo:material-base",
+        "bloco:bloco-10",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:21-logica-de-hoare",
-        "bloco:bloco-10"
+        "subunit:21-logica-de-hoare"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
@@ -3925,11 +3932,11 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=42.16",
-        "topic_score=7.53",
+        "winner_score=42.47",
+        "topic_score=7.89",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8351290777787,
+      "unit_match_confidence": 0.8266642023589076,
       "subunit_match_reasons": [
         "manual"
       ],
@@ -3959,8 +3966,8 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-15"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4026,18 +4033,18 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny1/exerciciosdafny1.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.11649669956450691,
-      "computed_block_band": "baixa",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.35000000000000003,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=15.26",
-        "topic_score=8.19"
+        "winner_score=15.57",
+        "topic_score=8.55"
       ],
-      "unit_match_confidence": 0.9606301492322111,
+      "unit_match_confidence": 0.9336588720116403,
       "subunit_match_reasons": [
-        "winner_score=8.19"
+        "winner_score=8.55"
       ],
-      "subunit_match_confidence": 0.5641338871243587,
+      "subunit_match_confidence": 0.5826412445900105,
       "approved_markdown": "exercises/lists/exerciciosdafny1.md",
       "curated_markdown": "exercises/lists/exerciciosdafny1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny1/exerciciosdafny1.md",
@@ -4045,7 +4052,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - programação e verificação com Dafny",
       "posting_date": "2026-02-18",
@@ -4075,8 +4082,8 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4143,17 +4150,17 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.11698848644758927,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.5,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=54.06",
-        "topic_score=15.17"
+        "winner_score=54.37",
+        "topic_score=15.53"
       ],
-      "unit_match_confidence": 0.6935434941047205,
+      "unit_match_confidence": 0.6886612254282103,
       "subunit_match_reasons": [
-        "winner_score=15.17"
+        "winner_score=15.53"
       ],
-      "subunit_match_confidence": 0.5514764039019245,
+      "subunit_match_confidence": 0.5619568715803026,
       "approved_markdown": "exercises/lists/exerciciosdafny2.md",
       "curated_markdown": "exercises/lists/exerciciosdafny2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny2/exerciciosdafny2.md",
@@ -4161,7 +4168,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - arrays no Dafny",
       "posting_date": "2026-02-18",
@@ -4191,9 +4198,9 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
+        "bloco:bloco-13",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:verificacao-de-programas",
-        "bloco:bloco-13"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4260,17 +4267,17 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "computed_block_confidence": 0.11259876659052216,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.875,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=17.28",
-        "topic_score=15.35"
+        "winner_score=17.59",
+        "topic_score=15.71"
       ],
-      "unit_match_confidence": 0.9268368942157373,
+      "unit_match_confidence": 0.9285268851415844,
       "subunit_match_reasons": [
-        "winner_score=15.35"
+        "winner_score=15.71"
       ],
-      "subunit_match_confidence": 0.9607095362167796,
+      "subunit_match_confidence": 0.9616171046770601,
       "approved_markdown": "exercises/lists/exerciciosdafny3.md",
       "curated_markdown": "exercises/lists/exerciciosdafny3.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny3/exerciciosdafny3.md",
@@ -4278,7 +4285,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - sequências no Dafny",
       "posting_date": "2026-02-18",
@@ -4308,9 +4315,9 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
+        "bloco:bloco-13",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:verificacao-de-programas",
-        "bloco:bloco-13"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4377,17 +4384,17 @@
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "computed_block_confidence": 0.12309197777649024,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.7777777777777778,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=29.64",
-        "topic_score=15.53"
+        "winner_score=29.95",
+        "topic_score=15.89"
       ],
-      "unit_match_confidence": 0.9109966520731393,
+      "unit_match_confidence": 0.9130292544825417,
       "subunit_match_reasons": [
-        "winner_score=15.53"
+        "winner_score=15.89"
       ],
-      "subunit_match_confidence": 0.7052536698429048,
+      "subunit_match_confidence": 0.7119849009122364,
       "approved_markdown": "exercises/lists/exerciciosdafny4.md",
       "curated_markdown": "exercises/lists/exerciciosdafny4.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny4/exerciciosdafny4.md",
@@ -4395,7 +4402,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - conjuntos e multiconjuntos no Dafny",
       "posting_date": "2026-02-18",
@@ -4425,9 +4432,9 @@
       "auto_tags": [
         "ferramenta:dafny",
         "tipo:lista",
+        "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:verificacao-de-programas",
-        "bloco:bloco-15"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4493,18 +4500,18 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.19318923700079324,
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=24.10",
-        "topic_score=15.35"
+        "winner_score=24.41",
+        "topic_score=15.71"
       ],
-      "unit_match_confidence": 0.727853048462741,
+      "unit_match_confidence": 0.7341393573019408,
       "subunit_match_reasons": [
-        "winner_score=15.35"
+        "winner_score=15.71"
       ],
-      "subunit_match_confidence": 0.7017978113600832,
+      "subunit_match_confidence": 0.708685968819599,
       "approved_markdown": "exercises/lists/exerciciosdafny5.md",
       "curated_markdown": "exercises/lists/exerciciosdafny5.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md",
@@ -4512,7 +4519,7 @@
       "review_status": "approved",
       "computed_subunit_slug": "verificacao-de-programas",
       "unit_block_conflict": {},
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - classes em Dafny",
       "posting_date": "2026-02-18",
@@ -4542,9 +4549,7 @@
       "auto_tags": [
         "ferramenta:modelos",
         "tipo:material-base",
-        "unit:unidade-03-verificacao-de-modelos",
-        "subunit:verificacao-de-modelos-model-checking",
-        "bloco:bloco-16"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4835,23 +4840,22 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md"
       },
-      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
-      "computed_block_method": "card+scorer",
-      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_unit_slug": "",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.4444444444444444,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=42.42",
-        "topic_score=9.92",
-        "herdada_do_bloco=a6ac04f2-7611-4bef-b74a-54390cef4084"
+        "winner_score=42.89",
+        "topic_score=10.46"
       ],
-      "unit_match_confidence": 0.5621409132143935,
+      "unit_match_confidence": 0.5848782538893773,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "winner_score=9.92"
+        "winner_score=10.46"
       ],
-      "subunit_match_confidence": 0.8635621409132144,
+      "subunit_match_confidence": 0.26340736210389504,
       "approved_markdown": "content/curated/verificacaomodelos.md",
       "curated_markdown": "content/curated/verificacaomodelos.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md",
@@ -4886,8 +4890,8 @@
       "auto_tags": [
         "ferramenta:modelos",
         "tipo:lista",
-        "unit:unidade-03-verificacao-de-modelos",
-        "bloco:bloco-16"
+        "bloco:bloco-16",
+        "unit:unidade-03-verificacao-de-modelos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4983,9 +4987,9 @@
         "markdown_path": "staging/markdown-auto/datalab/exercicioslogicatemporal/exercicioslogicatemporal.md"
       },
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.777754538609554,
+      "computed_block_confidence": 0.775,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=32.36",
@@ -4998,7 +5002,7 @@
         "winner_score=7.18",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.045986622073578606,
+      "subunit_match_confidence": 0.020847268673355686,
       "approved_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "curated_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioslogicatemporal/exercicioslogicatemporal.md",
@@ -5035,9 +5039,9 @@
         "ferramenta:nusmv",
         "ferramenta:nuxmv",
         "tipo:lista",
+        "bloco:bloco-18",
         "unit:unidade-03-verificacao-de-modelos",
-        "subunit:verificacao-de-modelos-model-checking",
-        "bloco:bloco-16"
+        "subunit:verificacao-de-modelos-model-checking"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5119,21 +5123,21 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosnusmv/exerciciosnusmv.md"
       },
       "computed_unit_slug": "unidade-03-verificacao-de-modelos",
-      "computed_block_method": "card+scorer",
-      "computed_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "computed_block_confidence": 0.5792059966685176,
-      "computed_block_band": "alta",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
+      "computed_block_confidence": 0.2583333333333333,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=35.97",
-        "topic_score=15.35"
+        "winner_score=36.59",
+        "topic_score=16.08"
       ],
-      "unit_match_confidence": 0.9352787910369984,
+      "unit_match_confidence": 0.9381912736230513,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "winner_score=15.35"
+        "winner_score=16.08"
       ],
-      "subunit_match_confidence": 0.9371547681083897,
+      "subunit_match_confidence": 0.9399828309093398,
       "approved_markdown": "exercises/lists/exerciciosnusmv.md",
       "curated_markdown": "exercises/lists/exerciciosnusmv.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosnusmv/exerciciosnusmv.md",
@@ -5167,9 +5171,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
+        "bloco:bloco-15",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:softwares-de-suporte-a-verificacao-formal-de-modelos",
-        "bloco:bloco-15"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5237,23 +5241,22 @@
       "extraction_error": null,
       "file_count": 7,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.28175,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.7650791044776121,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=1.87",
+        "topic_score=1.76",
+        "reconciliada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.6578631877481566,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=1.66"
       ],
-      "subunit_match_confidence": 0.9714285714285714,
+      "subunit_match_confidence": 0.6372897173782321,
       "moodle_label": "Exemplos (classes, parte 1)",
       "posting_date": "2026-05-31",
       "posting_date_created": "2026-05-31",
@@ -5284,8 +5287,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
+        "bloco:bloco-13",
         "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-13"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5359,23 +5363,22 @@
       "extraction_error": null,
       "file_count": 8,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.45,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=1.79",
+        "winner_score=0.88",
         "topic_score=0.60",
-        "tag_boost=1.50",
         "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.24905535698699502,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=1.66"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.6372897173782321,
       "moodle_label": "Exemplos (Arrays)",
       "posting_date": "2026-05-18",
       "posting_date_created": "2026-05-18",
@@ -5406,8 +5409,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-13"
+        "bloco:bloco-13",
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5468,18 +5471,21 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 6,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_unit_slug": "unidade-01-metodos-formais",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.45,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
-        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        "winner_score=4.54",
+        "topic_score=0.60"
       ],
-      "unit_match_confidence": 0.5712804623621544,
-      "unit_block_conflict": {},
+      "unit_match_confidence": 0.8859250930863036,
+      "unit_block_conflict": {
+        "unit": "unidade-01-metodos-formais",
+        "block_unit": "unidade-02-verificacao-de-programas",
+        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+      },
       "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "subunit_match_reasons": [
         "winner_score=1.07"
@@ -5515,8 +5521,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
+        "bloco:bloco-13",
         "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-13"
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5566,23 +5573,22 @@
       "extraction_error": null,
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "computed_block_confidence": 0.8,
+      "computed_block_confidence": 0.8408239700374531,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=1.79",
+        "winner_score=0.88",
         "topic_score=0.60",
-        "tag_boost=1.50",
         "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.24905535698699502,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=1.66"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.6372897173782321,
       "moodle_label": "Exemplos (Sequencias)",
       "posting_date": "2026-05-21",
       "posting_date_created": "2026-05-21",
@@ -5613,9 +5619,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:exemplos-de-aplicacoes",
-        "bloco:bloco-15"
+        "bloco:bloco-13",
+        "unit:unidade-01-metodos-formais",
+        "subunit:exemplos-de-aplicacoes"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5670,23 +5676,26 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 5,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
-      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.05762259414225935,
-      "computed_block_band": "baixa",
+      "computed_unit_slug": "unidade-01-metodos-formais",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
+      "computed_block_confidence": 0.5287141073657928,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=5.79",
+        "topic_score=1.44"
       ],
-      "unit_match_confidence": 0.5712804623621544,
-      "unit_block_conflict": {},
+      "unit_match_confidence": 0.9104511888078053,
+      "unit_block_conflict": {
+        "unit": "unidade-01-metodos-formais",
+        "block_unit": "unidade-02-verificacao-de-programas",
+        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+      },
       "computed_subunit_slug": "exemplos-de-aplicacoes",
       "subunit_match_reasons": [
-        "winner_score=4.10"
+        "winner_score=4.64"
       ],
-      "subunit_match_confidence": 0.7399707174231333,
+      "subunit_match_confidence": 0.7704140991942087,
       "moodle_label": "Respostas",
       "posting_date": "2026-06-08",
       "posting_date_created": "2026-06-08",
@@ -5718,8 +5727,7 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-10"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5786,25 +5794,24 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 7,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
-      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.8,
+      "computed_unit_slug": "",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
-        "ambiguous",
-        "herdada_do_bloco=171a1a09-a72d-490d-b4d8-5843cfb301b4"
+        "ambiguous"
       ],
       "unit_match_confidence": 0.033819574986547,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=13.95"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.4223019003226964,
       "moodle_label": "Exemplos (Logica de Floyd-Hoare)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -5835,8 +5842,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-12"
+        "bloco:bloco-12",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5893,23 +5900,23 @@
       "extraction_error": null,
       "file_count": 5,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
-      "computed_block_confidence": 0.0,
-      "computed_block_band": "baixa",
+      "computed_block_confidence": 0.2053667687595713,
+      "computed_block_band": "media",
       "unit_match_reasons": [
         "winner_score=1.79",
         "topic_score=0.60",
         "tag_boost=1.50",
         "herdada_do_bloco=e3bc8a61-e729-4f25-9bc5-12b8a47151e3"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.415836907835936,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=7.09"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.5079006772009028,
       "moodle_label": "Exemplos (introducao a Dafny)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -5941,9 +5948,9 @@
       "auto_tags": [
         "ferramenta:invariantes",
         "tipo:codigo",
+        "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas",
-        "bloco:bloco-11"
+        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5993,21 +6000,21 @@
       "extraction_error": null,
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "consensus",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "computed_block_confidence": 0.8,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.25375000000000003,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=7.05",
-        "topic_score=0.60"
+        "winner_score=8.40",
+        "topic_score=1.76"
       ],
-      "unit_match_confidence": 0.7457418008471616,
+      "unit_match_confidence": 0.8948974382482691,
       "unit_block_conflict": {},
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=1.76"
       ],
-      "subunit_match_confidence": 0.7928571428571429,
+      "subunit_match_confidence": 0.629608621667612,
       "moodle_label": "Exemplos (invariantes de laco)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -6038,9 +6045,9 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
+        "bloco:bloco-12",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas",
-        "bloco:bloco-12"
+        "subunit:softwares-de-suporte-a-verificacao-formal-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
@@ -6090,22 +6097,22 @@
       "extraction_error": null,
       "file_count": 4,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "manual",
       "computed_block_id": "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
+        "winner_score=5.53",
+        "topic_score=1.76",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.5712804623621544,
+      "unit_match_confidence": 0.8403362328277758,
       "unit_block_conflict": {},
       "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=1.76"
       ],
-      "subunit_match_confidence": 0.7928571428571429,
+      "subunit_match_confidence": 0.629608621667612,
       "moodle_label": "Exemplos (Terminacao)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -6123,8 +6130,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-15"
+        "bloco:bloco-15",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
@@ -6168,22 +6175,23 @@
       "extraction_error": null,
       "file_count": 3,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "consensus",
+      "computed_block_method": "manual",
       "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=3.22",
+        "winner_score=3.58",
         "topic_score=0.60",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.44357090471758126,
+      "unit_match_confidence": 0.499482358199373,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "empate-exato 2x score=0.94"
+        "winner_score=0.65",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.07628300153139356,
       "moodle_label": "Exemplos (Tipos Indutivos)",
       "posting_date": "2026-05-31",
       "posting_date_created": "2026-05-31",
@@ -6202,9 +6210,9 @@
       "auto_tags": [
         "topico:exemplos",
         "tipo:codigo",
+        "bloco:bloco-11",
         "unit:unidade-01-metodos-formais",
-        "subunit:exemplos-de-aplicacoes",
-        "bloco:bloco-19"
+        "subunit:exemplos-de-aplicacoes"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6230,21 +6238,21 @@
       "extraction_error": null,
       "file_count": 0,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_method": "llm_only",
-      "computed_block_id": "38383c92-9c71-4c4c-90af-ad19935e5597",
-      "computed_block_confidence": 0.5002880434782608,
-      "computed_block_band": "alta",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.23638497652582163,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=5.40",
-        "topic_score=4.93"
+        "winner_score=6.00",
+        "topic_score=5.30"
       ],
-      "unit_match_confidence": 0.8777587548638133,
+      "unit_match_confidence": 0.8861352361535848,
       "unit_block_conflict": {},
       "computed_subunit_slug": "exemplos-de-aplicacoes",
       "subunit_match_reasons": [
-        "winner_score=11.74"
+        "winner_score=12.10"
       ],
-      "subunit_match_confidence": 0.9202752887465504,
+      "subunit_match_confidence": 0.9226663582133946,
       "moodle_label": "Exemplos NuSMV",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -6277,9 +6285,9 @@
       "auto_tags": [
         "ferramenta:formal",
         "tipo:lista",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
-        "subunit:especificacao-de-funcoes-recursivas",
-        "bloco:bloco-04"
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6347,21 +6355,21 @@
         "markdown_path": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao3-respostas/exerciciosformalizacaoalgoritmosrecursao3-respostas.md"
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_method": "card",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 0.85,
+      "computed_block_confidence": 0.8500000000000001,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=15.72",
-        "topic_score=8.73"
+        "winner_score=17.06",
+        "topic_score=9.27"
       ],
-      "unit_match_confidence": 0.8861333944533578,
+      "unit_match_confidence": 0.8928039702233249,
       "unit_block_conflict": {},
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "subunit_match_reasons": [
-        "winner_score=8.73"
+        "winner_score=9.27"
       ],
-      "subunit_match_confidence": 0.9308747192298876,
+      "subunit_match_confidence": 0.8928039702233249,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao3-respostas/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
@@ -6472,9 +6480,7 @@
         "ferramenta:escola",
         "ferramenta:grande",
         "ferramenta:universidade",
-        "unit:unidade-01-metodos-formais",
-        "subunit:correcao-parcial-e-total",
-        "bloco:bloco-02"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6539,23 +6545,22 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md"
       },
-      "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_method": "scorer_only",
-      "computed_block_id": "1e73625a-de3e-4c8a-87c4-d301a3138c0b",
-      "computed_block_confidence": 0.4537815126050418,
-      "computed_block_band": "media",
+      "computed_unit_slug": "",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.6190476190476192,
+      "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=30.28",
-        "topic_score=4.50",
-        "herdada_do_bloco=1e73625a-de3e-4c8a-87c4-d301a3138c0b"
+        "winner_score=32.25",
+        "topic_score=5.58"
       ],
-      "unit_match_confidence": 0.28901734104046245,
+      "unit_match_confidence": 0.3947472141603067,
       "unit_block_conflict": {},
       "computed_subunit_slug": "correcao-parcial-e-total",
       "subunit_match_reasons": [
-        "winner_score=4.50"
+        "winner_score=5.58"
       ],
-      "subunit_match_confidence": 0.7630947087594487,
+      "subunit_match_confidence": 0.42706653767601854,
       "approved_markdown": "content/curated/t2-2026-1.md",
       "curated_markdown": "content/curated/t2-2026-1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md",
@@ -6581,8 +6586,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-15"
+        "bloco:bloco-15",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6644,23 +6649,22 @@
       "extraction_error": null,
       "file_count": 6,
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "llm_only",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.28175,
-      "computed_block_band": "media",
+      "computed_block_confidence": 0.006945544554455452,
+      "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
+        "winner_score=0.88",
         "topic_score=0.60",
-        "tag_boost=1.50",
         "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.24905535698699502,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "correcao-parcial-e-total",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=3.49"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.5232224770642202,
       "computed_block_rationale": "O material exemplifica a lógica de programas e verificação com Dafny, utilizando conceitos de orientação a objetos, variáveis ghost e abstração para uma estrutura de dados complexa.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
@@ -6688,8 +6692,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "unit:unidade-02-verificacao-de-programas",
-        "bloco:bloco-15"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6750,24 +6753,22 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 6,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "auto_concept",
-      "computed_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
-      "computed_block_confidence": 0.05762259414225935,
+      "computed_unit_slug": "",
+      "computed_block_method": "concept-fused",
+      "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
+      "computed_block_confidence": 0.06724270353302624,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=0.88",
+        "topic_score=0.60"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.24905535698699502,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "softwares-de-suporte-a-verificacao-formal-de-modelos",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.60"
+        "winner_score=7.73"
       ],
-      "subunit_match_confidence": 0.35714285714285715,
+      "subunit_match_confidence": 0.3952165481577245,
       "computed_block_rationale": "O conteúdo foca na aplicação de lógica de programas e verificação com Dafny para manipular e provar propriedades de arrays, alinhando-se com coleções e lógica de programas.",
       "computed_block_match_confidence": 0.5,
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
@@ -6796,9 +6797,9 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:lista",
+        "bloco:bloco-10",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:logica-de-hoare",
-        "bloco:bloco-10"
+        "subunit:logica-de-hoare"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6866,21 +6867,21 @@
         "markdown_path": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas/logicadehoare1-exercicios-respostas.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.552797107106164,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.45,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=36.58",
-        "topic_score=28.11"
+        "winner_score=36.89",
+        "topic_score=28.47"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
-        "winner_score=28.11"
+        "winner_score=28.47"
       ],
-      "subunit_match_confidence": 0.9785426630144783,
+      "subunit_match_confidence": 0.9788162112804664,
       "approved_markdown": "exercises/lists/logicadehoare1-exercicios-respostas.md",
       "curated_markdown": "exercises/lists/logicadehoare1-exercicios-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas/logicadehoare1-exercicios-respostas.md",
@@ -6912,9 +6913,9 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:gabarito",
+        "bloco:bloco-10",
         "unit:unidade-02-verificacao-de-programas",
-        "subunit:logica-de-hoare",
-        "bloco:bloco-10"
+        "subunit:logica-de-hoare"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6982,21 +6983,21 @@
         "markdown_path": "staging/markdown-auto/datalab/logicadehoare-exercicios-respostas/logicadehoare-exercicios-respostas.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_method": "card+scorer",
+      "computed_block_method": "concept-fused",
       "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.552797107106164,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.45,
+      "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=39.23",
-        "topic_score=31.23"
+        "winner_score=39.54",
+        "topic_score=31.59"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
-        "winner_score=31.23"
+        "winner_score=31.59"
       ],
-      "subunit_match_confidence": 0.9806837928715535,
+      "subunit_match_confidence": 0.9809057549857549,
       "approved_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "curated_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare-exercicios-respostas/logicadehoare-exercicios-respostas.md",
@@ -8382,7 +8383,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-10T15:12:15",
+  "updated_at": "2026-08-17T16:36:47",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
