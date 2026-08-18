@@ -374,7 +374,7 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=32.57",
+        "winner_score=35.07",
         "topic_score=11.84"
       ],
       "unit_match_confidence": 0.9490654597041139,
@@ -414,7 +414,8 @@
         "topico:conjuntos-indutivos",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-conjuntos-indutivos"
       ],
       "notes": "",
       "professor_signal": "",
@@ -474,14 +475,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=40.84",
+        "winner_score=43.34",
         "topic_score=12.30"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=12.30"
       ],
-      "subunit_match_confidence": 0.4321108076472883,
+      "subunit_match_confidence": 0.6668942645337496,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.30348258706467673,
@@ -514,7 +515,8 @@
         "ferramenta:predicados",
         "tipo:material-base",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:fundamentos-de-logica-de-primeira-ordem"
       ],
       "notes": "",
       "professor_signal": "",
@@ -575,10 +577,9 @@
       ],
       "unit_match_confidence": 0.914996166854566,
       "subunit_match_reasons": [
-        "winner_score=7.10",
-        "ambiguous"
+        "winner_score=7.10"
       ],
-      "subunit_match_confidence": 0.015445321307779081,
+      "subunit_match_confidence": 0.8133032694475761,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 1.0,
@@ -604,7 +605,8 @@
         "ferramenta:predicados",
         "tipo:material-base",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:fundamentos-de-logica-de-primeira-ordem"
       ],
       "notes": "",
       "professor_signal": "",
@@ -667,7 +669,7 @@
       "subunit_match_reasons": [
         "winner_score=14.86"
       ],
-      "subunit_match_confidence": 0.5299152200242228,
+      "subunit_match_confidence": 0.919580137262818,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -766,7 +768,7 @@
       "subunit_match_reasons": [
         "winner_score=20.13"
       ],
-      "subunit_match_confidence": 0.6530048673884971,
+      "subunit_match_confidence": 0.9535114731300288,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.4666666666666668,
@@ -799,7 +801,8 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-11",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-conjuntos-indutivos"
       ],
       "notes": "",
       "professor_signal": "",
@@ -866,7 +869,7 @@
       "subunit_match_reasons": [
         "winner_score=8.29"
       ],
-      "subunit_match_confidence": 0.156842867487328,
+      "subunit_match_confidence": 0.8713975380159305,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.6375000000000001,
@@ -956,14 +959,14 @@
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "unit_match_reasons": [
-        "winner_score=63.77",
-        "topic_score=10.00"
+        "winner_score=59.16",
+        "topic_score=7.87"
       ],
-      "unit_match_confidence": 0.7935825669732106,
+      "unit_match_confidence": 0.7377777777777776,
       "subunit_match_reasons": [
-        "winner_score=10.18"
+        "winner_score=7.87"
       ],
-      "subunit_match_confidence": 0.22675857193354548,
+      "subunit_match_confidence": 0.4796190476190475,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -974,7 +977,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "source_section": "Introdução a Métodos Formais",
-      "computed_subunit_slug": "sistemas-formais",
+      "computed_subunit_slug": "abordagens-para-verificacao-formal",
       "unit_block_conflict": {},
       "moodle_label": "Introdução",
       "posting_date": "2026-02-18",
@@ -1386,8 +1389,7 @@
         "ferramenta:formal",
         "tipo:gabarito",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais",
-        "subunit:sistemas-formais"
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1456,11 +1458,11 @@
         "topic_score=6.80",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.22457959143042022,
+      "unit_match_confidence": 0.38911950624657815,
       "subunit_match_reasons": [
-        "winner_score=13.79"
+        "winner_score=6.81"
       ],
-      "subunit_match_confidence": 0.6680780719816709,
+      "subunit_match_confidence": 0.32735821334116955,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.7000000000000001,
@@ -1494,8 +1496,7 @@
         "ferramenta:formal",
         "tipo:lista",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais",
-        "subunit:sistemas-formais"
+        "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1564,11 +1565,11 @@
         "topic_score=6.80",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.22700072590324652,
+      "unit_match_confidence": 0.3933145029718911,
       "subunit_match_reasons": [
-        "winner_score=13.79"
+        "winner_score=6.81"
       ],
-      "subunit_match_confidence": 0.6680780719816709,
+      "subunit_match_confidence": 0.32735821334116955,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "computed_block_confidence": 0.7000000000000001,
@@ -1774,7 +1775,7 @@
       "approved_at": "2026-04-10T13:56:40",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=14.28",
+        "winner_score=16.78",
         "topic_score=2.03",
         "unidade_do_bloco_manual"
       ],
@@ -1880,7 +1881,7 @@
       "subunit_match_reasons": [
         "winner_score=20.13"
       ],
-      "subunit_match_confidence": 0.6530048673884971,
+      "subunit_match_confidence": 0.9700413628687792,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -2016,12 +2017,11 @@
         }
       },
       "unit_match_reasons": [
-        "winner_score=5.50",
+        "winner_score=8.00",
         "topic_score=1.12",
-        "ambiguous",
         "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ],
-      "unit_match_confidence": 0.038562485913496286,
+      "unit_match_confidence": 0.338947126367831,
       "subunit_match_reasons": [
         "winner_score=1.12"
       ],
@@ -2924,12 +2924,11 @@
       "computed_block_confidence": 0.12963134328358203,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
+        "winner_score=3.28",
+        "topic_score=0.91",
         "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
-      "unit_match_confidence": 0.4642891556292754,
+      "unit_match_confidence": 0.45347652021261026,
       "subunit_match_reasons": [
         "winner_score=1.07",
         "ambiguous"
@@ -2997,7 +2996,7 @@
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=22.09",
+        "winner_score=24.59",
         "topic_score=11.74"
       ],
       "unit_match_confidence": 0.9486229430002384,
@@ -3135,12 +3134,11 @@
       "computed_block_confidence": 0.1573569536423841,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
+        "winner_score=3.28",
+        "topic_score=0.91",
         "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
-      "unit_match_confidence": 0.4642891556292754,
+      "unit_match_confidence": 0.45347652021261026,
       "subunit_match_reasons": [
         "winner_score=1.04",
         "ambiguous"
@@ -4148,7 +4146,7 @@
         "winner_score=54.06",
         "topic_score=15.17"
       ],
-      "unit_match_confidence": 0.6935434941047205,
+      "unit_match_confidence": 0.9345109412074875,
       "subunit_match_reasons": [
         "winner_score=15.53"
       ],
@@ -4846,7 +4844,7 @@
       "subunit_match_reasons": [
         "winner_score=9.92"
       ],
-      "subunit_match_confidence": 0.22306219131135954,
+      "subunit_match_confidence": 0.5621409132143935,
       "approved_markdown": "content/curated/verificacaomodelos.md",
       "curated_markdown": "content/curated/verificacaomodelos.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md",
@@ -6470,7 +6468,9 @@
         "ferramenta:escola",
         "ferramenta:grande",
         "ferramenta:universidade",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:correcao-parcial-e-total"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6535,7 +6535,7 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md"
       },
-      "computed_unit_slug": "",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.6190476190476192,
       "computed_block_band": "alta",
@@ -6543,13 +6543,13 @@
         "winner_score=30.28",
         "topic_score=4.50"
       ],
-      "unit_match_confidence": 0.28901734104046245,
+      "unit_match_confidence": 0.7342819030680303,
       "unit_block_conflict": {},
       "computed_subunit_slug": "correcao-parcial-e-total",
       "subunit_match_reasons": [
         "winner_score=4.50"
       ],
-      "subunit_match_confidence": 0.28901734104046245,
+      "subunit_match_confidence": 0.6302801244997777,
       "approved_markdown": "content/curated/t2-2026-1.md",
       "curated_markdown": "content/curated/t2-2026-1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md",
@@ -8375,7 +8375,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-17T17:24:52",
+  "updated_at": "2026-08-18T15:39:14",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",

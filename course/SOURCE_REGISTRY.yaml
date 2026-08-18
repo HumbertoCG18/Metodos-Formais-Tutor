@@ -9,7 +9,6 @@ sources:
     processing_mode: auto
     effective_profile: general
     include_in_bundle: true
-    professor_signal: ""
   - id: aws-encryption-sdk
     title: "GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub"
     category: bibliografia
@@ -19,7 +18,6 @@ sources:
     processing_mode: auto
     effective_profile: general
     include_in_bundle: true
-    professor_signal: ""
   - id: archive-of-formal-proofs-355fb8
     title: "Archive of Formal Proofs"
     category: references
@@ -29,7 +27,6 @@ sources:
     processing_mode: auto
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao3
     title: "ExerciciosFormalizacaoAlgoritmosRecursao3"
     category: listas
@@ -39,7 +36,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: formalizacaoalgoritmos-recursao2
     title: "FormalizacaoAlgoritmos_Recursao2"
     category: material-de-aula
@@ -49,7 +45,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosconjuntosindutivos
     title: "ExerciciosConjuntosIndutivos"
     category: listas
@@ -59,7 +54,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: conjuntosindutivos
     title: "ConjuntosIndutivos"
     category: material-de-aula
@@ -69,7 +63,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicapredicados-semantica
     title: "logicaPredicados_semantica"
     category: material-de-aula
@@ -79,7 +72,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicapredicados-sintaxe
     title: "logicaPredicados_sintaxe"
     category: material-de-aula
@@ -89,7 +81,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicaproposicional-sintaxe
     title: "logicaProposicional_sintaxe"
     category: material-de-aula
@@ -99,7 +90,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: revisao
     title: "revisao"
     category: material-de-aula
@@ -109,7 +99,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao
     title: "introducao"
     category: material-de-aula
@@ -119,7 +108,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: provasindutivas-especificacoesrecursivas
     title: "ProvasIndutivas_EspecificaçõesRecursivas"
     category: material-de-aula
@@ -129,7 +117,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: provasindutivas-especificacoesrecursivas-arvores
     title: "ProvasIndutivas_EspecificaçõesRecursivas_Arvores"
     category: material-de-aula
@@ -139,7 +126,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: provasindutivas-especificacoesrecursivas-listas
     title: "ProvasIndutivas_EspecificaçõesRecursivas_Listas"
     category: material-de-aula
@@ -149,7 +135,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicioscorrecaoinducaomatematica
     title: "ExerciciosCorrecaoInducaoMatematica"
     category: listas
@@ -159,7 +144,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosespecificacao-respostas
     title: "ExerciciosEspecificacao_respostas"
     category: gabaritos
@@ -169,7 +153,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosespecificacao
     title: "ExerciciosEspecificacao"
     category: listas
@@ -179,7 +162,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao2
     title: "ExerciciosFormalizacaoAlgoritmosRecursao2"
     category: listas
@@ -189,7 +171,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosisabelle2
     title: "ExerciciosIsabelle2"
     category: listas
@@ -199,7 +180,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicaproposicional-semantica
     title: "logicaProposicional_semantica"
     category: material-de-aula
@@ -209,7 +189,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao-respostas
     title: "ExerciciosFormalizacaoAlgoritmosRecursao_respostas"
     category: gabaritos
@@ -219,7 +198,6 @@ sources:
     processing_mode: auto
     effective_profile: scanned
     include_in_bundle: true
-    professor_signal: ""
   - id: formalizacaoalgoritmos-recursao
     title: "FormalizacaoAlgoritmos_Recursao"
     category: material-de-aula
@@ -229,7 +207,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: formalizacaoalgoritmos-recursao3
     title: "FormalizacaoAlgoritmos_Recursao3"
     category: material-de-aula
@@ -239,7 +216,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosisabelle
     title: "ExerciciosIsabelle"
     category: listas
@@ -249,7 +225,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: revisao-p1
     title: "revisao_p1"
     category: listas
@@ -259,7 +234,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: t1-2026-1
     title: "t1_2026_1"
     category: trabalhos
@@ -269,7 +243,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: t1-2026-1-thy
     title: "T1 2026 1"
     category: codigo-professor
@@ -279,7 +252,6 @@ sources:
     processing_mode: auto
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao
     title: "ExerciciosFormalizacaoAlgoritmosRecursao"
     category: listas
@@ -289,7 +261,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: revisao-p1-gabarito
     title: "revisao_p1_gabarito"
     category: provas
@@ -299,7 +270,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: arvores
     title: "arvores"
     category: codigo-professor
@@ -309,7 +279,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplos
     title: "exemplos"
     category: codigo-professor
@@ -319,7 +288,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: intro
     title: "intro"
     category: codigo-professor
@@ -329,7 +297,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: listas
     title: "listas"
     category: codigo-professor
@@ -339,7 +306,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: provas
     title: "provas"
     category: codigo-professor
@@ -349,7 +315,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: correcaoterminacao
     title: "CorrecaoTerminacao"
     category: material-de-aula
@@ -359,7 +324,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicioscorrecaoterminacao
     title: "ExerciciosCorrecaoTerminacao"
     category: listas
@@ -369,7 +333,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosinvariantes
     title: "ExerciciosFormalizacaoAlgoritmosInvariantes"
     category: listas
@@ -379,7 +342,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: formalizacaoalgoritmos-invarianteslaco
     title: "FormalizacaoAlgoritmos_InvariantesLaco"
     category: material-de-aula
@@ -389,7 +351,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicadehoare
     title: "LogicaDeHoare"
     category: material-de-aula
@@ -399,7 +360,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicadehoare2
     title: "LogicaDeHoare2"
     category: material-de-aula
@@ -409,7 +369,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosdafny1
     title: "ExerciciosDafny1"
     category: listas
@@ -419,7 +378,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosdafny2
     title: "ExerciciosDafny2"
     category: listas
@@ -429,7 +387,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosdafny3
     title: "ExerciciosDafny3"
     category: listas
@@ -439,7 +396,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosdafny4
     title: "ExerciciosDafny4"
     category: listas
@@ -449,7 +405,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosdafny5
     title: "ExerciciosDafny5"
     category: listas
@@ -459,7 +414,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: verificacaomodelos
     title: "verificacaomodelos"
     category: material-de-aula
@@ -469,7 +423,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicioslogicatemporal
     title: "ExerciciosLogicaTemporal"
     category: listas
@@ -479,7 +432,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosnusmv
     title: "ExerciciosNusmv"
     category: listas
@@ -489,7 +441,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: classes-parte1
     title: "Classes Parte1"
     category: codigo-professor
@@ -499,7 +450,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: colecoes-arrays
     title: "Colecoes Arrays"
     category: codigo-professor
@@ -509,7 +459,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: colecoes-conjuntos
     title: "Colecoes Conjuntos"
     category: codigo-professor
@@ -519,7 +468,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: colecoes-sequences
     title: "Colecoes Sequences"
     category: codigo-professor
@@ -529,7 +477,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicios-conjuntos
     title: "Exercicios Conjuntos"
     category: codigo-professor
@@ -539,7 +486,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: hoare
     title: "Hoare"
     category: codigo-professor
@@ -549,7 +495,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: introducao-zip
     title: "Introducao"
     category: codigo-professor
@@ -559,7 +504,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: invariantes
     title: "Invariantes"
     category: codigo-professor
@@ -569,7 +513,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: terminacao
     title: "Terminacao"
     category: codigo-professor
@@ -579,7 +522,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: tiposindutivos
     title: "Tiposindutivos"
     category: codigo-professor
@@ -589,7 +531,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exemplos-zip
     title: "Exemplos"
     category: codigo-professor
@@ -599,7 +540,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exerciciosformalizacaoalgoritmosrecursao3-respostas
     title: "ExerciciosFormalizacaoAlgoritmosRecursao3_respostas"
     category: listas
@@ -609,7 +549,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: plano
     title: "plano"
     category: cronograma
@@ -619,7 +558,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: t2-2026-1
     title: "t2_2026_1"
     category: trabalhos
@@ -629,7 +567,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: classes-parte2
     title: "classes_parte2"
     category: codigo-professor
@@ -639,7 +576,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: exercicios-arrays
     title: "exercicios_arrays"
     category: codigo-professor
@@ -649,7 +585,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-    professor_signal: ""
   - id: logicadehoare1-exercicios-respostas
     title: "LogicaDeHoare1_exercicios_respostas"
     category: listas
@@ -659,7 +594,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""
   - id: logicadehoare-exercicios-respostas
     title: "LogicaDeHoare_exercicios_respostas"
     category: gabaritos
@@ -669,4 +603,3 @@ sources:
     processing_mode: high_fidelity
     effective_profile: math_heavy
     include_in_bundle: true
-    professor_signal: ""

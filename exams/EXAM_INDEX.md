@@ -6,6 +6,6 @@
 
 ## Provas disponíveis
 
-| Arquivo | Tipo | Prova | Observação | Padrão do professor |
-|---|---|---|---|---|
-| revisao_p1_gabarito.pdf | original | revisao_p1_gabarito |  |  |
+| Arquivo | Tipo | Prova | Observação |
+|---|---|---|---|
+| revisao_p1_gabarito.pdf | original | revisao_p1_gabarito |  |

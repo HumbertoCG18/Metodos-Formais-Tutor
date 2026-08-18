@@ -16,7 +16,7 @@ _Sem códigos vinculados a esta aula._
 
 ---
 
-## 1 dia · 04/03/2026 — Sistemas Formais
+## 1 dia · 04/03/2026 — Introducao metodos formais
 
 **Unidade**: unidade-01-metodos-formais
 **Tópicos cobertos**: introducao metodos formais
