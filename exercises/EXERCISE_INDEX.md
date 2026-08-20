@@ -27,5 +27,4 @@
 | ExerciciosLogicaTemporal | lista | ferramenta:modelos; tipo:lista; bloco:bloco-16 | não | média | fixação por unidade |
 | ExerciciosNusmv | lista | ferramenta:modelos; ferramenta:nusmv; ferramenta:nuxmv | não | média | fixação por unidade |
 | ExerciciosFormalizacaoAlgoritmosRecursao3_respostas | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| LogicaDeHoare1_exercicios_respostas | lista | ferramenta:hoare; tipo:lista; bloco:bloco-10 | não | média | fixação por unidade |
 | LogicaDeHoare_exercicios_respostas | exercício | ferramenta:hoare; tipo:gabarito; bloco:bloco-10 | não | média | fixação por unidade |

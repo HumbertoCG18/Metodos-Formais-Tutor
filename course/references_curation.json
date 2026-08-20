@@ -1,29 +1,56 @@
 {
   "entries": {
     "eth2": {
-      "ref_summary": "",
-      "ref_concepts": [],
+      "ref_summary": "Este repositório apresenta uma especificação formal, funcional e inequívoca da Fase 0 do Ethereum 2.0 utilizando a linguagem Dafny. Através do uso da Lógica de Hoare, o projeto estabelece pré e pós-condições para provar matematicamente a corretude da implementação e garantir a ausência de erros em tempo de execução, como divisão por zero e acessos fora de limites. Ele serve como um recurso prático de apoio ao estudo de métodos formais aplicados a sistemas blockchain e engenharia de software de alta confiabilidade.",
+      "ref_concepts": [
+        "Verificação Formal",
+        "Dafny",
+        "Lógica de Hoare",
+        "Ethereum 2.0",
+        "Provas de Corretude",
+        "Solvers SMT",
+        "Beacon Chain"
+      ],
       "coverage_units": [
         {
-          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "unit_slug": "unidade-01-metodos-formais",
           "topics": [
-            "state machines",
-            "representa"
+            "linguagens de especificacao e logicas",
+            "fundamentos de logica de primeira ordem",
+            "abordagens para verificacao formal"
           ],
-          "confidence": 0.053
+          "confidence": 0.429
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "logica de hoare",
+            "sistema de prova",
+            "softwares de suporte a verificacao formal de programas"
+          ],
+          "confidence": 0.429
         }
       ],
-      "computed_ref_unit": "unidade-03-verificacao-de-modelos",
+      "computed_ref_unit": "unidade-01-metodos-formais",
       "computed_ref_topics": [
-        "state machines",
-        "representa"
+        "linguagens de especificacao e logicas",
+        "fundamentos de logica de primeira ordem",
+        "abordagens para verificacao formal"
       ],
       "content_hash": "183bb6a17e3d49a001703c5d655acef1e5fce95a",
       "matcher_version": 2
     },
     "aws-encryption-sdk": {
-      "ref_summary": "",
-      "ref_concepts": [],
+      "ref_summary": "Este repositório apresenta a implementação do AWS Encryption SDK na linguagem de verificação formal Dafny para garantir criptografia segura no lado do cliente. O projeto demonstra boas práticas criptográficas, utilizando chaves de criptografia de dados (DEK) protegidas por chaves de empacotamento (wrapping keys) integradas ao AWS KMS. Ele serve como recurso prático para o estudo de métodos formais, geração de código com Smithy e transpilação de contratos verificados para ambientes como .NET e Rust.",
+      "ref_concepts": [
+        "Criptografia no lado do cliente",
+        "Verificação formal",
+        "Dafny",
+        "AWS KMS",
+        "Envelope Encryption",
+        "Smithy",
+        "Transpilação"
+      ],
       "coverage_units": [],
       "computed_ref_unit": "",
       "computed_ref_topics": [],
@@ -31,11 +58,41 @@
       "matcher_version": 2
     },
     "archive-of-formal-proofs-355fb8": {
-      "ref_summary": "",
-      "ref_concepts": [],
-      "coverage_units": [],
-      "computed_ref_unit": "",
-      "computed_ref_topics": [],
+      "ref_summary": "Esta referência apresenta a formalização e verificação mecânica de uma versão livre de axiomas do argumento ontológico de Gödel e da prova de necessidade da Trindade utilizando o assistente de prova Isabelle/HOL. O trabalho demonstra como a lógica matemática de ordem superior pode ser aplicada para analisar rigorosamente argumentos filosóficos e metafísicos complexos, eliminando premissas redundantes. O recurso serve como um excelente estudo de caso prático para estudantes compreenderem a aplicação de provadores de teoremas em contextos de raciocínio abstrato.",
+      "ref_concepts": [
+        "Isabelle/HOL",
+        "Verificação Formal",
+        "Assistentes de Prova",
+        "Lógica de Ordem Superior",
+        "Argumento Ontológico de Gödel",
+        "Lógica Modal"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "linguagens de especificacao e logicas",
+            "fundamentos de logica de primeira ordem",
+            "abordagens para verificacao formal"
+          ],
+          "confidence": 0.667
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "logica de hoare",
+            "sistema de prova",
+            "softwares de suporte a verificacao formal de programas"
+          ],
+          "confidence": 0.667
+        }
+      ],
+      "computed_ref_unit": "unidade-01-metodos-formais",
+      "computed_ref_topics": [
+        "linguagens de especificacao e logicas",
+        "fundamentos de logica de primeira ordem",
+        "abordagens para verificacao formal"
+      ],
       "content_hash": "058f68ddb53d526b5c3e13a5b2b24625d09c5d2f",
       "matcher_version": 2
     }

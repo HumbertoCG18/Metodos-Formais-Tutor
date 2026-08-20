@@ -585,15 +585,6 @@ sources:
     processing_mode: high_fidelity
     effective_profile: auto
     include_in_bundle: true
-  - id: logicadehoare1-exercicios-respostas
-    title: "LogicaDeHoare1_exercicios_respostas"
-    category: listas
-    file_type: pdf
-    source_path: "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare1_exercicios_respostas.pdf"
-    raw_target: "raw/pdfs/listas/logicadehoare1-exercicios-respostas.pdf"
-    processing_mode: high_fidelity
-    effective_profile: math_heavy
-    include_in_bundle: true
   - id: logicadehoare-exercicios-respostas
     title: "LogicaDeHoare_exercicios_respostas"
     category: gabaritos

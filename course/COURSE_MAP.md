@@ -10,6 +10,8 @@
 ### Unidade 01 — Métodos Formais
 - [ ] 1.1 Sistemas Formais
 - [ ] 1.2 Linguagens de Especificação e Lógicas
+  - 📖 Apoio: Archive of Formal Proofs (doc) — Isabelle/HOL, Verificação Formal, Assistentes de Prova → content/BIBLIOGRAPHY.md
+  - 📖 Apoio: GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub (repo) — Verificação Formal, Dafny, Lógica de Hoare → content/BIBLIOGRAPHY.md
   - [ ] 1.2.1 Fundamentos de Lógica de Primeira Ordem
   - [ ] 1.2.2 Especificação de Conjuntos Indutivos
   - [ ] 1.2.3 Especificação de Funções Recursivas
@@ -18,15 +20,18 @@
   - [ ] 1.3.2 Verificação de Programas
   - [ ] 1.3.3 Provadores de Teoremas
 - [ ] 1.4 Exemplos de Aplicações
+- 🧪 Tambem cobre esta unidade: `Tiposindutivos`
 
 ### Unidade 02 — Verificação de Programas
 - [ ] 2.1 Lógica de Hoare
-  - 📖 Apoio: GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub (repo) — Especificação Formal, Verificação Formal, Dafny → content/BIBLIOGRAPHY.md
+  - 📖 Apoio: Archive of Formal Proofs (doc) — Isabelle/HOL, Verificação Formal, Assistentes de Prova → content/BIBLIOGRAPHY.md
+  - 📖 Apoio: GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub (repo) — Verificação Formal, Dafny, Lógica de Hoare → content/BIBLIOGRAPHY.md
   - [ ] 2.1.1 Pré e Pós Condições
   - [ ] 2.1.2 Correção Parcial e Total
   - [ ] 2.1.3 Invariante e Variante de Laço
   - [ ] 2.1.4 Sistema de Prova
 - [ ] 2.2 Softwares de Suporte à Verificação Formal de Programas
+- 🧪 Tambem cobre esta unidade: `Colecoes Arrays`, `Colecoes Conjuntos` (+1)
 
 ### Unidade 03 — Verificação de Modelos
 - [ ] 3.1 Máquinas de Estado
@@ -36,6 +41,7 @@
   - [ ] 3.2.2 Lógica Temporal Ramificada
 - [ ] 3.3 Especificação de Propriedades para Sistemas Sequenciais e Concorrentes
 - [ ] 3.4 Softwares de Suporte à Verificação Formal de Modelos
+- 🧪 Tambem cobre esta unidade: `Exemplos`
 
 ## Timeline — Cronograma x Unidades
 

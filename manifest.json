@@ -41,9 +41,23 @@
       "effective_profile": "general",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:dafny"
+        "ferramenta:dafny",
+        "subunit:verificacao-de-programas"
       ],
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52"
+      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "computed_unit_slug": "",
+      "unit_match_reasons": [
+        "winner_score=0.01",
+        "topic_score=0.02",
+        "ambiguous"
+      ],
+      "unit_match_confidence": 0.0,
+      "unit_block_conflict": {},
+      "computed_subunit_slug": "verificacao-de-programas",
+      "subunit_match_reasons": [
+        "winner_score=0.11"
+      ],
+      "subunit_match_confidence": 0.8620689655172414
     },
     {
       "id": "aws-encryption-sdk",
@@ -65,7 +79,20 @@
       "effective_profile": "general",
       "manual_tags": [],
       "auto_tags": [],
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52"
+      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "computed_unit_slug": "",
+      "unit_match_reasons": [
+        "winner_score=0.01",
+        "topic_score=0.02",
+        "ambiguous"
+      ],
+      "unit_match_confidence": 0.0,
+      "unit_block_conflict": {},
+      "computed_subunit_slug": "",
+      "subunit_match_reasons": [
+        "empate-exato 13x score=0.02"
+      ],
+      "subunit_match_confidence": 0.0
     },
     {
       "id": "archive-of-formal-proofs-355fb8",
@@ -78,7 +105,8 @@
       "auto_tags": [
         "ferramenta:axiom-free",
         "ferramenta:formal",
-        "ferramenta:isabelle"
+        "ferramenta:isabelle",
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -103,15 +131,23 @@
         "winner_score=10.00",
         "topic_score=11.76"
       ],
-      "unit_match_confidence": 1.0,
+      "unit_match_confidence": 0.999450175943698,
       "subunit_match_reasons": [
         "winner_score=11.76"
       ],
-      "subunit_match_confidence": 0.16119707532732522,
+      "subunit_match_confidence": 0.19180411494643756,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_subunit_slug": "sistemas-formais",
       "unit_block_conflict": {},
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52"
+      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosrecursao3",
@@ -201,7 +237,28 @@
       "computed_block_method": "manual",
       "moodle_label": "Exercícios - equações recursivas parte 3",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "formalizacaoalgoritmos-recursao2",
@@ -299,6 +356,27 @@
       "temporal_block_window": [
         "bloco-04"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -377,7 +455,7 @@
         "winner_score=35.07",
         "topic_score=11.84"
       ],
-      "unit_match_confidence": 0.9490654597041139,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=11.84"
       ],
@@ -399,6 +477,27 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -475,7 +574,7 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=43.34",
+        "winner_score=41.94",
         "topic_score=12.30"
       ],
       "unit_match_confidence": 0.95,
@@ -501,6 +600,27 @@
       "temporal_block_window": [
         "bloco-04"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -512,7 +632,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:predicados",
         "tipo:material-base",
         "bloco:bloco-03",
         "unit:unidade-01-metodos-formais",
@@ -571,11 +690,11 @@
       "approved_at": "2026-04-09T20:35:09",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=16.66",
+        "winner_score=13.52",
         "topic_score=7.10",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.914996166854566,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=7.10"
       ],
@@ -591,7 +710,23 @@
       "moodle_label": "Lógica Predicados - semântica",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a"
+      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "logicapredicados-sintaxe",
@@ -602,7 +737,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:predicados",
         "tipo:material-base",
         "bloco:bloco-03",
         "unit:unidade-01-metodos-formais",
@@ -661,7 +795,7 @@
       "approved_at": "2026-04-09T20:34:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.92",
+        "winner_score=31.78",
         "topic_score=14.86",
         "unidade_do_bloco_manual"
       ],
@@ -686,7 +820,23 @@
       "moodle_label": "Lógica Predicados - sintaxe",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a"
+      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "logicaproposicional-sintaxe",
@@ -697,7 +847,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:proposicional",
+        "topico:logica-propocional",
+        "topico:logica-proposicional",
         "tipo:material-base",
         "bloco:bloco-05",
         "unit:unidade-01-metodos-formais",
@@ -761,14 +912,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=21.30",
-        "topic_score=20.13"
+        "winner_score=21.60",
+        "topic_score=20.49"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=20.13"
+        "winner_score=20.49"
       ],
-      "subunit_match_confidence": 0.9535114731300288,
+      "subunit_match_confidence": 0.9543298787985245,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.4666666666666668,
@@ -788,6 +939,22 @@
         "bloco-02",
         "bloco-03"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -799,6 +966,7 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
+        "topico:conjuntos-e-funcoes",
         "tipo:material-base",
         "bloco:bloco-11",
         "unit:unidade-01-metodos-formais",
@@ -862,14 +1030,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=30.95",
-        "topic_score=8.29"
+        "winner_score=31.44",
+        "topic_score=8.47"
       ],
-      "unit_match_confidence": 0.8870383779869659,
+      "unit_match_confidence": 0.8894453368610035,
       "subunit_match_reasons": [
-        "winner_score=8.29"
+        "winner_score=8.47"
       ],
-      "subunit_match_confidence": 0.8713975380159305,
+      "subunit_match_confidence": 0.8741377681186809,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.6375000000000001,
@@ -888,6 +1056,22 @@
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -991,6 +1175,14 @@
         "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
         "1e73625a-de3e-4c8a-87c4-d301a3138c0b"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -1085,7 +1277,18 @@
       "moodle_label": "Provas indutivas de especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09"
+      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-arvores",
@@ -1158,7 +1361,7 @@
         "topic_score=1.45",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.7814202132018266,
+      "unit_match_confidence": 0.789945604481559,
       "subunit_match_reasons": [
         "winner_score=1.45"
       ],
@@ -1174,7 +1377,18 @@
       "moodle_label": "Indução estrutural sobre árvores",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09"
+      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-listas",
@@ -1247,7 +1461,7 @@
         "topic_score=1.45",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.7814202132018266,
+      "unit_match_confidence": 0.789945604481559,
       "subunit_match_reasons": [
         "winner_score=1.45"
       ],
@@ -1268,7 +1482,18 @@
       "moodle_label": "Indução estrutural sobre listas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09"
+      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "exercicioscorrecaoinducaomatematica",
@@ -1355,7 +1580,7 @@
       "subunit_match_reasons": [
         "winner_score=8.91"
       ],
-      "subunit_match_confidence": 0.9322718167527508,
+      "subunit_match_confidence": 0.9821004087132271,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.0,
@@ -1374,6 +1599,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -1454,11 +1690,11 @@
       "approved_at": "2026-04-10T13:56:01",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=35.16",
+        "winner_score=34.82",
         "topic_score=6.80",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.38911950624657815,
+      "unit_match_confidence": 0.39291914673636,
       "subunit_match_reasons": [
         "winner_score=6.81"
       ],
@@ -1481,6 +1717,22 @@
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -1561,11 +1813,11 @@
       "approved_at": "2026-04-10T13:56:11",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.78",
+        "winner_score=34.44",
         "topic_score=6.80",
         "herdada_do_bloco=2edd762f-2dc8-4437-90c7-c207b796434a"
       ],
-      "unit_match_confidence": 0.3933145029718911,
+      "unit_match_confidence": 0.39719691966003046,
       "subunit_match_reasons": [
         "winner_score=6.81"
       ],
@@ -1588,6 +1840,22 @@
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -1695,6 +1963,27 @@
       "temporal_block_window": [
         "bloco-04"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -1779,7 +2068,7 @@
         "topic_score=2.03",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.7029219858156028,
+      "unit_match_confidence": 0.792045390070922,
       "subunit_match_reasons": [
         "winner_score=2.03"
       ],
@@ -1794,7 +2083,18 @@
       "computed_block_method": "manual",
       "moodle_label": "Exercícios - provas em Isabelle (parte 2)",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "logicaproposicional-semantica",
@@ -1805,7 +2105,8 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:proposicional",
+        "topico:logica-propocional",
+        "topico:logica-proposicional",
         "tipo:material-base",
         "bloco:bloco-06",
         "unit:unidade-01-metodos-formais",
@@ -1874,14 +2175,14 @@
       "approved_at": "2026-04-10T13:57:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=23.43",
-        "topic_score=20.13"
+        "winner_score=23.73",
+        "topic_score=20.49"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=20.13"
+        "winner_score=20.49"
       ],
-      "subunit_match_confidence": 0.9700413628687792,
+      "subunit_match_confidence": 0.9939035306516776,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -1906,6 +2207,22 @@
         "bloco-02",
         "bloco-03"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2 linguagens de especificacao e logicas",
+            "1.2.2 especificacao de conjuntos indutivos",
+            "1.2.3 especificacao de funcoes recursivas",
+            "especificacao de conjuntos indutivos",
+            "especificacao de funcoes recursivas",
+            "especificacao formal",
+            "linguagens de especificacao e logicas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -1920,7 +2237,8 @@
         "ferramenta:formal",
         "tipo:gabarito",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2025,7 +2343,7 @@
       "subunit_match_reasons": [
         "winner_score=1.12"
       ],
-      "subunit_match_confidence": 0.46297435897435896,
+      "subunit_match_confidence": 0.8734153846153846,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.6025,
@@ -2043,6 +2361,27 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -2122,11 +2461,11 @@
       "approved_at": "2026-04-10T14:05:19",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=39.69",
+        "winner_score=37.85",
         "topic_score=4.37",
         "ambiguous"
       ],
-      "unit_match_confidence": 0.13947476932663605,
+      "unit_match_confidence": 0.14628049602194193,
       "subunit_match_reasons": [
         "winner_score=9.73"
       ],
@@ -2148,6 +2487,27 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -2249,7 +2609,28 @@
       "computed_block_method": "manual",
       "moodle_label": "Especificações recursivas - árvores binárias",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "exerciciosisabelle",
@@ -2353,7 +2734,18 @@
       "computed_block_method": "manual",
       "moodle_label": "Exercícios - provas em Isabelle",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "revisao-p1",
@@ -2461,7 +2853,23 @@
       "computed_block_method": "manual",
       "moodle_label": "Exercícios para P1",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "logica de hoare - exercicios"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
+      ]
     },
     {
       "id": "t1-2026-1",
@@ -2545,7 +2953,7 @@
       "approved_at": "2026-04-15T20:42:47",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=37.80",
+        "winner_score=37.79",
         "topic_score=9.19"
       ],
       "unit_match_confidence": 0.8526453298497714,
@@ -2570,6 +2978,14 @@
       "temporal_block_provider": "due-window",
       "temporal_block_window": [
         "bloco-11"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -2610,11 +3026,10 @@
       "approved_markdown": "code/professor/t1-2026-1-thy.md",
       "curated_markdown": "code/professor/t1-2026-1-thy.md",
       "unit_match_reasons": [
-        "winner_score=3.27",
-        "topic_score=0.54",
-        "herdada_do_bloco=7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+        "winner_score=23.52",
+        "topic_score=1.19"
       ],
-      "unit_match_confidence": 0.4675313738953555,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=1.19",
         "ambiguous"
@@ -2641,6 +3056,14 @@
       "temporal_block_provider": "due-window",
       "temporal_block_window": [
         "bloco-11"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -2753,6 +3176,27 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -2869,7 +3313,7 @@
       "subunit_match_reasons": [
         "winner_score=6.72"
       ],
-      "subunit_match_confidence": 0.9103067360594795,
+      "subunit_match_confidence": 0.9814206810408922,
       "approved_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "curated_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1-gabarito/revisao-p1-gabarito.md",
@@ -2881,7 +3325,17 @@
       "source_section": "Exercícios de Revisão para Provas",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "logica de hoare - exercicios"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "arvores",
@@ -2924,11 +3378,10 @@
       "computed_block_confidence": 0.12963134328358203,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=3.28",
-        "topic_score=0.91",
-        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+        "winner_score=7.23",
+        "topic_score=1.07"
       ],
-      "unit_match_confidence": 0.45347652021261026,
+      "unit_match_confidence": 0.8827459459459459,
       "subunit_match_reasons": [
         "winner_score=1.07",
         "ambiguous"
@@ -2951,6 +3404,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -2996,10 +3460,10 @@
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=24.59",
+        "winner_score=46.82",
         "topic_score=11.74"
       ],
-      "unit_match_confidence": 0.9486229430002384,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=11.74"
       ],
@@ -3021,6 +3485,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -3064,11 +3539,10 @@
       "computed_block_confidence": 0.2249244739756368,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=11.26",
-        "topic_score=0.94",
-        "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+        "winner_score=41.43",
+        "topic_score=1.32"
       ],
-      "unit_match_confidence": 0.3555692307692307,
+      "unit_match_confidence": 0.8220325892400285,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
@@ -3091,6 +3565,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -3134,11 +3619,12 @@
       "computed_block_confidence": 0.1573569536423841,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=3.28",
-        "topic_score=0.91",
+        "winner_score=7.79",
+        "topic_score=0.12",
+        "ambiguous",
         "herdada_do_bloco=7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
       ],
-      "unit_match_confidence": 0.45347652021261026,
+      "unit_match_confidence": 0.07531707317073166,
       "subunit_match_reasons": [
         "winner_score=1.04",
         "ambiguous"
@@ -3161,6 +3647,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -3204,10 +3701,10 @@
       "computed_block_confidence": 0.3995462794918331,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=6.81",
-        "topic_score=0.91"
+        "winner_score=24.56",
+        "topic_score=1.32"
       ],
-      "unit_match_confidence": 0.7367233112909477,
+      "unit_match_confidence": 0.8527568218978198,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
@@ -3230,6 +3727,17 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -3350,6 +3858,24 @@
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -3454,7 +3980,25 @@
       "source_section": "Verificação de Programas",
       "moodle_label": "Exercícios - terminação",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "exerciciosformalizacaoalgoritmosinvariantes",
@@ -3540,7 +4084,7 @@
       "computed_block_confidence": 0.7000000000000001,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=46.47",
+        "winner_score=46.13",
         "topic_score=18.73"
       ],
       "unit_match_confidence": 0.95,
@@ -3571,6 +4115,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -3673,7 +4235,7 @@
       "computed_block_confidence": 0.2833333333333334,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=56.62",
+        "winner_score=56.28",
         "topic_score=15.45"
       ],
       "unit_match_confidence": 0.8009966347398395,
@@ -3704,6 +4266,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -3804,7 +4384,7 @@
       "computed_block_confidence": 0.42500000000000004,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=44.87",
+        "winner_score=43.13",
         "topic_score=14.52"
       ],
       "unit_match_confidence": 0.18407274731330953,
@@ -3836,6 +4416,24 @@
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -3847,7 +4445,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:enquanto",
         "ferramenta:hoare",
         "tipo:material-base",
         "bloco:bloco-10",
@@ -3943,7 +4540,25 @@
       "manual_subunit_slug": "21-logica-de-hoare",
       "moodle_label": "Lógica de Hoare (parte 2)",
       "posting_date": "2026-02-18",
-      "posting_date_created": "2026-02-18"
+      "posting_date_created": "2026-02-18",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "exerciciosdafny1",
@@ -4030,11 +4645,11 @@
         "winner_score=15.26",
         "topic_score=8.19"
       ],
-      "unit_match_confidence": 0.9606301492322111,
+      "unit_match_confidence": 0.9942325715521593,
       "subunit_match_reasons": [
-        "winner_score=8.55"
+        "winner_score=8.19"
       ],
-      "subunit_match_confidence": 0.5826412445900105,
+      "subunit_match_confidence": 0.5641338871243587,
       "approved_markdown": "exercises/lists/exerciciosdafny1.md",
       "curated_markdown": "exercises/lists/exerciciosdafny1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny1/exerciciosdafny1.md",
@@ -4058,6 +4673,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -4143,14 +4776,14 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=54.06",
+        "winner_score=50.92",
         "topic_score=15.17"
       ],
       "unit_match_confidence": 0.9345109412074875,
       "subunit_match_reasons": [
-        "winner_score=15.53"
+        "winner_score=15.17"
       ],
-      "subunit_match_confidence": 0.5619568715803026,
+      "subunit_match_confidence": 0.5514764039019245,
       "approved_markdown": "exercises/lists/exerciciosdafny2.md",
       "curated_markdown": "exercises/lists/exerciciosdafny2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny2/exerciciosdafny2.md",
@@ -4174,6 +4807,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -4265,9 +4916,9 @@
       ],
       "unit_match_confidence": 0.9268368942157373,
       "subunit_match_reasons": [
-        "winner_score=15.71"
+        "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.9616171046770601,
+      "subunit_match_confidence": 0.9907386763939552,
       "approved_markdown": "exercises/lists/exerciciosdafny3.md",
       "curated_markdown": "exercises/lists/exerciciosdafny3.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny3/exerciciosdafny3.md",
@@ -4291,6 +4942,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -4382,9 +5051,9 @@
       ],
       "unit_match_confidence": 0.9109966520731393,
       "subunit_match_reasons": [
-        "winner_score=15.89"
+        "winner_score=15.53"
       ],
-      "subunit_match_confidence": 0.7119849009122364,
+      "subunit_match_confidence": 0.7052536698429048,
       "approved_markdown": "exercises/lists/exerciciosdafny4.md",
       "curated_markdown": "exercises/lists/exerciciosdafny4.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny4/exerciciosdafny4.md",
@@ -4408,6 +5077,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -4499,9 +5186,9 @@
       ],
       "unit_match_confidence": 0.727853048462741,
       "subunit_match_reasons": [
-        "winner_score=15.71"
+        "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.708685968819599,
+      "subunit_match_confidence": 0.7017978113600832,
       "approved_markdown": "exercises/lists/exerciciosdafny5.md",
       "curated_markdown": "exercises/lists/exerciciosdafny5.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny5/exerciciosdafny5.md",
@@ -4526,6 +5213,24 @@
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -4539,7 +5244,9 @@
       "auto_tags": [
         "ferramenta:modelos",
         "tipo:material-base",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-03-verificacao-de-modelos",
+        "subunit:verificacao-de-modelos-model-checking"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4830,7 +5537,7 @@
         "signals": [],
         "markdown_path": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md"
       },
-      "computed_unit_slug": "",
+      "computed_unit_slug": "unidade-03-verificacao-de-modelos",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.4444444444444444,
       "computed_block_band": "media",
@@ -4844,7 +5551,7 @@
       "subunit_match_reasons": [
         "winner_score=9.92"
       ],
-      "subunit_match_confidence": 0.5621409132143935,
+      "subunit_match_confidence": 0.8635621409132144,
       "approved_markdown": "content/curated/verificacaomodelos.md",
       "curated_markdown": "content/curated/verificacaomodelos.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md",
@@ -4866,6 +5573,24 @@
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
         "b99568b0-fc0b-4181-bf42-043f4797c92b",
         "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "topics": [
+            "1.3.1 verificacao de modelos model checking",
+            "3.3 especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "3.4 softwares de suporte a verificacao formal de modelos",
+            "especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "softwares de suporte a verificacao formal de modelos",
+            "verificacao de modelos",
+            "verificacao de modelos e logica temporal",
+            "verificacao de modelos model checking",
+            "verificacao de modelos nusmv/nuxmv + fasten"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -4984,14 +5709,14 @@
         "winner_score=32.36",
         "topic_score=7.18"
       ],
-      "unit_match_confidence": 0.9159438127090301,
+      "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-temporal-linear",
       "subunit_match_reasons": [
         "winner_score=7.18",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.020847268673355686,
+      "subunit_match_confidence": 0.045986622073578606,
       "approved_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "curated_markdown": "exercises/lists/exercicioslogicatemporal.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exercicioslogicatemporal/exercicioslogicatemporal.md",
@@ -5013,6 +5738,24 @@
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
         "b99568b0-fc0b-4181-bf42-043f4797c92b",
         "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "topics": [
+            "1.3.1 verificacao de modelos model checking",
+            "3.3 especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "3.4 softwares de suporte a verificacao formal de modelos",
+            "especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "softwares de suporte a verificacao formal de modelos",
+            "verificacao de modelos",
+            "verificacao de modelos e logica temporal",
+            "verificacao de modelos model checking",
+            "verificacao de modelos nusmv/nuxmv + fasten"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -5124,9 +5867,9 @@
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "winner_score=15.53"
+        "winner_score=15.35"
       ],
-      "subunit_match_confidence": 0.9378846797661662,
+      "subunit_match_confidence": 0.9371547681083897,
       "approved_markdown": "exercises/lists/exerciciosnusmv.md",
       "curated_markdown": "exercises/lists/exerciciosnusmv.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosnusmv/exerciciosnusmv.md",
@@ -5148,6 +5891,24 @@
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
         "b99568b0-fc0b-4181-bf42-043f4797c92b",
         "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "topics": [
+            "1.3.1 verificacao de modelos model checking",
+            "3.3 especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "3.4 softwares de suporte a verificacao formal de modelos",
+            "especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "softwares de suporte a verificacao formal de modelos",
+            "verificacao de modelos",
+            "verificacao de modelos e logica temporal",
+            "verificacao de modelos model checking",
+            "verificacao de modelos nusmv/nuxmv + fasten"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -5236,18 +5997,16 @@
       "computed_block_confidence": 0.7650791044776121,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=3.61",
+        "topic_score=0.94"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.8665107692307692,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=1.66"
+        "winner_score=0.94"
       ],
-      "subunit_match_confidence": 0.6372897173782321,
+      "subunit_match_confidence": 0.9815876923076923,
       "moodle_label": "Exemplos (classes, parte 1)",
       "posting_date": "2026-05-31",
       "posting_date_created": "2026-05-31",
@@ -5266,6 +6025,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -5279,8 +6056,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-13",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:verificacao-de-programas"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-conjuntos-indutivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5353,24 +6130,26 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 8,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "concept-fused",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        "winner_score=8.78",
+        "topic_score=0.94"
       ],
-      "unit_match_confidence": 0.5823086847784936,
-      "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "unit_match_confidence": 0.5857230769230769,
+      "unit_block_conflict": {
+        "unit": "unidade-01-metodos-formais",
+        "block_unit": "unidade-02-verificacao-de-programas",
+        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+      },
+      "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "subunit_match_reasons": [
-        "winner_score=1.66"
+        "winner_score=0.94"
       ],
-      "subunit_match_confidence": 0.6372897173782321,
+      "subunit_match_confidence": 0.8665107692307692,
       "moodle_label": "Exemplos (Arrays)",
       "posting_date": "2026-05-18",
       "posting_date_created": "2026-05-18",
@@ -5389,6 +6168,30 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -5402,7 +6205,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-13",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-conjuntos-indutivos"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5463,24 +6267,26 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 6,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_method": "concept-fused",
       "computed_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
-        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        "winner_score=12.55",
+        "topic_score=1.07"
       ],
-      "unit_match_confidence": 0.5712804623621544,
-      "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "unit_match_confidence": 0.8827459459459459,
+      "unit_block_conflict": {
+        "unit": "unidade-01-metodos-formais",
+        "block_unit": "unidade-02-verificacao-de-programas",
+        "block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+      },
+      "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "subunit_match_reasons": [
-        "winner_score=0.65",
-        "ambiguous"
+        "winner_score=1.07"
       ],
-      "subunit_match_confidence": 0.07628300153139356,
+      "subunit_match_confidence": 0.8827459459459459,
       "moodle_label": "Exemplos (Conjuntos e sequencias)",
       "posting_date": "2026-05-24",
       "posting_date_created": "2026-05-24",
@@ -5499,6 +6305,30 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -5568,18 +6398,18 @@
       "computed_block_confidence": 0.8408239700374531,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
+        "winner_score=8.78",
+        "topic_score=0.94",
+        "ambiguous",
         "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.12554684651841044,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=1.66"
+        "winner_score=0.94"
       ],
-      "subunit_match_confidence": 0.6372897173782321,
+      "subunit_match_confidence": 0.9815876923076923,
       "moodle_label": "Exemplos (Sequencias)",
       "posting_date": "2026-05-21",
       "posting_date_created": "2026-05-21",
@@ -5598,6 +6428,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -5672,18 +6520,17 @@
       "computed_block_confidence": 0.5287141073657928,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
-        "herdada_do_bloco=de7d1b70-fb58-4a18-ad49-d1a64c6c7684"
+        "winner_score=48.54",
+        "topic_score=8.06"
       ],
-      "unit_match_confidence": 0.5712804623621544,
+      "unit_match_confidence": 0.6499229526838837,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "computed_subunit_slug": "invariante-e-variante-de-laco",
       "subunit_match_reasons": [
-        "winner_score=8.28",
+        "winner_score=8.06",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.026818071998066906,
+      "subunit_match_confidence": 0.017502482621648576,
       "moodle_label": "Respostas",
       "posting_date": "2026-06-08",
       "posting_date_created": "2026-06-08",
@@ -5702,6 +6549,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -5715,7 +6580,8 @@
       "auto_tags": [
         "ferramenta:hoare",
         "tipo:codigo",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5782,18 +6648,16 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 7,
-      "computed_unit_slug": "",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "ambiguous"
+        "winner_score=52.80",
+        "topic_score=13.95"
       ],
-      "unit_match_confidence": 0.033819574986547,
+      "unit_match_confidence": 0.9235855145213339,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
@@ -5818,6 +6682,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -5893,18 +6775,16 @@
       "computed_block_confidence": 0.2053667687595713,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=e3bc8a61-e729-4f25-9bc5-12b8a47151e3"
+        "winner_score=13.11",
+        "topic_score=6.72"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.860817843866171,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=7.09"
+        "winner_score=6.72"
       ],
-      "subunit_match_confidence": 0.5079006772009028,
+      "subunit_match_confidence": 0.4813382899628252,
       "moodle_label": "Exemplos (introducao a Dafny)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -5923,6 +6803,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -5936,8 +6834,7 @@
       "auto_tags": [
         "ferramenta:invariantes",
         "tipo:codigo",
-        "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "bloco:bloco-11"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5986,23 +6883,22 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 4,
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
+      "computed_unit_slug": "",
       "computed_block_method": "concept-fused",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.25375000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=7.05",
-        "topic_score=0.60"
+        "winner_score=13.41",
+        "topic_score=0.12"
       ],
-      "unit_match_confidence": 0.7457418008471616,
+      "unit_match_confidence": 0.34544369873228936,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=0.65",
-        "ambiguous"
+        "empate-exato 2x score=0.94"
       ],
-      "subunit_match_confidence": 0.07628300153139356,
+      "subunit_match_confidence": 0.0,
       "moodle_label": "Exemplos (invariantes de laco)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -6021,6 +6917,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -6089,24 +7003,41 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=4.18",
-        "topic_score=0.60",
+        "winner_score=10.54",
+        "topic_score=0.12",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.5712804623621544,
+      "unit_match_confidence": 0.16721062618595836,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=0.65",
-        "ambiguous"
+        "empate-exato 2x score=0.12"
       ],
-      "subunit_match_confidence": 0.07628300153139356,
+      "subunit_match_confidence": 0.0,
       "moodle_label": "Exemplos (Terminacao)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
       "source_section": "Verificação de Programas",
       "computed_block_rationale": "O arquivo exemplifica a definição de tipos indutivos (datatypes), um tópico fundamental em conjuntos e equações recursivas.",
-      "computed_block_match_confidence": 0.6
+      "computed_block_match_confidence": 0.6,
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
+      ]
     },
     {
       "id": "tiposindutivos",
@@ -6119,7 +7050,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-15",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
@@ -6168,24 +7100,47 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=3.22",
-        "topic_score=0.60",
+        "winner_score=8.68",
+        "topic_score=0.94",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.44357090471758126,
+      "unit_match_confidence": 0.8665107692307692,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=0.65",
-        "ambiguous"
+        "winner_score=0.12"
       ],
-      "subunit_match_confidence": 0.07628300153139356,
+      "subunit_match_confidence": 0.8620689655172414,
       "moodle_label": "Exemplos (Tipos Indutivos)",
       "posting_date": "2026-05-31",
       "posting_date_created": "2026-05-31",
       "source_section": "Verificação de Programas",
       "computed_block_rationale": "O material aborda diretamente a definição e uso de tipos indutivos, que são um tópico central em 'Conjuntos indutivos e equações recursivas'.",
-      "computed_block_match_confidence": 0.75
+      "computed_block_match_confidence": 0.75,
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
+      ]
     },
     {
       "id": "exemplos-zip",
@@ -6199,8 +7154,7 @@
         "topico:exemplos",
         "tipo:codigo",
         "bloco:bloco-11",
-        "unit:unidade-01-metodos-formais",
-        "subunit:exemplos-de-aplicacoes"
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6225,22 +7179,23 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 0,
-      "computed_unit_slug": "unidade-01-metodos-formais",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.23638497652582163,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=5.40",
-        "topic_score=4.93"
+        "winner_score=52.34",
+        "topic_score=7.73"
       ],
-      "unit_match_confidence": 0.8777587548638133,
+      "unit_match_confidence": 0.5330163597716799,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "exemplos-de-aplicacoes",
+      "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=11.74"
+        "winner_score=7.73",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.9202752887465504,
+      "subunit_match_confidence": 0.1305753070458953,
       "moodle_label": "Exemplos NuSMV",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -6259,6 +7214,30 @@
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
         "b99568b0-fc0b-4181-bf42-043f4797c92b",
         "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "topics": [
+            "1.3.1 verificacao de modelos model checking",
+            "3.3 especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "3.4 softwares de suporte a verificacao formal de modelos",
+            "especificacao de propriedades para sistemas sequenciais e concorrentes",
+            "softwares de suporte a verificacao formal de modelos",
+            "verificacao de modelos",
+            "verificacao de modelos e logica temporal",
+            "verificacao de modelos model checking",
+            "verificacao de modelos nusmv/nuxmv + fasten"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -6356,7 +7335,7 @@
       "subunit_match_reasons": [
         "winner_score=8.73"
       ],
-      "subunit_match_confidence": 0.9308747192298876,
+      "subunit_match_confidence": 0.9817311757964704,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosrecursao3-respostas/exerciciosformalizacaoalgoritmosrecursao3-respostas.md",
@@ -6370,6 +7349,27 @@
       "temporal_block_window": [
         "bloco-04"
       ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [
+            "1.2.3 especificacao de funcoes recursivas",
+            "arvores polimorficas equacoes recursivas",
+            "equacoes recursivas iii",
+            "especificacao de funcoes recursivas",
+            "formalizacao de algoritmos como equacoes recursivas - parte 1",
+            "formalizacao de algoritmos como equacoes recursivas - parte 2",
+            "formalizacao de algoritmos como equacoes recursivas - parte 3",
+            "formalizando a nocao de algoritmo via equacoes recursivas",
+            "funcoes recursivas sobre arvores",
+            "funcoes recursivas sobre listas",
+            "provas por inducao de especificacoes equacionais recursivas",
+            "provas por inducao de especificacoes recursivas"
+          ],
+          "confidence": 0.7,
+          "rule": "card"
+        }
+      ],
       "computed_block_method": "concept-fused"
     },
     {
@@ -6381,11 +7381,7 @@
       "source_section": "Plano de Ensino",
       "tags": "",
       "manual_tags": [],
-      "auto_tags": [
-        "ferramenta:aprendizagem",
-        "ferramenta:ementa",
-        "ferramenta:objetivos"
-      ],
+      "auto_tags": [],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "notes": "",
@@ -6453,7 +7449,39 @@
       "curated_markdown": "content/curated/plano.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/plano/plano.md",
       "approved_at": "2026-06-28T17:47:55",
-      "review_status": "approved"
+      "review_status": "approved",
+      "computed_unit_slug": "",
+      "unit_match_reasons": [
+        "winner_score=122.21",
+        "topic_score=14.31"
+      ],
+      "unit_match_confidence": 0.34049539978896265,
+      "unit_block_conflict": {},
+      "computed_subunit_slug": "correcao-parcial-e-total",
+      "subunit_match_reasons": [
+        "winner_score=17.51"
+      ],
+      "subunit_match_confidence": 0.17236849620195335,
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 1.0,
+          "rule": "meta"
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 1.0,
+          "rule": "meta"
+        },
+        {
+          "unit_slug": "unidade-03-verificacao-de-modelos",
+          "topics": [],
+          "confidence": 1.0,
+          "rule": "meta"
+        }
+      ]
     },
     {
       "id": "t2-2026-1",
@@ -6465,9 +7493,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "ferramenta:escola",
-        "ferramenta:grande",
-        "ferramenta:universidade",
         "bloco:bloco-11",
         "unit:unidade-02-verificacao-de-programas",
         "subunit:correcao-parcial-e-total"
@@ -6540,7 +7565,7 @@
       "computed_block_confidence": 0.6190476190476192,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=30.28",
+        "winner_score=30.27",
         "topic_score=4.50"
       ],
       "unit_match_confidence": 0.7342819030680303,
@@ -6549,7 +7574,7 @@
       "subunit_match_reasons": [
         "winner_score=4.50"
       ],
-      "subunit_match_confidence": 0.6302801244997777,
+      "subunit_match_confidence": 0.7630947087594487,
       "approved_markdown": "content/curated/t2-2026-1.md",
       "curated_markdown": "content/curated/t2-2026-1.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/t2-2026-1/t2-2026-1.md",
@@ -6562,6 +7587,14 @@
       "temporal_block_provider": "due-window",
       "temporal_block_window": [
         "bloco-18"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ],
       "computed_block_method": "concept-fused"
     },
@@ -6577,7 +7610,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-15",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:correcao-parcial-e-total"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6644,18 +7678,16 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50",
-        "herdada_do_bloco=95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+        "winner_score=19.50",
+        "topic_score=3.49"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.731651376146789,
       "unit_block_conflict": {},
       "computed_subunit_slug": "correcao-parcial-e-total",
       "subunit_match_reasons": [
         "winner_score=3.49"
       ],
-      "subunit_match_confidence": 0.5232224770642202,
+      "subunit_match_confidence": 0.731651376146789,
       "computed_block_rationale": "O material exemplifica a lógica de programas e verificação com Dafny, utilizando conceitos de orientação a objetos, variáveis ghost e abstração para uma estrutura de dados complexa.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0",
@@ -6670,6 +7702,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
     },
     {
@@ -6683,7 +7733,8 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:codigo",
-        "bloco:bloco-11"
+        "bloco:bloco-11",
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6744,17 +7795,16 @@
       "base_markdown": null,
       "extraction_error": null,
       "file_count": 6,
-      "computed_unit_slug": "",
+      "computed_unit_slug": "unidade-02-verificacao-de-programas",
       "computed_block_method": "concept-fused",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.06724270353302624,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=1.79",
-        "topic_score=0.60",
-        "tag_boost=1.50"
+        "winner_score=26.93",
+        "topic_score=7.73"
       ],
-      "unit_match_confidence": 0.5823086847784936,
+      "unit_match_confidence": 0.8622365869424693,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -6775,123 +7825,25 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ]
-    },
-    {
-      "id": "logicadehoare1-exercicios-respostas",
-      "title": "LogicaDeHoare1_exercicios_respostas",
-      "category": "listas",
-      "file_type": "pdf",
-      "source_path": "C:\\Users\\Humberto\\Desktop\\Moodle\\metodos-formais-para-computacao\\Verificação de Programas\\LogicaDeHoare1_exercicios_respostas.pdf",
-      "source_section": "Verificação de Programas",
-      "tags": "",
-      "manual_tags": [],
-      "auto_tags": [
-        "ferramenta:hoare",
-        "tipo:lista",
-        "bloco:bloco-10",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:logica-de-hoare"
-      ],
-      "manual_unit_slug": "",
-      "manual_timeline_block_id": "",
-      "notes": "",
-      "professor_signal": "",
-      "include_in_bundle": true,
-      "relevant_for_exam": true,
-      "processing_mode": "high_fidelity",
-      "document_profile": "math_heavy",
-      "preferred_backend": "datalab",
-      "datalab_mode": "balanced",
-      "formula_priority": false,
-      "preserve_pdf_images_in_markdown": true,
-      "force_ocr": false,
-      "extract_images": true,
-      "extract_tables": true,
-      "page_range": "",
-      "ocr_language": "por,eng",
-      "raw_target": "raw/pdfs/listas/logicadehoare1-exercicios-respostas.pdf",
-      "document_report": {
-        "page_count": 6,
-        "text_chars": 28,
-        "images_count": 6,
-        "table_candidates": 0,
-        "text_density": 4.67,
-        "suspected_scan": true,
-        "suggested_profile": "math_heavy",
-        "notes": [
-          "Perfil definido manualmente pelo usuário."
-        ]
-      },
-      "pipeline_decision": {
-        "entry_id": "logicadehoare1-exercicios-respostas",
-        "processing_mode": "high_fidelity",
-        "effective_profile": "math_heavy",
-        "base_backend": "pymupdf4llm",
-        "advanced_backend": "datalab",
-        "reasons": [
-          "Backend preferido manualmente: datalab.",
-          "Documento math_heavy pede backend avançado com enrich-formula."
-        ]
-      },
-      "base_markdown": "exercises/lists/logicadehoare1-exercicios-respostas.md",
-      "advanced_markdown": null,
-      "advanced_backend": "datalab",
-      "base_backend": "pymupdf4llm",
-      "images_dir": "staging/assets/images/logicadehoare1-exercicios-respostas",
-      "tables_dir": "staging/assets/tables/logicadehoare1-exercicios-respostas",
-      "table_detection_dir": "staging/assets/table-detections/logicadehoare1-exercicios-respostas",
-      "manual_review": null,
-      "effective_profile": "math_heavy",
-      "advanced_asset_dir": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas",
-      "advanced_metadata_path": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas/datalab-run.json",
-      "image_extraction": {
-        "source": "pymupdf-pdf-images",
-        "mode": "permissive",
-        "count": 6
-      },
-      "latex_corruption": {
-        "detected": true,
-        "score": 25,
-        "signals": [
-          "9 linha(s) com chaves desbalanceadas em contexto matematico"
-        ],
-        "markdown_path": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas/logicadehoare1-exercicios-respostas.md"
-      },
-      "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "computed_block_confidence": 0.45,
-      "computed_block_band": "media",
-      "unit_match_reasons": [
-        "winner_score=36.58",
-        "topic_score=28.11"
-      ],
-      "unit_match_confidence": 0.95,
-      "unit_block_conflict": {},
-      "computed_subunit_slug": "logica-de-hoare",
-      "subunit_match_reasons": [
-        "winner_score=28.11"
-      ],
-      "subunit_match_confidence": 0.9785426630144783,
-      "approved_markdown": "exercises/lists/logicadehoare1-exercicios-respostas.md",
-      "curated_markdown": "exercises/lists/logicadehoare1-exercicios-respostas.md",
-      "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare1-exercicios-respostas/logicadehoare1-exercicios-respostas.md",
-      "approved_at": "2026-06-28T17:47:39",
-      "review_status": "approved",
-      "temporal_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
-      "temporal_block_flag": false,
-      "temporal_block_provider": "labels",
-      "temporal_block_window": [
-        "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-        "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-        "e3bc8a61-e729-4f25-9bc5-12b8a47151e3",
-        "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-        "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
-        "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
-      ],
-      "computed_block_method": "concept-fused"
     },
     {
       "id": "logicadehoare-exercicios-respostas",
@@ -6988,7 +7940,7 @@
       "subunit_match_reasons": [
         "winner_score=31.23"
       ],
-      "subunit_match_confidence": 0.9806837928715535,
+      "subunit_match_confidence": 0.9948950024017678,
       "approved_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "curated_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare-exercicios-respostas/logicadehoare-exercicios-respostas.md",
@@ -7006,6 +7958,24 @@
         "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
         "8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05",
         "95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0"
+      ],
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [
+            "1.3.2 verificacao de programas",
+            "2.2 softwares de suporte a verificacao formal de programas",
+            "programacao e verificacao com dafny",
+            "programacao e verificacao com dafny arrays",
+            "programacao e verificacao com dafny classes",
+            "programacao e verificacao com dafny sequences",
+            "programacao e verificacao com dafny sets multisets",
+            "softwares de suporte a verificacao formal de programas",
+            "verificacao de programas"
+          ],
+          "confidence": 0.9,
+          "rule": "card"
+        }
       ],
       "computed_block_method": "concept-fused"
     }
@@ -8375,7 +9345,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-18T15:39:14",
+  "updated_at": "2026-08-20T10:52:34",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",

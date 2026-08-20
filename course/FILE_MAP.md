@@ -25,7 +25,7 @@ mode: routing_index
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; main`; bloco-manual: `c4bf9e4c-80f8-4e57-b2b1-a943c6656e52` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; subunit:verificacao-de-programas; main`; bloco-manual: `c4bf9e4c-80f8-4e57-b2b1-a943c6656e52` |  |  |  |  |  |  |  |
 | 2 | GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
 |  | ↳ rastreabilidade |  | tags: `main`; bloco-manual: `c4bf9e4c-80f8-4e57-b2b1-a943c6656e52` |  |  |  |  |  |  |  |
 | 3 | Archive of Formal Proofs | references | consulta pontual | alta | `content/curated/archive-of-formal-proofs-355fb8.md` | Conteúdo Extraído | curso-inteiro |  | Alta |  |
@@ -39,13 +39,13 @@ mode: routing_index
 | 7 | ConjuntosIndutivos | material-de-aula | teoria base | alta | `content/curated/conjuntosindutivos.md` | **Métodos Formais**  **Prof. Júlio Machado**  **1. Revisão**  **Representação por enumeração** | unidade-01-metodos-formais | Especificação de Conjuntos Indutivos | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/conjuntosindutivos.pdf`; tags: `topico:conjuntos-indutivos; tipo:material-base; bloco:bloco-04` |  |  |  |  |  |  |  |
 | 8 | logicaPredicados_semantica | material-de-aula | teoria base | alta | `content/curated/logicapredicados-semantica.md` |  | unidade-01-metodos-formais | Fundamentos de Lógica de Primeira Ordem | Alta | 1 dia · 09/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicapredicados-semantica.pdf`; tags: `ferramenta:predicados; tipo:material-base; bloco:bloco-03`; bloco-manual: `2edd762f-2dc8-4437-90c7-c207b796434a` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicapredicados-semantica.pdf`; tags: `tipo:material-base; bloco:bloco-03; unit:unidade-01-metodos-formais`; bloco-manual: `2edd762f-2dc8-4437-90c7-c207b796434a` |  |  |  |  |  |  |  |
 | 9 | logicaPredicados_sintaxe | material-de-aula | teoria base | alta | `content/curated/logicapredicados-sintaxe.md` | LÓGICA DE PREDICADOS  LÓGICA DE PREDICADOS | unidade-01-metodos-formais | Fundamentos de Lógica de Primeira Ordem | Alta | 1 dia · 09/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf`; tags: `ferramenta:predicados; tipo:material-base; bloco:bloco-03`; bloco-manual: `2edd762f-2dc8-4437-90c7-c207b796434a` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicapredicados-sintaxe.pdf`; tags: `tipo:material-base; bloco:bloco-03; unit:unidade-01-metodos-formais`; bloco-manual: `2edd762f-2dc8-4437-90c7-c207b796434a` |  |  |  |  |  |  |  |
 | 10 | logicaProposicional_sintaxe | material-de-aula | teoria base | alta | `content/curated/logicaproposicional-sintaxe.md` | LÓGICA PROPOCIONAL  LÓGICA PROPOCIONAL | unidade-01-metodos-formais | Fundamentos de Lógica de Primeira Ordem | Alta | 1 dia · 09/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf`; tags: `ferramenta:proposicional; tipo:material-base; bloco:bloco-05` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-sintaxe.pdf`; tags: `topico:logica-propocional; topico:logica-proposicional; tipo:material-base` |  |  |  |  |  |  |  |
 | 11 | revisao | material-de-aula | teoria base | alta | `content/curated/revisao.md` | CONJUNTOS E FUNÇÕES | unidade-01-metodos-formais | Especificação de Conjuntos Indutivos | Alta | 1 dia · 09/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/revisao.pdf`; tags: `tipo:material-base; bloco:bloco-11; unit:unidade-01-metodos-formais` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/revisao.pdf`; tags: `topico:conjuntos-e-funcoes; tipo:material-base; bloco:bloco-11` |  |  |  |  |  |  |  |
 | 12 | introducao | material-de-aula | teoria base | alta | `content/curated/introducao.md` | INTRODUÇÃO  VERIFICAÇÃO FORMAL DE SISTEMAS | unidade-01-metodos-formais |  | Média | 1 dia · 04/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/introducao.pdf`; tags: `tipo:material-base; bloco:bloco-06; unit:unidade-01-metodos-formais` |  |  |  |  |  |  |  |
 | 13 | ProvasIndutivas_EspecificaçõesRecursivas | material-de-aula | teoria base | alta | `content/curated/provasindutivas-especificacoesrecursivas.md` | 1. Princípio da indução matemática  2. Princípio da indução matemática generalizada  3. Provas por indução de especificações recursivas | unidade-01-metodos-formais | Especificação de Funções Recursivas | Alta | 3 dias · 06/04/2026 a 13/04/2026 |
@@ -65,12 +65,11 @@ mode: routing_index
 | 20 | ExerciciosIsabelle2 | listas | exercícios | alta | `exercises/lists/exerciciosisabelle2.md` |  | unidade-01-metodos-formais |  | Alta | 3 dias · 06/04/2026 a 13/04/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle2.pdf`; tags: `ferramenta:formal; ferramenta:isabelle; tipo:lista`; bloco-manual: `5599d015-10e0-4f6e-ad17-c526b903dc09` |  |  |  |  |  |  |  |
 | 21 | logicaProposicional_semantica | material-de-aula | teoria base | alta | `content/curated/logicaproposicional-semantica.md` | LÓGICA PROPOSICIONAL ---  Semântica  Fórmulas e Interpretações | unidade-01-metodos-formais | Fundamentos de Lógica de Primeira Ordem | Alta | 1 dia · 09/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf`; tags: `ferramenta:proposicional; tipo:material-base; bloco:bloco-06` |  |  |  |  |  |  |  |
-| 22 | ExerciciosFormalizacaoAlgoritmosRecursao_respostas | gabaritos | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | Página 1  Página 2  Página 3  Imagens Curadas | unidade-01-metodos-formais |  | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
+|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf`; tags: `topico:logica-propocional; topico:logica-proposicional; tipo:material-base` |  |  |  |  |  |  |  |
+| 22 | ExerciciosFormalizacaoAlgoritmosRecursao_respostas | gabaritos | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | Página 1  Página 2  Página 3  Imagens Curadas | unidade-01-metodos-formais | Especificação de Funções Recursivas | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf`; tags: `ferramenta:formal; tipo:gabarito; bloco:bloco-04` |  |  |  |  |  |  |  |
 | 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão |  |  | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf`; tags: `ferramenta:formal; tipo:material-base; bloco:bloco-11` |  |  |  |  |  |  |  |
 | 24 | FormalizacaoAlgoritmos_Recursao3 | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao3.md` | 1. Árvores polimórficas (definição indutiva)  2. Árvores polimórficas (equações recursivas) | unidade-01-metodos-formais |  | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf`; tags: `ferramenta:formal; ferramenta:sobre; topico:funcoes-recursivas`; bloco-manual: `7ccdaf5e-76b8-48e5-82b5-05f80b3f054b` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.

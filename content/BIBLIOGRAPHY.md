@@ -9,14 +9,14 @@
 ### GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub
 - **URL:** https://github.com/ConsenSys/eth2.0-dafny
 - **Tags:** main
-- **Resumo:** Este repositório apresenta uma especificação formal do Ethereum 2.0 (Eth2.0) utilizando a linguagem de programação Dafny, que permite verificação. O objetivo é criar uma especificação não ambígua e funcional, implementá-la para demonstrar sua consistência e, crucialmente, provar formalmente que a implementação satisfaz a especificação através de provas matemáticas. Esta abordagem visa reduzir a ocorrência de bugs e vulnerabilidades de segurança, fornecendo um código comprovadamente correto para a cadeia Beacon do Eth2.0. O projeto serve como um recurso para desenvolver clientes, contribuir com novas provas e até gerar código-alvo verificado.
-- **Relevante para:** unidade-02-verificacao-de-programas / logica de hoare, pre e pos condicoes, correcao parcial e total
+- **Resumo:** Este repositório apresenta uma especificação formal, funcional e inequívoca da Fase 0 do Ethereum 2.0 utilizando a linguagem Dafny. Através do uso da Lógica de Hoare, o projeto estabelece pré e pós-condições para provar matematicamente a corretude da implementação e garantir a ausência de erros em tempo de execução, como divisão por zero e acessos fora de limites. Ele serve como um recurso prático de apoio ao estudo de métodos formais aplicados a sistemas blockchain e engenharia de software de alta confiabilidade.
+- **Relevante para:** unidade-01-metodos-formais / linguagens de especificacao e logicas, fundamentos de logica de primeira ordem, abordagens para verificacao formal · unidade-02-verificacao-de-programas / logica de hoare, sistema de prova, softwares de suporte a verificacao formal de programas
 - **Incluir no bundle:** sim
 
 ### GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub
 - **URL:** https://github.com/aws/aws-encryption-sdk
 - **Tags:** main
-- **Resumo:** O AWS Encryption SDK para Dafny implementa criptografia segura no lado do cliente, protegendo dados e chaves de criptografia. Ele utiliza chaves de criptografia de dados únicas para cada objeto, que são protegidas por chaves de encapsulamento (wrapping keys), como as do AWS Key Management Service (KMS). O SDK gera mensagens criptografadas portáteis que contêm tanto os dados quanto a chave de dados criptografada, simplificando o gerenciamento de chaves. Este recurso detalha como construir, verificar e transcompilar o SDK para runtimes como .NET e Rust, além de gerar relatórios de conformidade, auxiliando o estudante a compreender a aplicação prática da criptografia formalmente verificada.
+- **Resumo:** Este repositório apresenta a implementação do AWS Encryption SDK na linguagem de verificação formal Dafny para garantir criptografia segura no lado do cliente. O projeto demonstra boas práticas criptográficas, utilizando chaves de criptografia de dados (DEK) protegidas por chaves de empacotamento (wrapping keys) integradas ao AWS KMS. Ele serve como recurso prático para o estudo de métodos formais, geração de código com Smithy e transpilação de contratos verificados para ambientes como .NET e Rust.
 - **Incluir no bundle:** sim
 
 ## Relevância por tópico

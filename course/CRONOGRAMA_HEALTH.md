@@ -1,6 +1,6 @@
 # CRONOGRAMA_HEALTH — Curso
 
-- **Cobertura de material**: 100% (64/64 com bloco)
+- **Cobertura de material**: 100% (63/63 com bloco)
 - **Órfãos** (sem bloco): 0
 
 ## Por tipo
@@ -8,7 +8,7 @@
 | Tipo | Com bloco | Total |
 |---|---|---|
 | code | 6 | 6 |
-| pdf | 44 | 44 |
+| pdf | 43 | 43 |
 | url | 1 | 1 |
 | zip | 13 | 13 |
 
@@ -17,7 +17,7 @@
 | Faixa | Materiais |
 |---|---|
 | alta | 35 |
-| media | 21 |
+| media | 20 |
 | baixa | 7 |
 
 ## Materiais de baixa confiança (revisar)
@@ -141,13 +141,6 @@
     - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
     - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
 - **exercicios_arrays** — bloco `bloco-13` (faixa baixa, conf 0.07, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `8f2d652a-bd74-4e21-aa94-7fc9d6c7bb05` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **LogicaDeHoare1_exercicios_respostas** — bloco `bloco-10` (faixa media, conf 0.45, auto)
     - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
     - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
     - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
