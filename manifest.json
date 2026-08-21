@@ -253,7 +253,6 @@
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - equações recursivas parte 3",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -285,7 +284,8 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "formalizacaoalgoritmos-recursao2",
@@ -732,7 +732,6 @@
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Predicados - semântica",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -753,14 +752,15 @@
         }
       ],
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "logicapredicados-sintaxe",
@@ -849,7 +849,6 @@
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Predicados - sintaxe",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -870,14 +869,15 @@
         }
       ],
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "logicaproposicional-sintaxe",
@@ -972,10 +972,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
@@ -1751,10 +1751,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
@@ -1874,10 +1874,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
@@ -2119,7 +2119,6 @@
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - provas em Isabelle (parte 2)",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2142,7 +2141,8 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "logicaproposicional-semantica",
@@ -2247,10 +2247,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-02",
         "bloco-03"
@@ -2652,7 +2652,6 @@
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Especificações recursivas - árvores binárias",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2684,7 +2683,8 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-04"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "exerciciosisabelle",
@@ -2783,7 +2783,6 @@
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - provas em Isabelle",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2806,7 +2805,8 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "revisao-p1",
@@ -2910,7 +2910,6 @@
       "source_section": "Exercícios de Revisão para Provas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios para P1",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2937,7 +2936,8 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-07"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "t1-2026-1",
@@ -3392,7 +3392,6 @@
         "block_unit": "unidade-01-metodos-formais",
         "block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       },
-      "computed_block_method": "concept-fused",
       "source_section": "Exercícios de Revisão para Provas",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
@@ -3414,7 +3413,8 @@
       "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-07"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "arvores",
@@ -3557,10 +3557,10 @@
       "computed_block_rationale": "O código demonstra a definição de tipos, predicados e funções recursivas, alinhando-se diretamente com o tema de conjuntos indutivos e equações recursivas.",
       "computed_block_match_confidence": 0.85,
       "temporal_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "manual",
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
@@ -4183,10 +4183,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -4334,10 +4334,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6236,10 +6236,10 @@
       "computed_block_match_confidence": 0.6,
       "source_section": "Verificação de Programas",
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6373,10 +6373,10 @@
       "computed_block_match_confidence": 0.6,
       "source_section": "Verificação de Programas",
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6496,10 +6496,10 @@
       "computed_block_match_confidence": 0.6,
       "source_section": "Verificação de Programas",
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6617,10 +6617,10 @@
       "computed_block_rationale": "Os exemplos demonstram a aplicação de invariantes de laço, pré/pós-condições e o uso de funções/predicados ghost para provar a correção de algoritmos em Dafny, alinhando-se diretamente aos tópicos de correção parcial e total de programas.",
       "computed_block_match_confidence": 0.6,
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6985,10 +6985,10 @@
       "computed_block_match_confidence": 0.75,
       "source_section": "Verificação de Programas",
       "temporal_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -7923,10 +7923,10 @@
       "computed_block_rationale": "O conteúdo foca na aplicação de lógica de programas e verificação com Dafny para manipular e provar propriedades de arrays, alinhando-se com coleções e lógica de programas.",
       "computed_block_match_confidence": 0.5,
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -9454,7 +9454,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-21T01:33:28",
+  "updated_at": "2026-08-21T01:59:03",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
