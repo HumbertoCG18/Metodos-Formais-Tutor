@@ -20,7 +20,7 @@
   - [ ] 1.3.2 Verificação de Programas
   - [ ] 1.3.3 Provadores de Teoremas
 - [ ] 1.4 Exemplos de Aplicações
-- 🧪 Tambem cobre esta unidade: `Tiposindutivos`
+- 🧪 Tambem cobre esta unidade: `Colecoes Arrays`, `Colecoes Conjuntos` (+1)
 
 ### Unidade 02 — Verificação de Programas
 - [ ] 2.1 Lógica de Hoare
@@ -31,7 +31,7 @@
   - [ ] 2.1.3 Invariante e Variante de Laço
   - [ ] 2.1.4 Sistema de Prova
 - [ ] 2.2 Softwares de Suporte à Verificação Formal de Programas
-- 🧪 Tambem cobre esta unidade: `Colecoes Arrays`, `Colecoes Conjuntos` (+1)
+- 🧪 Tambem cobre esta unidade: `Exemplos`, `revisao_p1`
 
 ### Unidade 03 — Verificação de Modelos
 - [ ] 3.1 Máquinas de Estado
@@ -41,7 +41,6 @@
   - [ ] 3.2.2 Lógica Temporal Ramificada
 - [ ] 3.3 Especificação de Propriedades para Sistemas Sequenciais e Concorrentes
 - [ ] 3.4 Softwares de Suporte à Verificação Formal de Modelos
-- 🧪 Tambem cobre esta unidade: `Exemplos`
 
 ## Timeline — Cronograma x Unidades
 
