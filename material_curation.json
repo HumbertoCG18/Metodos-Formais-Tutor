@@ -282,6 +282,12 @@
       "confianca": "alta",
       "justificativa": "O material trata de exercicios praticos de verificacao de modelos em NuSMV/NuXMV usando logicas temporais (LTL e CTL), o que se alinha diretamente com o topico de verificacao de modelos e logica tempo",
       "model": "gemini-3.5-flash"
+    },
+    "83c50d7a7169d34d3826b279ec696890": {
+      "block_id": "bloco-01",
+      "confianca": "alta",
+      "justificativa": "O material fornecido é o Plano de Ensino (cronograma e plano de aula), o qual é tipicamente apresentado na primeira aula do semestre, correspondente ao bloco-01 cujo roteiro é 'apresentação da discipl",
+      "model": "gemini-3.5-flash"
     }
   }
 }
