@@ -25,9 +25,9 @@ mode: routing_index
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; subunit:verificacao-de-programas; main` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; unit:unidade-01-metodos-formais; main` |  |  |  |  |  |  |  |
 | 2 | GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `main` |  |  |  |  |  |  |  |
+|  | ↳ rastreabilidade |  | tags: `unit:unidade-01-metodos-formais; main` |  |  |  |  |  |  |  |
 | 3 | Archive of Formal Proofs | references | consulta pontual | alta | `content/curated/archive-of-formal-proofs-355fb8.md` | Conteúdo Extraído | curso-inteiro |  | Alta |  |
 |  | ↳ rastreabilidade |  | tags: `ferramenta:axiom-free; ferramenta:formal; ferramenta:isabelle` |  |  |  |  |  |  |  |
 | 4 | ExerciciosFormalizacaoAlgoritmosRecursao3 | listas | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao3.md` | **Exercícios**  **Formalização de algoritmos como equações recursivas – Parte 3** | unidade-01-metodos-formais | Especificação de Funções Recursivas | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
@@ -68,7 +68,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf`; tags: `topico:logica-propocional; topico:logica-proposicional; tipo:material-base` |  |  |  |  |  |  |  |
 | 22 | ExerciciosFormalizacaoAlgoritmosRecursao_respostas | gabaritos | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | Página 1  Página 2  Página 3  Imagens Curadas | unidade-01-metodos-formais | Especificação de Funções Recursivas | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf`; tags: `ferramenta:formal; tipo:gabarito; bloco:bloco-04` |  |  |  |  |  |  |  |
-| 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão |  |  | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
+| 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão | unidade-01-metodos-formais | Especificação de Funções Recursivas | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf`; tags: `ferramenta:formal; tipo:material-base; bloco:bloco-11` |  |  |  |  |  |  |  |
 | 24 | FormalizacaoAlgoritmos_Recursao3 | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao3.md` | 1. Árvores polimórficas (definição indutiva)  2. Árvores polimórficas (equações recursivas) | unidade-01-metodos-formais |  | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf`; tags: `ferramenta:formal; ferramenta:sobre; topico:funcoes-recursivas` |  |  |  |  |  |  |  |
