@@ -15,7 +15,7 @@
 | ExerciciosIsabelle2 | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
 | ExerciciosFormalizacaoAlgoritmosRecursao_respostas | exercício | ferramenta:formal; tipo:gabarito; bloco:bloco-04 | não | média | fixação por unidade |
 | ExerciciosIsabelle | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
-| revisao_p1 | lista | tipo:lista; uso:revisao-prova; bloco:bloco-07 | não | média | fixação por unidade |
+| revisao_p1 | lista | tipo:lista; uso:revisao-prova; bloco:bloco-04 | não | média | fixação por unidade |
 | ExerciciosFormalizacaoAlgoritmosRecursao | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
 | ExerciciosCorrecaoTerminacao | lista | topico:correcao; tipo:lista; bloco:bloco-11 | não | média | fixação por unidade |
 | ExerciciosFormalizacaoAlgoritmosInvariantes | lista | ferramenta:formal; ferramenta:invariantes; tipo:lista | não | média | fixação por unidade |

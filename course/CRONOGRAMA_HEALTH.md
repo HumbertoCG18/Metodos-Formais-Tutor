@@ -16,9 +16,9 @@
 
 | Faixa | Materiais |
 |---|---|
-| alta | 35 |
-| media | 20 |
-| baixa | 7 |
+| alta | 31 |
+| media | 22 |
+| baixa | 9 |
 
 ## Materiais de baixa confiança (revisar)
 
@@ -26,6 +26,12 @@
     - candidato `bloco-04` (score —)
 - **ConjuntosIndutivos** — bloco `bloco-04` (faixa media, conf 0.30, auto)
     - candidato `bloco-04` (score —)
+- **logicaPredicados_semantica** — bloco `bloco-03` (faixa baixa, conf 0.00, auto)
+    - candidato `bloco-02` (score —)
+    - candidato `bloco-03` (score —)
+- **logicaPredicados_sintaxe** — bloco `bloco-03` (faixa baixa, conf 0.00, auto)
+    - candidato `bloco-02` (score —)
+    - candidato `bloco-03` (score —)
 - **logicaProposicional_sintaxe** — bloco `bloco-03` (faixa media, conf 0.47, auto)
     - candidato `bloco-02` (score —)
     - candidato `bloco-03` (score —)
@@ -35,11 +41,17 @@
 - **ExerciciosCorrecaoInducaoMatematica** — bloco `bloco-05` (faixa baixa, conf 0.00, auto)
     - candidato `bloco-05` (score —)
     - candidato `bloco-06` (score —)
+- **ExerciciosIsabelle2** — bloco `bloco-06` (faixa media, conf 0.37, auto)
+    - candidato `bloco-05` (score —)
+    - candidato `bloco-06` (score —)
 - **logicaProposicional_semantica** — bloco `bloco-03` (faixa media, conf 0.35, auto)
     - candidato `bloco-02` (score —)
     - candidato `bloco-03` (score —)
 - **FormalizacaoAlgoritmos_Recursao** — bloco `bloco-04` (faixa media, conf 0.44, auto)
     - candidato `bloco-04` (score —)
+- **ExerciciosIsabelle** — bloco `bloco-06` (faixa media, conf 0.21, auto)
+    - candidato `bloco-05` (score —)
+    - candidato `bloco-06` (score —)
 - **t1_2026_1** — bloco `bloco-11` (faixa media, conf 0.21, auto)
     - candidato `bloco-11` (score —)
 - **T1 2026 1** — bloco `bloco-11` (faixa media, conf 0.31, auto)

@@ -44,7 +44,6 @@
         "ferramenta:dafny",
         "subunit:verificacao-de-programas"
       ],
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "computed_unit_slug": "",
       "unit_match_reasons": [
         "winner_score=0.01",
@@ -57,7 +56,15 @@
       "subunit_match_reasons": [
         "winner_score=0.11"
       ],
-      "subunit_match_confidence": 0.8620689655172414
+      "subunit_match_confidence": 0.8620689655172414,
+      "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "temporal_block_method": "ref-generica",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "ref-generica",
+      "temporal_block_window": [
+        "bloco-01"
+      ]
     },
     {
       "id": "aws-encryption-sdk",
@@ -79,7 +86,6 @@
       "effective_profile": "general",
       "manual_tags": [],
       "auto_tags": [],
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "computed_unit_slug": "",
       "unit_match_reasons": [
         "winner_score=0.01",
@@ -92,7 +98,15 @@
       "subunit_match_reasons": [
         "empate-exato 13x score=0.02"
       ],
-      "subunit_match_confidence": 0.0
+      "subunit_match_confidence": 0.0,
+      "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "temporal_block_method": "ref-generica",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "ref-generica",
+      "temporal_block_window": [
+        "bloco-01"
+      ]
     },
     {
       "id": "archive-of-formal-proofs-355fb8",
@@ -139,7 +153,6 @@
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_subunit_slug": "sistemas-formais",
       "unit_block_conflict": {},
-      "manual_timeline_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -147,6 +160,14 @@
           "confidence": 0.5,
           "rule": "unidade-atribuida"
         }
+      ],
+      "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
+      "temporal_block_method": "ref-generica",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "ref-generica",
+      "temporal_block_window": [
+        "bloco-01"
       ]
     },
     {
@@ -217,10 +238,8 @@
       "approved_at": "2026-04-09T20:33:36",
       "review_status": "approved",
       "manual_unit_slug": "unidade-01-metodos-formais",
-      "manual_timeline_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "unit_match_reasons": [
-        "manual",
-        "unidade_do_bloco_manual"
+        "manual"
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
@@ -229,12 +248,12 @@
       "subunit_match_confidence": 0.8698524828589237,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 1.0,
+      "computed_block_confidence": 0.7142857142857143,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - equações recursivas parte 3",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -258,6 +277,14 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "manual",
+      "temporal_block_window": [
+        "bloco-04"
       ]
     },
     {
@@ -691,8 +718,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=13.52",
-        "topic_score=7.10",
-        "unidade_do_bloco_manual"
+        "topic_score=7.10"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -701,16 +727,15 @@
       "subunit_match_confidence": 0.8133032694475761,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.0,
+      "computed_block_band": "baixa",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Predicados - semântica",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -726,6 +751,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "bloco-02",
+        "bloco-03"
       ]
     },
     {
@@ -796,8 +830,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=31.78",
-        "topic_score=14.86",
-        "unidade_do_bloco_manual"
+        "topic_score=14.86"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -811,16 +844,15 @@
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_confidence": 0.0,
+      "computed_block_band": "baixa",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "fundamentos-de-logica-de-primeira-ordem",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Lógica Predicados - sintaxe",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -836,6 +868,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "bloco-02",
+        "bloco-03"
       ]
     },
     {
@@ -1998,11 +2039,10 @@
         "ferramenta:formal",
         "ferramenta:isabelle",
         "tipo:lista",
-        "bloco:bloco-06",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -2065,8 +2105,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=16.78",
-        "topic_score=2.03",
-        "unidade_do_bloco_manual"
+        "topic_score=2.03"
       ],
       "unit_match_confidence": 0.792045390070922,
       "subunit_match_reasons": [
@@ -2074,13 +2113,13 @@
       ],
       "subunit_match_confidence": 0.4468085106382978,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.37000000000000005,
+      "computed_block_band": "media",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - provas em Isabelle (parte 2)",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2094,6 +2133,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "bloco-05",
+        "bloco-06"
       ]
     },
     {
@@ -2528,7 +2576,6 @@
         "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -2591,8 +2638,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=34.41",
-        "topic_score=16.17",
-        "unidade_do_bloco_manual"
+        "topic_score=16.17"
       ],
       "unit_match_confidence": 0.9421221864951769,
       "subunit_match_reasons": [
@@ -2601,12 +2647,12 @@
       "subunit_match_confidence": 0.46537224833044766,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "computed_block_confidence": 1.0,
+      "computed_block_confidence": 0.7142857142857143,
       "computed_block_band": "alta",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Especificações recursivas - árvores binárias",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2630,6 +2676,14 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "manual",
+      "temporal_block_window": [
+        "bloco-04"
       ]
     },
     {
@@ -2644,11 +2698,10 @@
         "ferramenta:formal",
         "ferramenta:isabelle",
         "tipo:lista",
-        "bloco:bloco-06",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -2716,8 +2769,7 @@
       "approved_at": "2026-04-13T01:28:36",
       "review_status": "approved",
       "unit_match_reasons": [
-        "manual",
-        "unidade_do_bloco_manual"
+        "manual"
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
@@ -2725,13 +2777,13 @@
       ],
       "subunit_match_confidence": 0.3947368421052632,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.21250000000000002,
+      "computed_block_band": "media",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios - provas em Isabelle",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2745,6 +2797,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "temporal_block_method": "disamb",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "manual",
+      "temporal_block_window": [
+        "bloco-05",
+        "bloco-06"
       ]
     },
     {
@@ -2758,11 +2819,10 @@
       "auto_tags": [
         "tipo:lista",
         "uso:revisao-prova",
-        "bloco:bloco-07",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
-      "manual_timeline_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -2844,13 +2904,13 @@
       ],
       "subunit_match_confidence": 0.07894736842105272,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
-      "computed_block_confidence": 1.0,
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "source_section": "Exercícios de Revisão para Provas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Exercícios para P1",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2869,6 +2929,14 @@
           "confidence": 0.5,
           "rule": "unidade-atribuida"
         }
+      ],
+      "temporal_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "manual",
+      "temporal_block_window": [
+        "bloco-07"
       ]
     },
     {
@@ -3211,12 +3279,11 @@
       "auto_tags": [
         "tipo:prova",
         "uso:revisao-prova",
-        "bloco:bloco-07",
+        "bloco:bloco-04",
         "unit:unidade-02-verificacao-de-programas",
         "subunit:pre-e-pos-condicoes"
       ],
       "manual_unit_slug": "",
-      "manual_timeline_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -3302,8 +3369,8 @@
         "markdown_path": "staging/markdown-auto/datalab/revisao-p1-gabarito/revisao-p1-gabarito.md"
       },
       "computed_unit_slug": "unidade-02-verificacao-de-programas",
-      "computed_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
-      "computed_block_confidence": 1.0,
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
         "winner_score=20.00",
@@ -3320,8 +3387,12 @@
       "approved_at": "2026-06-08T20:08:26",
       "review_status": "approved",
       "computed_subunit_slug": "pre-e-pos-condicoes",
-      "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "unit_block_conflict": {
+        "unit": "unidade-02-verificacao-de-programas",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+      },
+      "computed_block_method": "concept-fused",
       "source_section": "Exercícios de Revisão para Provas",
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
@@ -3335,6 +3406,14 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
+      "temporal_block_method": "janela-1",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "manual",
+      "temporal_block_window": [
+        "bloco-07"
       ]
     },
     {
@@ -9375,7 +9454,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-21T01:03:15",
+  "updated_at": "2026-08-21T01:33:28",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
