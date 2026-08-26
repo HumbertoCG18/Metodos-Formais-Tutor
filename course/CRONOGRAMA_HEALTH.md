@@ -16,9 +16,9 @@
 
 | Faixa | Materiais |
 |---|---|
-| alta | 31 |
-| media | 22 |
-| baixa | 9 |
+| alta | 28 |
+| media | 23 |
+| baixa | 11 |
 
 ## Materiais de baixa confiança (revisar)
 
@@ -63,6 +63,15 @@
 - **introducao** — bloco `bloco-02` (faixa baixa, conf 0.00, auto)
     - candidato `c4bf9e4c-80f8-4e57-b2b1-a943c6656e52` (score —)
     - candidato `1e73625a-de3e-4c8a-87c4-d301a3138c0b` (score —)
+- **ProvasIndutivas_EspecificaçõesRecursivas** — bloco `bloco-05` (faixa media, conf 0.33, auto)
+    - candidato `bloco-05` (score —)
+    - candidato `bloco-06` (score —)
+- **ProvasIndutivas_EspecificaçõesRecursivas_Arvores** — bloco `bloco-05` (faixa baixa, conf 0.17, auto)
+    - candidato `bloco-05` (score —)
+    - candidato `bloco-06` (score —)
+- **ProvasIndutivas_EspecificaçõesRecursivas_Listas** — bloco `bloco-05` (faixa baixa, conf 0.19, auto)
+    - candidato `bloco-05` (score —)
+    - candidato `bloco-06` (score —)
 - **ExerciciosCorrecaoInducaoMatematica** — bloco `bloco-05` (faixa baixa, conf 0.00, auto)
     - candidato `bloco-05` (score —)
     - candidato `bloco-06` (score —)
@@ -196,10 +205,10 @@ bloco-08, bloco-09, bloco-14, bloco-17, bloco-19, bloco-20, bloco-21, bloco-22, 
 
 ## Blocos mais ricos
 
-- bloco-06: 10 material(is)
 - bloco-04: 10 material(is)
 - bloco-13: 8 material(is)
 - bloco-11: 7 material(is)
+- bloco-06: 7 material(is)
 - bloco-03: 7 material(is)
 
 ## Conflitos de curadoria

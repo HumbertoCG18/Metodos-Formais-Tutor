@@ -764,7 +764,7 @@
         }
       ],
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "titulo-topico",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
       "temporal_block_provider": "topic",
@@ -888,10 +888,10 @@
         }
       ],
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "titulo-topico",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
         "bloco-03",
         "bloco-04",
@@ -1275,7 +1275,7 @@
       "manual_tags": [],
       "auto_tags": [
         "tipo:material-base",
-        "bloco:bloco-06",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais",
         "subunit:especificacao-de-funcoes-recursivas"
       ],
@@ -1333,8 +1333,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=20.64",
-        "topic_score=9.19",
-        "unidade_do_bloco_manual"
+        "topic_score=9.19"
       ],
       "unit_match_confidence": 0.8702373176573046,
       "subunit_match_reasons": [
@@ -1347,17 +1346,17 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.3333333333333333,
+      "computed_block_band": "media",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Provas indutivas de especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "manual_timeline_block_id": "",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -1368,6 +1367,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "bloco-05",
+        "bloco-06"
       ]
     },
     {
@@ -1381,7 +1389,7 @@
       "auto_tags": [
         "ferramenta:sobre",
         "tipo:material-base",
-        "bloco:bloco-06",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
@@ -1438,8 +1446,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=14.86",
-        "topic_score=1.45",
-        "unidade_do_bloco_manual"
+        "topic_score=1.45"
       ],
       "unit_match_confidence": 0.7333861386138614,
       "subunit_match_reasons": [
@@ -1447,17 +1454,17 @@
       ],
       "subunit_match_confidence": 0.26732673267326734,
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.16666666666666666,
+      "computed_block_band": "baixa",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Indução estrutural sobre árvores",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "manual_timeline_block_id": "",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -1468,6 +1475,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "temporal_block_method": "titulo-topico",
+      "temporal_block_band": "alta",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "topic",
+      "temporal_block_window": [
+        "bloco-05",
+        "bloco-06"
       ]
     },
     {
@@ -1481,7 +1497,7 @@
       "auto_tags": [
         "ferramenta:sobre",
         "tipo:material-base",
-        "bloco:bloco-06",
+        "bloco:bloco-04",
         "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
@@ -1538,8 +1554,7 @@
       "review_status": "approved",
       "unit_match_reasons": [
         "winner_score=14.86",
-        "topic_score=1.45",
-        "unidade_do_bloco_manual"
+        "topic_score=1.45"
       ],
       "unit_match_confidence": 0.7333861386138614,
       "subunit_match_reasons": [
@@ -1552,17 +1567,17 @@
         "pages": {}
       },
       "computed_unit_slug": "unidade-01-metodos-formais",
-      "computed_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
-      "computed_block_confidence": 1.0,
-      "computed_block_band": "alta",
+      "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "computed_block_confidence": 0.18500000000000003,
+      "computed_block_band": "baixa",
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "manual",
+      "computed_block_method": "concept-fused",
       "moodle_label": "Indução estrutural sobre listas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
-      "manual_timeline_block_id": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "manual_timeline_block_id": "",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -1573,6 +1588,15 @@
           "confidence": 0.7,
           "rule": "card"
         }
+      ],
+      "temporal_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "llm",
+      "temporal_block_window": [
+        "bloco-05",
+        "bloco-06"
       ]
     },
     {
@@ -4593,10 +4617,10 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "temporal_block_method": "llm",
-      "temporal_block_band": "media",
+      "temporal_block_method": "titulo-topico",
+      "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "llm",
+      "temporal_block_provider": "labels",
       "temporal_block_window": [
         "171a1a09-a72d-490d-b4d8-5843cfb301b4",
         "c9f5f7cf-3477-4531-be7a-f7b68727009c",
@@ -6843,7 +6867,7 @@
       "computed_block_match_confidence": 0.6,
       "source_section": "Verificação de Programas",
       "temporal_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "titulo-topico",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
       "temporal_block_provider": "labels",
@@ -8167,7 +8191,7 @@
       "approved_at": "2026-06-28T17:47:45",
       "review_status": "approved",
       "temporal_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
-      "temporal_block_method": "disamb",
+      "temporal_block_method": "titulo-topico",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
       "temporal_block_provider": "labels",
@@ -9564,7 +9588,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T09:06:50",
+  "updated_at": "2026-08-26T09:20:08",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
