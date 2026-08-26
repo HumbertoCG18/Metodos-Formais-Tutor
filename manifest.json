@@ -7469,6 +7469,9 @@
           "rule": "card"
         }
       ],
+      "moodle_label": "Respostas",
+      "posting_date": "2026-02-18",
+      "posting_date_created": "2026-02-18",
       "computed_block_method": "concept-fused"
     },
     {
@@ -7610,7 +7613,10 @@
         "bloco-20",
         "bloco-21",
         "bloco-23"
-      ]
+      ],
+      "moodle_label": "Plano de Ensino",
+      "posting_date": "2026-02-27",
+      "posting_date_created": "2026-02-27"
     },
     {
       "id": "t2-2026-1",
@@ -7730,6 +7736,9 @@
           "rule": "unidade-atribuida"
         }
       ],
+      "moodle_label": "Definição",
+      "posting_date": "2026-06-14",
+      "posting_date_created": "2026-06-14",
       "computed_block_method": "concept-fused"
     },
     {
@@ -7853,7 +7862,10 @@
           "confidence": 0.9,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Exemplos (classes, parte 2)",
+      "posting_date": "2026-06-10",
+      "posting_date_created": "2026-06-10"
     },
     {
       "id": "exercicios-arrays",
@@ -7975,7 +7987,10 @@
           "confidence": 0.9,
           "rule": "card"
         }
-      ]
+      ],
+      "moodle_label": "Respostas",
+      "posting_date": "2026-06-08",
+      "posting_date_created": "2026-06-08"
     },
     {
       "id": "logicadehoare-exercicios-respostas",
@@ -9476,7 +9491,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T00:58:07",
+  "updated_at": "2026-08-26T01:08:04",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
