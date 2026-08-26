@@ -1011,7 +1011,6 @@
       "tags": "",
       "manual_tags": [],
       "auto_tags": [
-        "topico:conjuntos-e-funcoes",
         "tipo:material-base",
         "bloco:bloco-11",
         "unit:unidade-01-metodos-formais",
@@ -1075,14 +1074,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=21.04",
-        "topic_score=8.47"
+        "winner_score=20.55",
+        "topic_score=8.29"
       ],
-      "unit_match_confidence": 0.8894453368610035,
+      "unit_match_confidence": 0.8870383779869659,
       "subunit_match_reasons": [
-        "winner_score=8.47"
+        "winner_score=8.29"
       ],
-      "subunit_match_confidence": 0.8741377681186809,
+      "subunit_match_confidence": 0.8713975380159305,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.6375000000000001,
@@ -9496,7 +9495,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T01:42:47",
+  "updated_at": "2026-08-26T04:19:22",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
