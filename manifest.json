@@ -5659,12 +5659,13 @@
       "posting_date_created": "2026-02-18",
       "source_section": "Especificação e Verificação de Modelos",
       "temporal_block_id": "a6ac04f2-7611-4bef-b74a-54390cef4084",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "labels",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
+        "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
         "38383c92-9c71-4c4c-90af-ad19935e5597",
         "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
@@ -5829,6 +5830,7 @@
       "temporal_block_provider": "labels",
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
+        "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
         "38383c92-9c71-4c4c-90af-ad19935e5597",
         "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
@@ -5981,6 +5983,7 @@
       "temporal_block_provider": "llm",
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
+        "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
         "38383c92-9c71-4c4c-90af-ad19935e5597",
         "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
@@ -7305,6 +7308,7 @@
       "temporal_block_provider": "llm",
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
+        "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
         "38383c92-9c71-4c4c-90af-ad19935e5597",
         "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
         "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
@@ -7594,7 +7598,6 @@
         "bloco-05",
         "bloco-06",
         "bloco-07",
-        "bloco-08",
         "bloco-09",
         "bloco-10",
         "bloco-11",
@@ -7602,7 +7605,6 @@
         "bloco-13",
         "bloco-15",
         "bloco-16",
-        "bloco-17",
         "bloco-18",
         "bloco-19",
         "bloco-20",
@@ -9474,7 +9476,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-25T20:12:53",
+  "updated_at": "2026-08-25T23:58:19",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
