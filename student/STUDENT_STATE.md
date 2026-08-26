@@ -1,6 +1,6 @@
 ---
 course: Metodos-Formais
 student: Humberto
-updated: 2026-08-25
+updated: 2026-08-26
 
 ---
