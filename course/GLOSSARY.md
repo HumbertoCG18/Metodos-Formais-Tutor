@@ -28,25 +28,25 @@
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2 Linguagens de Especificação e Lógicas
-**Definição:** Linguagens de Especificação e Lógicas - 1.2.1.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.1 Fundamentos de Lógica de Primeira Ordem
-**Definição:** Fundamentos de Lógica de Primeira Ordem - 1.2.2.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.2 Especificação de Conjuntos Indutivos
-**Definição:** Especificação de Conjuntos Indutivos {1}------------------------------------------------ - 1.2.3.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.2.3 Especificação de Funções Recursivas
-**Definição:** Especificação de Funções Recursivas - 1.3.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
@@ -64,7 +64,7 @@
 **Aparece em:** Unidade 01 — Métodos Formais
 
 ## 1.3.2 Verificação de Programas
-**Definição:** Especificação e verificação de modelos e programas.
+**Definição:** Conceito central de métodos formais que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 01 — Métodos Formais
@@ -94,7 +94,7 @@
 **Aparece em:** Unidade 02 — Verificação de Programas
 
 ## 2.1.2 Correção Parcial e Total
-**Definição:** Conceito central de verificação de programas que deve ser reconhecido e usado corretamente nas respostas e revisões.
+**Definição:** Existem duas definições para correção: - Correção parcial; - Correção total.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 02 — Verificação de Programas
@@ -112,7 +112,7 @@
 **Aparece em:** Unidade 02 — Verificação de Programas
 
 ## 2.2 Softwares de Suporte à Verificação Formal de Programas
-**Definição:** Softwares de Suporte à Verificação Formal de Programas Nº.
+**Definição:** Conceito central de verificação de programas que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 02 — Verificação de Programas
@@ -130,7 +130,7 @@
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.2 Fundamentos de Lógicas Temporais
-**Definição:** Fundamentos de Lógicas Temporais - 3.2.1.
+**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos
@@ -148,13 +148,13 @@
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.3 Especificação de Propriedades para Sistemas Sequenciais e Concorrentes
-**Definição:** Especificação de Propriedades para Sistemas Sequenciais e Concorrentes - 3.4.
+**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos
 
 ## 3.4 Softwares de Suporte à Verificação Formal de Modelos
-**Definição:** Softwares de Suporte à Verificação Formal de Programas Nº.
+**Definição:** Conceito central de verificação de modelos que deve ser reconhecido e usado corretamente nas respostas e revisões.
 **Sinônimos aceitos:** —
 **Não confundir com:** —
 **Aparece em:** Unidade 03 — Verificação de Modelos

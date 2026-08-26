@@ -360,7 +360,7 @@
       "approved_at": "2026-04-09T20:35:50",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=22.80",
+        "winner_score=16.80",
         "topic_score=9.37"
       ],
       "unit_match_confidence": 0.9000640614990391,
@@ -483,7 +483,7 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=35.07",
+        "winner_score=26.06",
         "topic_score=11.84"
       ],
       "unit_match_confidence": 0.95,
@@ -605,7 +605,7 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=41.94",
+        "winner_score=28.73",
         "topic_score=12.30"
       ],
       "unit_match_confidence": 0.95,
@@ -721,10 +721,10 @@
       "approved_at": "2026-04-09T20:35:09",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=13.52",
+        "winner_score=6.65",
         "topic_score=7.10"
       ],
-      "unit_match_confidence": 0.95,
+      "unit_match_confidence": 0.9453546786922209,
       "subunit_match_reasons": [
         "winner_score=7.10"
       ],
@@ -833,7 +833,7 @@
       "approved_at": "2026-04-09T20:34:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=31.78",
+        "winner_score=20.58",
         "topic_score=14.86"
       ],
       "unit_match_confidence": 0.95,
@@ -1075,7 +1075,7 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=31.44",
+        "winner_score=21.04",
         "topic_score=8.47"
       ],
       "unit_match_confidence": 0.8894453368610035,
@@ -1188,7 +1188,7 @@
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "unit_match_reasons": [
-        "winner_score=59.16",
+        "winner_score=43.76",
         "topic_score=7.87"
       ],
       "unit_match_confidence": 0.7377777777777776,
@@ -1297,7 +1297,7 @@
       "approved_at": "2026-04-09T20:15:55",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=26.44",
+        "winner_score=20.64",
         "topic_score=9.19",
         "unidade_do_bloco_manual"
       ],
@@ -1402,11 +1402,11 @@
       "approved_at": "2026-04-09T20:23:30",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=21.48",
+        "winner_score=14.86",
         "topic_score=1.45",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.789945604481559,
+      "unit_match_confidence": 0.7333861386138614,
       "subunit_match_reasons": [
         "winner_score=1.45"
       ],
@@ -1502,11 +1502,11 @@
       "approved_at": "2026-04-09T20:25:26",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=21.48",
+        "winner_score=14.86",
         "topic_score=1.45",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.789945604481559,
+      "unit_match_confidence": 0.7333861386138614,
       "subunit_match_reasons": [
         "winner_score=1.45"
       ],
@@ -1621,7 +1621,7 @@
         "topic_score=10.89",
         "herdada_do_bloco=bloco-05"
       ],
-      "unit_match_confidence": 0.18233565919941222,
+      "unit_match_confidence": 0.29936676406670937,
       "subunit_match_reasons": [
         "winner_score=8.91"
       ],
@@ -1735,11 +1735,11 @@
       "approved_at": "2026-04-10T13:56:01",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.82",
+        "winner_score=27.82",
         "topic_score=6.80",
-        "herdada_do_bloco=bloco-03"
+        "reconciliada_do_bloco=bloco-03"
       ],
-      "unit_match_confidence": 0.39291914673636,
+      "unit_match_confidence": 0.9379528229243204,
       "subunit_match_reasons": [
         "winner_score=6.81"
       ],
@@ -1750,7 +1750,11 @@
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "sistemas-formais",
-      "unit_block_conflict": {},
+      "unit_block_conflict": {
+        "unit": "unidade-02-verificacao-de-programas",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "bloco-03"
+      },
       "moodle_label": "Respostas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1777,6 +1781,12 @@
           ],
           "confidence": 0.7,
           "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -1858,11 +1868,11 @@
       "approved_at": "2026-04-10T13:56:11",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.44",
+        "winner_score=27.82",
         "topic_score=6.80",
-        "herdada_do_bloco=bloco-03"
+        "reconciliada_do_bloco=bloco-03"
       ],
-      "unit_match_confidence": 0.39719691966003046,
+      "unit_match_confidence": 0.9379528229243204,
       "subunit_match_reasons": [
         "winner_score=6.81"
       ],
@@ -1873,7 +1883,11 @@
       "computed_block_band": "alta",
       "source_section": "Revisão - Lógica e Especificação",
       "computed_subunit_slug": "sistemas-formais",
-      "unit_block_conflict": {},
+      "unit_block_conflict": {
+        "unit": "unidade-02-verificacao-de-programas",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "bloco-03"
+      },
       "moodle_label": "Exercícios - asserções lógicas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1900,6 +1914,12 @@
           ],
           "confidence": 0.7,
           "rule": "card"
+        },
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
         }
       ],
       "computed_block_method": "concept-fused"
@@ -1982,10 +2002,10 @@
       "approved_at": "2026-04-10T13:56:25",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=17.28",
+        "winner_score=11.48",
         "topic_score=9.27"
       ],
-      "unit_match_confidence": 0.9460264728181919,
+      "unit_match_confidence": 0.9187531037366811,
       "subunit_match_reasons": [
         "winner_score=9.27"
       ],
@@ -2108,7 +2128,7 @@
       "approved_at": "2026-04-10T13:56:40",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=16.78",
+        "winner_score=12.87",
         "topic_score=2.03"
       ],
       "unit_match_confidence": 0.792045390070922,
@@ -2227,7 +2247,7 @@
       "approved_at": "2026-04-10T13:57:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=23.73",
+        "winner_score=20.77",
         "topic_score=20.49"
       ],
       "unit_match_confidence": 0.95,
@@ -2387,11 +2407,11 @@
         }
       },
       "unit_match_reasons": [
-        "winner_score=8.00",
+        "winner_score=1.10",
         "topic_score=1.12",
         "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.338947126367831,
+      "unit_match_confidence": 0.10815827158224275,
       "subunit_match_reasons": [
         "winner_score=1.12"
       ],
@@ -2515,12 +2535,11 @@
       "approved_at": "2026-04-10T14:05:19",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=37.85",
+        "winner_score=37.75",
         "topic_score=4.37",
-        "ambiguous",
         "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.14628049602194193,
+      "unit_match_confidence": 0.38961348625384495,
       "subunit_match_reasons": [
         "winner_score=9.73"
       ],
@@ -2644,7 +2663,7 @@
       "approved_at": "2026-04-10T14:05:31",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=34.41",
+        "winner_score=28.41",
         "topic_score=16.17"
       ],
       "unit_match_confidence": 0.9421221864951769,
@@ -3028,7 +3047,7 @@
       "approved_at": "2026-04-15T20:42:47",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=37.79",
+        "winner_score=31.48",
         "topic_score=9.19",
         "reconciliada_do_bloco=bloco-11",
         "herdada_do_vizinho=bloco-10"
@@ -3107,7 +3126,7 @@
       "approved_markdown": "code/professor/t1-2026-1-thy.md",
       "curated_markdown": "code/professor/t1-2026-1-thy.md",
       "unit_match_reasons": [
-        "winner_score=23.52",
+        "winner_score=11.92",
         "topic_score=1.19",
         "reconciliada_do_bloco=bloco-11",
         "herdada_do_vizinho=bloco-10"
@@ -3235,11 +3254,12 @@
       "computed_block_confidence": 0.8333333333333334,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=19.52",
-        "topic_score=9.27",
+        "winner_score=15.61",
+        "topic_score=6.80",
+        "ambiguous",
         "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.26559464709691355,
+      "unit_match_confidence": 0.1211809725090862,
       "subunit_match_reasons": [
         "winner_score=9.27"
       ],
@@ -3390,7 +3410,7 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=20.00",
+        "winner_score=20.91",
         "topic_score=6.72",
         "reconciliada_do_bloco=bloco-07",
         "herdada_do_vizinho=bloco-06"
@@ -3476,10 +3496,10 @@
       "computed_block_confidence": 0.12963134328358203,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=7.23",
+        "winner_score=3.52",
         "topic_score=1.07"
       ],
-      "unit_match_confidence": 0.8827459459459459,
+      "unit_match_confidence": 0.6361081081081081,
       "subunit_match_reasons": [
         "winner_score=1.07",
         "ambiguous"
@@ -3558,7 +3578,7 @@
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=46.82",
+        "winner_score=34.51",
         "topic_score=11.74"
       ],
       "unit_match_confidence": 0.95,
@@ -3637,10 +3657,10 @@
       "computed_block_confidence": 0.2249244739756368,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=41.43",
+        "winner_score=29.12",
         "topic_score=1.32"
       ],
-      "unit_match_confidence": 0.8220325892400285,
+      "unit_match_confidence": 0.7953250591990683,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
@@ -3717,12 +3737,12 @@
       "computed_block_confidence": 0.1573569536423841,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=7.79",
+        "winner_score=6.15",
         "topic_score=0.12",
         "ambiguous",
         "herdada_do_bloco=bloco-06"
       ],
-      "unit_match_confidence": 0.07531707317073166,
+      "unit_match_confidence": 0.05908963902439035,
       "subunit_match_reasons": [
         "winner_score=1.04",
         "ambiguous"
@@ -3799,10 +3819,10 @@
       "computed_block_confidence": 0.3995462794918331,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=24.56",
+        "winner_score=14.05",
         "topic_score=1.32"
       ],
-      "unit_match_confidence": 0.8527568218978198,
+      "unit_match_confidence": 0.7426289403419282,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
@@ -3924,11 +3944,11 @@
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=75.25",
+        "winner_score=79.22",
         "topic_score=26.80",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.705707184918165,
+      "unit_match_confidence": 0.7438344943132162,
       "subunit_match_reasons": [
         "winner_score=26.80"
       ],
@@ -4059,12 +4079,12 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=36.53",
+        "winner_score=37.29",
         "topic_score=18.29",
         "unidade_do_bloco_manual",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.8053252827742454,
+      "unit_match_confidence": 0.8679561931436338,
       "subunit_match_reasons": [
         "winner_score=18.29"
       ],
@@ -4184,7 +4204,7 @@
       "computed_block_confidence": 0.7000000000000001,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=46.13",
+        "winner_score=40.02",
         "topic_score=18.73",
         "herdada_do_vizinho=bloco-10"
       ],
@@ -4335,7 +4355,7 @@
       "computed_block_confidence": 0.2833333333333334,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=56.28",
+        "winner_score=50.16",
         "topic_score=15.45",
         "herdada_do_vizinho=bloco-10"
       ],
@@ -4486,11 +4506,11 @@
       "computed_block_confidence": 0.42500000000000004,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=43.13",
+        "winner_score=43.71",
         "topic_score=14.52",
         "herdada_do_bloco=bloco-10"
       ],
-      "unit_match_confidence": 0.18407274731330953,
+      "unit_match_confidence": 0.28216872652063896,
       "subunit_match_reasons": [
         "winner_score=14.52"
       ],
@@ -4621,11 +4641,11 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=42.16",
+        "winner_score=39.36",
         "topic_score=7.53",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8351290777787,
+      "unit_match_confidence": 0.823401796034498,
       "subunit_match_reasons": [
         "manual"
       ],
@@ -4877,10 +4897,10 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=50.92",
+        "winner_score=54.48",
         "topic_score=15.17"
       ],
-      "unit_match_confidence": 0.9345109412074875,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=15.17"
       ],
@@ -5014,7 +5034,7 @@
         "winner_score=17.28",
         "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.9268368942157373,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=15.35"
       ],
@@ -5148,7 +5168,7 @@
         "winner_score=29.64",
         "topic_score=15.53"
       ],
-      "unit_match_confidence": 0.9109966520731393,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=15.53"
       ],
@@ -5279,10 +5299,10 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=24.10",
+        "winner_score=23.59",
         "topic_score=15.35"
       ],
-      "unit_match_confidence": 0.727853048462741,
+      "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=15.35"
       ],
@@ -5639,7 +5659,7 @@
       "computed_block_confidence": 0.4444444444444444,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=42.42",
+        "winner_score=34.85",
         "topic_score=9.92"
       ],
       "unit_match_confidence": 0.5621409132143935,
@@ -5803,7 +5823,7 @@
       "computed_block_confidence": 0.775,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=32.36",
+        "winner_score=26.76",
         "topic_score=7.18"
       ],
       "unit_match_confidence": 0.95,
@@ -5957,7 +5977,7 @@
       "computed_block_confidence": 0.2583333333333333,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=35.97",
+        "winner_score=26.30",
         "topic_score=15.35"
       ],
       "unit_match_confidence": 0.9352787910369984,
@@ -6094,10 +6114,12 @@
       "computed_block_confidence": 0.7650791044776121,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=3.61",
-        "topic_score=0.94"
+        "winner_score=1.28",
+        "topic_score=0.02",
+        "tag_boost=1.50",
+        "herdada_do_bloco=bloco-15"
       ],
-      "unit_match_confidence": 0.8665107692307692,
+      "unit_match_confidence": 0.27782175322139796,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -6232,13 +6254,14 @@
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=8.78",
-        "topic_score=0.94",
+        "winner_score=4.52",
+        "topic_score=0.39",
+        "tag_boost=1.50",
         "reconciliada_do_bloco=bloco-13"
       ],
-      "unit_match_confidence": 0.5857230769230769,
+      "unit_match_confidence": 0.6064516442142551,
       "unit_block_conflict": {
-        "unit": "unidade-01-metodos-formais",
+        "unit": "unidade-03-verificacao-de-modelos",
         "block_unit": "unidade-02-verificacao-de-programas",
         "block_id": "bloco-13"
       },
@@ -6283,7 +6306,7 @@
           "rule": "card"
         },
         {
-          "unit_slug": "unidade-01-metodos-formais",
+          "unit_slug": "unidade-03-verificacao-de-modelos",
           "topics": [],
           "confidence": 0.5,
           "rule": "unidade-atribuida"
@@ -6369,16 +6392,13 @@
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=12.55",
-        "topic_score=1.07",
-        "reconciliada_do_bloco=bloco-13"
+        "winner_score=4.08",
+        "topic_score=0.12",
+        "ambiguous",
+        "herdada_do_bloco=bloco-13"
       ],
-      "unit_match_confidence": 0.8827459459459459,
-      "unit_block_conflict": {
-        "unit": "unidade-01-metodos-formais",
-        "block_unit": "unidade-02-verificacao-de-programas",
-        "block_id": "bloco-13"
-      },
+      "unit_match_confidence": 0.007901960784313466,
+      "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
         "winner_score=0.12"
@@ -6418,12 +6438,6 @@
           ],
           "confidence": 0.9,
           "rule": "card"
-        },
-        {
-          "unit_slug": "unidade-01-metodos-formais",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
         }
       ]
     },
@@ -6494,12 +6508,10 @@
       "computed_block_confidence": 0.8408239700374531,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=8.78",
-        "topic_score=0.94",
-        "ambiguous",
-        "herdada_do_bloco=bloco-13"
+        "winner_score=4.88",
+        "topic_score=0.94"
       ],
-      "unit_match_confidence": 0.12554684651841044,
+      "unit_match_confidence": 0.635429485601772,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -6615,10 +6627,10 @@
       "computed_block_confidence": 0.5287141073657928,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=48.54",
+        "winner_score=42.94",
         "topic_score=8.06"
       ],
-      "unit_match_confidence": 0.6499229526838837,
+      "unit_match_confidence": 0.7975552843862362,
       "unit_block_conflict": {},
       "computed_subunit_slug": "invariante-e-variante-de-laco",
       "subunit_match_reasons": [
@@ -6748,7 +6760,7 @@
       "computed_block_confidence": 0.6,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=52.80",
+        "winner_score=50.00",
         "topic_score=13.95"
       ],
       "unit_match_confidence": 0.9235855145213339,
@@ -6868,10 +6880,10 @@
       "computed_block_confidence": 0.2053667687595713,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=13.11",
+        "winner_score=15.14",
         "topic_score=6.72"
       ],
-      "unit_match_confidence": 0.860817843866171,
+      "unit_match_confidence": 0.8825666859360806,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -6982,12 +6994,11 @@
       "computed_block_confidence": 0.25375000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=13.41",
+        "winner_score=10.61",
         "topic_score=0.12",
-        "herdada_do_bloco=bloco-11",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.34544369873228936,
+      "unit_match_confidence": 0.8324693685202639,
       "unit_block_conflict": {},
       "computed_subunit_slug": "",
       "subunit_match_reasons": [
@@ -7097,11 +7108,11 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=10.54",
+        "winner_score=7.74",
         "topic_score=0.12",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.16721062618595836,
+      "unit_match_confidence": 0.7703488372093024,
       "unit_block_conflict": {},
       "computed_subunit_slug": "",
       "subunit_match_reasons": [
@@ -7194,11 +7205,11 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=8.68",
-        "topic_score=0.94",
+        "winner_score=4.08",
+        "topic_score=0.12",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8665107692307692,
+      "unit_match_confidence": 0.5755882352941175,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -7227,12 +7238,6 @@
           ],
           "confidence": 0.9,
           "rule": "card"
-        },
-        {
-          "unit_slug": "unidade-01-metodos-formais",
-          "topics": [],
-          "confidence": 0.5,
-          "rule": "unidade-atribuida"
         }
       ]
     },
@@ -7280,11 +7285,11 @@
       "computed_block_confidence": 0.23638497652582163,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=52.34",
+        "winner_score=46.74",
         "topic_score=7.73",
         "reconciliada_do_bloco=bloco-16"
       ],
-      "unit_match_confidence": 0.5330163597716799,
+      "unit_match_confidence": 0.6742052365542512,
       "unit_block_conflict": {
         "unit": "unidade-02-verificacao-de-programas",
         "block_unit": "unidade-03-verificacao-de-modelos",
@@ -7425,10 +7430,10 @@
       "computed_block_confidence": 0.8500000000000001,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=15.72",
+        "winner_score=8.42",
         "topic_score=8.73"
       ],
-      "unit_match_confidence": 0.8861333944533578,
+      "unit_match_confidence": 0.8892525473244187,
       "unit_block_conflict": {},
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "subunit_match_reasons": [
@@ -7556,11 +7561,11 @@
       "review_status": "approved",
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
-        "winner_score=122.21",
+        "winner_score=102.10",
         "topic_score=14.31",
         "herdada_do_bloco=bloco-01"
       ],
-      "unit_match_confidence": 0.34049539978896265,
+      "unit_match_confidence": 0.22286497019726847,
       "unit_block_conflict": {},
       "computed_subunit_slug": "especificacao-de-conjuntos-indutivos",
       "subunit_match_reasons": [
@@ -7700,7 +7705,7 @@
       "computed_block_confidence": 0.6190476190476192,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=30.27",
+        "winner_score=26.96",
         "topic_score=4.50",
         "reconciliada_do_bloco=bloco-18"
       ],
@@ -7821,10 +7826,10 @@
       "computed_block_confidence": 0.006945544554455452,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=19.50",
+        "winner_score=16.70",
         "topic_score=3.49"
       ],
-      "unit_match_confidence": 0.731651376146789,
+      "unit_match_confidence": 0.7935914936417846,
       "unit_block_conflict": {},
       "computed_subunit_slug": "correcao-parcial-e-total",
       "subunit_match_reasons": [
@@ -7946,10 +7951,10 @@
       "computed_block_confidence": 0.06724270353302624,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=26.93",
+        "winner_score=24.13",
         "topic_score=7.73"
       ],
-      "unit_match_confidence": 0.8622365869424693,
+      "unit_match_confidence": 0.949869010989011,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
@@ -8078,10 +8083,10 @@
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=39.23",
+        "winner_score=36.91",
         "topic_score=31.23"
       ],
-      "unit_match_confidence": 0.95,
+      "unit_match_confidence": 0.997616012808513,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
@@ -9491,7 +9496,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T01:08:04",
+  "updated_at": "2026-08-26T01:42:47",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
