@@ -384,6 +384,57 @@
       "model": "gemini-3.5-flash",
       "block_uuid": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "window_uuids": []
+    },
+    "dd4723f8a535e01d8d341e2e5869c7bb": {
+      "block_id": "bloco-04",
+      "block_uuid": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "confianca": "alta",
+      "justificativa": "O material 'ConjuntosIndutivos' aborda a revisao de conjuntos, definicao por inducao e arvores de prova, correspondendo diretamente ao topico de 'conjuntos indutivos equacoes recursivas arvores' do bl",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
+      ],
+      "window_uuids": [
+        "5599d015-10e0-4f6e-ad17-c526b903dc09",
+        "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+        "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+      ]
+    },
+    "520ff1b632fb609125be05a3441a0a2f": {
+      "block_id": "bloco-04",
+      "block_uuid": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "confianca": "alta",
+      "justificativa": "O material contem exercicios resolvidos de equacoes recursivas e algoritmos, correspondendo exatamente ao roteiro de 'definicoes indutivas e recursivas, exercicios' do bloco-04.",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
+      ],
+      "window_uuids": [
+        "5599d015-10e0-4f6e-ad17-c526b903dc09",
+        "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+        "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+      ]
+    },
+    "6dcb2a21e38fa65fb4c4494171f6d280": {
+      "block_id": "bloco-04",
+      "block_uuid": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
+      "confianca": "95%",
+      "justificativa": "O material introduz a formalização de algoritmos através de equações recursivas, o que corresponde diretamente ao tópico 'conjuntos indutivos equacoes recursivas arvores' do bloco-04.",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
+      ],
+      "window_uuids": [
+        "5599d015-10e0-4f6e-ad17-c526b903dc09",
+        "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
+        "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
+      ]
     }
   }
 }

@@ -282,12 +282,14 @@
         }
       ],
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -380,12 +382,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -502,12 +506,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
+      "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -624,12 +630,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -759,10 +767,17 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -873,13 +888,20 @@
         }
       ],
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -976,13 +998,20 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "coverage_units": [
         {
@@ -1098,8 +1127,15 @@
       "temporal_block_flag": false,
       "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "coverage_units": [
         {
@@ -1761,10 +1797,17 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "coverage_units": [
         {
@@ -1894,10 +1937,17 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "coverage_units": [
         {
@@ -2020,12 +2070,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -2270,13 +2322,20 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "2edd762f-2dc8-4437-90c7-c207b796434a",
-      "temporal_block_method": "disamb",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-02",
-        "bloco-03"
+        "bloco-03",
+        "bloco-04",
+        "bloco-05",
+        "bloco-06",
+        "bloco-10",
+        "bloco-11",
+        "bloco-13",
+        "bloco-15",
+        "bloco-16"
       ],
       "coverage_units": [
         {
@@ -2426,12 +2485,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -2554,12 +2615,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -2702,12 +2765,14 @@
         }
       ],
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "llm",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "llm",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "computed_block_method": "concept-fused"
     },
@@ -2826,7 +2891,7 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
@@ -2955,10 +3020,10 @@
         }
       ],
       "temporal_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "prep-prova",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "prep-prova",
       "temporal_block_window": [
         "bloco-07"
       ],
@@ -3275,12 +3340,14 @@
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
+      "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -3445,10 +3512,10 @@
         }
       ],
       "temporal_block_id": "1dd6f143-d239-45bb-8a05-391ef8acbba1",
-      "temporal_block_method": "janela-1",
-      "temporal_block_band": "alta",
+      "temporal_block_method": "prep-prova",
+      "temporal_block_band": "media",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "prep-prova",
       "temporal_block_window": [
         "bloco-07"
       ],
@@ -3598,7 +3665,7 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
@@ -3840,7 +3907,7 @@
       "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
@@ -7445,12 +7512,14 @@
       "approved_at": "2026-06-28T17:47:31",
       "review_status": "approved",
       "temporal_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
-      "temporal_block_method": "janela-1",
+      "temporal_block_method": "disamb",
       "temporal_block_band": "alta",
       "temporal_block_flag": false,
-      "temporal_block_provider": "manual",
+      "temporal_block_provider": "topic",
       "temporal_block_window": [
-        "bloco-04"
+        "bloco-04",
+        "bloco-05",
+        "bloco-06"
       ],
       "coverage_units": [
         {
@@ -9495,7 +9564,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T04:19:22",
+  "updated_at": "2026-08-26T09:06:50",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",

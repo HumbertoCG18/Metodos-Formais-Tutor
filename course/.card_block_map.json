@@ -1,34 +1,4 @@
 {
- "Bibliografia-Livros": {
-  "block_ids": [],
-  "source": "manual"
- },
- "Especificações Indutivas e Recursivas": {
-  "block_ids": [
-   "bloco-04"
-  ],
-  "source": "manual"
- },
- "Exercícios de Revisão para Provas": {
-  "block_ids": [
-   "bloco-07"
-  ],
-  "source": "manual"
- },
- "Provas por Indução": {
-  "block_ids": [
-   "bloco-05",
-   "bloco-06"
-  ],
-  "source": "manual"
- },
- "Revisão - Lógica e Especificação": {
-  "block_ids": [
-   "bloco-02",
-   "bloco-03"
-  ],
-  "source": "manual"
- },
  "Introdução a Métodos Formais": {
   "block_ids": [
    "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
