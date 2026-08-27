@@ -1352,7 +1352,6 @@
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Provas indutivas de especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1376,7 +1375,8 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-arvores",
@@ -1460,7 +1460,6 @@
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Indução estrutural sobre árvores",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1484,7 +1483,8 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "provasindutivas-especificacoesrecursivas-listas",
@@ -1573,7 +1573,6 @@
       "source_section": "Provas por Indução",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
       "unit_block_conflict": {},
-      "computed_block_method": "concept-fused",
       "moodle_label": "Indução estrutural sobre listas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -1597,7 +1596,8 @@
       "temporal_block_window": [
         "bloco-05",
         "bloco-06"
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "exercicioscorrecaoinducaomatematica",
@@ -5776,10 +5776,7 @@
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
         "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
-        "38383c92-9c71-4c4c-90af-ad19935e5597",
-        "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
-        "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
-        "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+        "38383c92-9c71-4c4c-90af-ad19935e5597"
       ],
       "coverage_units": [
         {
@@ -5941,10 +5938,7 @@
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
         "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
-        "38383c92-9c71-4c4c-90af-ad19935e5597",
-        "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
-        "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
-        "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+        "38383c92-9c71-4c4c-90af-ad19935e5597"
       ],
       "coverage_units": [
         {
@@ -6094,10 +6088,7 @@
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
         "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
-        "38383c92-9c71-4c4c-90af-ad19935e5597",
-        "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
-        "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
-        "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+        "38383c92-9c71-4c4c-90af-ad19935e5597"
       ],
       "coverage_units": [
         {
@@ -7404,10 +7395,7 @@
       "temporal_block_window": [
         "a6ac04f2-7611-4bef-b74a-54390cef4084",
         "37d49c0d-3cc1-4a8b-add6-d82ea868ec52",
-        "38383c92-9c71-4c4c-90af-ad19935e5597",
-        "dd52ff18-4d6c-4dcd-a7c2-c154f19ea314",
-        "b0a63baf-b0ae-4cfe-a2cb-c81ce30d5a22",
-        "b4a0046d-49c1-4eab-89bc-f62dad577d52"
+        "38383c92-9c71-4c4c-90af-ad19935e5597"
       ],
       "coverage_units": [
         {
@@ -7698,7 +7686,6 @@
         "bloco-05",
         "bloco-06",
         "bloco-07",
-        "bloco-09",
         "bloco-10",
         "bloco-11",
         "bloco-12",
@@ -7706,10 +7693,7 @@
         "bloco-15",
         "bloco-16",
         "bloco-18",
-        "bloco-19",
-        "bloco-20",
-        "bloco-21",
-        "bloco-23"
+        "bloco-19"
       ],
       "moodle_label": "Plano de Ensino",
       "posting_date": "2026-02-27",
@@ -9588,7 +9572,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-26T09:20:08",
+  "updated_at": "2026-08-27T01:34:32",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
