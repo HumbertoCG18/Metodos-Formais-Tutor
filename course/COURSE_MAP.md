@@ -30,7 +30,6 @@
   - [ ] 2.1.3 Invariante e Variante de Laço
   - [ ] 2.1.4 Sistema de Prova
 - [ ] 2.2 Softwares de Suporte à Verificação Formal de Programas
-- 🧪 Tambem cobre esta unidade: `Exemplos`, `ExerciciosEspecificacao` (+2)
 
 ### Unidade 03 — Verificação de Modelos
 - [ ] 3.1 Máquinas de Estado
@@ -40,7 +39,6 @@
   - [ ] 3.2.2 Lógica Temporal Ramificada
 - [ ] 3.3 Especificação de Propriedades para Sistemas Sequenciais e Concorrentes
 - [ ] 3.4 Softwares de Suporte à Verificação Formal de Modelos
-- 🧪 Tambem cobre esta unidade: `Colecoes Arrays`
 
 ## Timeline — Cronograma x Unidades
 
