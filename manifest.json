@@ -2970,16 +2970,15 @@
       ],
       "unit_match_confidence": 1.0,
       "subunit_match_reasons": [
-        "winner_score=1.64",
-        "ambiguous"
+        "revisao-sem-assunto-dominante (winner_score=1.64 < 7.0)"
       ],
-      "subunit_match_confidence": 0.07894736842105272,
+      "subunit_match_confidence": 0.0,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "source_section": "Exercícios de Revisão para Provas",
-      "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
+      "computed_subunit_slug": "",
       "unit_block_conflict": {},
       "moodle_label": "Exercícios para P1",
       "posting_date": "2026-02-18",
@@ -3453,15 +3452,15 @@
       ],
       "unit_match_confidence": 0.6274031802315918,
       "subunit_match_reasons": [
-        "winner_score=1.71"
+        "revisao-sem-assunto-dominante (winner_score=1.71 < 7.0)"
       ],
-      "subunit_match_confidence": 0.1512605042016806,
+      "subunit_match_confidence": 0.0,
       "approved_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "curated_markdown": "exams/past-exams/revisao-p1-gabarito.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/revisao-p1-gabarito/revisao-p1-gabarito.md",
       "approved_at": "2026-06-08T20:08:26",
       "review_status": "approved",
-      "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
+      "computed_subunit_slug": "",
       "unit_block_conflict": {},
       "source_section": "Exercícios de Revisão para Provas",
       "moodle_label": "Respostas",
@@ -7317,12 +7316,11 @@
       ],
       "unit_match_confidence": 0.24832557106995154,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "exemplos-de-aplicacoes",
+      "computed_subunit_slug": "",
       "subunit_match_reasons": [
-        "winner_score=14.67",
-        "ambiguous"
+        "meta-material:meta"
       ],
-      "subunit_match_confidence": 0.02453820462136196,
+      "subunit_match_confidence": 0.0,
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -9212,7 +9210,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-31T03:10:18",
+  "updated_at": "2026-08-31T14:54:49",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
