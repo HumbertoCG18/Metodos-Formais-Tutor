@@ -24,10 +24,10 @@ mode: routing_index
 
 | # | Título | Categoria | Quando abrir | Prioridade | Markdown | Seções | Unidade | Subtópico | Confiança | Período |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; unit:unidade-01-metodos-formais; main` |  |  |  |  |  |  |  |
-| 2 | GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub | bibliografia | referência geral | alta | — |  | curso-inteiro |  | Alta |  |
-|  | ↳ rastreabilidade |  | tags: `unit:unidade-01-metodos-formais; main` |  |  |  |  |  |  |  |
+| 1 | GitHub - Consensys/eth2.0-dafny: Eth2.0 spec in Dafny · GitHub | bibliografia | referência geral | alta | A revisar | Conteúdo Extraído  Objectives  How to use the verified code?  Methodology | curso-inteiro |  | Alta |  |
+|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; unit:unidade-01-metodos-formais; subunit:abordagens-para-verificacao-formal`; markdown-base: `staging/markdown-auto/url_fetcher/eth2.md` |  |  |  |  |  |  |  |
+| 2 | GitHub - aws/aws-encryption-sdk: AWS Encryption SDK · GitHub | bibliografia | referência geral | alta | A revisar | Conteúdo Extraído  Building the AWS Encryption SDK for Dafny  Generating Code from Smithy Model  Generate Duvet Reports | curso-inteiro |  | Alta |  |
+|  | ↳ rastreabilidade |  | tags: `ferramenta:dafny; unit:unidade-01-metodos-formais; subunit:abordagens-para-verificacao-formal`; markdown-base: `staging/markdown-auto/url_fetcher/aws-encryption-sdk.md` |  |  |  |  |  |  |  |
 | 3 | Archive of Formal Proofs | references | consulta pontual | alta | `content/curated/archive-of-formal-proofs-355fb8.md` | Conteúdo Extraído | curso-inteiro |  | Alta |  |
 |  | ↳ rastreabilidade |  | tags: `ferramenta:axiom-free; ferramenta:formal; ferramenta:isabelle` |  |  |  |  |  |  |  |
 | 4 | ExerciciosFormalizacaoAlgoritmosRecursao3 | listas | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao3.md` | **Exercícios**  **Formalização de algoritmos como equações recursivas – Parte 3** | unidade-01-metodos-formais | Especificação de Funções Recursivas | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
@@ -71,8 +71,5 @@ mode: routing_index
 | 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão | unidade-01-metodos-formais | Especificação de Funções Recursivas | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf`; tags: `ferramenta:formal; tipo:material-base; bloco:bloco-11` |  |  |  |  |  |  |  |
 | 24 | FormalizacaoAlgoritmos_Recursao3 | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao3.md` | 1. Árvores polimórficas (definição indutiva)  2. Árvores polimórficas (equações recursivas) | unidade-01-metodos-formais |  | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao3.pdf`; tags: `ferramenta:formal; ferramenta:sobre; topico:funcoes-recursivas` |  |  |  |  |  |  |  |
-| 25 | ExerciciosIsabelle | listas | exercícios | alta | `exercises/lists/exerciciosisabelle.md` |  | unidade-01-metodos-formais |  | Alta | 3 dias · 06/04/2026 a 13/04/2026 |
-|  | ↳ rastreabilidade |  | raw: `raw/pdfs/listas/exerciciosisabelle.pdf`; tags: `ferramenta:formal; ferramenta:isabelle; tipo:lista`; unidade-manual: `unidade-01-metodos-formais` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.

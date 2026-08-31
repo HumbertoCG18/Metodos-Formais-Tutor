@@ -36,28 +36,32 @@
       "document_profile": "general",
       "preferred_backend": "auto",
       "extracted_files": [],
-      "base_markdown": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/eth2.md",
       "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\eth2\\main'...\nfatal: Remote branch main not found in upstream origin\n",
       "effective_profile": "general",
       "manual_tags": [],
       "auto_tags": [
         "ferramenta:dafny",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:abordagens-para-verificacao-formal"
       ],
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
-        "winner_score=0.01",
-        "topic_score=0.02",
-        "ambiguous",
-        "herdada_do_bloco=bloco-01"
+        "winner_score=15.92",
+        "topic_score=13.12",
+        "reconciliada_do_bloco=bloco-01"
       ],
-      "unit_match_confidence": 0.0,
-      "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "unit_match_confidence": 0.9381502872020023,
+      "unit_block_conflict": {
+        "unit": "unidade-02-verificacao-de-programas",
+        "block_unit": "unidade-01-metodos-formais",
+        "block_id": "bloco-01"
+      },
+      "computed_subunit_slug": "abordagens-para-verificacao-formal",
       "subunit_match_reasons": [
-        "empate-exato 4x score=0.02"
+        "winner_score=0.82"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.8622730158730159,
       "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "temporal_block_method": "ref-generica",
       "temporal_block_band": "media",
@@ -65,6 +69,16 @@
       "temporal_block_provider": "ref-generica",
       "temporal_block_window": [
         "bloco-01"
+      ],
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/web/eth2.md",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-02-verificacao-de-programas",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -82,27 +96,27 @@
       "document_profile": "general",
       "preferred_backend": "auto",
       "extracted_files": [],
-      "base_markdown": null,
+      "base_markdown": "staging/markdown-auto/url_fetcher/aws-encryption-sdk.md",
       "clone_error": "Cloning into 'C:\\Users\\Humberto\\Documents\\GitHub\\Metodos-Formais-Tutor\\raw\\repos\\aws-encryption-sdk\\main'...\nfatal: Remote branch main not found in upstream origin\n",
       "effective_profile": "general",
       "manual_tags": [],
       "auto_tags": [
-        "unit:unidade-01-metodos-formais"
+        "ferramenta:dafny",
+        "unit:unidade-01-metodos-formais",
+        "subunit:abordagens-para-verificacao-formal"
       ],
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
-        "winner_score=0.01",
-        "topic_score=0.02",
-        "ambiguous",
-        "herdada_do_bloco=bloco-01"
+        "winner_score=0.62",
+        "topic_score=0.10"
       ],
-      "unit_match_confidence": 0.0,
+      "unit_match_confidence": 0.6374538244766507,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "",
+      "computed_subunit_slug": "abordagens-para-verificacao-formal",
       "subunit_match_reasons": [
-        "empate-exato 4x score=0.02"
+        "winner_score=0.10"
       ],
-      "subunit_match_confidence": 0.0,
+      "subunit_match_confidence": 0.8400000000000001,
       "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "temporal_block_method": "ref-generica",
       "temporal_block_band": "media",
@@ -110,6 +124,16 @@
       "temporal_block_provider": "ref-generica",
       "temporal_block_window": [
         "bloco-01"
+      ],
+      "base_backend": "url_fetcher",
+      "manual_review": "manual-review/web/aws-encryption-sdk.md",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
       ]
     },
     {
@@ -9188,7 +9212,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-31T01:35:09",
+  "updated_at": "2026-08-31T02:25:29",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
