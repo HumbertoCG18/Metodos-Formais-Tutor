@@ -6,25 +6,25 @@
 
 | Recurso | Tipo | Unidade | Solução | Prioridade | Quando usar |
 |---|---|---|---|---|---|
-| ExerciciosFormalizacaoAlgoritmosRecursao3 | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosConjuntosIndutivos | lista | topico:conjuntos-indutivos; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosCorrecaoInducaoMatematica | lista | tipo:lista; bloco:bloco-04; unit:unidade-01-metodos-formais | não | média | fixação por unidade |
-| ExerciciosEspecificacao_respostas | exercício | ferramenta:formal; tipo:gabarito; bloco:bloco-03 | não | média | fixação por unidade |
-| ExerciciosEspecificacao | lista | ferramenta:formal; tipo:lista; bloco:bloco-03 | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao2 | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosIsabelle2 | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao_respostas | exercício | ferramenta:formal; tipo:gabarito; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosIsabelle | lista | ferramenta:formal; ferramenta:isabelle; tipo:lista | não | média | fixação por unidade |
-| revisao_p1 | lista | tipo:lista; uso:revisao-prova; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| ExerciciosCorrecaoTerminacao | lista | topico:correcao; tipo:lista; bloco:bloco-11 | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosInvariantes | lista | ferramenta:formal; ferramenta:invariantes; tipo:lista | não | média | fixação por unidade |
-| ExerciciosDafny1 | lista | ferramenta:dafny; tipo:lista; bloco:bloco-11 | não | média | fixação por unidade |
-| ExerciciosDafny2 | lista | ferramenta:dafny; tipo:lista; bloco:bloco-11 | não | média | fixação por unidade |
-| ExerciciosDafny3 | lista | ferramenta:dafny; tipo:lista; bloco:bloco-13 | não | média | fixação por unidade |
-| ExerciciosDafny4 | lista | ferramenta:dafny; tipo:lista; bloco:bloco-13 | não | média | fixação por unidade |
-| ExerciciosDafny5 | lista | ferramenta:dafny; tipo:lista; bloco:bloco-11 | não | média | fixação por unidade |
-| ExerciciosLogicaTemporal | lista | ferramenta:modelos; tipo:lista; bloco:bloco-16 | não | média | fixação por unidade |
-| ExerciciosNusmv | lista | ferramenta:modelos; ferramenta:nusmv; ferramenta:nuxmv | não | média | fixação por unidade |
-| ExerciciosFormalizacaoAlgoritmosRecursao3_respostas | lista | ferramenta:formal; tipo:lista; bloco:bloco-04 | não | média | fixação por unidade |
-| LogicaDeHoare_exercicios_respostas | exercício | ferramenta:hoare; tipo:gabarito; bloco:bloco-10 | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao3 | lista | unidade-01-metodos-formais | sim — ExerciciosFormalizacaoAlgoritmosRecursao3_respostas | alta | fixação por unidade |
+| ExerciciosConjuntosIndutivos | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosCorrecaoInducaoMatematica | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosEspecificacao_respostas | gabarito | unidade-01-metodos-formais | é o gabarito | alta | conferir após tentar |
+| ExerciciosEspecificacao | lista | unidade-01-metodos-formais | sim — ExerciciosEspecificacao_respostas | alta | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao2 | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosIsabelle2 | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao_respostas | gabarito | unidade-01-metodos-formais | é o gabarito | alta | conferir após tentar |
+| ExerciciosIsabelle | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| revisao_p1 | lista | unidade-01-metodos-formais | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao | lista | unidade-01-metodos-formais | sim — ExerciciosFormalizacaoAlgoritmosRecursao_respostas | alta | fixação por unidade |
+| ExerciciosCorrecaoTerminacao | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosInvariantes | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosDafny1 | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosDafny2 | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosDafny3 | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosDafny4 | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosDafny5 | lista | unidade-02-verificacao-de-programas | não | média | fixação por unidade |
+| ExerciciosLogicaTemporal | lista | unidade-03-verificacao-de-modelos | não | média | fixação por unidade |
+| ExerciciosNusmv | lista | unidade-03-verificacao-de-modelos | não | média | fixação por unidade |
+| ExerciciosFormalizacaoAlgoritmosRecursao3_respostas | gabarito | unidade-01-metodos-formais | é o gabarito | alta | conferir após tentar |
+| LogicaDeHoare_exercicios_respostas | gabarito | unidade-02-verificacao-de-programas | é o gabarito | alta | conferir após tentar |
