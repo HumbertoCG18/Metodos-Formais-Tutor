@@ -27,7 +27,7 @@
       "category": "bibliografia",
       "file_type": "github-repo",
       "source_path": "https://github.com/ConsenSys/eth2.0-dafny",
-      "tags": "main",
+      "tags": "",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -51,7 +51,7 @@
         "topic_score=13.12",
         "reconciliada_do_bloco=bloco-01"
       ],
-      "unit_match_confidence": 0.9381502872020023,
+      "unit_match_confidence": 0.93517180301303,
       "unit_block_conflict": {
         "unit": "unidade-02-verificacao-de-programas",
         "block_unit": "unidade-01-metodos-formais",
@@ -59,7 +59,7 @@
       },
       "computed_subunit_slug": "abordagens-para-verificacao-formal",
       "subunit_match_reasons": [
-        "winner_score=0.82"
+        "winner_score=0.91"
       ],
       "subunit_match_confidence": 0.8622730158730159,
       "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
@@ -87,7 +87,7 @@
       "category": "bibliografia",
       "file_type": "github-repo",
       "source_path": "https://github.com/aws/aws-encryption-sdk",
-      "tags": "main",
+      "tags": "",
       "notes": "",
       "professor_signal": "",
       "include_in_bundle": true,
@@ -108,15 +108,15 @@
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
         "winner_score=0.62",
-        "topic_score=0.10"
+        "topic_score=0.11"
       ],
       "unit_match_confidence": 0.6374538244766507,
       "unit_block_conflict": {},
       "computed_subunit_slug": "abordagens-para-verificacao-formal",
       "subunit_match_reasons": [
-        "winner_score=0.10"
+        "winner_score=0.11"
       ],
-      "subunit_match_confidence": 0.8400000000000001,
+      "subunit_match_confidence": 0.84,
       "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
       "temporal_block_method": "ref-generica",
       "temporal_block_band": "media",
@@ -9210,7 +9210,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-08-31T14:54:49",
+  "updated_at": "2026-08-31T15:38:50",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
