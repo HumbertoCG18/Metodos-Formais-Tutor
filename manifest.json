@@ -4549,8 +4549,7 @@
         "ferramenta:hoare",
         "tipo:material-base",
         "bloco:bloco-10",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:21-logica-de-hoare"
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
@@ -4626,19 +4625,19 @@
       ],
       "unit_match_confidence": 0.8187082362781988,
       "subunit_match_reasons": [
-        "manual"
+        "winner_score=7.53"
       ],
-      "subunit_match_confidence": 1.0,
+      "subunit_match_confidence": 0.40265604249667986,
       "approved_markdown": "content/curated/logicadehoare2.md",
       "curated_markdown": "content/curated/logicadehoare2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare2/logicadehoare2.md",
       "approved_at": "2026-06-08T20:08:50",
       "review_status": "approved",
-      "computed_subunit_slug": "21-logica-de-hoare",
+      "computed_subunit_slug": "logica-de-hoare",
       "unit_block_conflict": {},
       "computed_block_method": "manual",
       "source_section": "Verificação de Programas",
-      "manual_subunit_slug": "21-logica-de-hoare",
+      "manual_subunit_slug": "",
       "moodle_label": "Lógica de Hoare (parte 2)",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -9215,7 +9214,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-09-01T00:04:10",
+  "updated_at": "2026-09-01T00:37:49",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
