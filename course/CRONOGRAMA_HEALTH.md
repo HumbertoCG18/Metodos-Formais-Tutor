@@ -16,8 +16,8 @@
 
 | Faixa | Materiais |
 |---|---|
-| alta | 28 |
-| media | 23 |
+| alta | 30 |
+| media | 21 |
 | baixa | 11 |
 
 ## Materiais de baixa confiança (revisar)
@@ -111,13 +111,7 @@
 - **provas** — bloco `bloco-06` (faixa media, conf 0.40, auto)
     - candidato `bloco-05` (score —)
     - candidato `bloco-06` (score —)
-- **FormalizacaoAlgoritmos_InvariantesLaco** — bloco `bloco-11` (faixa media, conf 0.28, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **LogicaDeHoare** — bloco `bloco-10` (faixa media, conf 0.43, auto)
+- **LogicaDeHoare** — bloco `bloco-10` (faixa media, conf 0.21, auto)
     - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
     - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
     - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
@@ -158,12 +152,6 @@
     - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
     - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
 - **Introducao** — bloco `bloco-12` (faixa media, conf 0.21, auto)
-    - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
-    - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
-    - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
-    - candidato `de7d1b70-fb58-4a18-ad49-d1a64c6c7684` (score —)
-    - candidato `95d7c9fb-d9e3-43cd-b1fb-5fcebddb49f0` (score —)
-- **Invariantes** — bloco `bloco-11` (faixa media, conf 0.25, auto)
     - candidato `171a1a09-a72d-490d-b4d8-5843cfb301b4` (score —)
     - candidato `c9f5f7cf-3477-4531-be7a-f7b68727009c` (score —)
     - candidato `e3bc8a61-e729-4f25-9bc5-12b8a47151e3` (score —)
