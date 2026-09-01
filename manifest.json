@@ -633,15 +633,15 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=36.42",
+        "winner_score=37.22",
         "topic_score=16.82",
         "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.35643341409478124,
+      "unit_match_confidence": 0.34877145219421063,
       "subunit_match_reasons": [
         "winner_score=12.30"
       ],
-      "subunit_match_confidence": 0.7197294836779815,
+      "subunit_match_confidence": 0.426453374951229,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b",
       "computed_block_confidence": 0.30348258706467673,
@@ -1102,12 +1102,10 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=17.03",
-        "topic_score=0.94",
-        "ambiguous",
-        "herdada_do_bloco=bloco-03"
+        "winner_score=17.98",
+        "topic_score=8.29"
       ],
-      "unit_match_confidence": 0.06544487245736852,
+      "unit_match_confidence": 0.8870383779869659,
       "subunit_match_reasons": [
         "winner_score=8.29"
       ],
@@ -1138,7 +1136,15 @@
         "bloco-15",
         "bloco-16"
       ],
-      "computed_block_method": "concept-fused"
+      "computed_block_method": "concept-fused",
+      "coverage_units": [
+        {
+          "unit_slug": "unidade-01-metodos-formais",
+          "topics": [],
+          "confidence": 0.5,
+          "rule": "unidade-atribuida"
+        }
+      ]
     },
     {
       "id": "introducao",
@@ -1151,8 +1157,7 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-06",
-        "unit:unidade-01-metodos-formais",
-        "subunit:abordagens-para-verificacao-formal"
+        "unit:unidade-01-metodos-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1209,14 +1214,15 @@
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "unit_match_reasons": [
-        "winner_score=47.89",
-        "topic_score=13.08"
+        "winner_score=62.18",
+        "topic_score=27.31"
       ],
-      "unit_match_confidence": 0.6485742680223222,
+      "unit_match_confidence": 0.8316548870253049,
       "subunit_match_reasons": [
-        "winner_score=7.69"
+        "winner_score=7.69",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.5519168291098114,
+      "subunit_match_confidence": 0.08304093567251443,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -2282,7 +2288,7 @@
       "approved_at": "2026-04-10T13:57:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=23.50",
+        "winner_score=24.50",
         "topic_score=20.49"
       ],
       "unit_match_confidence": 0.9418389054784628,
@@ -2578,7 +2584,7 @@
       "subunit_match_reasons": [
         "winner_score=9.91"
       ],
-      "subunit_match_confidence": 0.6771653543307086,
+      "subunit_match_confidence": 0.3129416515243286,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "c9f5f7cf-3477-4531-be7a-f7b68727009c",
       "computed_block_confidence": 0.4444444444444444,
@@ -3970,11 +3976,11 @@
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=105.87",
-        "topic_score=53.79",
+        "winner_score=110.73",
+        "topic_score=57.40",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.8654774209379623,
+      "unit_match_confidence": 0.8739329491369517,
       "subunit_match_reasons": [
         "winner_score=26.80"
       ],
@@ -5577,7 +5583,7 @@
       "computed_block_confidence": 0.4444444444444444,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=53.30",
+        "winner_score=58.05",
         "topic_score=18.10"
       ],
       "unit_match_confidence": 0.5102047581687791,
@@ -9216,7 +9222,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-09-01T01:21:31",
+  "updated_at": "2026-09-01T02:36:28",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
