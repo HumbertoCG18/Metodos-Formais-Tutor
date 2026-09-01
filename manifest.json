@@ -148,7 +148,8 @@
         "ferramenta:axiom-free",
         "ferramenta:formal",
         "ferramenta:isabelle",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:sistemas-formais"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1153,7 +1154,8 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-06",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:abordagens-para-verificacao-formal"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1377,7 +1379,8 @@
         "ferramenta:sobre",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1485,7 +1488,8 @@
         "ferramenta:sobre",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "notes": "",
       "professor_signal": "",
@@ -1717,7 +1721,8 @@
         "ferramenta:formal",
         "tipo:gabarito",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:sistemas-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -1843,7 +1848,8 @@
         "ferramenta:formal",
         "tipo:lista",
         "bloco:bloco-03",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:sistemas-formais"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -2099,7 +2105,8 @@
         "ferramenta:isabelle",
         "tipo:lista",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -2642,7 +2649,8 @@
         "topico:funcoes-recursivas",
         "tipo:material-base",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "notes": "",
@@ -2770,7 +2778,8 @@
         "ferramenta:isabelle",
         "tipo:lista",
         "bloco:bloco-04",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "unidade-01-metodos-formais",
       "notes": "",
@@ -4268,7 +4277,8 @@
         "ferramenta:invariantes",
         "tipo:material-base",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:invariante-e-variante-de-laco"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4549,7 +4559,8 @@
         "ferramenta:hoare",
         "tipo:material-base",
         "bloco:bloco-10",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:logica-de-hoare"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
@@ -4662,7 +4673,8 @@
         "ferramenta:dafny",
         "tipo:lista",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -4785,7 +4797,8 @@
         "ferramenta:dafny",
         "tipo:lista",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6506,7 +6519,8 @@
         "ferramenta:hoare",
         "tipo:codigo",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:logica-de-hoare"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6627,7 +6641,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-12",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -7622,7 +7637,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -9214,7 +9230,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-09-01T00:37:49",
+  "updated_at": "2026-09-01T00:56:00",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
