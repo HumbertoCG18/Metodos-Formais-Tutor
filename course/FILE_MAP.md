@@ -68,7 +68,7 @@ mode: routing_index
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/logicaproposicional-semantica.pdf`; tags: `topico:logica-propocional; topico:logica-proposicional; tipo:material-base` |  |  |  |  |  |  |  |
 | 22 | ExerciciosFormalizacaoAlgoritmosRecursao_respostas | gabaritos | exercícios | alta | `exercises/lists/exerciciosformalizacaoalgoritmosrecursao-respostas.md` | Página 1  Página 2  Página 3  Imagens Curadas | unidade-01-metodos-formais | Especificação de Funções Recursivas | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/gabaritos/exerciciosformalizacaoalgoritmosrecursao-respostas.pdf`; tags: `tipo:gabarito; bloco:bloco-04; unit:unidade-01-metodos-formais` |  |  |  |  |  |  |  |
-| 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão | unidade-01-metodos-formais | Especificação de Funções Recursivas | Alta | 5 dias · 11/03/2026 a 25/03/2026 |
+| 23 | FormalizacaoAlgoritmos_Recursao | material-de-aula | teoria base | alta | `content/curated/formalizacaoalgoritmos-recursao.md` | 1. Introdução  2. Um primeiro algoritmo  3. Algoritmos especificações equacionais  4. Tipos de recursão | unidade-01-metodos-formais | Especificação de Funções Recursivas | Baixa | 5 dias · 11/03/2026 a 25/03/2026 |
 |  | ↳ rastreabilidade |  | raw: `raw/pdfs/material-de-aula/formalizacaoalgoritmos-recursao.pdf`; tags: `tipo:material-base; bloco:bloco-11; unit:unidade-01-metodos-formais` |  |  |  |  |  |  |  |
 
 > Conteúdo truncado para manter course/FILE_MAP.md compacto e roteável.

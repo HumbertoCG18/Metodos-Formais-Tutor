@@ -47,11 +47,11 @@
       ],
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
-        "winner_score=15.92",
-        "topic_score=13.12",
+        "winner_score=13.77",
+        "topic_score=10.59",
         "reconciliada_do_bloco=bloco-01"
       ],
-      "unit_match_confidence": 0.93517180301303,
+      "unit_match_confidence": 0.9250245167476626,
       "unit_block_conflict": {
         "unit": "unidade-02-verificacao-de-programas",
         "block_unit": "unidade-01-metodos-formais",
@@ -633,11 +633,11 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=37.22",
-        "topic_score=16.82",
+        "winner_score=36.61",
+        "topic_score=16.11",
         "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.34877145219421063,
+      "unit_match_confidence": 0.4426510392093566,
       "subunit_match_reasons": [
         "winner_score=12.30"
       ],
@@ -752,8 +752,8 @@
       "approved_at": "2026-04-09T20:35:09",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=14.69",
-        "topic_score=16.61"
+        "winner_score=11.97",
+        "topic_score=13.41"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -863,14 +863,14 @@
       "approved_at": "2026-04-09T20:34:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=23.13",
-        "topic_score=17.98"
+        "winner_score=20.41",
+        "topic_score=14.78"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=14.86"
+        "winner_score=11.66"
       ],
-      "subunit_match_confidence": 0.919580137262818,
+      "subunit_match_confidence": 0.8975308641975308,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -986,14 +986,14 @@
         "pages": {}
       },
       "unit_match_reasons": [
-        "winner_score=21.50",
-        "topic_score=20.49"
+        "winner_score=12.91",
+        "topic_score=10.39"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=20.49"
+        "winner_score=10.39"
       ],
-      "subunit_match_confidence": 0.9543298787985245,
+      "subunit_match_confidence": 0.9099341826719526,
       "computed_unit_slug": "unidade-01-metodos-formais",
       "computed_block_id": "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
       "computed_block_confidence": 0.4666666666666668,
@@ -1136,7 +1136,6 @@
         "bloco-15",
         "bloco-16"
       ],
-      "computed_block_method": "concept-fused",
       "coverage_units": [
         {
           "unit_slug": "unidade-01-metodos-formais",
@@ -1144,7 +1143,8 @@
           "confidence": 0.5,
           "rule": "unidade-atribuida"
         }
-      ]
+      ],
+      "computed_block_method": "concept-fused"
     },
     {
       "id": "introducao",
@@ -1214,15 +1214,15 @@
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
       "unit_match_reasons": [
-        "winner_score=62.18",
-        "topic_score=27.31"
+        "winner_score=57.59",
+        "topic_score=21.91"
       ],
-      "unit_match_confidence": 0.8316548870253049,
+      "unit_match_confidence": 0.8228368017524643,
       "subunit_match_reasons": [
-        "winner_score=7.69",
+        "winner_score=7.06",
         "ambiguous"
       ],
-      "subunit_match_confidence": 0.08304093567251443,
+      "subunit_match_confidence": 0.035430839002267574,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -1233,7 +1233,7 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "source_section": "Introdução a Métodos Formais",
-      "computed_subunit_slug": "abordagens-para-verificacao-formal",
+      "computed_subunit_slug": "exemplos-de-aplicacoes",
       "unit_block_conflict": {},
       "moodle_label": "Introdução",
       "posting_date": "2026-02-18",
@@ -1324,10 +1324,10 @@
       "approved_at": "2026-04-09T20:15:55",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=24.60",
-        "topic_score=15.57"
+        "winner_score=23.32",
+        "topic_score=14.07"
       ],
-      "unit_match_confidence": 0.9234572657805176,
+      "unit_match_confidence": 0.9153048173937757,
       "subunit_match_reasons": [
         "winner_score=9.37"
       ],
@@ -1788,11 +1788,11 @@
       "approved_at": "2026-04-10T13:56:01",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=33.34",
-        "topic_score=10.00",
+        "winner_score=31.19",
+        "topic_score=7.47",
         "reconciliada_do_bloco=bloco-03"
       ],
-      "unit_match_confidence": 0.6029382875634887,
+      "unit_match_confidence": 0.6445950018917654,
       "subunit_match_reasons": [
         "winner_score=6.99"
       ],
@@ -1915,11 +1915,11 @@
       "approved_at": "2026-04-10T13:56:11",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=33.34",
-        "topic_score=10.00",
+        "winner_score=31.19",
+        "topic_score=7.47",
         "reconciliada_do_bloco=bloco-03"
       ],
-      "unit_match_confidence": 0.6029382875634887,
+      "unit_match_confidence": 0.6445950018917654,
       "subunit_match_reasons": [
         "winner_score=6.99"
       ],
@@ -2288,14 +2288,14 @@
       "approved_at": "2026-04-10T13:57:56",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=24.50",
-        "topic_score=20.49"
+        "winner_score=15.92",
+        "topic_score=10.39"
       ],
-      "unit_match_confidence": 0.9418389054784628,
+      "unit_match_confidence": 0.8853007967360763,
       "subunit_match_reasons": [
-        "winner_score=20.49"
+        "winner_score=10.39"
       ],
-      "subunit_match_confidence": 0.9939035306516776,
+      "subunit_match_confidence": 0.9879771833262769,
       "image_curation": {
         "status": "pending",
         "curated_at": null,
@@ -2576,11 +2576,12 @@
       "approved_at": "2026-04-10T14:05:19",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=43.19",
-        "topic_score=20.75",
-        "reconciliada_do_bloco=bloco-04"
+        "winner_score=40.68",
+        "topic_score=5.27",
+        "ambiguous",
+        "herdada_do_bloco=bloco-04"
       ],
-      "unit_match_confidence": 0.7461327164955905,
+      "unit_match_confidence": 0.050870542189704986,
       "subunit_match_reasons": [
         "winner_score=9.91"
       ],
@@ -2591,11 +2592,7 @@
       "computed_block_band": "media",
       "source_section": "Especificações Indutivas e Recursivas",
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
-      "unit_block_conflict": {
-        "unit": "unidade-03-verificacao-de-modelos",
-        "block_unit": "unidade-01-metodos-formais",
-        "block_id": "bloco-04"
-      },
+      "unit_block_conflict": {},
       "moodle_label": "Especificações recursivas",
       "posting_date": "2026-02-18",
       "posting_date_created": "2026-02-18",
@@ -2710,8 +2707,8 @@
       "approved_at": "2026-04-10T14:05:31",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=41.15",
-        "topic_score=32.79"
+        "winner_score=38.99",
+        "topic_score=30.26"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -3087,12 +3084,12 @@
       "approved_at": "2026-04-15T20:42:47",
       "review_status": "approved",
       "unit_match_reasons": [
-        "winner_score=46.97",
-        "topic_score=29.00",
+        "winner_score=44.81",
+        "topic_score=26.47",
         "reconciliada_do_bloco=bloco-11",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.6030410647174432,
+      "unit_match_confidence": 0.6607979446879252,
       "subunit_match_reasons": [
         "winner_score=1.35"
       ],
@@ -3293,10 +3290,10 @@
       "computed_block_confidence": 0.8333333333333334,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=40.79",
-        "topic_score=39.14"
+        "winner_score=38.64",
+        "topic_score=36.60"
       ],
-      "unit_match_confidence": 0.826123617037586,
+      "unit_match_confidence": 0.8833397082126658,
       "subunit_match_reasons": [
         "winner_score=9.09"
       ],
@@ -3449,11 +3446,11 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=25.95",
-        "topic_score=18.05",
+        "winner_score=23.79",
+        "topic_score=15.51",
         "herdada_do_vizinho=bloco-06"
       ],
-      "unit_match_confidence": 0.6274031802315918,
+      "unit_match_confidence": 0.7299213613510376,
       "subunit_match_reasons": [
         "revisao-sem-assunto-dominante (winner_score=1.71 < 7.0)"
       ],
@@ -3498,7 +3495,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-05",
-        "unit:unidade-01-metodos-formais"
+        "unit:unidade-01-metodos-formais",
+        "subunit:especificacao-de-funcoes-recursivas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -3533,8 +3531,7 @@
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
-        "winner_score=1.07",
-        "ambiguous"
+        "winner_score=1.07"
       ],
       "subunit_match_confidence": 0.12162162162162157,
       "computed_subunit_slug": "especificacao-de-funcoes-recursivas",
@@ -3689,10 +3686,10 @@
       "computed_block_confidence": 0.2249244739756368,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=38.35",
-        "topic_score=14.67"
+        "winner_score=36.20",
+        "topic_score=12.14"
       ],
-      "unit_match_confidence": 0.6194123544542761,
+      "unit_match_confidence": 0.6562853969709862,
       "subunit_match_reasons": [
         "winner_score=1.32",
         "ambiguous"
@@ -3976,15 +3973,15 @@
       "computed_block_confidence": 0.8,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=110.73",
-        "topic_score=57.40",
+        "winner_score=106.03",
+        "topic_score=51.86",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.8739329491369517,
+      "unit_match_confidence": 0.8604713939749187,
       "subunit_match_reasons": [
-        "winner_score=26.80"
+        "winner_score=26.65"
       ],
-      "subunit_match_confidence": 0.7490465635238714,
+      "subunit_match_confidence": 0.8327505740054323,
       "approved_markdown": "content/curated/correcaoterminacao.md",
       "curated_markdown": "content/curated/correcaoterminacao.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/correcaoterminacao/correcaoterminacao.md",
@@ -4223,7 +4220,7 @@
       "subunit_match_reasons": [
         "winner_score=18.91"
       ],
-      "subunit_match_confidence": 0.640145105338861,
+      "subunit_match_confidence": 0.7741983247313647,
       "approved_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosinvariantes.md",
       "curated_markdown": "exercises/lists/exerciciosformalizacaoalgoritmosinvariantes.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosformalizacaoalgoritmosinvariantes/exerciciosformalizacaoalgoritmosinvariantes.md",
@@ -4361,7 +4358,7 @@
         "herdada_do_bloco=bloco-11",
         "herdada_do_vizinho=bloco-10"
       ],
-      "unit_match_confidence": 0.2609106037442205,
+      "unit_match_confidence": 0.42289518597401865,
       "subunit_match_reasons": [
         "winner_score=15.63"
       ],
@@ -4500,14 +4497,14 @@
       "computed_block_confidence": 0.21250000000000002,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=80.18",
-        "topic_score=52.83"
+        "winner_score=73.37",
+        "topic_score=44.82"
       ],
-      "unit_match_confidence": 0.7758075018550208,
+      "unit_match_confidence": 0.7357524050904027,
       "subunit_match_reasons": [
-        "winner_score=15.24"
+        "winner_score=12.63"
       ],
-      "subunit_match_confidence": 0.861874827753645,
+      "subunit_match_confidence": 0.8899166851458802,
       "approved_markdown": "content/curated/logicadehoare.md",
       "curated_markdown": "content/curated/logicadehoare.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare/logicadehoare.md",
@@ -4552,8 +4549,7 @@
       "auto_tags": [
         "tipo:material-base",
         "bloco:bloco-10",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:logica-de-hoare"
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "171a1a09-a72d-490d-b4d8-5843cfb301b4",
@@ -4623,15 +4619,16 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=67.85",
-        "topic_score=37.95",
+        "winner_score=61.17",
+        "topic_score=30.09",
         "unidade_do_bloco_manual"
       ],
-      "unit_match_confidence": 0.8182540319995639,
+      "unit_match_confidence": 0.8428300048390682,
       "subunit_match_reasons": [
-        "winner_score=7.53"
+        "winner_score=5.06",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.40265604249667986,
+      "subunit_match_confidence": 0.11106719367588921,
       "approved_markdown": "content/curated/logicadehoare2.md",
       "curated_markdown": "content/curated/logicadehoare2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare2/logicadehoare2.md",
@@ -4737,10 +4734,10 @@
       "computed_block_confidence": 0.35000000000000003,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=35.68",
-        "topic_score=28.69"
+        "winner_score=31.10",
+        "topic_score=23.29"
       ],
-      "unit_match_confidence": 0.9975339052991611,
+      "unit_match_confidence": 0.9971702542269327,
       "subunit_match_reasons": [
         "winner_score=8.19"
       ],
@@ -4861,14 +4858,14 @@
       "computed_block_confidence": 0.5,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=74.91",
-        "topic_score=35.67"
+        "winner_score=70.32",
+        "topic_score=30.28"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
         "winner_score=15.17"
       ],
-      "subunit_match_confidence": 0.5514764039019245,
+      "subunit_match_confidence": 0.6982599525441603,
       "approved_markdown": "exercises/lists/exerciciosdafny2.md",
       "curated_markdown": "exercises/lists/exerciciosdafny2.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/exerciciosdafny2/exerciciosdafny2.md",
@@ -4985,8 +4982,8 @@
       "computed_block_confidence": 0.875,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=40.42",
-        "topic_score=39.05"
+        "winner_score=35.84",
+        "topic_score=33.66"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -5109,8 +5106,8 @@
       "computed_block_confidence": 0.7777777777777778,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=55.50",
-        "topic_score=42.43"
+        "winner_score=50.92",
+        "topic_score=37.03"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -5233,8 +5230,8 @@
       "computed_block_confidence": 0.0,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=46.74",
-        "topic_score=39.05"
+        "winner_score=42.15",
+        "topic_score=33.66"
       ],
       "unit_match_confidence": 0.95,
       "subunit_match_reasons": [
@@ -5583,16 +5580,17 @@
       "computed_block_confidence": 0.4444444444444444,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=58.05",
-        "topic_score=18.10"
+        "winner_score=55.90",
+        "topic_score=15.56",
+        "herdada_do_bloco=bloco-16"
       ],
-      "unit_match_confidence": 0.5102047581687791,
+      "unit_match_confidence": 0.47636915011179354,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-modelos-model-checking",
       "subunit_match_reasons": [
-        "winner_score=10.28"
+        "winner_score=9.57"
       ],
-      "subunit_match_confidence": 0.8529383157935689,
+      "subunit_match_confidence": 0.8419468138484696,
       "approved_markdown": "content/curated/verificacaomodelos.md",
       "curated_markdown": "content/curated/verificacaomodelos.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/verificacaomodelos/verificacaomodelos.md",
@@ -5636,7 +5634,8 @@
         "topico:verificacao-de-modelos-e-logica-temporal",
         "tipo:lista",
         "bloco:bloco-16",
-        "unit:unidade-03-verificacao-de-modelos"
+        "unit:unidade-03-verificacao-de-modelos",
+        "subunit:logica-temporal-linear"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -5736,15 +5735,14 @@
       "computed_block_confidence": 0.775,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=40.97",
-        "topic_score=11.01"
+        "winner_score=38.81",
+        "topic_score=8.48"
       ],
-      "unit_match_confidence": 0.6056523155894511,
+      "unit_match_confidence": 0.639274700303754,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-temporal-linear",
       "subunit_match_reasons": [
-        "winner_score=8.37",
-        "ambiguous"
+        "winner_score=8.37"
       ],
       "subunit_match_confidence": 0.12072097915471398,
       "approved_markdown": "exercises/lists/exercicioslogicatemporal.md",
@@ -6402,7 +6400,8 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-13",
-        "unit:unidade-02-verificacao-de-programas"
+        "unit:unidade-02-verificacao-de-programas",
+        "subunit:invariante-e-variante-de-laco"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6463,17 +6462,16 @@
       "computed_block_confidence": 0.5287141073657928,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=56.65",
-        "topic_score=20.89"
+        "winner_score=54.49",
+        "topic_score=18.35"
       ],
-      "unit_match_confidence": 0.8705460656563918,
+      "unit_match_confidence": 0.8654272459683043,
       "unit_block_conflict": {},
-      "computed_subunit_slug": "verificacao-de-programas",
+      "computed_subunit_slug": "invariante-e-variante-de-laco",
       "subunit_match_reasons": [
-        "winner_score=8.09",
-        "ambiguous"
+        "winner_score=8.06"
       ],
-      "subunit_match_confidence": 0.0048177887584928605,
+      "subunit_match_confidence": 0.30983118172790464,
       "moodle_label": "Respostas",
       "posting_date": "2026-06-08",
       "posting_date_created": "2026-06-08",
@@ -6512,8 +6510,7 @@
       "auto_tags": [
         "tipo:codigo",
         "bloco:bloco-11",
-        "unit:unidade-02-verificacao-de-programas",
-        "subunit:logica-de-hoare"
+        "unit:unidade-02-verificacao-de-programas"
       ],
       "manual_unit_slug": "",
       "manual_timeline_block_id": "",
@@ -6586,16 +6583,17 @@
       "computed_block_confidence": 0.5016611295681063,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=65.29",
-        "topic_score=28.61"
+        "winner_score=60.70",
+        "topic_score=23.21"
       ],
-      "unit_match_confidence": 0.8901282702244443,
+      "unit_match_confidence": 0.8818280062337116,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
-        "winner_score=13.95"
+        "winner_score=8.55",
+        "ambiguous"
       ],
-      "subunit_match_confidence": 0.4223019003226964,
+      "subunit_match_confidence": 0.057777777777777956,
       "moodle_label": "Exemplos (Logica de Floyd-Hoare)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -6697,16 +6695,16 @@
       "computed_block_confidence": 0.2053667687595713,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=24.23",
-        "topic_score=14.13"
+        "winner_score=22.08",
+        "topic_score=11.60"
       ],
-      "unit_match_confidence": 0.9337626494940202,
+      "unit_match_confidence": 0.9215640089506536,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=7.73"
+        "winner_score=5.20"
       ],
-      "subunit_match_confidence": 0.5490627020038783,
+      "subunit_match_confidence": 0.32923076923076927,
       "moodle_label": "Exemplos (introducao a Dafny)",
       "posting_date": "2026-05-11",
       "posting_date_created": "2026-05-11",
@@ -6904,8 +6902,8 @@
       "computed_block_confidence": 1.0,
       "computed_block_band": "alta",
       "unit_match_reasons": [
-        "winner_score=22.60",
-        "topic_score=13.12",
+        "winner_score=20.44",
+        "topic_score=10.59",
         "unidade_do_bloco_manual"
       ],
       "unit_match_confidence": 0.95,
@@ -7060,11 +7058,11 @@
       "computed_block_confidence": 0.23638497652582163,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=67.63",
-        "topic_score=28.79",
+        "winner_score=63.05",
+        "topic_score=23.39",
         "reconciliada_do_bloco=bloco-16"
       ],
-      "unit_match_confidence": 0.6064212783857573,
+      "unit_match_confidence": 0.6119710312273982,
       "unit_block_conflict": {
         "unit": "unidade-02-verificacao-de-programas",
         "block_unit": "unidade-03-verificacao-de-modelos",
@@ -7319,11 +7317,11 @@
       "review_status": "approved",
       "computed_unit_slug": "unidade-01-metodos-formais",
       "unit_match_reasons": [
-        "winner_score=109.69",
-        "topic_score=17.51",
+        "winner_score=107.53",
+        "topic_score=14.97",
         "herdada_do_bloco=bloco-01"
       ],
-      "unit_match_confidence": 0.24832557106995154,
+      "unit_match_confidence": 0.25330157841533446,
       "unit_block_conflict": {},
       "computed_subunit_slug": "",
       "subunit_match_reasons": [
@@ -7696,16 +7694,16 @@
       "computed_block_confidence": 0.06724270353302624,
       "computed_block_band": "baixa",
       "unit_match_reasons": [
-        "winner_score=35.24",
-        "topic_score=17.51"
+        "winner_score=33.09",
+        "topic_score=14.97"
       ],
       "unit_match_confidence": 0.95,
       "unit_block_conflict": {},
       "computed_subunit_slug": "verificacao-de-programas",
       "subunit_match_reasons": [
-        "winner_score=7.91"
+        "winner_score=5.38"
       ],
-      "subunit_match_confidence": 0.40897030953885016,
+      "subunit_match_confidence": 0.13048327137546467,
       "computed_block_rationale": "O conteúdo foca na aplicação de lógica de programas e verificação com Dafny para manipular e provar propriedades de arrays, alinhando-se com coleções e lógica de programas.",
       "computed_block_match_confidence": 0.5,
       "temporal_block_id": "de7d1b70-fb58-4a18-ad49-d1a64c6c7684",
@@ -7819,16 +7817,16 @@
       "computed_block_confidence": 0.45,
       "computed_block_band": "media",
       "unit_match_reasons": [
-        "winner_score=48.46",
-        "topic_score=41.87"
+        "winner_score=41.66",
+        "topic_score=33.86"
       ],
-      "unit_match_confidence": 0.998184139781618,
+      "unit_match_confidence": 0.9978874125316768,
       "unit_block_conflict": {},
       "computed_subunit_slug": "logica-de-hoare",
       "subunit_match_reasons": [
-        "winner_score=31.77"
+        "winner_score=23.76"
       ],
-      "subunit_match_confidence": 0.9949823181326014,
+      "subunit_match_confidence": 0.9932913443086557,
       "approved_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "curated_markdown": "exercises/lists/logicadehoare-exercicios-respostas.md",
       "approved_source_markdown": "staging/markdown-auto/datalab/logicadehoare-exercicios-respostas/logicadehoare-exercicios-respostas.md",
@@ -9222,7 +9220,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-09-01T02:36:28",
+  "updated_at": "2026-09-01T20:15:39",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
