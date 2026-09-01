@@ -24,18 +24,18 @@ schedule: Seg/Qua 19:15-20:45
 | 12 | QUA | 08/04/2026 | LM 19:15 - 20:45 | Prova Interativa de Teoremas - Isabelle | Aula |  |
 | 13 | SEG | 13/04/2026 | LM 19:15 - 20:45 | Exercícios | Aula |  |
 | 14 | QUA | 15/04/2026 | LM 19:15 - 20:45 | Exercícios de revisão | Aula |  |
-|  | SEG | 20/04/2026 | LM 19:15 - 20:45 | Suspensão de aulas | Aula |  |
-| 15 | QUA | 22/04/2026 | LM 19:15 - 20:45 | Prova P1 | Prova |  |
+|  | SEG | 20/04/2026 | LM 19:15 - 20:45 | Suspensão de aulas {kind=suspension} | Aula |  |
+| 15 | QUA | 22/04/2026 | LM 19:15 - 20:45 | Prova P1 {kind=assessment} | Prova |  |
 | 16 | SEG | 27/04/2026 | LM 19:15 - 20:45 | Lógica de Hoare | Aula |  |
 | 17 | QUA | 29/04/2026 | LM 19:15 - 20:45 | Lógica de Hoare | Aula |  |
 | 18 | SEG | 04/05/2026 | LM 19:15 - 20:45 | Exercícios | Aula |  |
-| 19 | QUA | 06/05/2026 | LM 19:15 - 20:45 | Lógica de Programas, Correção Parcial, Correção Total e Terminação, Invariantes de Laço; Entrega T1 | Trabalho |  |
+| 19 | QUA | 06/05/2026 | LM 19:15 - 20:45 | Lógica de Programas, Correção Parcial, Correção Total e Terminação, Invariantes de Laço; Entrega T1 {kind=deliverable} | Trabalho |  |
 | 20 | SEG | 11/05/2026 | LM 19:15 - 20:45 | Terminação, introdução ao Dafny | Aula |  |
 | 21 | QUA | 13/05/2026 | LM 19:15 - 20:45 | Lógica de Programas - introdução ao Dafny | Aula |  |
 | 22 | SEG | 18/05/2026 | LM 19:15 - 20:45 | Lógica de Programas - coleções Dafny (arrays) | Aula |  |
 | 23 | QUA | 20/05/2026 | LM 19:15 - 20:45 | Lógica de Programas - coleções Dafny (sequências) | Aula |  |
 | 24 | SEG | 25/05/2026 | LM 19:15 - 20:45 | Lógica de Programas - coleções Dafny (conjuntos) | Aula |  |
-| 25 | QUA | 27/05/2026 | LM 19:15 - 20:45 | SE Day | Evento Acadêmico |  |
+| 25 | QUA | 27/05/2026 | LM 19:15 - 20:45 | SE Day {kind=event} | Evento Acadêmico |  |
 | 26 | SEG | 01/06/2026 | LM 19:15 - 20:45 | Lógica de Programas - orientação a objetos Dafny (ghosts, autocontrato) | Aula |  |
 | 27 | QUA | 03/06/2026 | LM 19:15 - 20:45 | Lógica de Programas - orientação a objetos Dafny (ghosts, autocontrato); Exercícios | Aula |  |
 | 28 | SEG | 08/06/2026 | LM 19:15 - 20:45 | Lógica de Programas - orientação a objetos Dafny (ghosts, autocontrato) | Aula |  |
@@ -43,11 +43,11 @@ schedule: Seg/Qua 19:15-20:45
 | 30 | SEG | 15/06/2026 | LM 19:15 - 20:45 | Verificação de modelos, lógica temporal | Aula |  |
 | 31 | QUA | 17/06/2026 | LM 19:15 - 20:45 | Verificação de modelos, lógica temporal | Aula |  |
 | 32 | SEG | 22/06/2026 | LM 19:15 - 20:45 | Exercícios | Aula |  |
-| 33 | QUA | 24/06/2026 | LM 19:15 - 20:45 | Suspensão: jogo Copa do Mundo | Aula |  |
+| 33 | QUA | 24/06/2026 | LM 19:15 - 20:45 | Suspensão: jogo Copa do Mundo {kind=suspension} | Aula |  |
 | 34 | SEG | 29/06/2026 | LM 19:15 - 20:45 | Verificação de modelos, ferramenta | Aula |  |
 | 35 | QUA | 01/07/2026 | LM 19:15 - 20:45 | Exercícios de revisão | Aula |  |
-| 36 | SEG | 06/07/2026 | LM 19:15 - 20:45 | Prova P2, entrega do T2 | Prova |  |
-| 37 | QUA | 08/07/2026 | LM 19:15 - 20:45 | Prova PS | Prova de Substituição |  |
-|  | SEG | 13/07/2026 | LM 19:15 - 20:45 | Devolução das provas | Aula |  |
-|  | QUA | 15/07/2026 | LM 19:15 - 20:45 | Prova G2 | Prova de G2 |  |
+| 36 | SEG | 06/07/2026 | LM 19:15 - 20:45 | Prova P2, entrega do T2 {kind=assessment} | Prova |  |
+| 37 | QUA | 08/07/2026 | LM 19:15 - 20:45 | Prova PS {kind=ps} | Prova de Substituição |  |
+|  | SEG | 13/07/2026 | LM 19:15 - 20:45 | Devolução das provas {kind=results} | Aula |  |
+|  | QUA | 15/07/2026 | LM 19:15 - 20:45 | Prova G2 {kind=g2} | Prova de G2 |  |
 
