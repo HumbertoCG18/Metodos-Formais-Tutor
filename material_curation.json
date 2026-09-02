@@ -435,6 +435,21 @@
         "7a5e29db-f228-4e96-bd4b-272d5b74e2ae",
         "7ccdaf5e-76b8-48e5-82b5-05f80b3f054b"
       ]
+    },
+    "f521a91162e6e976a7b731db9339d5fc": {
+      "block_id": "bloco-06",
+      "block_uuid": "5599d015-10e0-4f6e-ad17-c526b903dc09",
+      "confianca": "alta",
+      "justificativa": "O material trata de código Isabelle contendo especificações recursivas, provas por indução utilizando estilo apply/done e Isar, o que se alinha perfeitamente com o roteiro do bloco-06.",
+      "model": "gemini-3.5-flash",
+      "window": [
+        "bloco-05",
+        "bloco-06"
+      ],
+      "window_uuids": [
+        "5599d015-10e0-4f6e-ad17-c526b903dc09",
+        "7a5e29db-f228-4e96-bd4b-272d5b74e2ae"
+      ]
     }
   }
 }

@@ -7349,27 +7349,12 @@
         }
       ],
       "temporal_block_id": "c4bf9e4c-80f8-4e57-b2b1-a943c6656e52",
-      "temporal_block_method": "llm-funil",
+      "temporal_block_method": "meta-generica",
       "temporal_block_band": "media",
-      "temporal_block_flag": true,
-      "temporal_block_provider": "llm-funil",
+      "temporal_block_flag": false,
+      "temporal_block_provider": "meta-generica",
       "temporal_block_window": [
-        "bloco-01",
-        "bloco-02",
-        "bloco-03",
-        "bloco-04",
-        "bloco-05",
-        "bloco-06",
-        "bloco-07",
-        "bloco-10",
-        "bloco-11",
-        "bloco-12",
-        "bloco-13",
-        "bloco-15",
-        "bloco-16",
-        "bloco-18",
-        "bloco-19",
-        "bloco-21"
+        "bloco-01"
       ],
       "moodle_label": "Plano de Ensino",
       "posting_date": "2026-02-27",
@@ -9220,7 +9205,7 @@
       "category": "cronograma"
     }
   ],
-  "updated_at": "2026-09-01T20:15:39",
+  "updated_at": "2026-09-01T23:42:43",
   "failed_entries": [
     {
       "id": "exercicios-conjuntos",
